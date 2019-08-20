@@ -10,6 +10,8 @@ def xOPQ(stemAdjustment):
         for i in range(len(glyph.contours)):
         
             glyph.prepareUndo()
+            
+            glyph.removeOverlap()
 
             noShiftingRight=True
             noShiftingLeft=True
@@ -33,7 +35,7 @@ def xOPQ(stemAdjustment):
     
     f.performUndo()
 
-xOPQ(190)
+xOPQ(220)
 
 def yOPQ(stemAdjustment):
     
