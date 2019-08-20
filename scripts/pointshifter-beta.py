@@ -1,18 +1,13 @@
 f=CurrentFont()
-glyph=CurrentGlyph()
 
 def xOPQ(stemAdjustment):
-    
-    f.prepareUndo()
-    
-    for glyph in f.selectedGlyphs:
         
+    for glyph in f.selectedGlyphs:
+
         for i in range(len(glyph.contours)):
         
             glyph.prepareUndo()
             
-            glyph.removeOverlap()
-
             noShiftingRight=True
             noShiftingLeft=True
  
@@ -33,26 +28,24 @@ def xOPQ(stemAdjustment):
             
             glyph.performUndo()
     
-    f.performUndo()
-
-xOPQ(220)
+# xOPQ(220)
 
 def yOPQ(stemAdjustment):
     
-    f.prepareUndo()
-    
-    for glyph in f.selectedGlyphs:
-        
+    for glyph in f.selectedGlyphs:        
+                
         for i in range(len(glyph.contours)):
-        
+            
             glyph.prepareUndo()
- 
+
             for point in glyph.contours[i].selection:
                 if point.y < f.info.capHeight/2:
                     point.moveBy((0,stemAdjustment))
                     print("top contour points moved by "+str(stemAdjustment)+ " points")
-                elif point.y > f.info.capHeight/2:
+                if point.y > f.info.capHeight/2:
                     point.moveBy((0,-stemAdjustment))
                     print("top contour points moved by "+str(stemAdjustment)+ " points")
-    
-# yOPQ(110)
+            
+            glyph.performUndo()
+
+yOPQ(-60)

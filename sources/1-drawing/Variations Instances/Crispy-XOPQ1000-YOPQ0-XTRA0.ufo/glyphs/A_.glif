@@ -9,17 +9,17 @@
       <point x="308" y="189" type="line"/>
       <point x="365" y="189" type="line"/>
       <point x="365" y="0" type="line"/>
-      <point x="616" y="0" type="line"/>
-      <point x="616" y="750" type="line"/>
+      <point x="616" y="0" type="line" smooth="yes"/>
+      <point x="616" y="750" type="line" smooth="yes"/>
       <point x="91" y="750" type="line"/>
-      <point x="57" y="251" type="line"/>
+      <point x="57" y="191" type="line"/>
     </contour>
     <contour>
-      <point x="308" y="211" type="line"/>
-      <point x="308" y="247" type="line"/>
-      <point x="335" y="728" type="line"/>
-      <point x="365" y="728" type="line"/>
-      <point x="365" y="211" type="line"/>
+      <point x="308.0" y="211.0" type="line"/>
+      <point x="308.0" y="247.0" type="line"/>
+      <point x="335.0" y="728.0" type="line"/>
+      <point x="365.0" y="728.0" type="line"/>
+      <point x="365.0" y="211.0" type="line"/>
     </contour>
   </outline>
   <lib>
