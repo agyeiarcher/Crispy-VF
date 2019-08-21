@@ -6,12 +6,12 @@ def xOPQ(stemAdjustment):
         
         glyph.prepareUndo()
 
-        for i in range(len(glyph.contours)):
+        for contour in glyph.contours:
                     
             noShiftingRight=True
             noShiftingLeft=True
  
-            for point in glyph.contours[i].selection:
+            for point in contour.selection:
                 if point.x > glyph.width/2:
                     point.moveBy((stemAdjustment,0))
                     noShiftingRight=False
@@ -21,9 +21,9 @@ def xOPQ(stemAdjustment):
                     noShiftingLeft=False
                     print("left contour points moved by "+str(stemAdjustment)+ " points")
 
-            if noShiftingRight is False:
+            if not noShiftingRight:
                 glyph.rightMargin+=stemAdjustment*1.2
-            if noShiftingLeft is False:
+            if not noShiftingLeft:
                 glyph.leftMargin+=stemAdjustment*1.2
         
         glyph.changed()    
@@ -36,9 +36,9 @@ def yOPQ(stemAdjustment):
     for glyph in f.selectedGlyphs:        
         
         glyph.prepareUndo()
-        for i in range(len(glyph.contours)):
+        for contour in glyph.contours:
         
-            for point in glyph.contours[i].selection:
+            for point in contour.selection:
                 if point.y < f.info.capHeight/2:
                     point.moveBy((0,stemAdjustment))
                     print("top contour points moved by "+str(stemAdjustment)+ " points")
@@ -56,12 +56,12 @@ def xTRA(stemAdjustment):
         
         glyph.prepareUndo()
 
-        for i in range(len(glyph.contours)):
+        for contour in glyph.contours:
                     
             noShiftingRight=True
             noShiftingLeft=True
  
-            for point in glyph.contours[i].selection:
+            for point in contour.selection:
                 point.moveBy((stemAdjustment,0))
         
         glyph.rightMargin+=stemAdjustment
