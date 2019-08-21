@@ -48,4 +48,26 @@ def yOPQ(stemAdjustment):
         glyph.changed()
         glyph.performUndo()
 
-yOPQ(155)
+# yOPQ(155)
+
+def xTRA(stemAdjustment):
+        
+    for glyph in f.selectedGlyphs:
+        
+        glyph.prepareUndo()
+
+        for i in range(len(glyph.contours)):
+                    
+            noShiftingRight=True
+            noShiftingLeft=True
+ 
+            for point in glyph.contours[i].selection:
+                point.moveBy((stemAdjustment,0))
+        
+        glyph.rightMargin+=stemAdjustment
+        # glyph.leftMargin+=stemAdjustment
+        
+        glyph.changed()    
+        glyph.performUndo()
+    
+xTRA(-220)

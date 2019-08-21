@@ -1,7 +1,13 @@
 f=CurrentFont()
 
+def adjustSidebearings(amt)
+
 for glyph in f.selectedGlyphs:
     glyph.prepareUndo()
-    glyph.rightMargin+=10
-    glyph.leftMargin+=10
+    glyph.rightMargin+=amt
+    glyph.leftMargin+=amt
     glyph.performUndo()
+
+adjustSidebearings(-12)
+
+
