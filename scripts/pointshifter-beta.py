@@ -21,9 +21,9 @@ def xOPQ(stemAdjustment):
                     noShiftingLeft=False
                     print("left contour points moved by "+str(stemAdjustment)+ " points")
 
-            if noShiftingRight is False:
+            if not noShiftingRight:
                 glyph.rightMargin+=stemAdjustment*1.2
-            if noShiftingLeft is False:
+            if not noShiftingLeft:
                 glyph.leftMargin+=stemAdjustment*1.2
         
         glyph.changed()    
