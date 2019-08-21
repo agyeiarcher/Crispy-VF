@@ -29,7 +29,7 @@ def xOPQ(stemAdjustment):
         glyph.changed()    
         glyph.performUndo()
     
-# xOPQ(220)
+# xOPQ(460/1.61803398875)
 
 def yOPQ(stemAdjustment):
     
@@ -48,7 +48,7 @@ def yOPQ(stemAdjustment):
         glyph.changed()
         glyph.performUndo()
 
-yOPQ(155)
+# yOPQ(220)
 
 def xTRA(stemAdjustment):
         
@@ -70,4 +70,4 @@ def xTRA(stemAdjustment):
         glyph.changed()    
         glyph.performUndo()
     
-# xTRA(620)
+xTRA(612)

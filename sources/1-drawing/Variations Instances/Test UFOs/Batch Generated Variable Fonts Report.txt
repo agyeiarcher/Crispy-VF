@@ -40,7 +40,7 @@ path: /Volumes/AA/AA_Work/CRISPY/CRISPY VF/sources/1-drawing/Variations Instance
             
             --------------------
 
-        Generate Crispy_SAMPLE XOPQ1000-YOPQ1000-XTRA1000 (foreground)
+        Generate Crispy_SAMPLE XOPQ0-YOPQ1000-XTRA0 (public.default)
             --------------------
             
             makeotf Report
@@ -48,11 +48,11 @@ path: /Volumes/AA/AA_Work/CRISPY/CRISPY VF/sources/1-drawing/Variations Instance
             makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
             makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
             makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-            b'\n' Built release mode font 'temp_02_Crispy_SAMPLE-XOPQ1000-YOPQ1000-XTRA1000-foreground.ttf' Revision 1.000
+            b'\n' Built release mode font 'temp_02_Crispy_SAMPLE-XOPQ0-YOPQ1000-XTRA0-public.default.ttf' Revision 1.000
             
             --------------------
 
-        Generate Crispy_SAMPLE XOPQ1000-YOPQ1000-XTRA0 (foreground)
+        Generate Crispy_SAMPLE Regular-Narrow-Stout (foreground)
             --------------------
             
             makeotf Report
@@ -60,6 +60,30 @@ path: /Volumes/AA/AA_Work/CRISPY/CRISPY VF/sources/1-drawing/Variations Instance
             makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
             makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
             makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-            b'\n' Built release mode font 'temp_03_Crispy_SAMPLE-XOPQ1000-YOPQ1000-XTRA0-foreground.ttf' Revision 1.000
+            b'\n' Built release mode font 'temp_03_Crispy_SAMPLE-Regular-Narrow-Stout-foreground.ttf' Revision 1.000
+            
+            --------------------
+
+        Generate Crispy_SAMPLE XOPQ1000-YOPQ0-XTRA0 (foreground)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            b'\n' Built release mode font 'temp_04_Crispy_SAMPLE-XOPQ1000-YOPQ0-XTRA0-foreground.ttf' Revision 1.000
+            
+            --------------------
+
+        Generate Crispy_SAMPLE XOPQ1000-YOPQ0-XTRA0 (foreground)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            b'\n' Built release mode font 'temp_05_Crispy_SAMPLE-XOPQ1000-YOPQ0-XTRA0-foreground.ttf' Revision 1.000
             
             --------------------

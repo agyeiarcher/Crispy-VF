@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="H" format="1">
-  <advance width="779"/>
+<glyph name="H" format="2">
+  <advance width="1279"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
       <point x="20" y="0" type="line"/>
       <point x="51" y="0" type="line"/>
-      <point x="51.0" y="267.0" type="line"/>
-      <point x="728.0" y="267.0" type="line"/>
-      <point x="728" y="0" type="line"/>
-      <point x="759" y="0" type="line"/>
-      <point x="759" y="750" type="line"/>
-      <point x="728" y="750" type="line"/>
-      <point x="728" y="444" type="line"/>
-      <point x="51" y="444" type="line"/>
+      <point x="51" y="241" type="line"/>
+      <point x="1228" y="241" type="line"/>
+      <point x="1228" y="0" type="line"/>
+      <point x="1259" y="0" type="line"/>
+      <point x="1259" y="750" type="line"/>
+      <point x="1228" y="750" type="line"/>
+      <point x="1228" y="483" type="line"/>
+      <point x="51" y="483" type="line"/>
       <point x="51" y="750" type="line"/>
       <point x="20" y="750" type="line"/>
     </contour>
@@ -22,8 +22,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 05:35:59 +0000</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
     </dict>
   </lib>
 </glyph>

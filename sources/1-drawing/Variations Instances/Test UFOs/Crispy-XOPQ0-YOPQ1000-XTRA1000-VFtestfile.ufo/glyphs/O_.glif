@@ -1,31 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="O" format="1">
-  <advance width="790"/>
+<glyph name="O" format="2">
+  <advance width="1290"/>
   <unicode hex="004F"/>
   <outline>
     <contour>
-      <point x="24" y="636" type="line"/>
+      <point x="24" y="688" type="line"/>
       <point x="24" y="0" type="line"/>
-      <point x="684" y="0" type="line"/>
-      <point x="766" y="109" type="line"/>
-      <point x="766" y="750" type="line"/>
-      <point x="105" y="750" type="line"/>
+      <point x="1234" y="0" type="line"/>
+      <point x="1266" y="59" type="line"/>
+      <point x="1266" y="750" type="line"/>
+      <point x="55" y="750" type="line"/>
     </contour>
     <contour>
-      <point x="125.0" y="573.0" type="line"/>
-      <point x="735.0" y="573.0" type="line"/>
-      <point x="735.0" y="268.0" type="line"/>
-      <point x="665.0" y="177.0" type="line"/>
-      <point x="55.0" y="177.0" type="line"/>
-      <point x="55.0" y="472.0" type="line"/>
+      <point x="77" y="508" type="line"/>
+      <point x="1235" y="508" type="line"/>
+      <point x="1235" y="278" type="line"/>
+      <point x="1216" y="242" type="line"/>
+      <point x="55" y="242" type="line"/>
+      <point x="55" y="464" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-08-12 16:07:16 +0000</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
     </dict>
   </lib>
 </glyph>

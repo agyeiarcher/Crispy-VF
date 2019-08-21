@@ -1,0 +1,89 @@
+Batch Generated Variable Fonts:
+*******************************
+
+source: /Volumes/AA/AA_Work/CRISPY/CRISPY VF/sources/1-drawing/crispy_v1.designspace
+path: /Volumes/AA/AA_Work/CRISPY/CRISPY VF/sources/1-drawing/crispy_v1.ttf
+    Making master glyphs compatible
+    '''''''''''''''''''''''''''''''
+
+    Decompose Mixed Glyphs
+    ''''''''''''''''''''''
+
+    Making master kerning compatible
+    ''''''''''''''''''''''''''''''''
+
+
+    Generate TTF
+    ''''''''''''
+
+        Generate Crispy_SAMPLE XOPQ0-YOPQ0-XTRA0 (foreground)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            b'\n' Built release mode font 'temp_00_Crispy_SAMPLE-XOPQ0-YOPQ0-XTRA0-foreground.ttf' Revision 1.000
+            
+            --------------------
+
+        Generate Crispy_SAMPLE XOPQ0-YOPQ0-XTRA0 (foreground)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            b'\n' Built release mode font 'temp_01_Crispy_SAMPLE-XOPQ0-YOPQ0-XTRA0-foreground.ttf' Revision 1.000
+            
+            --------------------
+
+        Generate Crispy_SAMPLE XOPQ0-YOPQ1000-XTRA0 (foreground)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            b'\n' Built release mode font 'temp_02_Crispy_SAMPLE-XOPQ0-YOPQ1000-XTRA0-foreground.ttf' Revision 1.000
+            
+            --------------------
+
+        Generate Crispy_SAMPLE Regular-Narrow-Stout (foreground)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            b'\n' Built release mode font 'temp_03_Crispy_SAMPLE-Regular-Narrow-Stout-foreground.ttf' Revision 1.000
+            
+            --------------------
+
+        Generate Crispy_SAMPLE XOPQ1000-YOPQ0-XTRA0 (foreground)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            b'\n' Built release mode font 'temp_04_Crispy_SAMPLE-XOPQ1000-YOPQ0-XTRA0-foreground.ttf' Revision 1.000
+            
+            --------------------
+
+        Generate Crispy_SAMPLE XOPQ1000-YOPQ0-XTRA0 (foreground)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            b'\n' Built release mode font 'temp_05_Crispy_SAMPLE-XOPQ1000-YOPQ0-XTRA0-foreground.ttf' Revision 1.000
+            
+            --------------------

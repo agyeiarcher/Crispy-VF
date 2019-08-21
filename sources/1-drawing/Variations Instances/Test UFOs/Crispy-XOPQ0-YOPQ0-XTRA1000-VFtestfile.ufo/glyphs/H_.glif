@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="H" format="1">
-  <advance width="779"/>
+<glyph name="H" format="2">
+  <advance width="1379"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
       <point x="20" y="0" type="line"/>
       <point x="51" y="0" type="line"/>
       <point x="51" y="352" type="line"/>
-      <point x="728" y="352" type="line"/>
-      <point x="728" y="0" type="line"/>
-      <point x="759" y="0" type="line"/>
-      <point x="759" y="750" type="line"/>
-      <point x="728" y="750" type="line"/>
-      <point x="728" y="374" type="line"/>
+      <point x="1328" y="352" type="line"/>
+      <point x="1328" y="0" type="line"/>
+      <point x="1359" y="0" type="line"/>
+      <point x="1359" y="750" type="line"/>
+      <point x="1328" y="750" type="line"/>
+      <point x="1328" y="374" type="line"/>
       <point x="51" y="374" type="line"/>
       <point x="51" y="750" type="line"/>
       <point x="20" y="750" type="line"/>
@@ -22,8 +22,6 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 05:35:59 +0000</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
     </dict>
   </lib>
 </glyph>

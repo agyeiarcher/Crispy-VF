@@ -231,9 +231,9 @@
     </array>
     <key>com.schriftgestaltung.DisplayStrings</key>
     <array>
-      <string>UOLTRON</string>
-      <string>E</string>
-      <string>A</string>
+      <string>OO</string>
+      <string></string>
+      <string>HAIKO</string>
     </array>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
     <false/>
@@ -289,8 +289,6 @@
     <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
-    <key>com.typemytype.robofont.layerOrder</key>
-    <array/>
     <key>com.typemytype.robofont.segmentType</key>
     <string>curve</string>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
