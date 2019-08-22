@@ -1,0 +1,65 @@
+Batch Generated Variable Fonts:
+*******************************
+
+source: /Volumes/AA/AA_Work/CRISPY/CRISPY VF/sources/1-drawing/Output Instances/crispyvf-testexport.designspace
+path: /Volumes/AA/AA_Work/CRISPY/CRISPY VF/sources/1-drawing/Output Instances/crispyvf-testexport.ttf
+    Making master glyphs compatible
+    '''''''''''''''''''''''''''''''
+
+    Decompose Mixed Glyphs
+    ''''''''''''''''''''''
+
+    Making master kerning compatible
+    ''''''''''''''''''''''''''''''''
+
+
+    Generate TTF
+    ''''''''''''
+
+        Generate Crispy_SAMPLE X-OPAQUE 0 Y-OPAQUE 0 X-TRANSPARENT 0 (foreground)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            b'\n' Built release mode font 'temp_00_Crispy_SAMPLE-X-OPAQUE 0 Y-OPAQUE 0 X-TRANSPARENT 0-foreground.ttf' Revision 1.000
+            
+            --------------------
+
+        Generate Crispy_SAMPLE X-OPAQUE 0 Y-OPAQUE 10 X-TRANSPARENT 370 (foreground)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            b'\n' Built release mode font 'temp_01_Crispy_SAMPLE-X-OPAQUE 0 Y-OPAQUE 10 X-TRANSPARENT 370-foreground.ttf' Revision 1.000
+            
+            --------------------
+
+        Generate Crispy_SAMPLE X-OPAQUE 560 Y-OPAQUE 680 X-TRANSPARENT 720 (foreground)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            b'\n' Built release mode font 'temp_02_Crispy_SAMPLE-X-OPAQUE 560 Y-OPAQUE 680 X-TRANSPARENT 720-foreground.ttf' Revision 1.000
+            
+            --------------------
+
+        Generate Crispy_SAMPLE X-OPAQUE 800 Y-OPAQUE 660 X-TRANSPARENT 50 (foreground)
+            --------------------
+            
+            makeotf Report
+            
+            makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+            makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+            makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+            b'\n' Built release mode font 'temp_03_Crispy_SAMPLE-X-OPAQUE 800 Y-OPAQUE 660 X-TRANSPARENT 50-foreground.ttf' Revision 1.000
+            
+            --------------------

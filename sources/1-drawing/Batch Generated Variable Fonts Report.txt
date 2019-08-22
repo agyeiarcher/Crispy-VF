@@ -1,8 +1,8 @@
 Batch Generated Variable Fonts:
 *******************************
 
-source: /Volumes/AA/AA_Work/CRISPY/CRISPY VF/sources/1-drawing/crispy_v1.designspace
-path: /Volumes/AA/AA_Work/CRISPY/CRISPY VF/sources/1-drawing/crispy_v1.ttf
+source: /Volumes/AA/AA_Work/CRISPY/CRISPY VF/sources/1-drawing/crispy_protofont.designspace
+path: /Volumes/AA/AA_Work/CRISPY/CRISPY VF/sources/1-drawing/crispy_protofont.ttf
     Making master glyphs compatible
     '''''''''''''''''''''''''''''''
 
@@ -28,7 +28,7 @@ path: /Volumes/AA/AA_Work/CRISPY/CRISPY VF/sources/1-drawing/crispy_v1.ttf
             
             --------------------
 
-        Generate Crispy_SAMPLE XOPQ0-YOPQ0-XTRA0 (foreground)
+        Generate Crispy_SAMPLE XOPQ0-YOPQ0-XTRA1000 (foreground)
             --------------------
             
             makeotf Report
@@ -36,7 +36,7 @@ path: /Volumes/AA/AA_Work/CRISPY/CRISPY VF/sources/1-drawing/crispy_v1.ttf
             makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
             makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
             makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
-            b'\n' Built release mode font 'temp_01_Crispy_SAMPLE-XOPQ0-YOPQ0-XTRA0-foreground.ttf' Revision 1.000
+            b'\n' Built release mode font 'temp_01_Crispy_SAMPLE-XOPQ0-YOPQ0-XTRA1000-foreground.ttf' Revision 1.000
             
             --------------------
 
