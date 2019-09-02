@@ -97,4 +97,32 @@
       <info/>
     </instance>
   </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>horizontal</key>
+        <array/>
+        <key>ignore</key>
+        <array>
+          <string>X-OPAQUE</string>
+          <string>Y-OPAQUE</string>
+          <string>X-TRANSPARENT</string>
+        </array>
+        <key>vertical</key>
+        <array/>
+      </dict>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>X-OPAQUE</key>
+        <real>0.0</real>
+        <key>X-TRANSPARENT</key>
+        <real>0.0</real>
+        <key>Y-OPAQUE</key>
+        <real>0.0</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>SKATEBOARD</string>
+    </dict>
+  </lib>
 </designspace>
