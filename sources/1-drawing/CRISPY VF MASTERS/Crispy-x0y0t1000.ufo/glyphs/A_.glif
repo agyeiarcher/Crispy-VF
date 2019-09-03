@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
-  <advance width="152"/>
+  <advance width="1445"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="13" y="0" type="line"/>
-      <point x="44" y="0" type="line"/>
-      <point x="44" y="364" type="line" identifier="iDT0uyhKrn"/>
-      <point x="101" y="364" type="line" identifier="OBZ5Ayed7M"/>
-      <point x="101" y="0" type="line" identifier="kpn4Kw9J0C"/>
-      <point x="132" y="0" type="line" identifier="ZgsCdxNJRW"/>
-      <point x="132" y="750" type="line" identifier="QVexAlbAcl"/>
-      <point x="54" y="750" type="line"/>
-      <point x="13" y="467" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="82" y="0" type="line"/>
+      <point x="82" y="364" type="line" identifier="iDT0uyhKrn"/>
+      <point x="1363" y="364" type="line" identifier="OBZ5Ayed7M"/>
+      <point x="1363" y="0" type="line" identifier="kpn4Kw9J0C"/>
+      <point x="1394" y="0" type="line" identifier="ZgsCdxNJRW"/>
+      <point x="1394" y="750" type="line" identifier="QVexAlbAcl"/>
+      <point x="72" y="750" type="line"/>
+      <point x="51" y="467" type="line"/>
     </contour>
     <contour>
-      <point x="44" y="386" type="line" identifier="IIRC9Wy7kQ"/>
-      <point x="44" y="463" type="line"/>
-      <point x="82" y="728" type="line" identifier="tUsW8L7b0y"/>
-      <point x="101" y="728" type="line" identifier="FsYtJ2vFnp"/>
-      <point x="101" y="386" type="line" identifier="VufvPdJ075"/>
+      <point x="82" y="386" type="line" identifier="IIRC9Wy7kQ"/>
+      <point x="82" y="463" type="line"/>
+      <point x="100" y="728" type="line" identifier="tUsW8L7b0y"/>
+      <point x="1363" y="728" type="line" identifier="FsYtJ2vFnp"/>
+      <point x="1363" y="386" type="line" identifier="VufvPdJ075"/>
     </contour>
   </outline>
   <lib>

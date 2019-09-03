@@ -58,19 +58,23 @@ def xTRA(stemAdjustment):
 
         for contour in glyph.contours:
                     
-            noShiftingRight=True
-            noShiftingLeft=True
+            shiftingRight=False
+            shiftingLeft=False
  
             for point in contour.selection:
-                if point.y < f.info.capHeight/2:
+                if point.x < glyph.width/2:
+                    point.moveBy((-stemAdjustment,0))                    
+                    shiftingLeft=True
+                    print("stems moved by "+str(stemAdjustment)+ " points")
+                if point.x > glyph.width/2:
                     point.moveBy((stemAdjustment,0))
-                    print("top contour points moved by "+str(stemAdjustment)+ " points")
-                elif point.y > f.info.capHeight/2:
-                    point.moveBy((-stemAdjustment,0))
-                    print("top contour points moved by "+str(stemAdjustment)+ " points")
+                    shiftingRight=True
+                    print("stems moved by "+str(stemAdjustment)+ " points")
         
-        glyph.rightMargin+=stemAdjustment
-        glyph.leftMargin+=stemAdjustment
+            if shiftingRight:
+                glyph.rightMargin+=stemAdjustment
+            if shiftingLeft:
+                glyph.leftMargin+=stemAdjustment
         
         glyph.changed()    
         glyph.performUndo()
