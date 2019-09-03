@@ -5,7 +5,7 @@
   <outline>
     <contour>
       <point x="20" y="0" type="line" identifier="uqAJBjDIOT"/>
-      <point x="51" y="0" type="line"/>
+      <point x="51" y="0" type="line" identifier="WUaPOcaxKT"/>
       <point x="51" y="364" type="line" identifier="QjywsYY2yB"/>
       <point x="108" y="364" type="line" identifier="7JgTtdb0jg"/>
       <point x="108" y="0" type="line"/>
@@ -14,7 +14,7 @@
       <point x="108" y="750" type="line"/>
       <point x="108" y="386" type="line" identifier="MTAeavIVWY"/>
       <point x="51" y="386" type="line" identifier="lggLiivmLt"/>
-      <point x="51" y="750" type="line"/>
+      <point x="51" y="750" type="line" identifier="UPaHY3UudR"/>
       <point x="20" y="750" type="line" identifier="ZnCDQVdtyD"/>
     </contour>
   </outline>
@@ -27,6 +27,8 @@
         <key>7JgTtdb0jg</key>
         <array>
           <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
         </array>
         <key>8OglXgblhr</key>
         <array>
@@ -38,15 +40,53 @@
         </array>
         <key>QjywsYY2yB</key>
         <array>
+          <string>leftside</string>
           <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+        <key>UPaHY3UudR</key>
+        <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+        <key>WUaPOcaxKT</key>
+        <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
         </array>
         <key>ZnCDQVdtyD</key>
         <array>
           <string>leftside</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
         </array>
         <key>lggLiivmLt</key>
         <array>
+          <string>leftside</string>
           <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
         </array>
         <key>oOtn61SmRY</key>
         <array>
@@ -54,6 +94,12 @@
         </array>
         <key>uqAJBjDIOT</key>
         <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
           <string>leftside</string>
         </array>
       </dict>

@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O" format="2">
+  <advance width="162"/>
+  <unicode hex="004F"/>
+  <outline>
+    <contour>
+      <point x="142" y="62" type="line" identifier="ob8US3C311"/>
+      <point x="142" y="750" type="line" identifier="c9brEFyXXA"/>
+      <point x="51" y="750" type="line" identifier="a4Ql951bxG"/>
+      <point x="20" y="688" type="line" identifier="kbL68Qh2zr"/>
+      <point x="20" y="0" type="line" identifier="U6WibAQAUl"/>
+      <point x="111" y="0" type="line" identifier="dfgNHTgBfR"/>
+    </contour>
+    <contour>
+      <point x="111" y="66" type="line"/>
+      <point x="89" y="22" type="line"/>
+      <point x="51" y="22" type="line"/>
+      <point x="51" y="684" type="line"/>
+      <point x="73" y="728" type="line"/>
+      <point x="111" y="728" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-08-12 16:07:16 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>U6WibAQAUl</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>a4Ql951bxG</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>c9brEFyXXA</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>dfgNHTgBfR</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>kbL68Qh2zr</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>ob8US3C311</key>
+        <array>
+          <string>leftside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -11,11 +11,11 @@
       <point x="142" y="0" type="line" identifier="dfgNHTgBfR"/>
     </contour>
     <contour>
-      <point x="111" y="22" type="line"/>
-      <point x="51" y="22" type="line"/>
-      <point x="51" y="684" type="line"/>
-      <point x="73" y="728" type="line"/>
-      <point x="111" y="728" type="line"/>
+      <point x="111" y="22" type="line" identifier="bEeLKF9K0J"/>
+      <point x="51" y="22" type="line" identifier="QaOuzaR5Nc"/>
+      <point x="51" y="684" type="line" identifier="b9GvAVdrlf"/>
+      <point x="73" y="728" type="line" identifier="8lRHbc76vf"/>
+      <point x="111" y="728" type="line" identifier="2q9VlGka1x"/>
     </contour>
     <contour>
       <point x="68" y="10" type="line" identifier="ivebcmARlA"/>
@@ -30,6 +30,22 @@
       <string>2019-04-28 05:35:59 +0000</string>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
+        <key>2q9VlGka1x</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>shiftdown</string>
+        </array>
+        <key>8lRHbc76vf</key>
+        <array>
+          <string>shiftdown</string>
+        </array>
+        <key>QaOuzaR5Nc</key>
+        <array>
+          <string>shiftdown</string>
+        </array>
         <key>U6WibAQAUl</key>
         <array>
           <string>leftside</string>
@@ -38,13 +54,33 @@
         <array>
           <string>leftside</string>
         </array>
+        <key>b9GvAVdrlf</key>
+        <array>
+          <string>shiftdown</string>
+        </array>
+        <key>bEeLKF9K0J</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>shiftdown</string>
+        </array>
         <key>c9brEFyXXA</key>
         <array>
           <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>shiftdown</string>
         </array>
         <key>dfgNHTgBfR</key>
         <array>
           <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>shiftdown</string>
         </array>
         <key>gOQWswYvKT</key>
         <array>

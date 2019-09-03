@@ -5,12 +5,12 @@
   <outline>
     <contour>
       <point x="20" y="0" type="line" identifier="oAgH2tA6DJ"/>
-      <point x="51" y="0" type="line"/>
+      <point x="51" y="0" type="line" identifier="zCZyMcW5ho"/>
       <point x="51" y="364" type="line" identifier="yHYqkMd7LI"/>
       <point x="123" y="364" type="line" identifier="NmB7yyQuio"/>
       <point x="123" y="386" type="line" identifier="wQk2C8zPHh"/>
       <point x="51" y="386" type="line" identifier="4cFHKQfHDt"/>
-      <point x="51" y="728" type="line"/>
+      <point x="51" y="728" type="line" identifier="ZvzwyrcwpS"/>
       <point x="135" y="728" type="line" identifier="F6QQD702pX"/>
       <point x="135" y="750" type="line" identifier="bL0wwzlx16"/>
       <point x="20" y="750" type="line" identifier="TBAYuCfUFX"/>
@@ -34,7 +34,11 @@
         </array>
         <key>4cFHKQfHDt</key>
         <array>
+          <string>leftside</string>
           <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
         </array>
         <key>F6QQD702pX</key>
         <array>
@@ -51,6 +55,18 @@
         <key>TBAYuCfUFX</key>
         <array>
           <string>leftside</string>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
+        </array>
+        <key>ZvzwyrcwpS</key>
+        <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
         </array>
         <key>bL0wwzlx16</key>
         <array>
@@ -59,6 +75,10 @@
         <key>oAgH2tA6DJ</key>
         <array>
           <string>leftside</string>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
         </array>
         <key>wQk2C8zPHh</key>
         <array>
@@ -66,7 +86,19 @@
         </array>
         <key>yHYqkMd7LI</key>
         <array>
+          <string>leftside</string>
           <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
+        </array>
+        <key>zCZyMcW5ho</key>
+        <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
         </array>
       </dict>
     </dict>

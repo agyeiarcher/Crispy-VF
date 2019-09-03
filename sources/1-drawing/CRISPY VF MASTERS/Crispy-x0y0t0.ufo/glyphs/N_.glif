@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N" format="2">
+  <advance width="192"/>
+  <unicode hex="004E"/>
+  <outline>
+    <contour>
+      <point x="20" y="0" type="line" identifier="MWbbTwGkbG"/>
+      <point x="51" y="0" type="line"/>
+      <point x="51" y="728" type="line"/>
+      <point x="62" y="728" type="line"/>
+      <point x="106" y="0" type="line"/>
+      <point x="172" y="0" type="line" identifier="ZsB4bFWMAS"/>
+      <point x="172" y="750" type="line" identifier="Mm9MihPC9S"/>
+      <point x="141" y="750" type="line"/>
+      <point x="141" y="24" type="line"/>
+      <point x="133" y="24" type="line"/>
+      <point x="88" y="750" type="line"/>
+      <point x="20" y="750" type="line" identifier="Icsrkoeq5r"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>Icsrkoeq5r</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>MWbbTwGkbG</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>Mm9MihPC9S</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>ZsB4bFWMAS</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

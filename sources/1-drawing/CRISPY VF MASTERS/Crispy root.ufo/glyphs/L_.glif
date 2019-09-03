@@ -5,17 +5,13 @@
   <outline>
     <contour>
       <point x="20" y="0" type="line" identifier="XkJNfQlnnt"/>
-      <point x="127" y="0" type="line" identifier="scG1IXtWvJ"/>
-      <point x="127" y="22" type="line" identifier="FWtbMMY8Ck"/>
-      <point x="51" y="22" type="line"/>
-      <point x="51" y="750" type="line"/>
-      <point x="20" y="750" type="line" identifier="XFf4mMUzYo"/>
-    </contour>
-    <contour>
-      <point x="96" y="0" type="line"/>
       <point x="127" y="0" type="line" identifier="82EXZEgt46"/>
       <point x="127" y="184" type="line" identifier="VYRt9kHZtP"/>
       <point x="96" y="184" type="line"/>
+      <point x="96" y="22" type="line" identifier="cqpSxwFiM3"/>
+      <point x="51" y="22" type="line" identifier="MbxRZRd8vz"/>
+      <point x="51" y="750" type="line" identifier="lYiaKSKITt"/>
+      <point x="20" y="750" type="line" identifier="XFf4mMUzYo"/>
     </contour>
   </outline>
   <lib>
@@ -32,6 +28,13 @@
         <array>
           <string>rightside</string>
         </array>
+        <key>MbxRZRd8vz</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftdown</string>
+          <string>leftside</string>
+          <string>shiftstem</string>
+        </array>
         <key>VYRt9kHZtP</key>
         <array>
           <string>rightside</string>
@@ -39,10 +42,27 @@
         <key>XFf4mMUzYo</key>
         <array>
           <string>leftside</string>
+          <string>shiftdown</string>
+          <string>leftside</string>
+          <string>shiftstem</string>
         </array>
         <key>XkJNfQlnnt</key>
         <array>
           <string>leftside</string>
+          <string>shiftdown</string>
+          <string>leftside</string>
+          <string>shiftstem</string>
+        </array>
+        <key>cqpSxwFiM3</key>
+        <array>
+          <string>shiftdown</string>
+        </array>
+        <key>lYiaKSKITt</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftdown</string>
+          <string>leftside</string>
+          <string>shiftstem</string>
         </array>
         <key>scG1IXtWvJ</key>
         <array>
