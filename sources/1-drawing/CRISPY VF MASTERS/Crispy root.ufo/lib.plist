@@ -438,9 +438,13 @@
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.r4Og11eW4Z</key>
     <real>7.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.zB3sZ5jdqB</key>
+    <real>5.0</real>
     <key>com.typemytype.robofont.guideline.showMeasurements.YgrlY2J6wm</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.r4Og11eW4Z</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.zB3sZ5jdqB</key>
     <false/>
     <key>com.typemytype.robofont.italicSlantOffset</key>
     <integer>0</integer>
@@ -606,19 +610,13 @@
       <string>quoteright</string>
       <string>quotedblright</string>
       <string>guilsinglright</string>
-      <string>exclam</string>
       <string>quotedbl</string>
       <string>numbersign</string>
       <string>percent</string>
       <string>ampersand</string>
       <string>quotesingle</string>
       <string>asterisk</string>
-      <string>comma</string>
-      <string>period</string>
       <string>slash</string>
-      <string>colon</string>
-      <string>semicolon</string>
-      <string>question</string>
       <string>at</string>
       <string>backslash</string>
       <string>exclamdown</string>

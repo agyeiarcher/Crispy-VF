@@ -1,29 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="two" format="2">
-  <advance width="161"/>
+  <advance width="149"/>
   <unicode hex="0032"/>
   <outline>
     <contour>
-      <point x="20" y="0" type="line"/>
-      <point x="131" y="0" type="line"/>
-      <point x="131" y="153" type="line"/>
+      <point x="20" y="0" type="line" identifier="bZx9vXVxsz"/>
+      <point x="131" y="0" type="line" identifier="tr1cNbQvAW"/>
+      <point x="131" y="153" type="line" identifier="upRyW44osQ"/>
       <point x="100" y="153" type="line"/>
       <point x="100" y="22" type="line"/>
       <point x="51" y="22" type="line"/>
-      <point x="51" y="223" type="line"/>
-      <point x="129" y="223" type="line"/>
-      <point x="129" y="650" type="line"/>
-      <point x="129" y="750" type="line"/>
-      <point x="46" y="750" type="line"/>
-      <point x="14" y="679" type="line"/>
-      <point x="14" y="404" type="line"/>
-      <point x="45" y="404" type="line"/>
+      <point x="51" y="352" type="line" identifier="T0oGDgxW6o"/>
+      <point x="129" y="352" type="line" identifier="FoZtLrSAm0"/>
+      <point x="129" y="750" type="line" identifier="d3YBitZOVz"/>
+      <point x="46" y="750" type="line" identifier="0Ajshqnglh"/>
+      <point x="14" y="679" type="line" identifier="BMi3iTgbBs"/>
+      <point x="14" y="539" type="line" identifier="QzZqP70XaF"/>
+      <point x="45" y="539" type="line"/>
       <point x="45" y="678" type="line"/>
       <point x="68" y="728" type="line"/>
       <point x="98" y="728" type="line"/>
-      <point x="98" y="648" type="line"/>
-      <point x="98" y="245" type="line"/>
-      <point x="20" y="245" type="line"/>
+      <point x="98" y="374" type="line" identifier="xHiuR7oaYL"/>
+      <point x="20" y="374" type="line" identifier="fasUGvhWy6"/>
     </contour>
   </outline>
   <lib>
@@ -32,6 +30,61 @@
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 12:46:41 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>0Ajshqnglh</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>BMi3iTgbBs</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>FoZtLrSAm0</key>
+        <array>
+          <string>rightside</string>
+          <string>leftside</string>
+          <string>crossbar</string>
+        </array>
+        <key>QzZqP70XaF</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>T0oGDgxW6o</key>
+        <array>
+          <string>rightside</string>
+          <string>leftside</string>
+          <string>crossbar</string>
+        </array>
+        <key>bZx9vXVxsz</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>d3YBitZOVz</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>fasUGvhWy6</key>
+        <array>
+          <string>rightside</string>
+          <string>leftside</string>
+          <string>crossbar</string>
+        </array>
+        <key>tr1cNbQvAW</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>upRyW44osQ</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>xHiuR7oaYL</key>
+        <array>
+          <string>rightside</string>
+          <string>leftside</string>
+          <string>crossbar</string>
+        </array>
+      </dict>
     </dict>
   </lib>
 </glyph>
