@@ -1,0 +1,108 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H" format="2">
+  <advance width="2945"/>
+  <unicode hex="0048"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line" identifier="uqAJBjDIOT"/>
+      <point x="832" y="0" type="line" identifier="WUaPOcaxKT"/>
+      <point x="832" y="364" type="line" identifier="QjywsYY2yB"/>
+      <point x="2113" y="364" type="line" identifier="7JgTtdb0jg"/>
+      <point x="2113" y="0" type="line"/>
+      <point x="2769" y="0" type="line" identifier="oOtn61SmRY"/>
+      <point x="2769" y="750" type="line" identifier="8OglXgblhr"/>
+      <point x="2113" y="750" type="line"/>
+      <point x="2113" y="386" type="line" identifier="MTAeavIVWY"/>
+      <point x="832" y="386" type="line" identifier="lggLiivmLt"/>
+      <point x="832" y="750" type="line" identifier="UPaHY3UudR"/>
+      <point x="176" y="750" type="line" identifier="ZnCDQVdtyD"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>7JgTtdb0jg</key>
+        <array>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+        </array>
+        <key>8OglXgblhr</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>MTAeavIVWY</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+        <key>QjywsYY2yB</key>
+        <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+        <key>UPaHY3UudR</key>
+        <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+        <key>WUaPOcaxKT</key>
+        <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+        <key>ZnCDQVdtyD</key>
+        <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+        <key>lggLiivmLt</key>
+        <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+        <key>oOtn61SmRY</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>uqAJBjDIOT</key>
+        <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

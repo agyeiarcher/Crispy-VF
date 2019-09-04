@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <advance width="2944"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line" identifier="gh4oopoKIn"/>
+      <point x="2769" y="0" type="line"/>
+      <point x="2769" y="564" type="line" identifier="ydeACnPZN4"/>
+      <point x="2616" y="750" type="line" identifier="IF8msvcgce"/>
+      <point x="176" y="750" type="line" identifier="hTYdJwlqIh"/>
+    </contour>
+    <contour>
+      <point x="832" y="728" type="line" identifier="YShvMHvurg"/>
+      <point x="1972" y="728" type="line" identifier="DiLdvAK6bW"/>
+      <point x="2113" y="556" type="line" identifier="5OFemp6E2Y"/>
+      <point x="2113" y="21" type="line" identifier="4w8cXO1HlF"/>
+      <point x="832" y="22" type="line" identifier="OGdfzPVlic"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>4w8cXO1HlF</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+        </array>
+        <key>5OFemp6E2Y</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+        </array>
+        <key>DhFNkdKcfj</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>DiLdvAK6bW</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+        </array>
+        <key>IF8msvcgce</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>OGdfzPVlic</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+        </array>
+        <key>YShvMHvurg</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+        </array>
+        <key>gh4oopoKIn</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftstem</string>
+        </array>
+        <key>hTYdJwlqIh</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftstem</string>
+        </array>
+        <key>ydeACnPZN4</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>yunTqSzRcA</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

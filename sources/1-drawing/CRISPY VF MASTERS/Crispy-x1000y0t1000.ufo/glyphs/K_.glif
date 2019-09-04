@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="K" format="2">
+  <advance width="2943"/>
+  <unicode hex="004B"/>
+  <outline>
+    <contour>
+      <point x="176" y="0" type="line" identifier="AJFybwtISS"/>
+      <point x="832" y="0" type="line" identifier="xj8qIf4v8s"/>
+      <point x="832" y="367" type="line" identifier="tRv54mralF"/>
+      <point x="1642" y="367" type="line" identifier="xRsK7LwvCP"/>
+      <point x="2115" y="290" type="line" identifier="nN62QTbZwT"/>
+      <point x="2115" y="0" type="line"/>
+      <point x="2771" y="0" type="line" identifier="RNULHVAYqp"/>
+      <point x="2771" y="312" type="line" identifier="8uJIZj54GB"/>
+      <point x="1701" y="379" type="line"/>
+      <point x="1701" y="381" type="line"/>
+      <point x="2754" y="466" type="line" identifier="e8AHcRxH3I"/>
+      <point x="2754" y="750" type="line" identifier="eNRdyfM1oC"/>
+      <point x="2098" y="750" type="line"/>
+      <point x="2098" y="484" type="line" identifier="up9uIbzma1"/>
+      <point x="1643" y="389" type="line"/>
+      <point x="832" y="389" type="line" identifier="UTjU3L1PPB"/>
+      <point x="832" y="750" type="line" identifier="0mqLpz5vAU"/>
+      <point x="176" y="750" type="line" identifier="I87sAwdtGu"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>0mqLpz5vAU</key>
+        <array>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>shiftdown</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+        <key>8uJIZj54GB</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+        </array>
+        <key>AJFybwtISS</key>
+        <array>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>shiftdown</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+        <key>I87sAwdtGu</key>
+        <array>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>shiftdown</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+        <key>RNULHVAYqp</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>UTjU3L1PPB</key>
+        <array>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>shiftdown</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+        <key>e8AHcRxH3I</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+        </array>
+        <key>eNRdyfM1oC</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>nN62QTbZwT</key>
+        <array>
+          <string>rightside</string>
+          <string>shiftdown</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+        </array>
+        <key>nj0bO2yqxJ</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+        </array>
+        <key>qeJQMGx6zx</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+        </array>
+        <key>tRv54mralF</key>
+        <array>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>shiftdown</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+        <key>up9uIbzma1</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+        </array>
+        <key>xRsK7LwvCP</key>
+        <array>
+          <string>rightside</string>
+          <string>shiftdown</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+        </array>
+        <key>xj8qIf4v8s</key>
+        <array>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>shiftdown</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
