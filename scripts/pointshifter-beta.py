@@ -51,6 +51,9 @@ def yOPQ(stemAdjustment):
 # yOPQ(220)
 
 def xTRA(stemAdjustment):
+    
+    #letters=612
+    #figs=528
         
     for glyph in f.selectedGlyphs:
         
@@ -79,5 +82,5 @@ def xTRA(stemAdjustment):
         glyph.changed()    
         glyph.performUndo()
     
-xTRA(612)
+xTRA(528)
 
