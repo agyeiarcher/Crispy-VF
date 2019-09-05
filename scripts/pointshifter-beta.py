@@ -33,6 +33,9 @@ def xOPQ(stemAdjustment):
 
 def yOPQ(stemAdjustment):
     
+    #top and bottom bars=165
+    #crossbars=155/-155
+    
     for glyph in f.selectedGlyphs:        
         
         glyph.prepareUndo()
@@ -82,5 +85,5 @@ def xTRA(stemAdjustment):
         glyph.changed()    
         glyph.performUndo()
     
-xOPQ(625/2)
+yOPQ(165)
 
