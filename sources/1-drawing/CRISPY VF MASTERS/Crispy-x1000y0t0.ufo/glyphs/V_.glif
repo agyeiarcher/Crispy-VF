@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="V" format="2">
+<glyph name="V" format="1">
   <advance width="1355"/>
   <unicode hex="0056"/>
   <outline>
@@ -20,6 +20,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>8JVlgiKN0E</key>

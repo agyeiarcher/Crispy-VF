@@ -1,7 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="ccedillaacute" format="2">
+<glyph name="ccedillaacute" format="1">
   <advance width="500"/>
   <unicode hex="1E09"/>
   <outline>
   </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
+    </dict>
+  </lib>
 </glyph>

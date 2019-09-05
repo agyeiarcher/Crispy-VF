@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="R" format="2">
+<glyph name="R" format="1">
   <advance width="1354"/>
   <unicode hex="0052"/>
   <outline>
@@ -7,27 +7,30 @@
       <point x="120" y="0" type="line" identifier="CHVOARGKU2"/>
       <point x="651" y="0" type="line" identifier="s4rDE72DYf"/>
       <point x="651" y="363" type="line" identifier="9fBpwr0c5A"/>
-      <point x="659" y="367" type="line"/>
-      <point x="707" y="317" type="line" identifier="FKSRxBbMyE"/>
+      <point x="665" y="370" type="line"/>
+      <point x="707" y="364" type="line" identifier="FKSRxBbMyE"/>
       <point x="707" y="0" type="line"/>
       <point x="1237" y="0" type="line" identifier="V9Ywxgiq2G"/>
-      <point x="1236" y="325" type="line" identifier="xAUivuY8OU"/>
+      <point x="1236" y="324" type="line" identifier="xAUivuY8OU"/>
       <point x="683" y="378" type="line"/>
-      <point x="1234" y="401" type="line" identifier="gNqIOGc9HF"/>
+      <point x="683" y="381" type="line"/>
+      <point x="1234" y="402" type="line" identifier="gNqIOGc9HF"/>
       <point x="1234" y="750" type="line" identifier="nPfCo47fuL"/>
       <point x="120" y="750" type="line" identifier="pOaU6sS7pE"/>
     </contour>
     <contour>
-      <point x="651" y="390" type="line" identifier="jqqb8BKfoQ"/>
+      <point x="651" y="389" type="line" identifier="jqqb8BKfoQ"/>
       <point x="651" y="728" type="line" identifier="itimCqoufa"/>
       <point x="703" y="728" type="line" identifier="JkNiARIXMp"/>
-      <point x="703" y="413" type="line" identifier="j4s86nnkOj"/>
+      <point x="703" y="392" type="line" identifier="j4s86nnkOj"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>2AKhSOaavW</key>

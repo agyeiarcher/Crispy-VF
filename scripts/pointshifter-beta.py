@@ -1,6 +1,8 @@
 f=CurrentFont()
 
 def xOPQ(stemAdjustment):
+    
+    #625 for wides, 500 for narrows
         
     for glyph in f.selectedGlyphs:
         
@@ -35,6 +37,9 @@ def yOPQ(stemAdjustment):
     
     #top and bottom bars=165
     #crossbars=155/-155
+    
+    #narrow tops: 150
+    #narrow bottoms: 120
     
     for glyph in f.selectedGlyphs:        
         
@@ -85,5 +90,5 @@ def xTRA(stemAdjustment):
         glyph.changed()    
         glyph.performUndo()
     
-xOPQ(500)
+yOPQ(160)
 

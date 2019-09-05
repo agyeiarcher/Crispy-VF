@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="R" format="2">
+<glyph name="R" format="1">
   <advance width="154"/>
   <unicode hex="0052"/>
   <outline>
@@ -12,7 +12,8 @@
       <point x="107" y="0" type="line"/>
       <point x="137" y="0" type="line" identifier="V9Ywxgiq2G"/>
       <point x="136" y="325" type="line" identifier="xAUivuY8OU"/>
-      <point x="83" y="378" type="line"/>
+      <point x="83" y="376" type="line"/>
+      <point x="83" y="380" type="line"/>
       <point x="134" y="401" type="line" identifier="gNqIOGc9HF"/>
       <point x="134" y="750" type="line" identifier="nPfCo47fuL"/>
       <point x="20" y="750" type="line" identifier="pOaU6sS7pE"/>
@@ -28,6 +29,8 @@
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>2AKhSOaavW</key>

@@ -1,11 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="eight" format="2">
+<glyph name="eight" format="1">
   <advance width="2778"/>
   <unicode hex="0038"/>
-  <guideline x="1127" y="434" angle="0" identifier="E0cMLKNb9T"/>
-  <guideline x="1303" y="371" angle="0" identifier="sPv7FKLvrf"/>
-  <guideline x="1070" y="421" angle="0" identifier="GyLvUaJdmd"/>
-  <guideline x="172" y="299" angle="0" identifier="zwc0WHSwLB"/>
   <outline>
     <contour>
       <point x="176" y="0" type="line" identifier="oo2HOwJkzJ"/>
@@ -44,6 +40,8 @@
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 05:46:24 +0000</string>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict/>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>2AoyMNBDus</key>

@@ -51,6 +51,13 @@
         <dimension name="ytra" xvalue="0"/>
       </location>
     </source>
+    <source filename="Crispy-x0y1000t0.ufo" familyname="crispy-x0y1000t0" stylename="narrow ybold">
+      <location>
+        <dimension name="xopq" xvalue="0"/>
+        <dimension name="yopq" xvalue="1000"/>
+        <dimension name="ytra" xvalue="0"/>
+      </location>
+    </source>
   </sources>
   <lib>
     <dict>
