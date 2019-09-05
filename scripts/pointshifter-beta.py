@@ -85,5 +85,5 @@ def xTRA(stemAdjustment):
         glyph.changed()    
         glyph.performUndo()
     
-yOPQ(165)
+xOPQ(500)
 

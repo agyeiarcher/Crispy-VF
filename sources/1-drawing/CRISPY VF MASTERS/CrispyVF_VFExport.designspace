@@ -30,54 +30,26 @@
         <dimension name="ytra" xvalue="1000"/>
       </location>
     </source>
-    <source filename="Crispy-x1000y0t1000.ufo" familyname="crispy-x1000y0t1000" stylename="wide xbold">
+    <source filename="Crispy-x1000y0t1000.ufo" familyname="crispy-x1000y0t1000" stylename="wide bold">
       <location>
         <dimension name="xopq" xvalue="1000"/>
         <dimension name="yopq" xvalue="0"/>
         <dimension name="ytra" xvalue="1000"/>
       </location>
     </source>
-    <source filename="Crispy-x0y1000t1000.ufo" familyname="crispy-x0y1000t1000" stylename="wide ybold">
-      <location>
-        <dimension name="xopq" xvalue="0"/>
-        <dimension name="yopq" xvalue="1000"/>
-        <dimension name="ytra" xvalue="1000"/>
-      </location>
-    </source>
-    <source filename="Crispy-x1000y0t0.ufo" familyname="crispy-x1000y0t0" stylename="narrow xbold">
+    <source filename="Crispy-x1000y0t0.ufo" familyname="crispy-x0y0t0" stylename="x0y0t0">
       <location>
         <dimension name="xopq" xvalue="1000"/>
         <dimension name="yopq" xvalue="0"/>
         <dimension name="ytra" xvalue="0"/>
       </location>
     </source>
+    <source filename="Crispy-x0y1000t1000.ufo" familyname="crispy-x0y0t1000" stylename="x0y0t1000">
+      <location>
+        <dimension name="xopq" xvalue="0"/>
+        <dimension name="yopq" xvalue="1000"/>
+        <dimension name="ytra" xvalue="1000"/>
+      </location>
+    </source>
   </sources>
-  <lib>
-    <dict>
-      <key>com.letterror.skateboard.interactionSources</key>
-      <dict>
-        <key>horizontal</key>
-        <array/>
-        <key>ignore</key>
-        <array>
-          <string>xopq</string>
-          <string>yopq</string>
-          <string>ytra</string>
-        </array>
-        <key>vertical</key>
-        <array/>
-      </dict>
-      <key>com.letterror.skateboard.previewLocation</key>
-      <dict>
-        <key>xopq</key>
-        <real>0.0</real>
-        <key>yopq</key>
-        <real>0.0</real>
-        <key>ytra</key>
-        <real>0.0</real>
-      </dict>
-      <key>com.letterror.skateboard.previewText</key>
-      <string>SKATEBOARD</string>
-    </dict>
-  </lib>
 </designspace>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero" format="2">
-  <advance width="170"/>
+  <advance width="1370"/>
   <unicode hex="0030"/>
   <outline>
     <contour>
-      <point x="24" y="0" type="line" identifier="4KX3b3mGg4"/>
-      <point x="146" y="0" type="line" identifier="V2j8wYP0nr"/>
-      <point x="146" y="750" type="line" identifier="NaxGoenf3y"/>
-      <point x="24" y="750" type="line" identifier="rx6fJSLiri"/>
+      <point x="124" y="0" type="line" identifier="4KX3b3mGg4"/>
+      <point x="1246" y="0" type="line" identifier="V2j8wYP0nr"/>
+      <point x="1246" y="750" type="line" identifier="NaxGoenf3y"/>
+      <point x="124" y="750" type="line" identifier="rx6fJSLiri"/>
     </contour>
     <contour>
-      <point x="55" y="22" type="line" identifier="KnsQaYOmh6"/>
-      <point x="55" y="728" type="line" identifier="xGePK4FBei"/>
-      <point x="115" y="728" type="line" identifier="jxTSPamP6S"/>
-      <point x="115" y="22" type="line" identifier="JHyYoJS6si"/>
+      <point x="655" y="22" type="line" identifier="KnsQaYOmh6"/>
+      <point x="655" y="728" type="line" identifier="xGePK4FBei"/>
+      <point x="715" y="728" type="line" identifier="jxTSPamP6S"/>
+      <point x="715" y="22" type="line" identifier="JHyYoJS6si"/>
     </contour>
   </outline>
   <lib>
