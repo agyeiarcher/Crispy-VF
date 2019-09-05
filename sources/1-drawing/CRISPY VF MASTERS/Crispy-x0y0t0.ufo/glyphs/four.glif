@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="four" format="1">
+<glyph name="four" format="2">
   <advance width="144"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="87" y="0" type="line" identifier="fKNhwGeBFr"/>
-      <point x="118" y="0" type="line" identifier="F6j9HZPPg6"/>
-      <point x="118" y="342" type="line" identifier="lqkGsbOAni"/>
-      <point x="141" y="342" type="line" identifier="3o8nGjwlAr"/>
-      <point x="141" y="367" type="line" identifier="iUuOc5ULWV"/>
-      <point x="118" y="367" type="line" identifier="87mUCPXnf7"/>
-      <point x="118" y="650" type="line" identifier="MVFFesKOAa"/>
-      <point x="87" y="650" type="line" identifier="5uUyK0YOjd"/>
-      <point x="87" y="367" type="line" identifier="UEnHFZRbCT"/>
+      <point x="87" y="0" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="118" y="342" type="line"/>
+      <point x="141" y="342" type="line"/>
+      <point x="141" y="367" type="line"/>
+      <point x="118" y="367" type="line"/>
+      <point x="118" y="650" type="line"/>
+      <point x="87" y="650" type="line"/>
+      <point x="87" y="367" type="line"/>
       <point x="36" y="367" type="line"/>
       <point x="36" y="469" type="line"/>
       <point x="83" y="750" type="line"/>
-      <point x="52" y="750" type="line" identifier="5zy514Pjsy"/>
-      <point x="5" y="467" type="line" identifier="0QXjo5xVd7"/>
-      <point x="5" y="342" type="line" identifier="Gt9Q6fWZDO"/>
-      <point x="87" y="342" type="line" identifier="gm4Ht9VOkM"/>
+      <point x="52" y="750" type="line"/>
+      <point x="5" y="467" type="line"/>
+      <point x="5" y="342" type="line"/>
+      <point x="87" y="342" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -28,8 +28,6 @@
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 05:20:24 +0000</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>0QXjo5xVd7</key>

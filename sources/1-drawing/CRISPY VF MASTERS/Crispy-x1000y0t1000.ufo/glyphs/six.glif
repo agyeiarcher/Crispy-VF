@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="six" format="1">
+<glyph name="six" format="2">
   <advance width="2711"/>
   <unicode hex="0036"/>
   <outline>
     <contour>
-      <point x="145" y="0" type="line" identifier="uiw6aBUf4P"/>
-      <point x="2570" y="0" type="line" identifier="jtYkxiUX6G"/>
-      <point x="2570" y="365" type="line" identifier="2G5L37c87I"/>
+      <point x="145" y="0" type="line"/>
+      <point x="2570" y="0" type="line"/>
+      <point x="2570" y="365" type="line"/>
       <point x="801" y="365" type="line"/>
-      <point x="801" y="549" type="line" identifier="fFNkYYd4JZ"/>
-      <point x="931" y="728" type="line" identifier="s5ynRbZMSV"/>
-      <point x="1913" y="728" type="line" identifier="cywJcF6qDi"/>
-      <point x="1913" y="538" type="line" identifier="vffBcfDei6"/>
-      <point x="2569" y="538" type="line" identifier="Wuidbv6mUe"/>
-      <point x="2569" y="750" type="line" identifier="oGvEEuxnYv"/>
-      <point x="292" y="750" type="line" identifier="xR3pEHbMJx"/>
-      <point x="145" y="550" type="line" identifier="KnMArb0tv8"/>
+      <point x="801" y="549" type="line"/>
+      <point x="931" y="728" type="line"/>
+      <point x="1913" y="728" type="line"/>
+      <point x="1913" y="538" type="line"/>
+      <point x="2569" y="538" type="line"/>
+      <point x="2569" y="750" type="line"/>
+      <point x="292" y="750" type="line"/>
+      <point x="145" y="550" type="line"/>
     </contour>
     <contour>
-      <point x="1914" y="343" type="line" identifier="YOi5EAedMV"/>
-      <point x="1914" y="22" type="line" identifier="qU5YY3GRgH"/>
-      <point x="801" y="22" type="line" identifier="23o5fiSRnp"/>
-      <point x="801" y="343" type="line" identifier="f7FTdpbe3L"/>
+      <point x="1914" y="343" type="line"/>
+      <point x="1914" y="22" type="line"/>
+      <point x="801" y="22" type="line"/>
+      <point x="801" y="343" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,8 +30,6 @@
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 04:43:13 +0000</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>23o5fiSRnp</key>

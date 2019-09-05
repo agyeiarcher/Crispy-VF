@@ -1,35 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="K" format="1">
+<glyph name="K" format="2">
   <advance width="2943"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="176" y="0" type="line" identifier="AJFybwtISS"/>
-      <point x="832" y="0" type="line" identifier="xj8qIf4v8s"/>
-      <point x="832" y="367" type="line" identifier="tRv54mralF"/>
-      <point x="1642" y="367" type="line" identifier="xRsK7LwvCP"/>
-      <point x="2115" y="290" type="line" identifier="nN62QTbZwT"/>
+      <point x="176" y="0" type="line"/>
+      <point x="832" y="0" type="line"/>
+      <point x="832" y="367" type="line"/>
+      <point x="1642" y="367" type="line"/>
+      <point x="2115" y="290" type="line"/>
       <point x="2115" y="0" type="line"/>
-      <point x="2771" y="0" type="line" identifier="RNULHVAYqp"/>
-      <point x="2771" y="312" type="line" identifier="8uJIZj54GB"/>
+      <point x="2771" y="0" type="line"/>
+      <point x="2771" y="312" type="line"/>
       <point x="1701" y="379" type="line"/>
       <point x="1701" y="381" type="line"/>
-      <point x="2754" y="466" type="line" identifier="e8AHcRxH3I"/>
-      <point x="2754" y="750" type="line" identifier="eNRdyfM1oC"/>
+      <point x="2754" y="466" type="line"/>
+      <point x="2754" y="750" type="line"/>
       <point x="2098" y="750" type="line"/>
-      <point x="2098" y="484" type="line" identifier="up9uIbzma1"/>
+      <point x="2098" y="484" type="line"/>
       <point x="1643" y="389" type="line"/>
-      <point x="832" y="389" type="line" identifier="UTjU3L1PPB"/>
-      <point x="832" y="750" type="line" identifier="0mqLpz5vAU"/>
-      <point x="176" y="750" type="line" identifier="I87sAwdtGu"/>
+      <point x="832" y="389" type="line"/>
+      <point x="832" y="750" type="line"/>
+      <point x="176" y="750" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 05:35:59 +0000</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>0mqLpz5vAU</key>

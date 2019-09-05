@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="six" format="1">
+<glyph name="six" format="2">
   <advance width="2265"/>
   <unicode hex="0036"/>
   <outline>
     <contour>
-      <point x="544" y="0" type="line" identifier="uiw6aBUf4P"/>
-      <point x="1719" y="0" type="line" identifier="jtYkxiUX6G"/>
-      <point x="1719" y="389" type="line" identifier="2G5L37c87I"/>
+      <point x="544" y="0" type="line"/>
+      <point x="1719" y="0" type="line"/>
+      <point x="1719" y="389" type="line"/>
       <point x="575" y="389" type="line"/>
-      <point x="575.0" y="394.0" type="line" identifier="fFNkYYd4JZ"/>
-      <point x="705.0" y="563.0" type="line" identifier="s5ynRbZMSV"/>
-      <point x="1687.0" y="563.0" type="line" identifier="cywJcF6qDi"/>
-      <point x="1687" y="458" type="line" identifier="vffBcfDei6"/>
-      <point x="1718" y="458" type="line" identifier="Wuidbv6mUe"/>
-      <point x="1718" y="750" type="line" identifier="oGvEEuxnYv"/>
-      <point x="691" y="750" type="line" identifier="xR3pEHbMJx"/>
-      <point x="544" y="550" type="line" identifier="KnMArb0tv8"/>
+      <point x="575.0" y="394.0" type="line"/>
+      <point x="705.0" y="563.0" type="line"/>
+      <point x="1687.0" y="563.0" type="line"/>
+      <point x="1687" y="458" type="line"/>
+      <point x="1718" y="458" type="line"/>
+      <point x="1718" y="750" type="line"/>
+      <point x="691" y="750" type="line"/>
+      <point x="544" y="550" type="line"/>
     </contour>
     <contour>
-      <point x="1688" y="270" type="line" identifier="YOi5EAedMV"/>
-      <point x="1688.0" y="187.0" type="line" identifier="qU5YY3GRgH"/>
-      <point x="575.0" y="187.0" type="line" identifier="23o5fiSRnp"/>
-      <point x="575" y="270" type="line" identifier="f7FTdpbe3L"/>
+      <point x="1688" y="270" type="line"/>
+      <point x="1688.0" y="187.0" type="line"/>
+      <point x="575.0" y="187.0" type="line"/>
+      <point x="575" y="270" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,8 +30,6 @@
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 04:43:13 +0000</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>23o5fiSRnp</key>

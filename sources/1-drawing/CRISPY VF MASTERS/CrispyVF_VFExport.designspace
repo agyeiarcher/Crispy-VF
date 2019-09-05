@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="xopq" name="xopq" minimum="0" maximum="1000" default="0">
+      <labelname xml:lang="en">xopq</labelname>
+    </axis>
+    <axis tag="yopq" name="yopq" minimum="0" maximum="1000" default="0">
+      <labelname xml:lang="en">yopq</labelname>
+    </axis>
+    <axis tag="ytra" name="ytra" minimum="0" maximum="1000" default="0">
+      <labelname xml:lang="en">ytra</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Crispy-x0y0t0.ufo" familyname="crispy-x0y0t0" stylename="narrow light">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="xopq" xvalue="0"/>
+        <dimension name="yopq" xvalue="0"/>
+        <dimension name="ytra" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Crispy-x0y0t1000.ufo" familyname="crispy-x0y0t1000" stylename="wide light">
+      <location>
+        <dimension name="xopq" xvalue="0"/>
+        <dimension name="yopq" xvalue="0"/>
+        <dimension name="ytra" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="Crispy-x1000y0t1000.ufo" familyname="crispy-x1000y0t1000" stylename="wide xbold">
+      <location>
+        <dimension name="xopq" xvalue="1000"/>
+        <dimension name="yopq" xvalue="0"/>
+        <dimension name="ytra" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="Crispy-x0y1000t1000.ufo" familyname="crispy-x0y1000t1000" stylename="wide ybold">
+      <location>
+        <dimension name="xopq" xvalue="0"/>
+        <dimension name="yopq" xvalue="1000"/>
+        <dimension name="ytra" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="Crispy-x1000y0t0.ufo" familyname="crispy-x1000y0t0" stylename="narrow xbold">
+      <location>
+        <dimension name="xopq" xvalue="1000"/>
+        <dimension name="yopq" xvalue="0"/>
+        <dimension name="ytra" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Crispy-x0y1000t0.ufo" familyname="crispy-x0y1000t0" stylename="narrow ybold">
+      <location>
+        <dimension name="xopq" xvalue="0"/>
+        <dimension name="yopq" xvalue="1000"/>
+        <dimension name="ytra" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+</designspace>

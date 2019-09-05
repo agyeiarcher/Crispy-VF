@@ -1,31 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="C" format="1">
+<glyph name="C" format="2">
   <advance width="144"/>
   <unicode hex="0043"/>
   <outline>
     <contour>
-      <point x="14" y="0" type="line" identifier="7lPhzTnk2Z"/>
-      <point x="133" y="0" type="line" identifier="qJVLZGnkwh"/>
-      <point x="133" y="160" type="line" identifier="nDnDHzAMXL"/>
-      <point x="102" y="160" type="line" identifier="QX1V08aTu0"/>
-      <point x="102" y="22" type="line" identifier="Y750RHTvDj"/>
-      <point x="45" y="22" type="line" identifier="L2LsGnXiZ2"/>
-      <point x="45" y="650" type="line" identifier="sUWsr03vF4"/>
-      <point x="81" y="729" type="line" identifier="dbOUe6OhxL"/>
-      <point x="101" y="729" type="line" identifier="5BjRbcud80"/>
-      <point x="101" y="492" type="line" identifier="fNVDqwQo2o"/>
-      <point x="132" y="492" type="line" identifier="wLqQQx7QVN"/>
-      <point x="132" y="751" type="line" identifier="9eJelv8BOw"/>
-      <point x="61" y="751" type="line" identifier="lfZev3ICaC"/>
-      <point x="14" y="651" type="line" identifier="V1EWIdPahq"/>
+      <point x="14" y="0" type="line"/>
+      <point x="133" y="0" type="line"/>
+      <point x="133" y="160" type="line"/>
+      <point x="102" y="160" type="line"/>
+      <point x="102" y="22" type="line"/>
+      <point x="45" y="22" type="line"/>
+      <point x="45" y="650" type="line"/>
+      <point x="81" y="729" type="line"/>
+      <point x="101" y="729" type="line"/>
+      <point x="101" y="492" type="line"/>
+      <point x="132" y="492" type="line"/>
+      <point x="132" y="751" type="line"/>
+      <point x="61" y="751" type="line"/>
+      <point x="14" y="651" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 11:49:41 +0000</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>5BjRbcud80</key>

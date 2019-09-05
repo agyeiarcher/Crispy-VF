@@ -1,29 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="P" format="1">
+<glyph name="P" format="2">
   <advance width="1402"/>
   <unicode hex="0050"/>
   <outline>
     <contour>
-      <point x="51" y="0" type="line" identifier="EG08jqU5fb"/>
+      <point x="51" y="0" type="line"/>
       <point x="82" y="0" type="line"/>
       <point x="82" y="331" type="line"/>
-      <point x="1389" y="372" type="line" identifier="Tt6D8zYZmU"/>
-      <point x="1389" y="750" type="line" identifier="6xW04auDFu"/>
-      <point x="51" y="750" type="line" identifier="eETO5GBD5v"/>
+      <point x="1389" y="372" type="line"/>
+      <point x="1389" y="750" type="line"/>
+      <point x="51" y="750" type="line"/>
     </contour>
     <contour>
-      <point x="82" y="357" type="line" identifier="PIBVN1PGv1"/>
-      <point x="82" y="728" type="line" identifier="IZIZQr2gYJ"/>
-      <point x="1358" y="728" type="line" identifier="2c4LCF1E1R"/>
-      <point x="1358" y="397" type="line" identifier="1WCnzth1GX"/>
+      <point x="82" y="357" type="line"/>
+      <point x="82" y="728" type="line"/>
+      <point x="1358" y="728" type="line"/>
+      <point x="1358" y="397" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 05:35:59 +0000</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>1WCnzth1GX</key>

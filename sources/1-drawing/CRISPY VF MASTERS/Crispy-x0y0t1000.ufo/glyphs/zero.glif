@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="zero" format="1">
+<glyph name="zero" format="2">
   <advance width="1280"/>
   <unicode hex="0030"/>
   <outline>
     <contour>
-      <point x="51" y="0" type="line" identifier="4KX3b3mGg4"/>
-      <point x="1229" y="0" type="line" identifier="V2j8wYP0nr"/>
-      <point x="1229" y="750" type="line" identifier="NaxGoenf3y"/>
-      <point x="51" y="750" type="line" identifier="rx6fJSLiri"/>
+      <point x="51" y="0" type="line"/>
+      <point x="1229" y="0" type="line"/>
+      <point x="1229" y="750" type="line"/>
+      <point x="51" y="750" type="line"/>
     </contour>
     <contour>
-      <point x="82" y="22" type="line" identifier="KnsQaYOmh6"/>
-      <point x="82" y="728" type="line" identifier="xGePK4FBei"/>
-      <point x="1198" y="728" type="line" identifier="jxTSPamP6S"/>
-      <point x="1198" y="22" type="line" identifier="JHyYoJS6si"/>
+      <point x="82" y="22" type="line"/>
+      <point x="82" y="728" type="line"/>
+      <point x="1198" y="728" type="line"/>
+      <point x="1198" y="22" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -22,8 +22,6 @@
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 06:00:43 +0000</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>4KX3b3mGg4</key>

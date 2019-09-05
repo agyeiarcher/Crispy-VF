@@ -10,6 +10,43 @@
     <integer>-250</integer>
     <key>familyName</key>
     <string>crispy-x0y0t0</string>
+    <key>guidelines</key>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>YgrlY2J6wm</string>
+        <key>x</key>
+        <integer>277</integer>
+        <key>y</key>
+        <integer>386</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>r4Og11eW4Z</string>
+        <key>name</key>
+        <string>topserif-narrow</string>
+        <key>x</key>
+        <integer>185</integer>
+        <key>y</key>
+        <integer>557</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>zB3sZ5jdqB</string>
+        <key>name</key>
+        <string>numberstopserif</string>
+        <key>x</key>
+        <integer>73</integer>
+        <key>y</key>
+        <integer>539</integer>
+      </dict>
+    </array>
     <key>openTypeHeadCreated</key>
     <string>2018/06/12 21:37:59</string>
     <key>openTypeNamePreferredFamilyName</key>

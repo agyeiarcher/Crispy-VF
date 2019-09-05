@@ -1,13 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="otildedieresis" format="1">
+<glyph name="otildedieresis" format="2">
   <advance width="500"/>
   <unicode hex="1E4F"/>
   <outline>
   </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
-    </dict>
-  </lib>
 </glyph>

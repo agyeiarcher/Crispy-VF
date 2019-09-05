@@ -59,6 +59,17 @@
       </location>
     </source>
   </sources>
+  <instances>
+    <instance familyname="crispy-x0y0t0" stylename="Style_1" filename="instances/crispy-x0y0t0-Style_1.ufo">
+      <location>
+        <dimension name="xopq" xvalue="0"/>
+        <dimension name="yopq" xvalue="0"/>
+        <dimension name="ytra" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
   <lib>
     <dict>
       <key>com.letterror.skateboard.interactionSources</key>

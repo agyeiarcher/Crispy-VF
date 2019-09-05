@@ -1,39 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="B" format="1">
+<glyph name="B" format="2">
   <advance width="2702"/>
   <unicode hex="0042"/>
   <outline>
     <contour>
-      <point x="83" y="0" type="line" identifier="hvY9r8RmLr"/>
-      <point x="2676" y="0" type="line" identifier="9QFpw7nfq7"/>
-      <point x="2676" y="305" type="line" identifier="543PerILpr"/>
-      <point x="1821" y="371" type="line" identifier="tTFhqGqWV0"/>
-      <point x="1821" y="374" type="line" identifier="CFLmER0nAJ"/>
-      <point x="2632" y="440" type="line" identifier="eGKH52Jgnk"/>
-      <point x="2632" y="750" type="line" identifier="FaP204GrdB"/>
-      <point x="83" y="750" type="line" identifier="JEev70GAj6"/>
+      <point x="83" y="0" type="line"/>
+      <point x="2676" y="0" type="line"/>
+      <point x="2676" y="305" type="line"/>
+      <point x="1821" y="371" type="line"/>
+      <point x="1821" y="374" type="line"/>
+      <point x="2632" y="440" type="line"/>
+      <point x="2632" y="750" type="line"/>
+      <point x="83" y="750" type="line"/>
     </contour>
     <contour>
-      <point x="739" y="22" type="line" identifier="jaMSiLrCua"/>
-      <point x="739" y="361" type="line" identifier="XSrxNd2axx"/>
-      <point x="1778" y="361" type="line" identifier="VyYlzRh5nq"/>
-      <point x="2020" y="332" type="line" identifier="lsRGatjQja"/>
-      <point x="2020" y="22" type="line" identifier="xhlDJ3CjD5"/>
+      <point x="739" y="22" type="line"/>
+      <point x="739" y="361" type="line"/>
+      <point x="1778" y="361" type="line"/>
+      <point x="2020" y="332" type="line"/>
+      <point x="2020" y="22" type="line"/>
     </contour>
     <contour>
-      <point x="739" y="383" type="line" identifier="By7dfMihfe"/>
-      <point x="739" y="728" type="line" identifier="1p5hKrurVy"/>
-      <point x="1976" y="728" type="line" identifier="Qby8aMtF2X"/>
-      <point x="1976" y="407" type="line" identifier="9lW01gQyU2"/>
-      <point x="1780" y="383" type="line" identifier="xpxyvIzPoc"/>
+      <point x="739" y="383" type="line"/>
+      <point x="739" y="728" type="line"/>
+      <point x="1976" y="728" type="line"/>
+      <point x="1976" y="407" type="line"/>
+      <point x="1780" y="383" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 05:35:59 +0000</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>1p5hKrurVy</key>

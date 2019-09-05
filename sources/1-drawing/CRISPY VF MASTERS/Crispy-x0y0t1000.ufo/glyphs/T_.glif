@@ -1,29 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="T" format="1">
+<glyph name="T" format="2">
   <advance width="1496"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="51" y="502" type="line" identifier="je7pQw9mYt"/>
-      <point x="80" y="502" type="line" identifier="jHGwg0m2Tu"/>
+      <point x="51" y="502" type="line"/>
+      <point x="80" y="502" type="line"/>
       <point x="80" y="728" type="line"/>
-      <point x="733" y="728" type="line" identifier="1xm0mHc9eh"/>
+      <point x="733" y="728" type="line"/>
       <point x="733" y="0" type="line"/>
       <point x="764" y="0" type="line"/>
-      <point x="764" y="728" type="line" identifier="zTICSjBOe7"/>
+      <point x="764" y="728" type="line"/>
       <point x="1416" y="728" type="line"/>
-      <point x="1416" y="502" type="line" identifier="J3fH9EFg0z"/>
-      <point x="1445" y="502" type="line" identifier="ABe8abv3LE"/>
-      <point x="1445" y="750" type="line" identifier="l8jRaw0YkY"/>
-      <point x="51" y="750" type="line" identifier="8oS81nStJX"/>
+      <point x="1416" y="502" type="line"/>
+      <point x="1445" y="502" type="line"/>
+      <point x="1445" y="750" type="line"/>
+      <point x="51" y="750" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 05:35:59 +0000</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>1xm0mHc9eh</key>

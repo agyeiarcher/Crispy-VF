@@ -1,29 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="N" format="1">
+<glyph name="N" format="2">
   <advance width="2978"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="174" y="0" type="line" identifier="MWbbTwGkbG"/>
+      <point x="174" y="0" type="line"/>
       <point x="830" y="0" type="line"/>
-      <point x="830" y="744" type="line" identifier="7wBal5jvPQ"/>
-      <point x="762" y="744" type="line" identifier="HgG4gyE7AV"/>
-      <point x="1861" y="0" type="line" identifier="j2qkgH7CJF"/>
-      <point x="2800" y="0" type="line" identifier="ZsB4bFWMAS"/>
-      <point x="2800" y="750" type="line" identifier="Mm9MihPC9S"/>
-      <point x="2144" y="750" type="line" identifier="1omi5wQQzW"/>
-      <point x="2144" y="10" type="line" identifier="RZjfuiFaWd"/>
-      <point x="2212" y="10" type="line" identifier="DYg9JHyygg"/>
+      <point x="830" y="744" type="line"/>
+      <point x="762" y="744" type="line"/>
+      <point x="1861" y="0" type="line"/>
+      <point x="2800" y="0" type="line"/>
+      <point x="2800" y="750" type="line"/>
+      <point x="2144" y="750" type="line"/>
+      <point x="2144" y="10" type="line"/>
+      <point x="2212" y="10" type="line"/>
       <point x="1110" y="750" type="line"/>
-      <point x="174" y="750" type="line" identifier="Icsrkoeq5r"/>
+      <point x="174" y="750" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 05:35:59 +0000</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>1omi5wQQzW</key>

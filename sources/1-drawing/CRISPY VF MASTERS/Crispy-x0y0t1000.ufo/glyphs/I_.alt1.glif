@@ -1,26 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="I.alt1" format="1">
+<glyph name="I.alt1" format="2">
   <advance width="1367"/>
   <outline>
     <contour>
-      <point x="33" y="0" type="line" identifier="u8XZE2STzL"/>
-      <point x="1334" y="0" type="line" identifier="1Ty0JfMohF"/>
-      <point x="1334" y="22" type="line" identifier="quzaPWszgr"/>
-      <point x="699" y="22" type="line" identifier="1m237t4hyw"/>
-      <point x="699" y="728" type="line" identifier="v7N4yg5XNk"/>
-      <point x="1334" y="728" type="line" identifier="9RiQmr3G8U"/>
-      <point x="1334" y="750" type="line" identifier="jZjJqwR81q"/>
-      <point x="33" y="750" type="line" identifier="PL3Zqx19x8"/>
-      <point x="33" y="728" type="line" identifier="O5ZoWKLuW7"/>
-      <point x="668" y="728" type="line" identifier="zfocDyDTCM"/>
-      <point x="668" y="22" type="line" identifier="S4rO5KuHiL"/>
-      <point x="33" y="22" type="line" identifier="aCoxe3fSmw"/>
+      <point x="33" y="0" type="line"/>
+      <point x="1334" y="0" type="line"/>
+      <point x="1334" y="22" type="line"/>
+      <point x="699" y="22" type="line"/>
+      <point x="699" y="728" type="line"/>
+      <point x="1334" y="728" type="line"/>
+      <point x="1334" y="750" type="line"/>
+      <point x="33" y="750" type="line"/>
+      <point x="33" y="728" type="line"/>
+      <point x="668" y="728" type="line"/>
+      <point x="668" y="22" type="line"/>
+      <point x="33" y="22" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>1Ty0JfMohF</key>

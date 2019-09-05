@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<glyph name="two" format="1">
+<glyph name="two" format="2">
   <advance width="1205"/>
   <unicode hex="0032"/>
   <outline>
     <contour>
-      <point x="20" y="0" type="line" identifier="bZx9vXVxsz"/>
-      <point x="1187" y="0" type="line" identifier="tr1cNbQvAW"/>
-      <point x="1187" y="153" type="line" identifier="upRyW44osQ"/>
-      <point x="1156" y="153" type="line" identifier="9u0ohc5kfC"/>
-      <point x="1156" y="22" type="line" identifier="IRqxeLL7pC"/>
-      <point x="51" y="22" type="line" identifier="YW3XpgMoeM"/>
-      <point x="50" y="364" type="line" identifier="T0oGDgxW6o"/>
-      <point x="1174" y="364" type="line" identifier="FoZtLrSAm0"/>
-      <point x="1174" y="750" type="line" identifier="d3YBitZOVz"/>
-      <point x="120" y="750" type="line" identifier="0Ajshqnglh"/>
-      <point x="31" y="629" type="line" identifier="BMi3iTgbBs"/>
-      <point x="31" y="532" type="line" identifier="QzZqP70XaF"/>
+      <point x="20" y="0" type="line"/>
+      <point x="1187" y="0" type="line"/>
+      <point x="1187" y="153" type="line"/>
+      <point x="1156" y="153" type="line"/>
+      <point x="1156" y="22" type="line"/>
+      <point x="51" y="22" type="line"/>
+      <point x="50" y="364" type="line"/>
+      <point x="1174" y="364" type="line"/>
+      <point x="1174" y="750" type="line"/>
+      <point x="120" y="750" type="line"/>
+      <point x="31" y="629" type="line"/>
+      <point x="31" y="532" type="line"/>
       <point x="62" y="532" type="line"/>
-      <point x="62" y="625" type="line" identifier="n1wmVprBNi"/>
-      <point x="139" y="728" type="line" identifier="7u9Rdlg0VM"/>
-      <point x="1143" y="728" type="line" identifier="jhV5w3HiqB"/>
-      <point x="1143" y="386" type="line" identifier="xHiuR7oaYL"/>
-      <point x="20" y="386" type="line" identifier="fasUGvhWy6"/>
+      <point x="62" y="625" type="line"/>
+      <point x="139" y="728" type="line"/>
+      <point x="1143" y="728" type="line"/>
+      <point x="1143" y="386" type="line"/>
+      <point x="20" y="386" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -30,8 +30,6 @@
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 12:46:41 +0000</string>
-      <key>com.typemytype.robofont.layerData</key>
-      <dict/>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>0Ajshqnglh</key>
