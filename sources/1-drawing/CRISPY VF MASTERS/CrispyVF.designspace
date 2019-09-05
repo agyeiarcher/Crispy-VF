@@ -60,11 +60,56 @@
     </source>
   </sources>
   <instances>
-    <instance familyname="crispy-x0y0t0" stylename="Style_1" filename="instances/crispy-x0y0t0-Style_1.ufo">
+    <instance familyname="KRSPY" stylename="Narrow Light" filename="instances/crispy-x0y0t0-narrow-light.ufo">
       <location>
         <dimension name="xopq" xvalue="0"/>
         <dimension name="yopq" xvalue="0"/>
         <dimension name="ytra" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="Narrow xBLD" filename="instances/crispy-x0y0t0-narrow-xbld.ufo">
+      <location>
+        <dimension name="xopq" xvalue="1000"/>
+        <dimension name="yopq" xvalue="0"/>
+        <dimension name="ytra" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="Narrow yBLD" filename="instances/crispy-x0y0t0-narrow-ybld.ufo">
+      <location>
+        <dimension name="xopq" xvalue="0"/>
+        <dimension name="yopq" xvalue="1000"/>
+        <dimension name="ytra" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="Wide Light" filename="instances/crispy-x0y0t0-narrow-ybld.ufo">
+      <location>
+        <dimension name="xopq" xvalue="0"/>
+        <dimension name="yopq" xvalue="0"/>
+        <dimension name="ytra" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="Wide xBld" filename="instances/crispy-x0y0t0-narrow-ybld.ufo">
+      <location>
+        <dimension name="xopq" xvalue="1000"/>
+        <dimension name="yopq" xvalue="0"/>
+        <dimension name="ytra" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="Wide yBld" filename="instances/crispy-x0y0t0-narrow-ybld.ufo">
+      <location>
+        <dimension name="xopq" xvalue="0"/>
+        <dimension name="yopq" xvalue="1000"/>
+        <dimension name="ytra" xvalue="1000"/>
       </location>
       <kerning/>
       <info/>
