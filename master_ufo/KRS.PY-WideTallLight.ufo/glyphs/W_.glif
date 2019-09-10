@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="2">
+  <advance width="1768.0"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="176.0" y="0.0" type="line"/>
+      <point x="778.0" y="0.0" type="line"/>
+      <point x="886.0" y="123.0" type="line"/>
+      <point x="881.0" y="123.0" type="line"/>
+      <point x="994.0" y="0.0" type="line"/>
+      <point x="1596.0" y="0.0" type="line"/>
+      <point x="1712.0" y="167.0" type="line"/>
+      <point x="1712.0" y="750.0" type="line"/>
+      <point x="1671.0" y="750.0" type="line"/>
+      <point x="1671.0" y="175.0" type="line"/>
+      <point x="1569.0" y="32.0" type="line"/>
+      <point x="1014.0" y="32.0" type="line"/>
+      <point x="903.0" y="153.0" type="line"/>
+      <point x="903.0" y="750.0" type="line"/>
+      <point x="862.0" y="750.0" type="line"/>
+      <point x="862.0" y="153.0" type="line"/>
+      <point x="757.0" y="32.0" type="line"/>
+      <point x="202.0" y="32.0" type="line"/>
+      <point x="97.0" y="175.0" type="line"/>
+      <point x="97.0" y="750.0" type="line"/>
+      <point x="56.0" y="750.0" type="line"/>
+      <point x="56.0" y="167.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/09/10 13:44:09</string>
+    </dict>
+  </lib>
+</glyph>

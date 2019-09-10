@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="eight" format="2">
+  <advance width="997.0"/>
+  <unicode hex="0038"/>
+  <outline>
+    <contour>
+      <point x="0.0" y="0.0" type="line"/>
+      <point x="997.0" y="0.0" type="line"/>
+      <point x="997.0" y="288.0" type="line"/>
+      <point x="844.0" y="369.0" type="line"/>
+      <point x="844.0" y="372.0" type="line"/>
+      <point x="996.0" y="447.0" type="line"/>
+      <point x="996.0" y="750.0" type="line"/>
+      <point x="1.0" y="750.0" type="line"/>
+      <point x="1.0" y="446.0" type="line"/>
+      <point x="158.0" y="372.0" type="line"/>
+      <point x="158.0" y="369.0" type="line"/>
+      <point x="0.0" y="288.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="41.0" y="32.0" type="line"/>
+      <point x="41.0" y="276.0" type="line"/>
+      <point x="189.0" y="356.0" type="line"/>
+      <point x="811.0" y="356.0" type="line"/>
+      <point x="956.0" y="276.0" type="line"/>
+      <point x="956.0" y="32.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="193.0" y="385.0" type="line"/>
+      <point x="42.0" y="458.0" type="line"/>
+      <point x="42.0" y="718.0" type="line"/>
+      <point x="955.0" y="718.0" type="line"/>
+      <point x="955.0" y="458.0" type="line"/>
+      <point x="809.0" y="385.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/09/10 14:26:11</string>
+    </dict>
+  </lib>
+</glyph>

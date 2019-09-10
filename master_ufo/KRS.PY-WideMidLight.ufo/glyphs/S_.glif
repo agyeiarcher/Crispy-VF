@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="S" format="2">
+  <advance width="1223.0"/>
+  <unicode hex="0053"/>
+  <outline>
+    <contour>
+      <point x="58.0" y="0.0" type="line"/>
+      <point x="1170.0" y="0.0" type="line"/>
+      <point x="1170.0" y="388.0" type="line"/>
+      <point x="97.0" y="388.0" type="line"/>
+      <point x="97.0" y="589.0" type="line"/>
+      <point x="199.0" y="720.0" type="line"/>
+      <point x="1117.0" y="720.0" type="line"/>
+      <point x="1117.0" y="538.0" type="line"/>
+      <point x="1159.0" y="538.0" type="line"/>
+      <point x="1159.0" y="750.0" type="line"/>
+      <point x="175.0" y="750.0" type="line"/>
+      <point x="56.0" y="598.0" type="line"/>
+      <point x="56.0" y="358.0" type="line"/>
+      <point x="1128.0" y="358.0" type="line"/>
+      <point x="1128.0" y="31.0" type="line"/>
+      <point x="99.0" y="31.0" type="line"/>
+      <point x="99.0" y="174.0" type="line"/>
+      <point x="58.0" y="174.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/09/10 14:08:46</string>
+    </dict>
+  </lib>
+</glyph>

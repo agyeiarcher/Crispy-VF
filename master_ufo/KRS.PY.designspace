@@ -1,0 +1,223 @@
+<?xml version='1.0' encoding='utf-8'?>
+<designspace format="3">
+    <axes>
+        <axis default="1000.0" maximum="1000.0" minimum="0.0" name="weight" tag="wght">
+            <map input="0.0" output="0.0" />
+            <map input="1000.0" output="1000.0" />
+            <labelname xml:lang="en">Weight</labelname>
+        </axis>
+        <axis default="1000.0" maximum="1000.0" minimum="0.0" name="width" tag="wdth">
+            <map input="0.0" output="0.0" />
+            <map input="1000.0" output="1000.0" />
+            <labelname xml:lang="en">Width</labelname>
+        </axis>
+        <axis default="0.0" maximum="100.0" minimum="-100.0" name="custom" tag="XXXX">
+            <map input="-100.0" output="-100.0" />
+            <map input="-10.0" output="-10.0" />
+            <map input="0.0" output="0.0" />
+            <map input="10.0" output="10.0" />
+            <map input="100.0" output="100.0" />
+            <labelname xml:lang="en">Custom</labelname>
+        </axis>
+    </axes>
+    <sources>
+        <source familyname="KRS.PY" filename="KRS.PY-BlackWideMid.ufo" name="KRS.PY Black Wide Mid" stylename="Black Wide Mid">
+            <lib copy="1" />
+            <groups copy="1" />
+            <features copy="1" />
+            <info copy="1" />
+            <location>
+                <dimension name="weight" xvalue="1000.000000" />
+                <dimension name="width" xvalue="1000.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+        </source>
+        <source familyname="KRS.PY" filename="KRS.PY-WideMidLight.ufo" name="KRS.PY Wide Mid Light" stylename="Wide Mid Light">
+            <location>
+                <dimension name="weight" xvalue="0.000000" />
+                <dimension name="width" xvalue="1000.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+        </source>
+        <source familyname="KRS.PY" filename="KRS.PY-NarrowMidLight.ufo" name="KRS.PY Narrow Mid Light" stylename="Narrow Mid Light">
+            <location>
+                <dimension name="weight" xvalue="0.000000" />
+                <dimension name="width" xvalue="0.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+        </source>
+        <source familyname="KRS.PY" filename="KRS.PY-BlackNarrowMid.ufo" name="KRS.PY Black Narrow Mid" stylename="Black Narrow Mid">
+            <location>
+                <dimension name="weight" xvalue="1000.000000" />
+                <dimension name="width" xvalue="0.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+        </source>
+        <source familyname="KRS.PY" filename="KRS.PY-BlackWideTall.ufo" name="KRS.PY Black Wide Tall" stylename="Black Wide Tall">
+            <location>
+                <dimension name="weight" xvalue="1000.000000" />
+                <dimension name="width" xvalue="1000.000000" />
+                <dimension name="custom" xvalue="-100.000000" />
+            </location>
+        </source>
+        <source familyname="KRS.PY" filename="KRS.PY-WideTallLight.ufo" name="KRS.PY Wide Tall Light" stylename="Wide Tall Light">
+            <location>
+                <dimension name="weight" xvalue="0.000000" />
+                <dimension name="width" xvalue="1000.000000" />
+                <dimension name="custom" xvalue="-100.000000" />
+            </location>
+        </source>
+        <source familyname="KRS.PY" filename="KRS.PY-NarrowTallLight.ufo" name="KRS.PY Narrow Tall Light" stylename="Narrow Tall Light">
+            <location>
+                <dimension name="weight" xvalue="0.000000" />
+                <dimension name="width" xvalue="0.000000" />
+                <dimension name="custom" xvalue="-100.000000" />
+            </location>
+        </source>
+        <source familyname="KRS.PY" filename="KRS.PY-BlackNarrowTall.ufo" name="KRS.PY Black Narrow Tall" stylename="Black Narrow Tall">
+            <location>
+                <dimension name="weight" xvalue="1000.000000" />
+                <dimension name="width" xvalue="0.000000" />
+                <dimension name="custom" xvalue="-10.000000" />
+            </location>
+        </source>
+        <source familyname="KRS.PY" filename="KRS.PY-BlackWideStout.ufo" name="KRS.PY Black Wide Stout" stylename="Black Wide Stout">
+            <location>
+                <dimension name="weight" xvalue="1000.000000" />
+                <dimension name="width" xvalue="1000.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+        </source>
+        <source familyname="KRS.PY" filename="KRS.PY-WideStoutLight.ufo" name="KRS.PY Wide Stout Light" stylename="Wide Stout Light">
+            <location>
+                <dimension name="weight" xvalue="0.000000" />
+                <dimension name="width" xvalue="1000.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+        </source>
+        <source familyname="KRS.PY" filename="KRS.PY-NarrowStoutLight.ufo" name="KRS.PY Narrow Stout Light" stylename="Narrow Stout Light">
+            <location>
+                <dimension name="weight" xvalue="0.000000" />
+                <dimension name="width" xvalue="0.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+        </source>
+        <source familyname="KRS.PY" filename="KRS.PY-BlackNarrowStout.ufo" name="KRS.PY Black Narrow Stout" stylename="Black Narrow Stout">
+            <location>
+                <dimension name="weight" xvalue="1000.000000" />
+                <dimension name="width" xvalue="0.000000" />
+                <dimension name="custom" xvalue="10.000000" />
+            </location>
+        </source>
+    </sources>
+    <instances>
+        <instance familyname="KRS.PY" filename="../instance_ufo/KRS.PY-BlackWideMid.ufo" name="KRS.PY Black Wide Mid" stylemapfamilyname="KRS.PY Black Wide Mid" stylemapstylename="regular" stylename="Black Wide Mid">
+            <location>
+                <dimension name="weight" xvalue="1000.000000" />
+                <dimension name="width" xvalue="1000.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="KRS.PY" filename="../instance_ufo/KRS.PY-LightWideMid.ufo" name="KRS.PY Light Wide Mid" stylemapfamilyname="KRS.PY Light Wide Mid" stylemapstylename="regular" stylename="Light Wide Mid">
+            <location>
+                <dimension name="weight" xvalue="0.000000" />
+                <dimension name="width" xvalue="1000.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="KRS.PY" filename="../instance_ufo/KRS.PY-LightNarrowMid.ufo" name="KRS.PY Light Narrow Mid" stylemapfamilyname="KRS.PY Light Narrow Mid" stylemapstylename="regular" stylename="Light Narrow Mid">
+            <location>
+                <dimension name="weight" xvalue="0.000000" />
+                <dimension name="width" xvalue="0.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="KRS.PY" filename="../instance_ufo/KRS.PY-BlackNarrowMid.ufo" name="KRS.PY Black Narrow Mid" stylemapfamilyname="KRS.PY Black Narrow Mid" stylemapstylename="regular" stylename="Black Narrow Mid">
+            <location>
+                <dimension name="weight" xvalue="1000.000000" />
+                <dimension name="width" xvalue="0.000000" />
+                <dimension name="custom" xvalue="0.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="KRS.PY" filename="../instance_ufo/KRS.PY-BlackWideTall.ufo" name="KRS.PY Black Wide Tall" stylemapfamilyname="KRS.PY Black Wide Tall" stylemapstylename="regular" stylename="Black Wide Tall">
+            <location>
+                <dimension name="weight" xvalue="1000.000000" />
+                <dimension name="width" xvalue="1000.000000" />
+                <dimension name="custom" xvalue="-100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="KRS.PY" filename="../instance_ufo/KRS.PY-LightWideTall.ufo" name="KRS.PY Light Wide Tall" stylemapfamilyname="KRS.PY Light Wide Tall" stylemapstylename="regular" stylename="Light Wide Tall">
+            <location>
+                <dimension name="weight" xvalue="0.000000" />
+                <dimension name="width" xvalue="1000.000000" />
+                <dimension name="custom" xvalue="-100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="KRS.PY" filename="../instance_ufo/KRS.PY-LightNarrowTall.ufo" name="KRS.PY Light Narrow Tall" stylemapfamilyname="KRS.PY Light Narrow Tall" stylemapstylename="regular" stylename="Light Narrow Tall">
+            <location>
+                <dimension name="weight" xvalue="0.000000" />
+                <dimension name="width" xvalue="0.000000" />
+                <dimension name="custom" xvalue="-100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="KRS.PY" filename="../instance_ufo/KRS.PY-BlackNarrowTall.ufo" name="KRS.PY Black Narrow Tall" stylemapfamilyname="KRS.PY Black Narrow Tall" stylemapstylename="regular" stylename="Black Narrow Tall">
+            <location>
+                <dimension name="weight" xvalue="1000.000000" />
+                <dimension name="width" xvalue="0.000000" />
+                <dimension name="custom" xvalue="-10.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="KRS.PY" filename="../instance_ufo/KRS.PY-BlackWideStout.ufo" name="KRS.PY Black Wide Stout" stylemapfamilyname="KRS.PY Black Wide Stout" stylemapstylename="regular" stylename="Black Wide Stout">
+            <location>
+                <dimension name="weight" xvalue="1000.000000" />
+                <dimension name="width" xvalue="1000.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="KRS.PY" filename="../instance_ufo/KRS.PY-LightWideStout.ufo" name="KRS.PY Light Wide Stout" stylemapfamilyname="KRS.PY Light Wide Stout" stylemapstylename="regular" stylename="Light Wide Stout">
+            <location>
+                <dimension name="weight" xvalue="0.000000" />
+                <dimension name="width" xvalue="1000.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="KRS.PY" filename="../instance_ufo/KRS.PY-LightNarrowStout.ufo" name="KRS.PY Light Narrow Stout" stylemapfamilyname="KRS.PY Light Narrow Stout" stylemapstylename="regular" stylename="Light Narrow Stout">
+            <location>
+                <dimension name="weight" xvalue="0.000000" />
+                <dimension name="width" xvalue="0.000000" />
+                <dimension name="custom" xvalue="100.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+        <instance familyname="KRS.PY" filename="../instance_ufo/KRS.PY-BlackNarrowStout.ufo" name="KRS.PY Black Narrow Stout" stylemapfamilyname="KRS.PY Black Narrow Stout" stylemapstylename="regular" stylename="Black Narrow Stout">
+            <location>
+                <dimension name="weight" xvalue="1000.000000" />
+                <dimension name="width" xvalue="0.000000" />
+                <dimension name="custom" xvalue="10.000000" />
+            </location>
+            <info />
+            <kerning />
+        </instance>
+    </instances>
+</designspace>
