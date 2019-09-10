@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="S" format="2">
+  <advance width="800.0"/>
+  <unicode hex="0053"/>
+  <outline>
+    <contour>
+      <point x="29.0" y="0.0" type="line"/>
+      <point x="756.0" y="0.0" type="line"/>
+      <point x="756.0" y="421.0" type="line"/>
+      <point x="370.0" y="421.0" type="line"/>
+      <point x="370.0" y="499.0" type="line"/>
+      <point x="408.0" y="604.0" type="line"/>
+      <point x="750.0" y="604.0" type="line"/>
+      <point x="750.0" y="750.0" type="line"/>
+      <point x="116.0" y="750.0" type="line"/>
+      <point x="31.0" y="545.0" type="line"/>
+      <point x="31.0" y="259.0" type="line"/>
+      <point x="417.0" y="259.0" type="line"/>
+      <point x="417.0" y="146.0" type="line"/>
+      <point x="29.0" y="146.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/09/09 15:33:25</string>
+    </dict>
+  </lib>
+</glyph>

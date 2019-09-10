@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="three" format="2">
+  <advance width="828.0"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="36.0" y="0.0" type="line"/>
+      <point x="785.0" y="0.0" type="line"/>
+      <point x="785.0" y="390.0" type="line"/>
+      <point x="540.0" y="390.0" type="line"/>
+      <point x="540.0" y="400.0" type="line"/>
+      <point x="774.0" y="486.0" type="line"/>
+      <point x="774.0" y="750.0" type="line"/>
+      <point x="40.0" y="750.0" type="line"/>
+      <point x="40.0" y="516.0" type="line"/>
+      <point x="378.0" y="516.0" type="line"/>
+      <point x="378.0" y="648.0" type="line"/>
+      <point x="432.0" y="648.0" type="line"/>
+      <point x="432.0" y="432.0" type="line"/>
+      <point x="374.0" y="407.0" type="line"/>
+      <point x="165.0" y="407.0" type="line"/>
+      <point x="165.0" y="325.0" type="line"/>
+      <point x="446.0" y="325.0" type="line"/>
+      <point x="446.0" y="100.0" type="line"/>
+      <point x="375.0" y="100.0" type="line"/>
+      <point x="375.0" y="191.0" type="line"/>
+      <point x="36.0" y="191.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/09/09 11:54:31</string>
+    </dict>
+  </lib>
+</glyph>
