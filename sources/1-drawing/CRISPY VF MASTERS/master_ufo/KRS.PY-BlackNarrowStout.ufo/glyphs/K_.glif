@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="2">
-  <advance width="841.0"/>
+  <advance width="911.0"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
       <point x="41.0" y="0.0" type="line"/>
       <point x="380.0" y="0.0" type="line"/>
-      <point x="380.0" y="235.0" type="line"/>
-      <point x="424.0" y="235.0" type="line"/>
-      <point x="471.0" y="202.0" type="line"/>
-      <point x="471.0" y="0.0" type="line"/>
-      <point x="810.0" y="0.0" type="line"/>
-      <point x="810.0" y="214.0" type="line"/>
-      <point x="631.0" y="282.0" type="line"/>
-      <point x="631.0" y="297.0" type="line"/>
-      <point x="803.0" y="346.0" type="line"/>
-      <point x="803.0" y="750.0" type="line"/>
-      <point x="464.0" y="750.0" type="line"/>
-      <point x="464.0" y="341.0" type="line"/>
-      <point x="419.0" y="320.0" type="line"/>
-      <point x="380.0" y="320.0" type="line"/>
+      <point x="380.0" y="222.0" type="line"/>
+      <point x="493.0" y="222.0" type="line"/>
+      <point x="540.0" y="189.0" type="line"/>
+      <point x="540.0" y="0.0" type="line"/>
+      <point x="879.0" y="0.0" type="line"/>
+      <point x="879.0" y="209.0" type="line"/>
+      <point x="706.0" y="277.0" type="line"/>
+      <point x="706.0" y="292.0" type="line"/>
+      <point x="872.0" y="341.0" type="line"/>
+      <point x="872.0" y="750.0" type="line"/>
+      <point x="533.0" y="750.0" type="line"/>
+      <point x="533.0" y="345.0" type="line"/>
+      <point x="488.0" y="315.0" type="line"/>
+      <point x="380.0" y="315.0" type="line"/>
       <point x="380.0" y="750.0" type="line"/>
       <point x="41.0" y="750.0" type="line"/>
     </contour>
@@ -27,7 +27,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/09/09 15:26:23</string>
+      <string>2019/09/10 14:08:18</string>
     </dict>
   </lib>
 </glyph>

@@ -199,7 +199,7 @@ xHeight = 500;
 ascender = 750;
 capHeight = 750;
 custom = "Black Narrow Tall";
-customValue = -10;
+customValue = -100;
 customParameters = (
 {
 name = "Master Icon Glyph Name";
@@ -290,7 +290,7 @@ xHeight = 500;
 ascender = 750;
 capHeight = 750;
 custom = "Black Narrow Stout";
-customValue = 10;
+customValue = 100;
 customParameters = (
 {
 name = "Master Icon Glyph Name";
@@ -47738,7 +47738,7 @@ instanceInterpolations = {
 name = "Light Narrow Tall";
 },
 {
-interpolationCustom = -10;
+interpolationCustom = -100;
 interpolationWeight = 1000;
 interpolationWidth = 0;
 instanceInterpolations = {
@@ -47774,7 +47774,7 @@ instanceInterpolations = {
 name = "Light Narrow Stout";
 },
 {
-interpolationCustom = 10;
+interpolationCustom = 100;
 interpolationWeight = 1000;
 interpolationWidth = 0;
 instanceInterpolations = {

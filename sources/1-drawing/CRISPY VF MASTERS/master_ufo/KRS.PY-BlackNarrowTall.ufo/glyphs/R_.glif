@@ -1,35 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="R" format="2">
-  <advance width="839.0"/>
+  <advance width="919.0"/>
   <unicode hex="0052"/>
   <outline>
     <contour>
       <point x="41.0" y="0.0" type="line"/>
       <point x="380.0" y="0.0" type="line"/>
-      <point x="380.0" y="428.0" type="line"/>
-      <point x="439.0" y="428.0" type="line"/>
-      <point x="468.0" y="404.0" type="line"/>
-      <point x="468.0" y="0.0" type="line"/>
-      <point x="806.0" y="0.0" type="line"/>
-      <point x="805.0" y="424.0" type="line"/>
-      <point x="677.0" y="471.0" type="line"/>
-      <point x="677.0" y="483.0" type="line"/>
-      <point x="802.0" y="504.0" type="line"/>
-      <point x="802.0" y="750.0" type="line"/>
+      <point x="380.0" y="405.0" type="line"/>
+      <point x="496.0" y="405.0" type="line"/>
+      <point x="548.0" y="381.0" type="line"/>
+      <point x="548.0" y="0.0" type="line"/>
+      <point x="886.0" y="0.0" type="line"/>
+      <point x="885.0" y="401.0" type="line"/>
+      <point x="742.0" y="448.0" type="line"/>
+      <point x="742.0" y="460.0" type="line"/>
+      <point x="882.0" y="481.0" type="line"/>
+      <point x="882.0" y="750.0" type="line"/>
       <point x="41.0" y="750.0" type="line"/>
     </contour>
     <contour>
-      <point x="380.0" y="514.0" type="line"/>
+      <point x="380.0" y="498.0" type="line"/>
       <point x="380.0" y="633.0" type="line"/>
-      <point x="463.0" y="633.0" type="line"/>
-      <point x="463.0" y="527.0" type="line"/>
-      <point x="429.0" y="514.0" type="line"/>
+      <point x="543.0" y="633.0" type="line"/>
+      <point x="543.0" y="524.0" type="line"/>
+      <point x="499.0" y="498.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/09/09 15:16:01</string>
+      <string>2019/09/10 14:08:36</string>
     </dict>
   </lib>
 </glyph>

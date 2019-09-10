@@ -36,8 +36,8 @@
 	<string>D_linebelow.glif</string>
 	<key>E</key>
 	<string>E_.glif</string>
-	<key>E.alt1</key>
-	<string>E_.alt1.glif</string>
+	<key>E.no</key>
+	<string>E_.no.glif</string>
 	<key>Eacute</key>
 	<string>E_acute.glif</string>
 	<key>Ecedillabreve</key>
@@ -56,16 +56,14 @@
 	<string>E_th.glif</string>
 	<key>F</key>
 	<string>F_.glif</string>
-	<key>F.alt1</key>
-	<string>F_.alt1.glif</string>
+	<key>F.alt</key>
+	<string>F_.alt.glif</string>
 	<key>G</key>
 	<string>G_.glif</string>
 	<key>Gmacron</key>
 	<string>G_macron.glif</string>
 	<key>H</key>
 	<string>H_.glif</string>
-	<key>H.001</key>
-	<string>H_.001.glif</string>
 	<key>Hbrevebelow</key>
 	<string>H_brevebelow.glif</string>
 	<key>Hdotbelow</key>
@@ -128,8 +126,6 @@
 	<string>O_macronacute.glif</string>
 	<key>Omacrongrave</key>
 	<string>O_macrongrave.glif</string>
-	<key>Omega</key>
-	<string>O_mega.glif</string>
 	<key>Oslash</key>
 	<string>O_slash.glif</string>
 	<key>Otilde</key>
@@ -150,8 +146,8 @@
 	<string>R_linebelow.glif</string>
 	<key>S</key>
 	<string>S_.glif</string>
-	<key>S.alt1</key>
-	<string>S_.alt1.glif</string>
+	<key>S.alt</key>
+	<string>S_.alt.glif</string>
 	<key>Sacutedotaccent</key>
 	<string>S_acutedotaccent.glif</string>
 	<key>Scarondotaccent</key>
@@ -228,6 +224,8 @@
 	<string>asciitilde.glif</string>
 	<key>asterisk</key>
 	<string>asterisk.glif</string>
+	<key>asterisk.001</key>
+	<string>asterisk.001.glif</string>
 	<key>at</key>
 	<string>at.glif</string>
 	<key>atilde</key>
@@ -236,6 +234,8 @@
 	<string>b.glif</string>
 	<key>backslash</key>
 	<string>backslash.glif</string>
+	<key>backslash.001</key>
+	<string>backslash.001.glif</string>
 	<key>bar</key>
 	<string>bar.glif</string>
 	<key>braceleft</key>
@@ -250,6 +250,8 @@
 	<string>brokenbar.glif</string>
 	<key>bullet</key>
 	<string>bullet.glif</string>
+	<key>bullet.001</key>
+	<string>bullet.001.glif</string>
 	<key>c</key>
 	<string>c.glif</string>
 	<key>ccedilla</key>
@@ -264,6 +266,8 @@
 	<string>circumflex.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
+	<key>comma.001</key>
+	<string>comma.001.glif</string>
 	<key>commaturnedmod</key>
 	<string>commaturnedmod.glif</string>
 	<key>copyright</key>
@@ -314,6 +318,8 @@
 	<string>eightsuperior.glif</string>
 	<key>ellipsis</key>
 	<string>ellipsis.glif</string>
+	<key>ellipsis.001</key>
+	<string>ellipsis.001.glif</string>
 	<key>emacronacute</key>
 	<string>emacronacute.glif</string>
 	<key>emacrongrave</key>
@@ -334,6 +340,8 @@
 	<string>euro.glif</string>
 	<key>exclamdown</key>
 	<string>exclamdown.glif</string>
+	<key>exclamdown.001</key>
+	<string>exclamdown.001.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
 	<key>figuredash</key>
@@ -400,6 +408,8 @@
 	<string>horizontalbar.glif</string>
 	<key>hyphen</key>
 	<string>hyphen.glif</string>
+	<key>hyphen.001</key>
+	<string>hyphen.001.glif</string>
 	<key>hyphentwo</key>
 	<string>hyphentwo.glif</string>
 	<key>i</key>
@@ -450,8 +460,6 @@
 	<string>minus.glif</string>
 	<key>minute</key>
 	<string>minute.glif</string>
-	<key>mu</key>
-	<string>mu.glif</string>
 	<key>multiply</key>
 	<string>multiply.glif</string>
 	<key>n</key>
@@ -480,6 +488,8 @@
 	<string>ntilde.glif</string>
 	<key>numbersign</key>
 	<string>numbersign.glif</string>
+	<key>numbersign.001</key>
+	<string>numbersign.001.glif</string>
 	<key>o</key>
 	<string>o.glif</string>
 	<key>oacute</key>
@@ -512,10 +522,6 @@
 	<string>onequarter.glif</string>
 	<key>onesuperior</key>
 	<string>onesuperior.glif</string>
-	<key>ordfeminine</key>
-	<string>ordfeminine.glif</string>
-	<key>ordmasculine</key>
-	<string>ordmasculine.glif</string>
 	<key>oslash</key>
 	<string>oslash.glif</string>
 	<key>otilde</key>
@@ -538,8 +544,8 @@
 	<string>percent.glif</string>
 	<key>periodcentered</key>
 	<string>periodcentered.glif</string>
-	<key>pi</key>
-	<string>pi.glif</string>
+	<key>periodcentered.001</key>
+	<string>periodcentered.001.glif</string>
 	<key>plus</key>
 	<string>plus.glif</string>
 	<key>plusminus</key>
@@ -554,6 +560,8 @@
 	<string>q.glif</string>
 	<key>questiondown</key>
 	<string>questiondown.glif</string>
+	<key>questiondown.001</key>
+	<string>questiondown.001.glif</string>
 	<key>quotedbl</key>
 	<string>quotedbl.glif</string>
 	<key>quotedblbase</key>
@@ -630,6 +638,8 @@
 	<string>sixsuperior.glif</string>
 	<key>slash</key>
 	<string>slash.glif</string>
+	<key>slash.001</key>
+	<string>slash.001.glif</string>
 	<key>softhyphen</key>
 	<string>softhyphen.glif</string>
 	<key>space</key>

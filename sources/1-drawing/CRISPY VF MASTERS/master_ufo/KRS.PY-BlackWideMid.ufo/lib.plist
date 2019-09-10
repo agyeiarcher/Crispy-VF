@@ -25,9 +25,8 @@
 	</array>
 	<key>com.schriftgestaltung.DisplayStrings</key>
 	<array>
-		<string>ORO
-HHH</string>
-		<string>8</string>
+		<string>BR</string>
+		<string></string>
 		<string>OOOO
 HHHH
 OO/T.alt1 OO
@@ -37,14 +36,30 @@ DYNA/T.alt1 Y
 HO
 </string>
 		<string>O</string>
-		<string>METSS</string>
-		<string>5</string>
+		<string>MT</string>
+		<string></string>
 		<string>W</string>
-		<string>OOSOO</string>
-		<string>S</string>
+		<string>OOOO</string>
+		<string>/S.alt</string>
 		<string>P</string>
+		<string></string>
+		<string>/F.alt</string>
+		<string>M</string>
+		<string></string>
+		<string>0</string>
+		<string>1</string>
+		<string>1</string>
+		<string>AR</string>
+		<string></string>
+		<string></string>
+		<string>SLY</string>
+		<string>U</string>
+		<string>B2R</string>
+		<string>A9</string>
+		<string>2</string>
 		<string>F</string>
-		<string>9</string>
+		<string>/E.no</string>
+		<string>59</string>
 	</array>
 	<key>com.schriftgestaltung.Master Icon Glyph Name</key>
 	<string>A</string>
@@ -158,14 +173,13 @@ HO
 		<string>Ydotaccent</string>
 		<string>Z</string>
 		<string>Zdotbelow</string>
-		<string>H.001</string>
+		<string>F.alt</string>
+		<string>S.alt</string>
 		<string>W.alt</string>
-		<string>E.alt1</string>
-		<string>F.alt1</string>
 		<string>I.alt1</string>
-		<string>S.alt1</string>
 		<string>T.alt1</string>
 		<string>L.alt2</string>
+		<string>E.no</string>
 		<string>a</string>
 		<string>aacute</string>
 		<string>acircumflex</string>
@@ -260,11 +274,6 @@ HO
 		<string>ydotaccent</string>
 		<string>z</string>
 		<string>zdotbelow</string>
-		<string>ordfeminine</string>
-		<string>ordmasculine</string>
-		<string>Omega</string>
-		<string>mu</string>
-		<string>pi</string>
 		<string>zero</string>
 		<string>one</string>
 		<string>two</string>
@@ -339,6 +348,16 @@ HO
 		<string>numbersign</string>
 		<string>slash</string>
 		<string>backslash</string>
+		<string>comma.001</string>
+		<string>ellipsis.001</string>
+		<string>exclamdown.001</string>
+		<string>questiondown.001</string>
+		<string>periodcentered.001</string>
+		<string>bullet.001</string>
+		<string>asterisk.001</string>
+		<string>numbersign.001</string>
+		<string>slash.001</string>
+		<string>backslash.001</string>
 		<string>parenleft</string>
 		<string>parenright</string>
 		<string>braceleft</string>
@@ -353,6 +372,7 @@ HO
 		<string>horizontalbar</string>
 		<string>hyphentwo</string>
 		<string>underscore</string>
+		<string>hyphen.001</string>
 		<string>quotesinglbase</string>
 		<string>quotedblbase</string>
 		<string>quotedblleft</string>
@@ -472,8 +492,6 @@ HO
 		<string>uni1E52</string>
 		<key>Omacrongrave</key>
 		<string>uni1E50</string>
-		<key>Omega</key>
-		<string>uni03A9</string>
 		<key>Otildeacute</key>
 		<string>uni1E4C</string>
 		<key>Otildedieresis</key>
@@ -572,8 +590,6 @@ HO
 		<string>uni1E3B</string>
 		<key>mdotbelow</key>
 		<string>uni1E43</string>
-		<key>mu</key>
-		<string>uni03BC</string>
 		<key>nbspace</key>
 		<string>uni00A0</string>
 		<key>ndotaccent</key>

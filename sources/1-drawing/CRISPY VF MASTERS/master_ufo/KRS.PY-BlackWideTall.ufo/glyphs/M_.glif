@@ -8,16 +8,16 @@
       <point x="504.0" y="0.0" type="line"/>
       <point x="504.0" y="583.0" type="line"/>
       <point x="549.0" y="583.0" type="line"/>
-      <point x="789.0" y="96.0" type="line"/>
-      <point x="1319.0" y="96.0" type="line"/>
+      <point x="789.0" y="0.0" type="line"/>
+      <point x="1319.0" y="0.0" type="line"/>
       <point x="1556.0" y="584.0" type="line"/>
       <point x="1601.0" y="584.0" type="line"/>
       <point x="1601.0" y="0.0" type="line"/>
       <point x="2041.0" y="0.0" type="line"/>
       <point x="2041.0" y="750.0" type="line"/>
       <point x="1266.0" y="750.0" type="line"/>
-      <point x="1067.0" y="272.0" type="line"/>
-      <point x="1038.0" y="272.0" type="line"/>
+      <point x="1067.0" y="176.0" type="line"/>
+      <point x="1038.0" y="176.0" type="line"/>
       <point x="839.0" y="750.0" type="line"/>
       <point x="64.0" y="750.0" type="line"/>
     </contour>
@@ -25,7 +25,7 @@
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/09/09 14:16:15</string>
+      <string>2019/09/10 13:37:58</string>
     </dict>
   </lib>
 </glyph>

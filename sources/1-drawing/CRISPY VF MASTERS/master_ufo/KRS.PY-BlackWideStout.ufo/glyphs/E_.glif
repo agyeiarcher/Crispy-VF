@@ -1,27 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E" format="2">
-  <advance width="1560.0"/>
+  <advance width="1660.0"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
       <point x="64.0" y="0.0" type="line"/>
-      <point x="1526.0" y="0.0" type="line"/>
-      <point x="1526.0" y="172.0" type="line"/>
+      <point x="1616.0" y="0.0" type="line"/>
+      <point x="1616.0" y="172.0" type="line"/>
+      <point x="1266.0" y="172.0" type="line"/>
+      <point x="1266.0" y="172.0" type="line"/>
       <point x="504.0" y="172.0" type="line"/>
-      <point x="504.0" y="242.0" type="line"/>
-      <point x="1349.0" y="242.0" type="line"/>
-      <point x="1349.0" y="394.0" type="line"/>
-      <point x="504.0" y="394.0" type="line"/>
+      <point x="504.0" y="236.0" type="line"/>
+      <point x="1439.0" y="236.0" type="line"/>
+      <point x="1439.0" y="388.0" type="line"/>
+      <point x="504.0" y="388.0" type="line"/>
       <point x="504.0" y="574.0" type="line"/>
-      <point x="1525.0" y="574.0" type="line"/>
-      <point x="1525.0" y="750.0" type="line"/>
+      <point x="1265.0" y="574.0" type="line"/>
+      <point x="1265.0" y="574.0" type="line"/>
+      <point x="1615.0" y="574.0" type="line"/>
+      <point x="1615.0" y="750.0" type="line"/>
       <point x="64.0" y="750.0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019/09/09 16:02:32</string>
+      <string>2019/09/10 14:11:21</string>
     </dict>
   </lib>
 </glyph>
