@@ -1,5 +1,5 @@
 Copyright (c) 2019, Agyei Archer,
-with Reserved Font Name CRISPY.
+with Reserved Font Name KRSPY.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 
