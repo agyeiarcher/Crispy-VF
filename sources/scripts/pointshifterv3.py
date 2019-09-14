@@ -13,16 +13,19 @@ from collections import OrderedDict
 #             b.move((0, 200))
 # g.performUndo()
 
-listyy=["test", "no", "dollars", "no"]
 
-Plabels=[]    
+def BuildLabelsList(theFont):
+    Plabels=[]    
+    for glyph in theFont:
+        for contour in glyph:
+                for point in contour.points:
+                    # print(point.labels)
+                    b=point.labels
+                if b not in Plabels:
+                    Plabels=Plabels+b
+                    Plabels=list(dict.fromkeys(Plabels)) #remove duplicates
+    print(Plabels)
+    return Plabels
 
-for glyph in f:
-    for contour in glyph:
-            for point in contour.points:
-                # print(point.labels)
-                b=point.labels
-            if b not in Plabels:
-                Plabels=Plabels+b
-print(Plabels)
+
                     
