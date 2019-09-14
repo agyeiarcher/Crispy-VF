@@ -1,4 +1,7 @@
 glyph = CurrentGlyph()
+f= CurrentFont()
+
+from collections import OrderedDict
 
 # labelName = 'top'
 # g = CurrentGlyph()
@@ -9,10 +12,29 @@ glyph = CurrentGlyph()
 #             b.move((0, 200))
 # g.performUndo()
 
+def remove_dup(a):
+   i = 0
+   while i < len(a):
+      j = i + 1
+      while j < len(a):
+         if a[i] == a[j]:
+            del a[j]
+         else:
+            j += 1
+      i += 1
+
 p='douche'
 
-for contour in glyph:
-        for point in contour.points:
-                print(point.labels)
-                if p in point.labels:
-                    point.moveBy((0,20))
+Plabels=[]    
+
+for k in f.keys():
+    for contour in f[glyph.name]:
+            for point in contour.points:
+                    if point.labels is not ' ':
+                        # print(point.labels)
+                        b=' '.join(str(l) for l in point.labels)
+            if b not in Plabels:
+                Plabels.append(b)
+print(Plabels)
+                    
+                    

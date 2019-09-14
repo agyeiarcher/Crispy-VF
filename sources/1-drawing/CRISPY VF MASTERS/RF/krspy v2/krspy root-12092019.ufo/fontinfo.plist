@@ -3,9 +3,9 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <real>1500.0</real>
+    <real>2500.0</real>
     <key>capHeight</key>
-    <real>1500.0</real>
+    <real>2000.0</real>
     <key>descender</key>
     <real>-500.0</real>
     <key>familyName</key>
@@ -76,7 +76,7 @@
     <key>styleName</key>
     <string>x0y0t0</string>
     <key>unitsPerEm</key>
-    <real>2000.0</real>
+    <real>2500.0</real>
     <key>versionMajor</key>
     <integer>1</integer>
     <key>versionMinor</key>
