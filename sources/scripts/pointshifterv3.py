@@ -2,7 +2,7 @@ from vanilla import FloatingWindow, Slider, Button
 from mojo.UI import Message
 
 f= CurrentFont()
-g=CurrentGlyph()
+glyph=CurrentGlyph()
 
 def BuildLabelsList(theFont):
     Plabels=[]    
@@ -48,7 +48,10 @@ class MoveGlyphWindow:
         x = self.moveX - valueX
 
         # move the glyph
-        self.g.moveBy((x, 0))
+        for contour in self.g:
+            for point in counter.points:
+                if point.labels is 'CROSSBAR':
+                    point.moveBy((x, 0))
 
         # update saved values
         self.moveX = valueX
@@ -58,7 +61,7 @@ class MoveGlyphWindow:
 
 # OpenWindow(MoveGlyphWindow, CurrentGlyph())
 
-BuildLabelsList(f )
+BuildLabelsList(f, CurrentGlyph())
 
 
 
