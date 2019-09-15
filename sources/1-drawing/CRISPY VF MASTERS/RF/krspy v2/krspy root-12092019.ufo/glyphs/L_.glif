@@ -6,12 +6,12 @@
     <contour>
       <point x="20" y="0" type="line" identifier="XkJNfQlnnt"/>
       <point x="127" y="0" type="line" identifier="82EXZEgt46"/>
-      <point x="127" y="184" type="line" identifier="VYRt9kHZtP"/>
-      <point x="96" y="184" type="line"/>
-      <point x="96" y="22" type="line" identifier="cqpSxwFiM3"/>
-      <point x="51" y="22" type="line" identifier="MbxRZRd8vz"/>
-      <point x="51" y="750" type="line" identifier="lYiaKSKITt"/>
-      <point x="20" y="750" type="line" identifier="XFf4mMUzYo"/>
+      <point x="127" y="433" type="line" identifier="VYRt9kHZtP"/>
+      <point x="125" y="433" type="line" identifier="t7Q9RRLHt8"/>
+      <point x="125" y="2" type="line" identifier="cqpSxwFiM3"/>
+      <point x="22" y="2" type="line" identifier="MbxRZRd8vz"/>
+      <point x="22" y="2000" type="line" identifier="lYiaKSKITt"/>
+      <point x="20" y="2000" type="line" identifier="XFf4mMUzYo"/>
     </contour>
   </outline>
   <lib>
@@ -22,7 +22,9 @@
       <dict>
         <key>82EXZEgt46</key>
         <array>
-          <string>rightside</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
         </array>
         <key>FWtbMMY8Ck</key>
         <array>
@@ -30,43 +32,46 @@
         </array>
         <key>MbxRZRd8vz</key>
         <array>
-          <string>leftside</string>
-          <string>shiftdown</string>
-          <string>leftside</string>
-          <string>shiftstem</string>
+          <string>INSIDEBOTTOM</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>LEFTSIDEINSIDE</string>
         </array>
         <key>VYRt9kHZtP</key>
         <array>
-          <string>rightside</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
         </array>
         <key>XFf4mMUzYo</key>
         <array>
-          <string>leftside</string>
-          <string>shiftdown</string>
-          <string>leftside</string>
-          <string>shiftstem</string>
+          <string>LEFTSIDEOUTSIDE</string>
         </array>
         <key>XkJNfQlnnt</key>
         <array>
-          <string>leftside</string>
-          <string>shiftdown</string>
-          <string>leftside</string>
-          <string>shiftstem</string>
+          <string>LEFTSIDEOUTSIDE</string>
         </array>
         <key>cqpSxwFiM3</key>
         <array>
-          <string>shiftdown</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>INSIDEBOTTOM</string>
         </array>
         <key>lYiaKSKITt</key>
         <array>
-          <string>leftside</string>
-          <string>shiftdown</string>
-          <string>leftside</string>
-          <string>shiftstem</string>
+          <string>INSIDEBOTTOM</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>LEFTSIDEINSIDE</string>
         </array>
         <key>scG1IXtWvJ</key>
         <array>
           <string>rightside</string>
+        </array>
+        <key>t7Q9RRLHt8</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
         </array>
       </dict>
     </dict>

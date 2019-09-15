@@ -5,21 +5,17 @@
   <outline>
     <contour>
       <point x="20" y="0" type="line" identifier="oAgH2tA6DJ"/>
-      <point x="51" y="0" type="line" identifier="zCZyMcW5ho"/>
-      <point x="51" y="364" type="line" identifier="yHYqkMd7LI"/>
-      <point x="123" y="364" type="line" identifier="NmB7yyQuio"/>
-      <point x="123" y="386" type="line" identifier="wQk2C8zPHh"/>
-      <point x="51" y="386" type="line" identifier="4cFHKQfHDt"/>
-      <point x="51" y="728" type="line" identifier="ZvzwyrcwpS"/>
-      <point x="135" y="728" type="line" identifier="F6QQD702pX"/>
-      <point x="135" y="750" type="line" identifier="bL0wwzlx16"/>
-      <point x="20" y="750" type="line" identifier="TBAYuCfUFX"/>
-    </contour>
-    <contour>
-      <point x="107" y="557" type="line"/>
-      <point x="138" y="557" type="line" identifier="0tk7G4orz6"/>
-      <point x="138" y="750" type="line" identifier="NUrIjqOB7J"/>
-      <point x="107" y="750" type="line"/>
+      <point x="22" y="0" type="line" identifier="zCZyMcW5ho"/>
+      <point x="22" y="999" type="line" identifier="yHYqkMd7LI"/>
+      <point x="123" y="999" type="line" identifier="NmB7yyQuio"/>
+      <point x="123" y="1001" type="line" identifier="wQk2C8zPHh"/>
+      <point x="22" y="1001" type="line" identifier="4cFHKQfHDt"/>
+      <point x="22" y="1998" type="line" identifier="ZvzwyrcwpS"/>
+      <point x="136" y="1998" type="line" identifier="4E754ovOIe"/>
+      <point x="136" y="1501" type="line" identifier="vZkeT9KrKR"/>
+      <point x="138" y="1501" type="line" identifier="0tk7G4orz6"/>
+      <point x="138" y="2000" type="line" identifier="NUrIjqOB7J"/>
+      <point x="20" y="2000" type="line" identifier="TBAYuCfUFX"/>
     </contour>
   </outline>
   <lib>
@@ -30,15 +26,15 @@
       <dict>
         <key>0tk7G4orz6</key>
         <array>
-          <string>rightside</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>4E754ovOIe</key>
+        <array>
+          <string>RIGHTSIDEINSIDE</string>
         </array>
         <key>4cFHKQfHDt</key>
         <array>
-          <string>leftside</string>
-          <string>crossbar</string>
-          <string>crossbar</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
+          <string>CROSSBAR</string>
         </array>
         <key>F6QQD702pX</key>
         <array>
@@ -46,27 +42,19 @@
         </array>
         <key>NUrIjqOB7J</key>
         <array>
-          <string>rightside</string>
+          <string>RIGHTSIDEOUTSIDE</string>
         </array>
         <key>NmB7yyQuio</key>
         <array>
-          <string>crossbar</string>
+          <string>CROSSBAR</string>
         </array>
         <key>TBAYuCfUFX</key>
         <array>
-          <string>leftside</string>
-          <string>crossbar</string>
-          <string>crossbar</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
+          <string>LEFTSIDEOUTSIDE</string>
         </array>
         <key>ZvzwyrcwpS</key>
         <array>
-          <string>leftside</string>
-          <string>crossbar</string>
-          <string>crossbar</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
+          <string>LEFTSIDEINSIDE</string>
         </array>
         <key>bL0wwzlx16</key>
         <array>
@@ -74,31 +62,23 @@
         </array>
         <key>oAgH2tA6DJ</key>
         <array>
-          <string>leftside</string>
-          <string>crossbar</string>
-          <string>crossbar</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+        <key>vZkeT9KrKR</key>
+        <array>
+          <string>RIGHTSIDEINSIDE</string>
         </array>
         <key>wQk2C8zPHh</key>
         <array>
-          <string>crossbar</string>
+          <string>CROSSBAR</string>
         </array>
         <key>yHYqkMd7LI</key>
         <array>
-          <string>leftside</string>
-          <string>crossbar</string>
-          <string>crossbar</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
+          <string>LEFTSIDEINSIDE</string>
         </array>
         <key>zCZyMcW5ho</key>
         <array>
-          <string>leftside</string>
-          <string>crossbar</string>
-          <string>crossbar</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
+          <string>LEFTSIDEINSIDE</string>
         </array>
       </dict>
     </dict>

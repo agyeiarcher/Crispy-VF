@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="G" format="2">
-  <advance width="153"/>
+  <advance width="144"/>
   <unicode hex="0047"/>
   <outline>
     <contour>
-      <point x="20" y="0" type="line" identifier="gruPC0rm4E"/>
-      <point x="136" y="0" type="line" identifier="gyWZd1V7bg"/>
-      <point x="136" y="365" type="line" identifier="DkNGLrNVA4"/>
-      <point x="71" y="365" type="line" identifier="8rex52NyWa"/>
-      <point x="71" y="343" type="line" identifier="3nCTj46eZY"/>
-      <point x="105" y="343" type="line" identifier="PhwuN5iOza"/>
-      <point x="105" y="22" type="line" identifier="CxPWfAz72K"/>
-      <point x="51" y="22" type="line" identifier="sayqGOMtzs"/>
-      <point x="51" y="649" type="line" identifier="BK8t8NwvTJ"/>
-      <point x="79" y="728" type="line" identifier="p5qGxSYyHQ"/>
-      <point x="107" y="728" type="line" identifier="HNKsGz9B03"/>
-      <point x="107" y="557" type="line"/>
-      <point x="138" y="557" type="line" identifier="Mtb7ldvxRR"/>
-      <point x="138" y="750" type="line" identifier="8B2JVN8ZLJ"/>
-      <point x="59" y="750" type="line" identifier="03XIRquU5H"/>
-      <point x="20" y="650" type="line" identifier="q5MpLm6pYB"/>
+      <point x="14" y="0" type="line" identifier="7lPhzTnk2Z"/>
+      <point x="133" y="0" type="line" identifier="qJVLZGnkwh"/>
+      <point x="133" y="1000" type="line" identifier="uek1NNj7De"/>
+      <point x="56" y="1000" type="line" identifier="qcvimxjndX"/>
+      <point x="56" y="998" type="line" identifier="EARaY3Su65"/>
+      <point x="131" y="998" type="line" identifier="4m6dHLVhZq"/>
+      <point x="131" y="2" type="line" identifier="Y750RHTvDj"/>
+      <point x="16" y="2" type="line" identifier="L2LsGnXiZ2"/>
+      <point x="16" y="1520" type="line" identifier="sUWsr03vF4"/>
+      <point x="71" y="1998" type="line" identifier="dbOUe6OhxL"/>
+      <point x="130" y="1998" type="line" identifier="5BjRbcud80"/>
+      <point x="130" y="1501" type="line" identifier="fNVDqwQo2o"/>
+      <point x="132" y="1501" type="line" identifier="wLqQQx7QVN"/>
+      <point x="132" y="2000" type="line" identifier="9eJelv8BOw"/>
+      <point x="69" y="2000" type="line" identifier="lfZev3ICaC"/>
+      <point x="14" y="1521" type="line" identifier="V1EWIdPahq"/>
     </contour>
   </outline>
   <lib>
@@ -221,6 +221,20 @@
           <string>rightside</string>
           <string>rightside</string>
         </array>
+        <key>4m6dHLVhZq</key>
+        <array>
+          <string>CROSSBAR</string>
+          <string>RIGHTSIDEINSIDE</string>
+        </array>
+        <key>5BjRbcud80</key>
+        <array>
+          <string>INSIDETOP</string>
+          <string>RIGHTSIDEINSIDE</string>
+        </array>
+        <key>7lPhzTnk2Z</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
         <key>8B2JVN8ZLJ</key>
         <array>
           <string>rightside</string>
@@ -255,6 +269,10 @@
           <string>rightside</string>
           <string>rightside</string>
           <string>rightside</string>
+        </array>
+        <key>9eJelv8BOw</key>
+        <array>
+          <string>RIGHTSIDEOUTSIDE</string>
         </array>
         <key>BK8t8NwvTJ</key>
         <array>
@@ -462,6 +480,10 @@
           <string>rightside</string>
           <string>rightside</string>
         </array>
+        <key>EARaY3Su65</key>
+        <array>
+          <string>CROSSBAR</string>
+        </array>
         <key>HNKsGz9B03</key>
         <array>
           <string>rightside</string>
@@ -507,6 +529,14 @@
           <string>rightside</string>
           <string>rightside</string>
           <string>rightside</string>
+        </array>
+        <key>L2LsGnXiZ2</key>
+        <array>
+          <string>CROSSBAR</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>INSIDETOP</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>INSIDEBOTTOM</string>
         </array>
         <key>Mtb7ldvxRR</key>
         <array>
@@ -564,6 +594,27 @@
           <string>rightside</string>
           <string>rightside</string>
           <string>rightside</string>
+        </array>
+        <key>V1EWIdPahq</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+        <key>Y750RHTvDj</key>
+        <array>
+          <string>CROSSBAR</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>INSIDETOP</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>INSIDEBOTTOM</string>
+        </array>
+        <key>dbOUe6OhxL</key>
+        <array>
+          <string>INSIDETOP</string>
+        </array>
+        <key>fNVDqwQo2o</key>
+        <array>
+          <string>INSIDETOP</string>
+          <string>RIGHTSIDEINSIDE</string>
         </array>
         <key>gruPC0rm4E</key>
         <array>
@@ -711,6 +762,10 @@
           <string>rightside</string>
           <string>rightside</string>
           <string>rightside</string>
+        </array>
+        <key>lfZev3ICaC</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
         </array>
         <key>oP4AYTo8BD</key>
         <array>
@@ -995,6 +1050,20 @@
           <string>rightside</string>
           <string>rightside</string>
         </array>
+        <key>qJVLZGnkwh</key>
+        <array>
+          <string>CROSSBAR</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>qcvimxjndX</key>
+        <array>
+          <string>CROSSBAR</string>
+        </array>
+        <key>sUWsr03vF4</key>
+        <array>
+          <string>INSIDETOP</string>
+          <string>LEFTSIDEINSIDE</string>
+        </array>
         <key>sayqGOMtzs</key>
         <array>
           <string>rightside</string>
@@ -1130,6 +1199,15 @@
           <string>rightside</string>
           <string>rightside</string>
           <string>rightside</string>
+        </array>
+        <key>uek1NNj7De</key>
+        <array>
+          <string>CROSSBAR</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>wLqQQx7QVN</key>
+        <array>
+          <string>RIGHTSIDEOUTSIDE</string>
         </array>
       </dict>
     </dict>

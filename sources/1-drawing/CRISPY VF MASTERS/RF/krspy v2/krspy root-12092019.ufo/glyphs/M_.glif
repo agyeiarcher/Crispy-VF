@@ -4,22 +4,22 @@
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="20" y="0" type="line" identifier="5TFRebmDRK"/>
-      <point x="51" y="0" type="line" identifier="rfY4yi4WM7"/>
-      <point x="51" y="728" type="line" identifier="N3Yjzxbj88"/>
-      <point x="64" y="728" type="line" identifier="fB69TbcHQR"/>
-      <point x="93" y="110" type="line" identifier="rc1RBgs7MK"/>
-      <point x="153" y="110" type="line" identifier="l3jugDCgZp"/>
-      <point x="181" y="729" type="line" identifier="cR3kL9Ehcu"/>
-      <point x="197" y="729" type="line" identifier="GaMk5bB7DR"/>
-      <point x="197" y="0" type="line" identifier="hvBQuBUzS5"/>
-      <point x="228" y="0" type="line" identifier="czpj5jP2o1"/>
-      <point x="228" y="750" type="line" identifier="4t8tj5JGI4"/>
-      <point x="151" y="750" type="line" identifier="O3YubNnacO"/>
-      <point x="126" y="132" type="line" identifier="q5rffo9NOb"/>
-      <point x="120" y="132" type="line" identifier="0IVF7y8NCN"/>
-      <point x="94" y="750" type="line" identifier="s8LitYzs32"/>
-      <point x="20" y="750" type="line" identifier="ceFvMk9BBo"/>
+      <point x="121" y="290" type="line" identifier="0Dn4Xpf57M"/>
+      <point x="63" y="1998" type="line"/>
+      <point x="32" y="1998" type="line"/>
+      <point x="32" y="0" type="line"/>
+      <point x="30" y="0" type="line"/>
+      <point x="30" y="2000" type="line"/>
+      <point x="65" y="2000" type="line"/>
+      <point x="123" y="292" type="line"/>
+      <point x="139" y="292" type="line" identifier="9aKZPM0HPh"/>
+      <point x="197" y="2000" type="line"/>
+      <point x="232" y="2000" type="line"/>
+      <point x="232" y="0" type="line"/>
+      <point x="230" y="0" type="line"/>
+      <point x="230" y="1998" type="line"/>
+      <point x="199" y="1998" type="line"/>
+      <point x="141" y="290" type="line" identifier="spdoeeCFft"/>
     </contour>
   </outline>
   <lib>
@@ -52,103 +52,7 @@
           <string>rightside</string>
           <string>shiftstem</string>
         </array>
-        <key>4t8tj5JGI4</key>
-        <array>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-        </array>
         <key>5TFRebmDRK</key>
-        <array>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-        </array>
-        <key>GaMk5bB7DR</key>
-        <array>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
-          <string>shiftdown</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-        </array>
-        <key>N3Yjzxbj88</key>
-        <array>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
-          <string>shiftdown</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-        </array>
-        <key>O3YubNnacO</key>
-        <array>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-        </array>
-        <key>cR3kL9Ehcu</key>
-        <array>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
-          <string>shiftdown</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-        </array>
-        <key>ceFvMk9BBo</key>
         <array>
           <string>leftside</string>
           <string>leftside</string>
@@ -158,30 +62,6 @@
         </array>
         <key>czpj5jP2o1</key>
         <array>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-        </array>
-        <key>fB69TbcHQR</key>
-        <array>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
-          <string>shiftdown</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
           <string>leftside</string>
           <string>leftside</string>
           <string>rightside</string>
@@ -237,14 +117,6 @@
           <string>shiftstem</string>
         </array>
         <key>rfY4yi4WM7</key>
-        <array>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>shiftstem</string>
-        </array>
-        <key>s8LitYzs32</key>
         <array>
           <string>leftside</string>
           <string>leftside</string>

@@ -56,7 +56,9 @@ class MoveGlyphWindow:
         # print the current move distance
         print(self.moveX)
 
-OpenWindow(MoveGlyphWindow, CurrentGlyph())
+# OpenWindow(MoveGlyphWindow, CurrentGlyph())
+
+BuildLabelsList(f )
 
 
 
