@@ -1,4 +1,4 @@
-from vanilla import FloatingWindow, Slider
+from vanilla import FloatingWindow, Slider, Button
 from mojo.UI import Message
 
 f= CurrentFont()
@@ -23,11 +23,9 @@ class MoveGlyphWindow:
 
         # if glyph is None, show a message
         # store the glyph and initial move values as object attributes
-                
+        self.w = FloatingWindow((200, 64), "move "+str(labelslider))
         for labelslider in BuildLabelsList(f):
             # create a floating window
-            self.w = FloatingWindow((200, 74), "move "+str(labelslider))
-
             # add a slider for moving in the x axis
             self.g = glyph
             self.moveX = 0
@@ -38,6 +36,7 @@ class MoveGlyphWindow:
                     callback=self.adjust)
 
             # open the window
+            self.w.button = Button((15, -35, -15, 20), "Done")
             self.w.open()
 
     def adjust(self, sender):
@@ -57,7 +56,6 @@ class MoveGlyphWindow:
         # print the current move distance
         print(self.moveX)
 
-BuildLabelsList(f)
 OpenWindow(MoveGlyphWindow, CurrentGlyph())
 
 
