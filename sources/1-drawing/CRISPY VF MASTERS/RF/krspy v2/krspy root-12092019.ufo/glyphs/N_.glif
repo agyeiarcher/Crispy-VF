@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N" format="2">
-  <advance width="192"/>
+  <advance width="234"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="20" y="0" type="line" identifier="MWbbTwGkbG"/>
-      <point x="51" y="0" type="line"/>
-      <point x="51" y="728" type="line" identifier="7wBal5jvPQ"/>
-      <point x="62" y="728" type="line" identifier="HgG4gyE7AV"/>
-      <point x="106" y="0" type="line" identifier="j2qkgH7CJF"/>
-      <point x="172" y="0" type="line" identifier="ZsB4bFWMAS"/>
-      <point x="172" y="750" type="line" identifier="Mm9MihPC9S"/>
-      <point x="141" y="750" type="line" identifier="1omi5wQQzW"/>
-      <point x="141" y="24" type="line" identifier="RZjfuiFaWd"/>
-      <point x="133" y="24" type="line" identifier="DYg9JHyygg"/>
-      <point x="88" y="750" type="line"/>
-      <point x="20" y="750" type="line" identifier="Icsrkoeq5r"/>
+      <point x="34" y="0" type="line"/>
+      <point x="36" y="0" type="line"/>
+      <point x="36" y="1998" type="line"/>
+      <point x="53" y="1998" type="line"/>
+      <point x="175" y="0" type="line"/>
+      <point x="200" y="0" type="line"/>
+      <point x="200" y="2000" type="line"/>
+      <point x="198" y="2000" type="line"/>
+      <point x="198" y="2" type="line"/>
+      <point x="177" y="2" type="line"/>
+      <point x="55" y="2000" type="line"/>
+      <point x="34" y="2000" type="line"/>
     </contour>
   </outline>
   <lib>
