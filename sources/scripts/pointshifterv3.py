@@ -23,20 +23,19 @@ class MoveGlyphWindow:
 
         # if glyph is None, show a message
         # store the glyph and initial move values as object attributes
-                    
-            self.g = glyph
-            self.moveX = 0
-
+                
+        for labelslider in BuildLabelsList(f):
             # create a floating window
-            self.w = FloatingWindow((200, 74), "move %s")
+            self.w = FloatingWindow((200, 74), "move "+str(labelslider))
 
             # add a slider for moving in the x axis
-            for labelslider in BuildLabelsList(f):
-                self.label= labelslider
-                self.w.labelslider = Slider(
-                        (10, 10, -10, 22),
-                        value=0, maxValue=100, minValue=-100,
-                        callback=self.adjust)
+            self.g = glyph
+            self.moveX = 0
+            self.label= labelslider
+            self.w.labelslider = Slider(
+                    (10, 10, -10, 22),
+                    value=0, maxValue=100, minValue=-100,
+                    callback=self.adjust)
 
             # open the window
             self.w.open()
@@ -44,7 +43,7 @@ class MoveGlyphWindow:
     def adjust(self, sender):
 
         # get the current x and y values from the sliders
-        valueX = self.w.sliderX.get()
+        valueX = self.w.labelslider.get()
 
         # calculate actual move distance
         x = self.moveX - valueX
@@ -56,7 +55,7 @@ class MoveGlyphWindow:
         self.moveX = valueX
 
         # print the current move distance
-        print(self.moveX, self.moveY)
+        print(self.moveX)
 
 BuildLabelsList(f)
 OpenWindow(MoveGlyphWindow, CurrentGlyph())
