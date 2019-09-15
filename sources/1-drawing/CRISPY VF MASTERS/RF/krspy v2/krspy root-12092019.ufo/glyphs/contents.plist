@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>2.alt</key>
-    <string>2.alt.glif</string>
     <key>A</key>
     <string>A_.glif</string>
     <key>AE</key>
@@ -68,8 +66,6 @@
     <string>H_dotbelow.glif</string>
     <key>I</key>
     <string>I_.glif</string>
-    <key>I.alt1</key>
-    <string>I_.alt1.glif</string>
     <key>Iacute</key>
     <string>I_acute.glif</string>
     <key>Icircumflex</key>
@@ -144,8 +140,6 @@
     <string>R_linebelow.glif</string>
     <key>S</key>
     <string>S_.glif</string>
-    <key>S.alt</key>
-    <string>S_.alt.glif</string>
     <key>Sacutedotaccent</key>
     <string>S_acutedotaccent.glif</string>
     <key>Scarondotaccent</key>
