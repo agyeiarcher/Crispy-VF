@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="T" format="2">
-  <advance width="206"/>
+  <advance width="4884"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="102" y="0" type="line"/>
-      <point x="104" y="0" type="line"/>
-      <point x="104" y="1998" type="line" identifier="zTICSjBOe7"/>
-      <point x="186" y="1998" type="line"/>
-      <point x="186" y="1700" type="line" identifier="J3fH9EFg0z"/>
-      <point x="188" y="1700" type="line" identifier="ABe8abv3LE"/>
-      <point x="188" y="2000" type="line" identifier="l8jRaw0YkY"/>
-      <point x="18" y="2000" type="line" identifier="8oS81nStJX"/>
-      <point x="18" y="1700" type="line" identifier="je7pQw9mYt"/>
-      <point x="20" y="1700" type="line" identifier="jHGwg0m2Tu"/>
-      <point x="20" y="1998" type="line"/>
-      <point x="102" y="1998" type="line" identifier="1xm0mHc9eh"/>
+      <point x="2441" y="0" type="line" identifier="bKWxxkJeJv"/>
+      <point x="2443" y="0" type="line" identifier="WDiCtWpE2a"/>
+      <point x="2443" y="1998" type="line" identifier="zTICSjBOe7"/>
+      <point x="4775" y="1998" type="line" identifier="wF3jyyfbbw"/>
+      <point x="4775" y="1550" type="line" identifier="J3fH9EFg0z"/>
+      <point x="4777" y="1550" type="line" identifier="ABe8abv3LE"/>
+      <point x="4777" y="2000" type="line" identifier="l8jRaw0YkY"/>
+      <point x="107" y="2000" type="line" identifier="8oS81nStJX"/>
+      <point x="107" y="1550" type="line" identifier="je7pQw9mYt"/>
+      <point x="109" y="1550" type="line" identifier="jHGwg0m2Tu"/>
+      <point x="109" y="1998" type="line" identifier="gd7rT4Kugz"/>
+      <point x="2441" y="1998" type="line" identifier="1xm0mHc9eh"/>
     </contour>
   </outline>
   <lib>
@@ -24,89 +24,18 @@
       <string>2019-04-28 05:35:59 +0000</string>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
-        <key>1xm0mHc9eh</key>
-        <array>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-        </array>
         <key>8oS81nStJX</key>
         <array>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>shiftstem</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>leftside</string>
+          <string>LEFTSTEM</string>
         </array>
         <key>ABe8abv3LE</key>
         <array>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>shiftstem</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>leftside</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPSERIF</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPSERIF</string>
         </array>
         <key>DJQ7u43twI</key>
         <array>
@@ -148,41 +77,12 @@
         </array>
         <key>J3fH9EFg0z</key>
         <array>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>shiftstem</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>leftside</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPSERIF</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPSERIF</string>
         </array>
         <key>KjT4D91qvu</key>
         <array>
@@ -298,119 +198,23 @@
           <string>shiftdown</string>
           <string>leftside</string>
         </array>
+        <key>gd7rT4Kugz</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
         <key>jHGwg0m2Tu</key>
         <array>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>shiftstem</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>leftside</string>
+          <string>TOPSERIF</string>
+          <string>LEFTSTEM</string>
         </array>
         <key>je7pQw9mYt</key>
         <array>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>shiftstem</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>leftside</string>
+          <string>TOPSERIF</string>
+          <string>LEFTSTEM</string>
         </array>
         <key>l8jRaw0YkY</key>
         <array>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>shiftstem</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>leftside</string>
+          <string>RIGHTSTEM</string>
         </array>
         <key>rf7pecy6mC</key>
         <array>
@@ -450,6 +254,10 @@
           <string>shiftdown</string>
           <string>leftside</string>
         </array>
+        <key>wF3jyyfbbw</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
         <key>ysnLVYacKr</key>
         <array>
           <string>rightside</string>
@@ -487,14 +295,6 @@
           <string>rightside</string>
           <string>shiftdown</string>
           <string>leftside</string>
-        </array>
-        <key>zTICSjBOe7</key>
-        <array>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
         </array>
       </dict>
     </dict>

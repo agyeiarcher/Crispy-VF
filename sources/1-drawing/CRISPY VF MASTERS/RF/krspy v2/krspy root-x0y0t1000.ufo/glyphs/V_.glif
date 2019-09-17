@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="V" format="2">
-  <advance width="191"/>
+  <advance width="4831"/>
   <unicode hex="0056"/>
   <outline>
     <contour>
-      <point x="36" y="2000" type="line" smooth="yes"/>
-      <point x="36" y="2" type="line"/>
-      <point x="96" y="2" type="line" smooth="yes"/>
-      <point x="151" y="383" type="line" smooth="yes"/>
-      <point x="151" y="2000" type="line"/>
-      <point x="153" y="2000" type="line" smooth="yes"/>
-      <point x="153" y="383" type="line" smooth="yes"/>
-      <point x="98" y="0" type="line" smooth="yes"/>
-      <point x="34" y="0" type="line" smooth="yes"/>
-      <point x="34" y="2000" type="line" smooth="yes"/>
+      <point x="108" y="2000" type="line" smooth="yes"/>
+      <point x="108" y="2" type="line"/>
+      <point x="4088" y="2" type="line" smooth="yes" identifier="1cJxe7d2d4"/>
+      <point x="4723" y="623" type="line" smooth="yes" identifier="qNix0LFMyS"/>
+      <point x="4723" y="2000" type="line" identifier="WNoMHFJebb"/>
+      <point x="4725" y="2000" type="line" smooth="yes" identifier="kmn4VbgrJ0"/>
+      <point x="4725" y="623" type="line" smooth="yes" identifier="XeTksM8jEX"/>
+      <point x="4090" y="0" type="line" smooth="yes" identifier="VyTgNyQITk"/>
+      <point x="106" y="0" type="line" smooth="yes"/>
+      <point x="106" y="2000" type="line" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -22,6 +22,11 @@
       <string>2019-04-28 05:35:59 +0000</string>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
+        <key>1cJxe7d2d4</key>
+        <array>
+          <string>TOPNOTCH</string>
+          <string>RIGHTSTEM</string>
+        </array>
         <key>8JVlgiKN0E</key>
         <array>
           <string>rightside</string>
@@ -71,6 +76,20 @@
           <string>rightside</string>
           <string>shiftstem</string>
         </array>
+        <key>VyTgNyQITk</key>
+        <array>
+          <string>TOPNOTCH</string>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>WNoMHFJebb</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>XeTksM8jEX</key>
+        <array>
+          <string>SIDENOTCH</string>
+          <string>RIGHTSTEM</string>
+        </array>
         <key>d1tzrvftiK</key>
         <array>
           <string>rightside</string>
@@ -81,6 +100,15 @@
         <key>gP37W9ybnh</key>
         <array>
           <string>leftside</string>
+        </array>
+        <key>kmn4VbgrJ0</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>qNix0LFMyS</key>
+        <array>
+          <string>SIDENOTCH</string>
+          <string>RIGHTSTEM</string>
         </array>
         <key>zRVv4zqHV4</key>
         <array>

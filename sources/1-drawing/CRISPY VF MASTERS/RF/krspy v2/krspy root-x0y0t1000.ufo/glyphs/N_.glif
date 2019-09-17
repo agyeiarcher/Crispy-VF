@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N" format="2">
-  <advance width="234"/>
+  <advance width="4880"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="34" y="0" type="line" identifier="CkwYPPvJLv"/>
-      <point x="36" y="0" type="line" identifier="oHTJsN7drZ"/>
-      <point x="36" y="1998" type="line" identifier="wfBbYd10Pm"/>
-      <point x="53" y="1998" type="line" identifier="MEnBDHq6zU"/>
-      <point x="175" y="0" type="line" identifier="3Nbopwznvn"/>
-      <point x="200" y="0" type="line" identifier="uKfuudIUvA"/>
-      <point x="200" y="2000" type="line" identifier="XRdLFXiM4t"/>
-      <point x="198" y="2000" type="line" identifier="MUSJPjCIXg"/>
-      <point x="198" y="2" type="line" identifier="VILP20cFmq"/>
-      <point x="177" y="2" type="line" identifier="z5b04GDwRN"/>
-      <point x="55" y="2000" type="line" identifier="LL64NQ6WBE"/>
-      <point x="34" y="2000" type="line" identifier="dzUaaP1sjt"/>
+      <point x="107" y="0" type="line" identifier="CkwYPPvJLv"/>
+      <point x="109" y="0" type="line" identifier="oHTJsN7drZ"/>
+      <point x="109" y="1998" type="line" identifier="wfBbYd10Pm"/>
+      <point x="126" y="1998" type="line" identifier="MEnBDHq6zU"/>
+      <point x="4748" y="0" type="line" identifier="3Nbopwznvn"/>
+      <point x="4773" y="0" type="line" identifier="uKfuudIUvA"/>
+      <point x="4773" y="2000" type="line" identifier="XRdLFXiM4t"/>
+      <point x="4771" y="2000" type="line" identifier="MUSJPjCIXg"/>
+      <point x="4771" y="2" type="line" identifier="VILP20cFmq"/>
+      <point x="4750" y="2" type="line" identifier="z5b04GDwRN"/>
+      <point x="128" y="2000" type="line" identifier="LL64NQ6WBE"/>
+      <point x="107" y="2000" type="line" identifier="dzUaaP1sjt"/>
     </contour>
   </outline>
   <lib>
@@ -38,6 +38,10 @@
           <string>shiftstem</string>
           <string>shiftdown</string>
         </array>
+        <key>CkwYPPvJLv</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
         <key>DYg9JHyygg</key>
         <array>
           <string>shiftstem</string>
@@ -54,11 +58,17 @@
         <array>
           <string>leftside</string>
         </array>
+        <key>LL64NQ6WBE</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
+        <key>MEnBDHq6zU</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
         <key>MUSJPjCIXg</key>
         <array>
           <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSIDEINSIDE</string>
         </array>
         <key>MWbbTwGkbG</key>
         <array>
@@ -79,14 +89,10 @@
         <key>VILP20cFmq</key>
         <array>
           <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSIDEINSIDE</string>
         </array>
         <key>XRdLFXiM4t</key>
         <array>
           <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSIDEOUTSIDE</string>
         </array>
         <key>ZsB4bFWMAS</key>
         <array>
@@ -94,15 +100,25 @@
           <string>shiftstem</string>
           <string>rightside</string>
         </array>
+        <key>dzUaaP1sjt</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
         <key>j2qkgH7CJF</key>
         <array>
           <string>shiftstem</string>
         </array>
+        <key>oHTJsN7drZ</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
         <key>uKfuudIUvA</key>
         <array>
           <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>wfBbYd10Pm</key>
+        <array>
+          <string>LEFTSTEM</string>
         </array>
         <key>z5b04GDwRN</key>
         <array>
