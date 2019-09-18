@@ -13,13 +13,13 @@ topseriflabel = 'TOPSERIF'
 insidenotchrightlabel = 'INSIDENOTCHRIGHT'
 insidenotchleftlabel = 'INSIDENOTCHLEFT'
 
-twosides=['M', 'W', 'I','Q', 'T']
+twosides=['M', 'W', 'I','Q', 'T', 'X', 'Y', 'one', 'three']
 crossbars=['F','E']
 notaswide=['J', 'L']
 
 print(g.name)
 
-#PLEASE VERIFY GLYPHS ANYWAY, ESPECIALLY: S
+#PLEASE VERIFY GLYPHS ANYWAY, ESPECIALLY: S, three
 
 def xTRA():
     
@@ -32,7 +32,7 @@ def xTRA():
     insidenotchadjustment=420
     
     for c in g:
-        for p in c.points:
+        for p in c.points: 
             g.prepareUndo()
             
             if rightstemlabel in p.labels: 
@@ -41,6 +41,8 @@ def xTRA():
                         p.move((widthadjustment/2.25,0))
                     if p.x<g.width/2:
                         p.move((-widthadjustment/2.25,0))
+                elif g.name is 'W':
+                    p.move((widthadjustment*0.7,0)) 
                 elif g.name in twosides:
                     p.move((widthadjustment*0.5,0))
                 elif g.name in notaswide:
@@ -49,7 +51,12 @@ def xTRA():
                     p.move((widthadjustment,0))
                     
             if leftstemlabel in p.labels:
-                p.move((-widthadjustment*0.5,0))
+                if g.name is 'W':
+                    p.move((-widthadjustment*0.7,0))
+                if g.name is 'three':
+                    p.move((-widthadjustment*20,0))
+                else:
+                    p.move((-widthadjustment*0.5,0))
                     
             #top/bottom notch points
             if topnotchlabel in p.labels:
@@ -61,9 +68,9 @@ def xTRA():
             #vert stem notch points
             if sidenotchlabel in p.labels:
                 if p.y<f.info.xHeight:
-                    p.move((0,240))
+                    p.move((0,sidenotchadjustment))
                 if p.y>f.info.xHeight:
-                    p.move((0,-240))
+                    p.move((0,-sidenotchadjustment))
             
             #two way e.g. X,8,B vert stem notch points
             if outnotchlabel in p.labels:
@@ -76,6 +83,8 @@ def xTRA():
                 if g.name in twosides:
                     if p.x<g.width/2:
                         p.move((insidenotchadjustment,0))
+                    if p.x>g.width/2:
+                        p.move((-insidenotchadjustment,0))
                 else:
                     p.move((-insidenotchadjustment,0))
     
@@ -83,7 +92,8 @@ def xTRA():
             if topseriflabel in p.labels:
                 p.move( (0,-topserifadjustment))
             if bottomseriflabel in p.labels:
-                p.move( (0,bottomserifadjustment))         
+                p.move( (0,bottomserifadjustment)) 
+                        
             #crossbar angle compensation
             if crossbarlabel in p.labels:
                 if p.y<f.info.xHeight:
@@ -91,11 +101,13 @@ def xTRA():
                 if p.y>f.info.xHeight:
                     p.move((0,40))
                 if g.name is 'S':
-                    p.move((0,100))           
+                    p.move((0,100))
+                               
             if insidenotchrightlabel in p.labels:
                 p.move((insidenotchadjustment/2,0))
             if insidenotchleftlabel in p.labels:
-                p.move((-insidenotchadjustment/2,0))
+                 p.move((-insidenotchadjustment/2,0))
+                 
              #compensate spacing for new glyph width
             g.leftMargin=0.022*g.width
             g.rightMargin=g.leftMargin

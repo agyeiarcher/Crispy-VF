@@ -1,26 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="two" format="2">
-  <advance width="149"/>
+  <advance width="4831"/>
   <unicode hex="0032"/>
   <outline>
     <contour>
-      <point x="15" y="0" type="line"/>
-      <point x="134" y="0" type="line" identifier="pzdvPTirLJ"/>
-      <point x="134" y="303" type="line" identifier="91SxUS0iwG"/>
-      <point x="132" y="303" type="line"/>
-      <point x="132" y="2" type="line"/>
-      <point x="17" y="2" type="line"/>
-      <point x="17" y="289" type="line"/>
-      <point x="129" y="1497" type="line" identifier="yyb1NCCI5w"/>
-      <point x="129" y="2000" type="line" identifier="5FogYRSgkk"/>
-      <point x="19" y="2000" type="line" identifier="svlFvrau4c"/>
-      <point x="19" y="1700" type="line" identifier="LQ9fBsTy9K"/>
-      <point x="21" y="1700" type="line"/>
-      <point x="21" y="1998" type="line"/>
-      <point x="127" y="1998" type="line"/>
-      <point x="127" y="1497" type="line"/>
-      <point x="15" y="292" type="line" identifier="teVKnpBcVb"/>
-      <point x="15" y="25" type="line" identifier="cqhYFAJo1M"/>
+      <point x="106" y="0" type="line"/>
+      <point x="4725" y="0" type="line" identifier="pzdvPTirLJ"/>
+      <point x="4725" y="453" type="line" identifier="91SxUS0iwG"/>
+      <point x="4723" y="453" type="line" identifier="fP7EN0pUcl"/>
+      <point x="4723" y="2" type="line" identifier="eb458Bdvng"/>
+      <point x="108" y="2" type="line"/>
+      <point x="108" y="530" type="line" identifier="9fjc25rkUx"/>
+      <point x="4720" y="1357" type="line" identifier="yyb1NCCI5w"/>
+      <point x="4720" y="2000" type="line" identifier="5FogYRSgkk"/>
+      <point x="110" y="2000" type="line" identifier="svlFvrau4c"/>
+      <point x="110" y="1550" type="line" identifier="LQ9fBsTy9K"/>
+      <point x="112" y="1550" type="line" identifier="jS6EyIAKtm"/>
+      <point x="112" y="1998" type="line"/>
+      <point x="4718" y="1998" type="line" identifier="N6CMAjhNlU"/>
+      <point x="4718" y="1359" type="line" identifier="yK1d5IcluK"/>
+      <point x="106" y="532" type="line" identifier="teVKnpBcVb"/>
     </contour>
   </outline>
   <lib>
@@ -35,6 +34,20 @@
         <array>
           <string>leftside</string>
         </array>
+        <key>5FogYRSgkk</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>91SxUS0iwG</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>BOTTOMSERIF</string>
+        </array>
+        <key>9fjc25rkUx</key>
+        <array>
+          <string>SIDENOTCH</string>
+        </array>
         <key>BMi3iTgbBs</key>
         <array>
           <string>leftside</string>
@@ -44,6 +57,14 @@
           <string>rightside</string>
           <string>leftside</string>
           <string>crossbar</string>
+        </array>
+        <key>LQ9fBsTy9K</key>
+        <array>
+          <string>TOPSERIF</string>
+        </array>
+        <key>N6CMAjhNlU</key>
+        <array>
+          <string>RIGHTSTEM</string>
         </array>
         <key>QzZqP70XaF</key>
         <array>
@@ -63,11 +84,33 @@
         <array>
           <string>rightside</string>
         </array>
+        <key>eb458Bdvng</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>fP7EN0pUcl</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>BOTTOMSERIF</string>
+        </array>
         <key>fasUGvhWy6</key>
         <array>
           <string>rightside</string>
           <string>leftside</string>
           <string>crossbar</string>
+        </array>
+        <key>jS6EyIAKtm</key>
+        <array>
+          <string>TOPSERIF</string>
+        </array>
+        <key>pzdvPTirLJ</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>teVKnpBcVb</key>
+        <array>
+          <string>SIDENOTCH</string>
         </array>
         <key>tr1cNbQvAW</key>
         <array>
@@ -82,6 +125,18 @@
           <string>rightside</string>
           <string>leftside</string>
           <string>crossbar</string>
+        </array>
+        <key>yK1d5IcluK</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>SIDENOTCH</string>
+        </array>
+        <key>yyb1NCCI5w</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>SIDENOTCH</string>
         </array>
       </dict>
     </dict>
