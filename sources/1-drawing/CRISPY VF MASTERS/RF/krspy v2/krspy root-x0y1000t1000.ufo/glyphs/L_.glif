@@ -6,10 +6,10 @@
     <contour>
       <point x="96" y="0" type="line" identifier="XkJNfQlnnt"/>
       <point x="4253" y="0" type="line" identifier="82EXZEgt46"/>
-      <point x="4253" y="483" type="line" identifier="VYRt9kHZtP"/>
-      <point x="4251" y="483" type="line" identifier="t7Q9RRLHt8"/>
-      <point x="4251" y="2" type="line" identifier="cqpSxwFiM3"/>
-      <point x="98" y="2" type="line" identifier="MbxRZRd8vz"/>
+      <point x="4253.0" y="622.0" type="line" identifier="VYRt9kHZtP"/>
+      <point x="4251.0" y="622.0" type="line" identifier="t7Q9RRLHt8"/>
+      <point x="4251.0" y="622.0" type="line" identifier="cqpSxwFiM3"/>
+      <point x="98.0" y="622.0" type="line" identifier="MbxRZRd8vz"/>
       <point x="98" y="2000" type="line" identifier="lYiaKSKITt"/>
       <point x="96" y="2000" type="line" identifier="XFf4mMUzYo"/>
     </contour>
@@ -28,6 +28,11 @@
         <array>
           <string>rightside</string>
         </array>
+        <key>MbxRZRd8vz</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>BOTTOMINSIDE</string>
+        </array>
         <key>VYRt9kHZtP</key>
         <array>
           <string>RIGHTSTEM</string>
@@ -37,6 +42,7 @@
         <key>cqpSxwFiM3</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>BOTTOMINSIDE</string>
         </array>
         <key>scG1IXtWvJ</key>
         <array>

@@ -6,14 +6,14 @@
     <contour>
       <point x="107" y="0" type="line" identifier="CkwYPPvJLv"/>
       <point x="109" y="0" type="line" identifier="oHTJsN7drZ"/>
-      <point x="109" y="1998" type="line" identifier="wfBbYd10Pm"/>
-      <point x="127" y="1998" type="line" identifier="MEnBDHq6zU"/>
+      <point x="109.0" y="1378.0" type="line" identifier="wfBbYd10Pm"/>
+      <point x="127.0" y="1378.0" type="line" identifier="MEnBDHq6zU"/>
       <point x="4748" y="0" type="line" identifier="3Nbopwznvn"/>
       <point x="4773" y="0" type="line" identifier="uKfuudIUvA"/>
       <point x="4773" y="2000" type="line" identifier="XRdLFXiM4t"/>
       <point x="4771" y="2000" type="line" identifier="MUSJPjCIXg"/>
-      <point x="4771" y="2" type="line" identifier="VILP20cFmq"/>
-      <point x="4749" y="2" type="line" identifier="z5b04GDwRN"/>
+      <point x="4771.0" y="622.0" type="line" identifier="VILP20cFmq"/>
+      <point x="4749.0" y="622.0" type="line" identifier="z5b04GDwRN"/>
       <point x="128" y="2000" type="line" identifier="LL64NQ6WBE"/>
       <point x="107" y="2000" type="line" identifier="dzUaaP1sjt"/>
     </contour>
@@ -65,6 +65,8 @@
         <key>MEnBDHq6zU</key>
         <array>
           <string>LEFTSTEM</string>
+          <string>LEFTSTEM</string>
+          <string>TOPINSIDE</string>
         </array>
         <key>MUSJPjCIXg</key>
         <array>
@@ -89,6 +91,8 @@
         <key>VILP20cFmq</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>BOTTOMINSIDE</string>
         </array>
         <key>XRdLFXiM4t</key>
         <array>
@@ -119,10 +123,14 @@
         <key>wfBbYd10Pm</key>
         <array>
           <string>LEFTSTEM</string>
+          <string>LEFTSTEM</string>
+          <string>TOPINSIDE</string>
         </array>
         <key>z5b04GDwRN</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>BOTTOMINSIDE</string>
         </array>
       </dict>
     </dict>

@@ -6,14 +6,14 @@
     <contour>
       <point x="106" y="0" type="line" identifier="uqAJBjDIOT"/>
       <point x="108" y="0" type="line" identifier="WUaPOcaxKT"/>
-      <point x="108" y="999" type="line" identifier="QjywsYY2yB"/>
-      <point x="4723" y="999" type="line" identifier="7JgTtdb0jg"/>
+      <point x="108.0" y="719.0" type="line" identifier="QjywsYY2yB"/>
+      <point x="4723.0" y="719.0" type="line" identifier="7JgTtdb0jg"/>
       <point x="4723" y="0" type="line" identifier="njzlIRBsoY"/>
       <point x="4725" y="0" type="line" identifier="oOtn61SmRY"/>
       <point x="4725" y="2000" type="line" identifier="8OglXgblhr"/>
       <point x="4723" y="2000" type="line" identifier="db0bPhBdaU"/>
-      <point x="4723" y="1001" type="line" identifier="MTAeavIVWY"/>
-      <point x="108" y="1001" type="line" identifier="lggLiivmLt"/>
+      <point x="4723.0" y="1281.0" type="line" identifier="MTAeavIVWY"/>
+      <point x="108.0" y="1281.0" type="line" identifier="lggLiivmLt"/>
       <point x="108" y="2000" type="line" identifier="UPaHY3UudR"/>
       <point x="106" y="2000" type="line" identifier="ZnCDQVdtyD"/>
     </contour>
@@ -27,6 +27,8 @@
         <key>7JgTtdb0jg</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
         </array>
         <key>8OglXgblhr</key>
         <array>
@@ -35,10 +37,24 @@
         <key>MTAeavIVWY</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>QjywsYY2yB</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
         </array>
         <key>db0bPhBdaU</key>
         <array>
           <string>RIGHTSTEM</string>
+        </array>
+        <key>lggLiivmLt</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
         </array>
         <key>njzlIRBsoY</key>
         <array>

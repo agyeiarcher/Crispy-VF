@@ -12,12 +12,12 @@
       <point x="4107" y="0" type="line" identifier="dfgNHTgBfR"/>
     </contour>
     <contour>
-      <point x="4726" y="611" type="line" identifier="SnrsQD5TLy"/>
-      <point x="4105" y="2" type="line" identifier="jjd5iRDXWT"/>
-      <point x="108" y="2" type="line" identifier="YbQKHpAtYn"/>
-      <point x="108" y="1382" type="line" identifier="vdfGLkskOQ"/>
-      <point x="730" y="1998" type="line" identifier="qXlVxK5ShE"/>
-      <point x="4726" y="1998" type="line" identifier="g70r2r6DwY"/>
+      <point x="4726.0" y="1230.0" type="line" identifier="SnrsQD5TLy"/>
+      <point x="4106.0" y="622.0" type="line" identifier="jjd5iRDXWT"/>
+      <point x="108.0" y="622.0" type="line" identifier="YbQKHpAtYn"/>
+      <point x="108.0" y="761.0" type="line" identifier="vdfGLkskOQ"/>
+      <point x="769.0" y="1378.0" type="line" identifier="qXlVxK5ShE"/>
+      <point x="4726.0" y="1378.0" type="line" identifier="g70r2r6DwY"/>
     </contour>
   </outline>
   <lib>
@@ -28,6 +28,20 @@
       <dict>
         <key>SnrsQD5TLy</key>
         <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPNOTCH</string>
+          <string>BOTTOMINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>SIDENOTCH</string>
+        </array>
+        <key>YbQKHpAtYn</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPNOTCH</string>
+          <string>BOTTOMINSIDE</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>SIDENOTCH</string>
@@ -48,13 +62,20 @@
         </array>
         <key>g70r2r6DwY</key>
         <array>
+          <string>SIDENOTCH</string>
+          <string>TOPNOTCH</string>
           <string>RIGHTSTEM</string>
+          <string>TOPINSIDE</string>
         </array>
         <key>jjd5iRDXWT</key>
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>TOPNOTCH</string>
+          <string>BOTTOMINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>SIDENOTCH</string>
         </array>
         <key>kbL68Qh2zr</key>
         <array>
@@ -68,11 +89,16 @@
         </array>
         <key>qXlVxK5ShE</key>
         <array>
+          <string>SIDENOTCH</string>
           <string>TOPNOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPINSIDE</string>
         </array>
         <key>vdfGLkskOQ</key>
         <array>
           <string>SIDENOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPINSIDE</string>
         </array>
       </dict>
     </dict>

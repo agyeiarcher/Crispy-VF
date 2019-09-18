@@ -11,11 +11,11 @@
       <point x="106" y="2000" type="line" identifier="hTYdJwlqIh"/>
     </contour>
     <contour>
-      <point x="108" y="1998" type="line" identifier="YShvMHvurg"/>
-      <point x="4081" y="1998" type="line" identifier="DiLdvAK6bW"/>
-      <point x="4727" y="1443" type="line" identifier="5OFemp6E2Y"/>
-      <point x="4727" y="2" type="line" identifier="4w8cXO1HlF"/>
-      <point x="108" y="2" type="line" identifier="OGdfzPVlic"/>
+      <point x="108.0" y="1378.0" type="line" identifier="YShvMHvurg"/>
+      <point x="4081.0" y="1378.0" type="line" identifier="DiLdvAK6bW"/>
+      <point x="4727.0" y="823.0" type="line" identifier="5OFemp6E2Y"/>
+      <point x="4727.0" y="622.0" type="line" identifier="4w8cXO1HlF"/>
+      <point x="108.0" y="622.0" type="line" identifier="OGdfzPVlic"/>
     </contour>
   </outline>
   <lib>
@@ -28,9 +28,16 @@
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
+          <string>BOTTOMINSIDE</string>
         </array>
         <key>5OFemp6E2Y</key>
         <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPNOTCH</string>
+          <string>RIGHTSTEM</string>
           <string>SIDENOTCH</string>
           <string>SIDENOTCH</string>
           <string>RIGHTSTEM</string>
@@ -43,8 +50,12 @@
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
+          <string>TOPINSIDE</string>
           <string>RIGHTSTEM</string>
           <string>TOPNOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>SIDENOTCH</string>
+          <string>SIDENOTCH</string>
           <string>RIGHTSTEM</string>
         </array>
         <key>IF8msvcgce</key>
@@ -54,6 +65,16 @@
           <string>RIGHTSTEM</string>
           <string>TOPNOTCH</string>
           <string>RIGHTSTEM</string>
+        </array>
+        <key>OGdfzPVlic</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>BOTTOMINSIDE</string>
+        </array>
+        <key>YShvMHvurg</key>
+        <array>
+          <string>TOPINSIDE</string>
         </array>
         <key>wIy2omw5Da</key>
         <array>

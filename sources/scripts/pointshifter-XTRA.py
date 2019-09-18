@@ -10,6 +10,7 @@ sidenotchlabel = 'SIDENOTCH'
 topnotchlabel = 'TOPNOTCH'
 bottomseriflabel = 'BOTTOMSERIF'
 topseriflabel = 'TOPSERIF'
+crossbartiltlabel = 'CROSSBARTILT'
 insidenotchrightlabel = 'INSIDENOTCHRIGHT'
 insidenotchleftlabel = 'INSIDENOTCHLEFT'
 
@@ -73,6 +74,13 @@ def xTRA():
                 if p.y>f.info.xHeight:
                     p.move((0,-sidenotchadjustment))
             
+            if crossbartiltlabel in p.labels:
+                if p.y<f.info.xHeight:
+                    p.move((0,-sidenotchadjustment/2))
+                if p.y>f.info.xHeight:
+                    p.move((0,sidenotchadjustment/2))
+
+            
             #two way e.g. X,8,B vert stem notch points
             if outnotchlabel in p.labels:
                 if p.y<f.info.xHeight:
@@ -103,7 +111,7 @@ def xTRA():
                     p.move((0,40))
                 if g.name is 'S':
                     p.move((0,100))
-                               
+                                
             if insidenotchrightlabel in p.labels:
                 p.move((insidenotchadjustment/2,0))
             if insidenotchleftlabel in p.labels:
@@ -122,7 +130,7 @@ def clearLabels():
                 
 
 # clearLabels()
-# xTRA()
+xTRA()
             
 
-# print(f.info.xHeight)
+# print(f.info.xHeight) 
