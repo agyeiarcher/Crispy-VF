@@ -8,6 +8,8 @@ bottominsidelabel='BOTTOMINSIDE'
 crossbartoplabel='CROSSBARTOP'
 crossbarbottomlabel='CROSSBARBOTTOM'
 crossbarlabel='CROSSBAR'
+sidenotchlabel='SIDENOTCH'
+
 crossbartiltlabel = 'CROSSBARTILT'
 topnotchlabel='TOPNOTCH'
 outnotchlabel='OUTNOTCH'
@@ -21,11 +23,12 @@ print(g.name)
 def yOPQ():
     
     #be careful to manually check for: J,
- 
+    
+    stemwidth=2
     topbaradjustment=620
     crossbaradjustment=560
     
-    g.prepareUndo()
+    g.prepareUndo() 
     
     for c in g: 
        
@@ -35,7 +38,7 @@ def yOPQ():
                 if topnotchlabel in p.labels:
                     if p.x<g.width/2:
                         p. move((40,0))
-            g.changed() 
+            g.changed()   
                
             if bottominsidelabel in p.labels:
                 p.move((0,topbaradjustment))
@@ -57,14 +60,23 @@ def yOPQ():
                    
             if outnotchlabel in p.labels:
                 if p.y>f.info.xHeight:
-                    p.move((0,-60))
+                    p.move((0,-topbaradjustment-stemwidth+(f.info.capHeight-p.y)))
                 if p.y<f.info.xHeight:
-                    p.move((0,60))
+                    p.move((0,(topbaradjustment-p.y)+stemwidth))
+                g.changed()
+                
+            if sidenotchlabel in p.labels:
+                if p.y>f.info.xHeight:
+                    p.move((0,-topbaradjustment-stemwidth+(f.info.capHeight-p.y)))
+                if p.y<f.info.xHeight:
+                    p.move((0,(topbaradjustment-p.y)+stemwidth))
                 g.changed()
     
             if topseriflabel in p.labels:
-                print(p.y)
-                p.move((0,-topbaradjustment+(f.info.capHeight-p.y)))
+                if g.name is 'Q':
+                    p.move((0,-topbaradjustment/2))
+                else:
+                    p.move((0,-topbaradjustment+(f.info.capHeight-p.y)))
                 g.changed()
     
             if bottomseriflabel in p.labels: 
