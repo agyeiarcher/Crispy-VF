@@ -12,8 +12,8 @@
       <point x="108.0" y="1281.0" type="line" identifier="4cFHKQfHDt"/>
       <point x="108.0" y="1378.0" type="line" identifier="ZvzwyrcwpS"/>
       <point x="4712.0" y="1378.0" type="line" identifier="4E754ovOIe"/>
-      <point x="4712.0" y="1378.0" type="line" identifier="vZkeT9KrKR"/>
-      <point x="4714.0" y="1378.0" type="line" identifier="0tk7G4orz6"/>
+      <point x="4712.0" y="1380.0" type="line" identifier="vZkeT9KrKR"/>
+      <point x="4714.0" y="1380.0" type="line" identifier="0tk7G4orz6"/>
       <point x="4714" y="2000" type="line" identifier="NUrIjqOB7J"/>
       <point x="106" y="2000" type="line" identifier="TBAYuCfUFX"/>
     </contour>
@@ -37,8 +37,7 @@
         </array>
         <key>4cFHKQfHDt</key>
         <array>
-          <string>CROSSBARTOP</string>
-          <string>LEFTINSIDE</string>
+          <string>CROSSBAR</string>
         </array>
         <key>F6QQD702pX</key>
         <array>
@@ -54,22 +53,13 @@
           <string>RIGHTSTEM</string>
           <string>CROSSBAR</string>
         </array>
-        <key>TBAYuCfUFX</key>
-        <array>
-          <string>LEFTOUTSIDE</string>
-        </array>
         <key>ZvzwyrcwpS</key>
         <array>
           <string>TOPINSIDE</string>
-          <string>LEFTINSIDE</string>
         </array>
         <key>bL0wwzlx16</key>
         <array>
           <string>rightside</string>
-        </array>
-        <key>oAgH2tA6DJ</key>
-        <array>
-          <string>LEFTOUTSIDE</string>
         </array>
         <key>vZkeT9KrKR</key>
         <array>
@@ -85,7 +75,7 @@
         </array>
         <key>yHYqkMd7LI</key>
         <array>
-          <string>CROSSBARBOTTOM</string>
+          <string>CROSSBAR</string>
         </array>
       </dict>
     </dict>

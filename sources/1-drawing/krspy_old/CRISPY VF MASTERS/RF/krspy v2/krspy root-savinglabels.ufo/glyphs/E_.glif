@@ -16,8 +16,8 @@
       <point x="108.0" y="1281.0" type="line" identifier="m39IWn9ntA"/>
       <point x="108.0" y="1378.0" type="line" identifier="gQ21I4SHQg"/>
       <point x="4713.0" y="1378.0" type="line" identifier="eqNb2VTwYs"/>
-      <point x="4713.0" y="1378.0" type="line" identifier="mLmcFoJA4m"/>
-      <point x="4715.0" y="1378.0" type="line" identifier="e79n7CoPy1"/>
+      <point x="4713.0" y="1380.0" type="line" identifier="mLmcFoJA4m"/>
+      <point x="4715.0" y="1380.0" type="line" identifier="e79n7CoPy1"/>
       <point x="4715" y="2000" type="line" identifier="qYRmo14Il5"/>
       <point x="106" y="2000" type="line" identifier="HmJIcnLWfC"/>
     </contour>
@@ -46,11 +46,6 @@
         <key>FAQNpgUPxV</key>
         <array>
           <string>RIGHTSTEM</string>
-          <string>RIGHTOUTSIDE</string>
-        </array>
-        <key>HmJIcnLWfC</key>
-        <array>
-          <string>LEFTOUTSIDE</string>
         </array>
         <key>NnvFkLKjyD</key>
         <array>
@@ -68,8 +63,7 @@
         </array>
         <key>VtD2aADJmn</key>
         <array>
-          <string>CROSSBARBOTTOM</string>
-          <string>LEFTINSIDE</string>
+          <string>CROSSBAR</string>
         </array>
         <key>XMbDdjq7aS</key>
         <array>
@@ -78,13 +72,11 @@
         <key>bWs42DaCgU</key>
         <array>
           <string>BOTTOMINSIDE</string>
-          <string>LEFTINSIDE</string>
         </array>
         <key>e79n7CoPy1</key>
         <array>
           <string>RIGHTSTEM</string>
           <string>TOPSERIF</string>
-          <string>RIGHTOUTSIDE</string>
           <string>RIGHTSTEM</string>
         </array>
         <key>eqNb2VTwYs</key>
@@ -92,21 +84,15 @@
           <string>RIGHTSTEM</string>
           <string>TOPINSIDE</string>
         </array>
-        <key>fZynkQ4XHB</key>
-        <array>
-          <string>LEFTOUTSIDE</string>
-        </array>
         <key>gHI0YjrPxR</key>
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>BOTTOMSERIF</string>
-          <string>RIGHTOUTSIDE</string>
         </array>
         <key>gQ21I4SHQg</key>
         <array>
           <string>TOPINSIDE</string>
-          <string>LEFTINSIDE</string>
         </array>
         <key>gxCIuXb4el</key>
         <array>
@@ -116,8 +102,7 @@
         </array>
         <key>m39IWn9ntA</key>
         <array>
-          <string>LEFTINSIDE</string>
-          <string>CROSSBARTOP</string>
+          <string>CROSSBAR</string>
         </array>
         <key>mLmcFoJA4m</key>
         <array>
@@ -127,7 +112,7 @@
         </array>
         <key>qYRmo14Il5</key>
         <array>
-          <string>RIGHTOUTSIDE</string>
+          <string>RIGHTSTEM</string>
         </array>
       </dict>
     </dict>
