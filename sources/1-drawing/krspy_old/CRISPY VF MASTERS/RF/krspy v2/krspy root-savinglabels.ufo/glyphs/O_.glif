@@ -33,38 +33,44 @@
           <string>TOPNOTCH</string>
           <string>BOTTOMINSIDE</string>
           <string>RIGHTSTEM</string>
+          <string>RIGHTINSIDE</string>
           <string>RIGHTSTEM</string>
           <string>SIDENOTCH</string>
         </array>
+        <key>U6WibAQAUl</key>
+        <array>
+          <string>LEFTOUTSIDE</string>
+        </array>
         <key>YbQKHpAtYn</key>
         <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
           <string>TOPNOTCH</string>
           <string>BOTTOMINSIDE</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
           <string>SIDENOTCH</string>
+          <string>LEFTINSIDE</string>
         </array>
         <key>a4Ql951bxG</key>
         <array>
           <string>TOPNOTCH</string>
+          <string>LEFTOUTSIDE</string>
         </array>
         <key>c9brEFyXXA</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTOUTSIDE</string>
         </array>
         <key>dfgNHTgBfR</key>
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>TOPNOTCH</string>
+          <string>RIGHTOUTSIDE</string>
         </array>
         <key>g70r2r6DwY</key>
         <array>
           <string>SIDENOTCH</string>
           <string>TOPNOTCH</string>
           <string>RIGHTSTEM</string>
+          <string>RIGHTINSIDE</string>
           <string>TOPINSIDE</string>
         </array>
         <key>jjd5iRDXWT</key>
@@ -72,6 +78,7 @@
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>TOPNOTCH</string>
+          <string>RIGHTINSIDE</string>
           <string>BOTTOMINSIDE</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
@@ -80,25 +87,27 @@
         <key>kbL68Qh2zr</key>
         <array>
           <string>SIDENOTCH</string>
+          <string>LEFTOUTSIDE</string>
         </array>
         <key>ob8US3C311</key>
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>SIDENOTCH</string>
+          <string>RIGHTOUTSIDE</string>
         </array>
         <key>qXlVxK5ShE</key>
         <array>
           <string>SIDENOTCH</string>
           <string>TOPNOTCH</string>
-          <string>RIGHTSTEM</string>
           <string>TOPINSIDE</string>
+          <string>LEFTINSIDE</string>
         </array>
         <key>vdfGLkskOQ</key>
         <array>
           <string>SIDENOTCH</string>
-          <string>RIGHTSTEM</string>
           <string>TOPINSIDE</string>
+          <string>LEFTINSIDE</string>
         </array>
       </dict>
     </dict>

@@ -29,6 +29,7 @@
           <string>RIGHTSTEM</string>
           <string>CROSSBARTOP</string>
           <string>RIGHTSTEM</string>
+          <string>RIGHTINSIDE</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
@@ -43,11 +44,16 @@
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>TOPINSIDE</string>
+          <string>RIGHTINSIDE</string>
         </array>
         <key>6xW04auDFu</key>
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
+        </array>
+        <key>EG08jqU5fb</key>
+        <array>
+          <string>LEFTOUTSIDE</string>
         </array>
         <key>IZIZQr2gYJ</key>
         <array>
@@ -72,10 +78,19 @@
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
         </array>
+        <key>eETO5GBD5v</key>
+        <array>
+          <string>LEFTOUTSIDE</string>
+        </array>
         <key>hIFVovVRwe</key>
         <array>
           <string>CROSSBARTILT</string>
           <string>CROSSBARBOTTOM</string>
+          <string>LEFTINSIDE</string>
+        </array>
+        <key>osRzIFK2Cu</key>
+        <array>
+          <string>LEFTINSIDE</string>
         </array>
       </dict>
     </dict>

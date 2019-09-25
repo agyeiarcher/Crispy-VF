@@ -31,6 +31,9 @@
         <key>1m237t4hyw</key>
         <array>
           <string>BOTTOMINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTOUTSIDE</string>
         </array>
         <key>9RiQmr3G8U</key>
         <array>
@@ -58,7 +61,9 @@
         </array>
         <key>S4rO5KuHiL</key>
         <array>
+          <string>LEFTSTEM</string>
           <string>BOTTOMINSIDE</string>
+          <string>LEFTOUTSIDE</string>
         </array>
         <key>aCoxe3fSmw</key>
         <array>
@@ -95,14 +100,12 @@
         </array>
         <key>v7N4yg5XNk</key>
         <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
           <string>TOPINSIDE</string>
+          <string>RIGHTOUTSIDE</string>
         </array>
         <key>zfocDyDTCM</key>
         <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
+          <string>LEFTOUTSIDE</string>
           <string>TOPINSIDE</string>
         </array>
       </dict>

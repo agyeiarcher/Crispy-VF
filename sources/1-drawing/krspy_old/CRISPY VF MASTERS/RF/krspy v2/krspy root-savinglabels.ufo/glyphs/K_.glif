@@ -33,6 +33,7 @@
         <key>08OWjR2YBJ</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTINSIDE</string>
         </array>
         <key>0mqLpz5vAU</key>
         <array>
@@ -49,6 +50,10 @@
           <string>rightside</string>
           <string>crossbar</string>
           <string>leftside</string>
+        </array>
+        <key>3XJlWt89ad</key>
+        <array>
+          <string>LEFTOUTSIDE</string>
         </array>
         <key>8uJIZj54GB</key>
         <array>
@@ -75,28 +80,29 @@
         <key>ChS7KlqGi6</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTOUTSIDE</string>
         </array>
         <key>DzXo67YEfw</key>
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
           <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
+          <string>RIGHTINSIDE</string>
           <string>RIGHTSTEM</string>
           <string>INSIDENOTCH</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>OUTNOTCH</string>
+          <string>CROSSBARBOTTOM</string>
         </array>
         <key>ELFBWIb1vd</key>
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
           <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
+          <string>CROSSBARBOTTOM</string>
           <string>RIGHTSTEM</string>
+          <string>RIGHTINSIDE</string>
           <string>INSIDENOTCH</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
@@ -104,7 +110,7 @@
         <key>F62GU90G6q</key>
         <array>
           <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
+          <string>RIGHTINSIDE</string>
           <string>OUTNOTCH</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
@@ -112,6 +118,7 @@
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>INSIDENOTCH</string>
+          <string>CROSSBARTOP</string>
         </array>
         <key>I87sAwdtGu</key>
         <array>
@@ -131,15 +138,17 @@
         </array>
         <key>O22liaP9Qk</key>
         <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>INSIDENOTCH</string>
+          <string>CROSSBARBOTTOM</string>
+          <string>LEFTINSIDE</string>
         </array>
         <key>Of0iQc0wBG</key>
         <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTOUTSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>INSIDENOTCH</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
@@ -169,15 +178,18 @@
         <key>aKpYWD78l2</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTINSIDE</string>
         </array>
         <key>dMJ1ywOKQQ</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTOUTSIDE</string>
         </array>
         <key>dWvz0rZ5Hv</key>
         <array>
           <string>RIGHTSTEM</string>
           <string>OUTNOTCH</string>
+          <string>RIGHTOUTSIDE</string>
           <string>RIGHTSTEM</string>
         </array>
         <key>e8AHcRxH3I</key>
@@ -193,10 +205,10 @@
         <key>g4YLdZEoM3</key>
         <array>
           <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
-          <string>CROSSBAR</string>
+          <string>CROSSBARTOP</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
+          <string>RIGHTINSIDE</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
@@ -204,6 +216,12 @@
         </array>
         <key>j4jnmtDJYB</key>
         <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTOUTSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>INSIDENOTCH</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
@@ -236,6 +254,7 @@
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
+          <string>RIGHTOUTSIDE</string>
           <string>OUTNOTCH</string>
         </array>
         <key>tRv54mralF</key>
@@ -256,21 +275,18 @@
         </array>
         <key>uZuki3Isec</key>
         <array>
-          <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
-          <string>CROSSBAR</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>INSIDENOTCH</string>
+          <string>CROSSBARTOP</string>
+          <string>LEFTINSIDE</string>
         </array>
         <key>up9uIbzma1</key>
         <array>
           <string>rightside</string>
           <string>rightside</string>
           <string>crossbar</string>
+        </array>
+        <key>wdbO8kCovY</key>
+        <array>
+          <string>LEFTOUTSIDE</string>
         </array>
         <key>xRsK7LwvCP</key>
         <array>

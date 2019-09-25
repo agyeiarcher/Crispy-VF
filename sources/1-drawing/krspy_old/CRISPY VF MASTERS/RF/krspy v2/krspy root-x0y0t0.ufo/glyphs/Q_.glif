@@ -4,30 +4,24 @@
   <unicode hex="0051"/>
   <outline>
     <contour>
-      <point x="155" y="46" type="line" identifier="ob8US3C311"/>
       <point x="155" y="2000" type="line" identifier="c9brEFyXXA"/>
       <point x="75" y="2000" type="line" identifier="a4Ql951bxG"/>
-      <point x="33" y="1798" type="line" identifier="kbL68Qh2zr"/>
+      <point x="33" y="1621" type="line" identifier="kbL68Qh2zr"/>
       <point x="33" y="0" type="line" identifier="U6WibAQAUl"/>
-      <point x="114" y="0" type="line" identifier="dfgNHTgBfR"/>
+      <point x="155" y="0" type="line" identifier="dfgNHTgBfR"/>
     </contour>
     <contour>
-      <point x="153" y="47" type="line" identifier="SnrsQD5TLy"/>
-      <point x="113" y="2" type="line" identifier="jjd5iRDXWT"/>
+      <point x="153" y="2" type="line" identifier="jjd5iRDXWT"/>
       <point x="35" y="2" type="line" identifier="YbQKHpAtYn"/>
-      <point x="35" y="1798" type="line" identifier="vdfGLkskOQ"/>
+      <point x="35" y="1622" type="line" identifier="vdfGLkskOQ"/>
       <point x="77" y="1998" type="line" identifier="qXlVxK5ShE"/>
       <point x="153" y="1998" type="line" identifier="g70r2r6DwY"/>
     </contour>
     <contour>
-      <point x="111" y="0" type="line"/>
-      <point x="22" y="-94" type="line"/>
-      <point x="22" y="-112" type="line"/>
-      <point x="192" y="-112" type="line"/>
-      <point x="192" y="-110" type="line"/>
-      <point x="24" y="-110" type="line"/>
-      <point x="24" y="-95" type="line"/>
-      <point x="114" y="0" type="line"/>
+      <point x="94" y="-185" type="line"/>
+      <point x="96" y="-185" type="line"/>
+      <point x="96" y="2" type="line"/>
+      <point x="94" y="2" type="line"/>
     </contour>
   </outline>
   <lib>

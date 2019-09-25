@@ -65,6 +65,7 @@
           <string>LEFTSTEM</string>
           <string>LEFTSTEM</string>
           <string>TOPINSIDE</string>
+          <string>LEFTINSIDE</string>
         </array>
         <key>9aKZPM0HPh</key>
         <array>
@@ -75,22 +76,31 @@
           <string>LEFTSTEM</string>
           <string>LEFTSTEM</string>
           <string>TOPINSIDE</string>
+          <string>LEFTINSIDE</string>
         </array>
         <key>Nn5O7e1cYK</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPINSIDE</string>
+          <string>RIGHTINSIDE</string>
         </array>
         <key>TAkvX15kAp</key>
         <array>
           <string>LEFTSTEM</string>
+          <string>LEFTOUTSIDE</string>
         </array>
         <key>VmXAkqgoAb</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTINSIDE</string>
         </array>
         <key>WSb4wQic0D</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTOUTSIDE</string>
         </array>
         <key>czpj5jP2o1</key>
         <array>
@@ -104,7 +114,9 @@
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
           <string>TOPINSIDE</string>
+          <string>RIGHTINSIDE</string>
         </array>
         <key>hvBQuBUzS5</key>
         <array>
@@ -119,10 +131,12 @@
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>TOPINSIDE</string>
+          <string>RIGHTINSIDE</string>
         </array>
         <key>iZIUH9tAuB</key>
         <array>
           <string>LEFTSTEM</string>
+          <string>LEFTINSIDE</string>
         </array>
         <key>l3jugDCgZp</key>
         <array>
@@ -139,10 +153,13 @@
         <key>oia0jNa8Lt</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTOUTSIDE</string>
         </array>
         <key>p8hbL8GrGg</key>
         <array>
           <string>LEFTSTEM</string>
+          <string>LEFTINSIDE</string>
         </array>
         <key>q5rffo9NOb</key>
         <array>
@@ -171,6 +188,7 @@
         <key>qUWDYyJjap</key>
         <array>
           <string>LEFTSTEM</string>
+          <string>LEFTOUTSIDE</string>
         </array>
         <key>rc1RBgs7MK</key>
         <array>

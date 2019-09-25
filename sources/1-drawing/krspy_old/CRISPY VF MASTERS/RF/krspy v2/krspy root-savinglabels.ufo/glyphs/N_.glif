@@ -31,6 +31,7 @@
         <key>3Nbopwznvn</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTINSIDE</string>
         </array>
         <key>7wBal5jvPQ</key>
         <array>
@@ -41,6 +42,8 @@
         <key>CkwYPPvJLv</key>
         <array>
           <string>LEFTSTEM</string>
+          <string>LEFTSTEM</string>
+          <string>LEFTOUTSIDE</string>
         </array>
         <key>DYg9JHyygg</key>
         <array>
@@ -61,11 +64,13 @@
         <key>LL64NQ6WBE</key>
         <array>
           <string>LEFTSTEM</string>
+          <string>LEFTINSIDE</string>
         </array>
         <key>MEnBDHq6zU</key>
         <array>
           <string>LEFTSTEM</string>
           <string>LEFTSTEM</string>
+          <string>LEFTINSIDE</string>
           <string>TOPINSIDE</string>
         </array>
         <key>MUSJPjCIXg</key>
@@ -93,10 +98,13 @@
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>BOTTOMINSIDE</string>
+          <string>RIGHTINSIDE</string>
         </array>
         <key>XRdLFXiM4t</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTOUTSIDE</string>
         </array>
         <key>ZsB4bFWMAS</key>
         <array>
@@ -107,6 +115,8 @@
         <key>dzUaaP1sjt</key>
         <array>
           <string>LEFTSTEM</string>
+          <string>LEFTSTEM</string>
+          <string>LEFTOUTSIDE</string>
         </array>
         <key>j2qkgH7CJF</key>
         <array>
@@ -119,18 +129,22 @@
         <key>uKfuudIUvA</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTOUTSIDE</string>
         </array>
         <key>wfBbYd10Pm</key>
         <array>
           <string>LEFTSTEM</string>
           <string>LEFTSTEM</string>
           <string>TOPINSIDE</string>
+          <string>LEFTINSIDE</string>
         </array>
         <key>z5b04GDwRN</key>
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>BOTTOMINSIDE</string>
+          <string>RIGHTINSIDE</string>
         </array>
       </dict>
     </dict>
