@@ -1,37 +1,4 @@
-f=CurrentFont()
 
-def xOPQ(stemAdjustment):
-    
-    #625 for wides, 500 for narrows
-        
-    for glyph in f.selectedGlyphs:
-        
-        glyph.prepareUndo()
-
-        for contour in glyph.contours:
-                    
-            noShiftingRight=True
-            noShiftingLeft=True
- 
-            for point in contour.selection:
-                if point.x > glyph.width/2:
-                    point.moveBy((stemAdjustment,0))
-                    noShiftingRight=False
-                    print("right contour points moved by "+str(stemAdjustment)+ " points")
-                if point.x < glyph.width/2:
-                    point.moveBy((-stemAdjustment,0))
-                    noShiftingLeft=False
-                    print("left contour points moved by "+str(stemAdjustment)+ " points")
-
-            if not noShiftingRight:
-                glyph.rightMargin+=stemAdjustment*1.2
-            if not noShiftingLeft:
-                glyph.leftMargin+=stemAdjustment*1.2
-        
-        glyph.changed()    
-        glyph.performUndo()
-    
-# xOPQ(460/1.61803398875)
 
 def yOPQ(stemAdjustment):
     
@@ -74,7 +41,7 @@ def xTRA(stemAdjustment):
  
             for point in contour.selection:
                 if point.x < glyph.width/2:
-                    point.moveBy((-stemAdjustment,0))                    
+                    point.moveBy((-stemAdjustment,0))
                     shiftingLeft=True
                     print("stems moved by "+str(stemAdjustment)+ " points")
                 if point.x > glyph.width/2:
@@ -89,6 +56,3 @@ def xTRA(stemAdjustment):
         
         glyph.changed()    
         glyph.performUndo()
-    
-yOPQ(160)
-
