@@ -8,16 +8,16 @@
       <point x="106" y="0" type="line" identifier="7lPhzTnk2Z"/>
       <point x="4725" y="0" type="line" identifier="qJVLZGnkwh"/>
       <point x="4725.0" y="1281.0" type="line" identifier="uek1NNj7De"/>
-      <point x="3156.0" y="1281.0" type="line" identifier="qcvimxjndX"/>
-      <point x="3156.0" y="719.0" type="line" identifier="EARaY3Su65"/>
+      <point x="946.0" y="1281.0" type="line" identifier="qcvimxjndX"/>
+      <point x="946.0" y="719.0" type="line" identifier="EARaY3Su65"/>
       <point x="4723.0" y="719.0" type="line" identifier="4m6dHLVhZq"/>
       <point x="4723.0" y="622.0" type="line" identifier="Y750RHTvDj"/>
       <point x="108.0" y="622.0" type="line" identifier="L2LsGnXiZ2"/>
       <point x="108.0" y="760.0" type="line" identifier="sUWsr03vF4"/>
       <point x="783.0" y="1378.0" type="line" identifier="dbOUe6OhxL"/>
       <point x="4722.0" y="1378.0" type="line" identifier="5BjRbcud80"/>
-      <point x="4722.0" y="1380.0" type="line" identifier="fNVDqwQo2o"/>
-      <point x="4724.0" y="1380.0" type="line" identifier="wLqQQx7QVN"/>
+      <point x="4722.0" y="1378.0" type="line" identifier="fNVDqwQo2o"/>
+      <point x="4724.0" y="1378.0" type="line" identifier="wLqQQx7QVN"/>
       <point x="4724" y="2000" type="line" identifier="9eJelv8BOw"/>
       <point x="741" y="2000" type="line" identifier="lfZev3ICaC"/>
       <point x="106" y="1381" type="line" identifier="V1EWIdPahq"/>
@@ -226,12 +226,16 @@
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
+          <string>CROSSBARBOTTOM</string>
         </array>
         <key>5BjRbcud80</key>
         <array>
           <string>RIGHTSTEM</string>
           <string>TOPINSIDE</string>
+        </array>
+        <key>7lPhzTnk2Z</key>
+        <array>
+          <string>LEFTOUTSIDE</string>
         </array>
         <key>8B2JVN8ZLJ</key>
         <array>
@@ -480,9 +484,7 @@
         </array>
         <key>EARaY3Su65</key>
         <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
+          <string>CROSSBARBOTTOM</string>
         </array>
         <key>HNKsGz9B03</key>
         <array>
@@ -534,6 +536,7 @@
         <array>
           <string>RIGHTSTEM</string>
           <string>BOTTOMINSIDE</string>
+          <string>LEFTINSIDE</string>
         </array>
         <key>Mtb7ldvxRR</key>
         <array>
@@ -594,6 +597,7 @@
         </array>
         <key>V1EWIdPahq</key>
         <array>
+          <string>LEFTOUTSIDE</string>
           <string>SIDENOTCH</string>
         </array>
         <key>Y750RHTvDj</key>
@@ -605,6 +609,7 @@
         <array>
           <string>TOPNOTCH</string>
           <string>TOPINSIDE</string>
+          <string>LEFTINSIDE</string>
         </array>
         <key>fNVDqwQo2o</key>
         <array>
@@ -762,6 +767,7 @@
         <key>lfZev3ICaC</key>
         <array>
           <string>TOPNOTCH</string>
+          <string>LEFTOUTSIDE</string>
         </array>
         <key>oP4AYTo8BD</key>
         <array>
@@ -1052,14 +1058,13 @@
         </array>
         <key>qcvimxjndX</key>
         <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
+          <string>CROSSBARTOP</string>
         </array>
         <key>sUWsr03vF4</key>
         <array>
           <string>SIDENOTCH</string>
           <string>TOPINSIDE</string>
+          <string>LEFTINSIDE</string>
         </array>
         <key>sayqGOMtzs</key>
         <array>
@@ -1201,7 +1206,9 @@
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBARTOP</string>
         </array>
         <key>wLqQQx7QVN</key>
         <array>
