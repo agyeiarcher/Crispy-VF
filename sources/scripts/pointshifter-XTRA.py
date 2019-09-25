@@ -41,7 +41,7 @@ def xTRA():
                 if g.name is 'I':
                     if p.x>g.width/2:
                         p.move((widthadjustment/2.25,0))
-                    if p.x<g.width/2:
+                    if p.x<g.width/2: 
                         p.move((-widthadjustment/2.25,0))
                 elif g.name is 'W':
                     p.move((widthadjustment*0.7,0)) 

@@ -33,58 +33,81 @@
           <string>SIDENOTCH</string>
           <string>TOPNOTCH</string>
           <string>TOPINSIDE</string>
+          <string>LEFTINSIDE</string>
         </array>
         <key>IIRC9Wy7kQ</key>
         <array>
-          <string>CROSSBAR</string>
+          <string>CROSSBARTOP</string>
+          <string>LEFTINSIDE</string>
         </array>
         <key>OBZ5Ayed7M</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTOUTSIDE</string>
         </array>
         <key>QVexAlbAcl</key>
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
+          <string>RIGHTINSIDE</string>
+          <string>CROSSBARBOTTOM</string>
         </array>
         <key>VufvPdJ075</key>
         <array>
           <string>SIDENOTCH</string>
           <string>TOPINSIDE</string>
+          <string>LEFTINSIDE</string>
         </array>
         <key>ZgsCdxNJRW</key>
         <array>
+          <string>RIGHTINSIDE</string>
           <string>RIGHTSTEM</string>
+        </array>
+        <key>dQz4RxYhG4</key>
+        <array>
+          <string>LEFTINSIDE</string>
         </array>
         <key>dqVr87m3uJ</key>
         <array>
           <string>SIDENOTCH</string>
+          <string>TOPNOTCH</string>
+          <string>LEFTOUTSIDE</string>
         </array>
         <key>eTe9B4y76W</key>
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
+          <string>CROSSBARTOP</string>
+          <string>RIGHTINSIDE</string>
         </array>
         <key>iDT0uyhKrn</key>
         <array>
+          <string>LEFTOUTSIDE</string>
           <string>TOPNOTCH</string>
+        </array>
+        <key>jFq8ta4UUc</key>
+        <array>
+          <string>SIDENOTCH</string>
+          <string>TOPNOTCH</string>
+          <string>LEFTOUTSIDE</string>
         </array>
         <key>kpn4Kw9J0C</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTOUTSIDE</string>
         </array>
         <key>tUsW8L7b0y</key>
         <array>
-          <string>SIDENOTCH</string>
-          <string>TOPNOTCH</string>
           <string>RIGHTSTEM</string>
           <string>TOPINSIDE</string>
+          <string>RIGHTINSIDE</string>
         </array>
         <key>viYRWe5UN7</key>
         <array>
-          <string>CROSSBAR</string>
+          <string>CROSSBARBOTTOM</string>
+          <string>LEFTINSIDE</string>
         </array>
       </dict>
     </dict>
