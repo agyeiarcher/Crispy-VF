@@ -13,7 +13,7 @@ def xOPQ(stemAdjustment):
         noShiftingRight=True
         noShiftingLeft=True
     
-        if g.name is 'I':
+        if g.name is 'W':
             stemAdjustment=stemAdjustment/2
             
         for point in contour.selection:
