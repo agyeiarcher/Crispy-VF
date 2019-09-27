@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C" format="2">
+  <advance width="622"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="30" y="1" type="line"/>
+      <point x="589" y="1" type="line"/>
+      <point x="589" y="300" type="line"/>
+      <point x="338" y="300" type="line"/>
+      <point x="338" y="178" type="line"/>
+      <point x="281" y="178" type="line"/>
+      <point x="281" y="495" type="line"/>
+      <point x="298" y="574" type="line"/>
+      <point x="357" y="574" type="line"/>
+      <point x="357" y="440" type="line"/>
+      <point x="588" y="440" type="line"/>
+      <point x="588" y="750" type="line"/>
+      <point x="99" y="750" type="line"/>
+      <point x="30" y="499" type="line"/>
+    </contour>
+    <contour>
+      <point x="99" y="750" type="move"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 11:49:41 +0000</string>
+    </dict>
+  </lib>
+</glyph>

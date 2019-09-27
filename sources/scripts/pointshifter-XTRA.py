@@ -25,7 +25,7 @@ print(g.name)
 
 def xTRA():
     
-    widthadjustment=4500
+    widthadjustment=-4500
     topnotchadjustment=580
     sidenotchadjustment=240      
     outnotchadjustment=300
@@ -37,20 +37,21 @@ def xTRA():
         for p in c.points: 
             g.prepareUndo()
             
-            if rightstemlabel in p.labels: 
-                if g.name is 'I':
-                    if p.x>g.width/2:
-                        p.move((widthadjustment/2.25,0))
-                    if p.x<g.width/2: 
-                        p.move((-widthadjustment/2.25,0))
-                elif g.name is 'W':
-                    p.move((widthadjustment*0.7,0)) 
-                elif g.name in twosides:
-                    p.move((widthadjustment*0.5,0))
-                elif g.name in notaswide:
-                    p.move((widthadjustment*0.9,0))
-                else:
-                    p.move((widthadjustment,0))
+            if rightstemlabel in p.labels:
+                if p.x>g.width/2
+                    if g.name is 'I':
+                        if p.x>g.width/2:
+                            p.move((widthadjustment/2.25,0))
+                        if p.x<g.width/2: 
+                            p.move((-widthadjustment/2.25,0))
+                    elif g.name is 'W':
+                        p.move((widthadjustment*0.7,0)) 
+                    elif g.name in twosides:
+                        p.move((widthadjustment*0.5,0))
+                    elif g.name in notaswide:
+                        p.move((widthadjustment*0.9,0))
+                    else:
+                        p.move((widthadjustment,0))
                     
             if leftstemlabel in p.labels:
                 if g.name is 'W':

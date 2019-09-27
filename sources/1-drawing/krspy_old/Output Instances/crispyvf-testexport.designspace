@@ -1,0 +1,75 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wdth" name="wdth" minimum="0" maximum="1000" default="0">
+      <labelname xml:lang="en">Width</labelname>
+    </axis>
+    <axis tag="wght" name="wght" minimum="0" maximum="1000" default="0">
+      <labelname xml:lang="en">Weight</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="xopq0yopq0xtra0.ufo" familyname="Crispy_SAMPLE" stylename="X-OPAQUE 0 Y-OPAQUE 0 X-TRANSPARENT 0">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="wdth" xvalue="0"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="xopq0yopq10xtra370.ufo" familyname="Crispy_SAMPLE" stylename="X-OPAQUE 0 Y-OPAQUE 10 X-TRANSPARENT 370">
+      <location>
+        <dimension name="wdth" xvalue="1000"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="xopq560yopq680xtra720.ufo" familyname="Crispy_SAMPLE" stylename="X-OPAQUE 560 Y-OPAQUE 680 X-TRANSPARENT 720">
+      <location>
+        <dimension name="wdth" xvalue="1000"/>
+        <dimension name="wght" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="xopq800yopq660xtra50.ufo" familyname="Crispy_SAMPLE" stylename="X-OPAQUE 800 Y-OPAQUE 660 X-TRANSPARENT 50">
+      <location>
+        <dimension name="wdth" xvalue="0"/>
+        <dimension name="wght" xvalue="1000"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Crispy_SAMPLE" stylename="light condensed" filename="instances/Crispy_SAMPLE-Style_1.ufo">
+      <location>
+        <dimension name="wdth" xvalue="0"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy_SAMPLE" stylename="light extended" filename="instances/Crispy_SAMPLE-Style_2.ufo">
+      <location>
+        <dimension name="wdth" xvalue="1000"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy_SAMPLE" stylename="bold condensed" filename="instances/Crispy_SAMPLE-Style_3.ufo">
+      <location>
+        <dimension name="wdth" xvalue="0"/>
+        <dimension name="wght" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy_SAMPLE" stylename="bold extended" filename="instances/Crispy_SAMPLE-Style_4.ufo">
+      <location>
+        <dimension name="wdth" xvalue="1000"/>
+        <dimension name="wght" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+</designspace>

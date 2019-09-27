@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B" format="2">
+  <advance width="4844.212212212212"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="107.01601601601601" y="0.0" type="line" identifier="hvY9r8RmLr"/>
+      <point x="4737.196196196196" y="0.0" type="line" identifier="9QFpw7nfq7"/>
+      <point x="4737.196196196196" y="652.5405405405405" type="line" identifier="543PerILpr"/>
+      <point x="4275.196196196196" y="999.005005005005" type="line" identifier="zhomauHW30"/>
+      <point x="4275.196196196196" y="1001.005005005005" type="line" identifier="870ZhtaozS"/>
+      <point x="4733.196196196196" y="1338.4594594594594" type="line" identifier="eGKH52Jgnk"/>
+      <point x="4733.196196196196" y="2000.0" type="line" identifier="FaP204GrdB"/>
+      <point x="107.01601601601601" y="2000.0" type="line" identifier="JEev70GAj6"/>
+    </contour>
+    <contour>
+      <point x="114.10610610610611" y="1003.2522522522522" type="line" identifier="By7dfMihfe"/>
+      <point x="114.10610610610611" y="1992.4144144144145" type="line" identifier="1p5hKrurVy"/>
+      <point x="4726.106106106106" y="1992.4144144144145" type="line" identifier="Qby8aMtF2X"/>
+      <point x="4726.106106106106" y="1341.3513513513512" type="line" identifier="9lW01gQyU2"/>
+      <point x="4267.106106106106" y="1003.2522522522522" type="line" identifier="xpxyvIzPoc"/>
+    </contour>
+    <contour>
+      <point x="114.10610610610611" y="7.585585585585585" type="line" identifier="jaMSiLrCua"/>
+      <point x="114.10610610610611" y="996.7477477477478" type="line" identifier="XSrxNd2axx"/>
+      <point x="4267.111111111111" y="996.7477477477478" type="line" identifier="VyYlzRh5nq"/>
+      <point x="4730.106106106106" y="649.6486486486486" type="line" identifier="lsRGatjQja"/>
+      <point x="4730.106106106106" y="7.585585585585585" type="line" identifier="xhlDJ3CjD5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>543PerILpr</key>
+        <array>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+        </array>
+        <key>870ZhtaozS</key>
+        <array>
+          <string>INSIDENOTCH</string>
+          <string>INSIDENOTCH</string>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>9QFpw7nfq7</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>9lW01gQyU2</key>
+        <array>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+        </array>
+        <key>FaP204GrdB</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>Qby8aMtF2X</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>VyYlzRh5nq</key>
+        <array>
+          <string>INSIDENOTCH</string>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>eGKH52Jgnk</key>
+        <array>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+        </array>
+        <key>lsRGatjQja</key>
+        <array>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+        </array>
+        <key>xhlDJ3CjD5</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>xpxyvIzPoc</key>
+        <array>
+          <string>INSIDENOTCH</string>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>zhomauHW30</key>
+        <array>
+          <string>INSIDENOTCH</string>
+          <string>INSIDENOTCH</string>
+          <string>RIGHTSTEM</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

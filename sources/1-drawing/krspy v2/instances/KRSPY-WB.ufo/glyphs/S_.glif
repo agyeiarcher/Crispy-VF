@@ -1,0 +1,88 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S" format="2">
+  <advance width="6540.676676676677"/>
+  <unicode hex="0053"/>
+  <outline>
+    <contour>
+      <point x="331.87587587587586" y="0.0" type="line" identifier="09VlJ0BjUX"/>
+      <point x="6210.800800800801" y="0.0" type="line" identifier="EagWihqFM8"/>
+      <point x="6210.800800800801" y="1234.1511511511512" type="line" identifier="KfNuQA7eZe"/>
+      <point x="1260.6166166166167" y="1234.1511511511512" type="line" identifier="At364YZFEy"/>
+      <point x="1260.6166166166167" y="1378.0" type="line" identifier="BcuLfvaQKC"/>
+      <point x="5308.872872872873" y="1378.0" type="line" identifier="3ZUkG35meB"/>
+      <point x="5308.872872872873" y="1378.0" type="line" identifier="DTOJhFIl15"/>
+      <point x="6196.642642642642" y="1378.0" type="line" identifier="9KDcrfQ5Ui"/>
+      <point x="6196.642642642642" y="2000.0" type="line" identifier="SaF9ojRFrW"/>
+      <point x="358.68868868868867" y="2000.0" type="line" identifier="F4sQEYelA8"/>
+      <point x="358.68868868868867" y="772.1511511511511" type="line" identifier="3sQ8t8BZ6b"/>
+      <point x="5308.872872872873" y="772.1511511511511" type="line" identifier="yiV6OCBLHg"/>
+      <point x="5308.872872872873" y="622.0" type="line" identifier="9kdl9SYsn8"/>
+      <point x="1233.803803803804" y="622.0" type="line" identifier="yZDWuX8LLe"/>
+      <point x="1233.803803803804" y="622.0" type="line" identifier="jYb9001DTm"/>
+      <point x="331.87587587587586" y="622.0" type="line" identifier="ho4DrS0rdW"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>3ZUkG35meB</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>3sQ8t8BZ6b</key>
+        <array>
+          <string>CROSSBAR</string>
+        </array>
+        <key>9KDcrfQ5Ui</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPSERIF</string>
+        </array>
+        <key>9kdl9SYsn8</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>At364YZFEy</key>
+        <array>
+          <string>CROSSBAR</string>
+        </array>
+        <key>DTOJhFIl15</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPSERIF</string>
+        </array>
+        <key>EagWihqFM8</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>KfNuQA7eZe</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>SaF9ojRFrW</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>ho4DrS0rdW</key>
+        <array>
+          <string>BOTTOMSERIF</string>
+        </array>
+        <key>jYb9001DTm</key>
+        <array>
+          <string>BOTTOMSERIF</string>
+        </array>
+        <key>yiV6OCBLHg</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

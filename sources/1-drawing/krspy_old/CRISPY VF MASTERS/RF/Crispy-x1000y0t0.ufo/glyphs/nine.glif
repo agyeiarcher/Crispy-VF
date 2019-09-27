@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine" format="2">
+  <advance width="1351"/>
+  <unicode hex="0039"/>
+  <outline>
+    <contour>
+      <point x="114" y="1" type="line" identifier="gZm1KXdRtO"/>
+      <point x="1230" y="1" type="line" identifier="uave3PqONG"/>
+      <point x="1230" y="648" type="line" identifier="0HVokMUxPb"/>
+      <point x="1190" y="752" type="line" identifier="qaNXKUJRJ3"/>
+      <point x="112" y="751" type="line" identifier="OKodaRrQl8"/>
+      <point x="112" y="353" type="line" identifier="PcPYqqLabx"/>
+      <point x="700" y="353" type="line" identifier="g9DsZWloLo"/>
+      <point x="700" y="23" type="line" identifier="tOqkU2FEvP"/>
+      <point x="645" y="23" type="line" identifier="Efn3lsXAoF"/>
+      <point x="645" y="173" type="line"/>
+      <point x="114" y="173" type="line" identifier="hBSp7vYn7O"/>
+    </contour>
+    <contour>
+      <point x="700" y="644" type="line" identifier="rPdlNe4x1f"/>
+      <point x="700" y="375" type="line" identifier="zyRJvufdth"/>
+      <point x="643" y="375" type="line" identifier="LvU2AmyUE0"/>
+      <point x="643" y="729" type="line" identifier="vpYJQsgdHx"/>
+      <point x="669" y="729" type="line" identifier="4FSbMLrBJP"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 12:47:08 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>0HVokMUxPb</key>
+        <array>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>rightside</string>
+        </array>
+        <key>4FSbMLrBJP</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+        </array>
+        <key>Efn3lsXAoF</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+        </array>
+        <key>LvU2AmyUE0</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+        </array>
+        <key>OKodaRrQl8</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>PcPYqqLabx</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+        </array>
+        <key>g9DsZWloLo</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+        </array>
+        <key>gZm1KXdRtO</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>hBSp7vYn7O</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>qaNXKUJRJ3</key>
+        <array>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>rightside</string>
+        </array>
+        <key>rPdlNe4x1f</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+        </array>
+        <key>tOqkU2FEvP</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+        </array>
+        <key>uave3PqONG</key>
+        <array>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>rightside</string>
+        </array>
+        <key>vpYJQsgdHx</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+        </array>
+        <key>zyRJvufdth</key>
+        <array>
+          <string>leftside</string>
+          <string>shiftstem</string>
+          <string>shiftstem</string>
+          <string>crossbar</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

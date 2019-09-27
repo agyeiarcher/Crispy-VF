@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Q" format="2">
+  <advance width="1253.0"/>
+  <unicode hex="0051"/>
+  <outline>
+    <contour>
+      <point x="56.0" y="0.0" type="line"/>
+      <point x="1197.0" y="0.0" type="line"/>
+      <point x="1197.0" y="750.0" type="line"/>
+      <point x="179.0" y="750.0" type="line"/>
+      <point x="56.0" y="591.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="700.0" y="-180.0" type="line"/>
+      <point x="740.0" y="-180.0" type="line"/>
+      <point x="646.0" y="10.0" type="line"/>
+      <point x="609.0" y="10.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="98.0" y="32.0" type="line"/>
+      <point x="98.0" y="582.0" type="line"/>
+      <point x="206.0" y="718.0" type="line"/>
+      <point x="1156.0" y="718.0" type="line"/>
+      <point x="1156.0" y="32.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/09/10 13:37:58</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,128 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="xopq" name="X-OPAQUE" minimum="0" maximum="1000" default="0">
+      <labelname xml:lang="en">X-OPAQUE</labelname>
+    </axis>
+    <axis tag="yopq" name="Y-OPAQUE" minimum="0" maximum="1000" default="0">
+      <labelname xml:lang="en">Y-OPAQUE</labelname>
+    </axis>
+    <axis tag="xtra" name="X-TRANSPARENT" minimum="0" maximum="1000" default="0">
+      <labelname xml:lang="en">X-TRANSPARENT</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Variations Instances/Test UFOs/Crispy-XOPQ0-YOPQ0-XTRA0-VFtestfile.ufo" familyname="Crispy_SAMPLE" stylename="XOPQ0-YOPQ0-XTRA0">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="X-OPAQUE" xvalue="0"/>
+        <dimension name="Y-OPAQUE" xvalue="0"/>
+        <dimension name="X-TRANSPARENT" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Variations Instances/Test UFOs/Crispy-XOPQ0-YOPQ0-XTRA1000-VFtestfile.ufo" familyname="Crispy_SAMPLE" stylename="XOPQ0-YOPQ0-XTRA1000">
+      <location>
+        <dimension name="X-OPAQUE" xvalue="0"/>
+        <dimension name="Y-OPAQUE" xvalue="0"/>
+        <dimension name="X-TRANSPARENT" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="Variations Instances/Test UFOs/Crispy-XOPQ0-YOPQ1000-XTRA0-VFtestfile.ufo" familyname="Crispy_SAMPLE" stylename="XOPQ0-YOPQ1000-XTRA0">
+      <location>
+        <dimension name="X-OPAQUE" xvalue="0"/>
+        <dimension name="Y-OPAQUE" xvalue="1000"/>
+        <dimension name="X-TRANSPARENT" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Variations Instances/Test UFOs/Crispy-XOPQ0-YOPQ1000-XTRA1000-VFtestfile.ufo" familyname="Crispy_SAMPLE" stylename="XOPQ0-YOPQ1000-XTRA1000">
+      <location>
+        <dimension name="X-OPAQUE" xvalue="0"/>
+        <dimension name="Y-OPAQUE" xvalue="1000"/>
+        <dimension name="X-TRANSPARENT" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="Variations Instances/Test UFOs/Crispy-XOPQ1000-YOPQ0-XTRA0-VFtestfile.ufo" familyname="Crispy_SAMPLE" stylename="XOPQ1000-YOPQ0-XTRA0">
+      <location>
+        <dimension name="X-OPAQUE" xvalue="1000"/>
+        <dimension name="Y-OPAQUE" xvalue="0"/>
+        <dimension name="X-TRANSPARENT" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="Variations Instances/Test UFOs/Crispy-XOPQ1000-YOPQ0-XTRA1000-VFtestfile.ufo" familyname="Crispy_SAMPLE" stylename="XOPQ1000-YOPQ0-XTRA0">
+      <location>
+        <dimension name="X-OPAQUE" xvalue="1000"/>
+        <dimension name="Y-OPAQUE" xvalue="0"/>
+        <dimension name="X-TRANSPARENT" xvalue="1000"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Crispy_SAMPLE" stylename="LIGHT CONDENSED" filename="instances/Crispy_SAMPLE-light condensed.ufo">
+      <location>
+        <dimension name="X-OPAQUE" xvalue="0"/>
+        <dimension name="Y-OPAQUE" xvalue="0"/>
+        <dimension name="X-TRANSPARENT" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy_SAMPLE" stylename="BOLD CONDENSED" filename="instances/Crispy_SAMPLE-bold condensed.ufo">
+      <location>
+        <dimension name="X-OPAQUE" xvalue="1000"/>
+        <dimension name="Y-OPAQUE" xvalue="1000"/>
+        <dimension name="X-TRANSPARENT" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy_SAMPLE" stylename="LIGHT WIDE" filename="instances/Crispy_SAMPLE-light wide.ufo">
+      <location>
+        <dimension name="X-OPAQUE" xvalue="0"/>
+        <dimension name="Y-OPAQUE" xvalue="0"/>
+        <dimension name="X-TRANSPARENT" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy_SAMPLE" stylename="BOLD WIDE" filename="instances/Crispy_SAMPLE-bold wide.ufo">
+      <location>
+        <dimension name="X-OPAQUE" xvalue="1000"/>
+        <dimension name="Y-OPAQUE" xvalue="1000"/>
+        <dimension name="X-TRANSPARENT" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>horizontal</key>
+        <array/>
+        <key>ignore</key>
+        <array>
+          <string>X-OPAQUE</string>
+          <string>Y-OPAQUE</string>
+          <string>X-TRANSPARENT</string>
+        </array>
+        <key>vertical</key>
+        <array/>
+      </dict>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>X-OPAQUE</key>
+        <real>0.0</real>
+        <key>X-TRANSPARENT</key>
+        <real>0.0</real>
+        <key>Y-OPAQUE</key>
+        <real>0.0</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>SKATEBOARD</string>
+    </dict>
+  </lib>
+</designspace>

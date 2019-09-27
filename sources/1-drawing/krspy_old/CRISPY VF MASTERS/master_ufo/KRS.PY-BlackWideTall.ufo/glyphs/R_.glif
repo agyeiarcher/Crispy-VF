@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="R" format="2">
+  <advance width="1861.0"/>
+  <unicode hex="0052"/>
+  <outline>
+    <contour>
+      <point x="64.0" y="0.0" type="line"/>
+      <point x="504.0" y="0.0" type="line"/>
+      <point x="504.0" y="328.0" type="line"/>
+      <point x="1160.0" y="328.0" type="line"/>
+      <point x="1391.0" y="252.0" type="line"/>
+      <point x="1391.0" y="0.0" type="line"/>
+      <point x="1830.0" y="0.0" type="line"/>
+      <point x="1830.0" y="334.0" type="line"/>
+      <point x="1523.0" y="421.0" type="line"/>
+      <point x="1523.0" y="435.0" type="line"/>
+      <point x="1805.0" y="507.0" type="line"/>
+      <point x="1805.0" y="750.0" type="line"/>
+      <point x="64.0" y="750.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="504.0" y="487.0" type="line"/>
+      <point x="504.0" y="594.0" type="line"/>
+      <point x="1366.0" y="594.0" type="line"/>
+      <point x="1366.0" y="521.0" type="line"/>
+      <point x="1321.0" y="487.0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019/09/10 14:08:36</string>
+    </dict>
+  </lib>
+</glyph>
