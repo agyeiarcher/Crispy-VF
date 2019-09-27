@@ -1,3 +1,5 @@
+import fontParts
+
 g=CurrentGlyph()
 
 def xOPQ(stemAdjustment):

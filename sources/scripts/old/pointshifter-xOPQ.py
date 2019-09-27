@@ -34,5 +34,5 @@ def xOPQ(stemAdjustment):
     g.changed()    
     g.performUndo()
     
-xOPQ(1017)
+xOPQ(1017/4)
  
