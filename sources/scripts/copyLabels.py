@@ -1,9 +1,9 @@
-f=CurrentFont()
-g=CurrentGlyph()
+f=OpenFont()
+g=OpenFont()
 
 contourLabels={}
 
-def fetchLabels(f):
+def fetchLabels():
     for k in f.keys():
         # print(f[k].name)
         labelList=[]
@@ -11,11 +11,13 @@ def fetchLabels(f):
             # print(contour)
             for segment in contour:
                for point in segment:
-                   labelList.append(point.labels)
-                   
-        print(f[k].name+": "+str(labelList))                
+                    b=point.labels
+                    for contour in h[k]:
+                        for segment in contour
+                            for point in segment:
+                                point.labels=b            
 
-fetchLabels(f)
+fetchLabels()
 
 # for k in h.keys():
 #     for glyph in h[k]:
