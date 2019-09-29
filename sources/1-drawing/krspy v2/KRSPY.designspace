@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.0">
   <axes>
-    <axis tag="xopq" name="xopq" minimum="1" maximum="1000" default="1" hidden="1">
+    <axis tag="xopq" name="xopq" minimum="1" maximum="1000" default="1">
       <labelname xml:lang="en">xopq</labelname>
     </axis>
-    <axis tag="yopq" name="yopq" minimum="1" maximum="1000" default="1" hidden="1">
+    <axis tag="yopq" name="yopq" minimum="1" maximum="1000" default="1">
       <labelname xml:lang="en">yopq</labelname>
     </axis>
-    <axis tag="wght" name="Weight" minimum="1" maximum="1000" default="1">
-      <labelname xml:lang="en">Weight</labelname>
+    <axis tag="xtra" name="xtra" minimum="1" maximum="1000" default="1">
+      <labelname xml:lang="en">xtra</labelname>
     </axis>
   </axes>
   <sources>
@@ -16,17 +16,31 @@
       <location>
         <dimension name="xopq" xvalue="1"/>
         <dimension name="yopq" xvalue="1000"/>
-        <dimension name="Weight" xvalue="0"/>
+        <dimension name="xtra" xvalue="1000"/>
       </location>
     </source>
     <source filename="krspy root-x1000y0t1000.ufo" familyname="KRSPY" stylename="x1000y0t1000">
       <location>
         <dimension name="xopq" xvalue="1000"/>
         <dimension name="yopq" xvalue="1"/>
-        <dimension name="Weight" xvalue="0"/>
+        <dimension name="xtra" xvalue="1000"/>
       </location>
     </source>
     <source filename="krspy root-x0y0t1000.ufo" familyname="KRSPY" stylename="x0y0t1000">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="krspy root-x1000y0t0.ufo" familyname="KRSPY" stylename="x1000y0t0">
+      <location>
+        <dimension name="xopq" xvalue="1000"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="krspy root-x0y0t0.ufo" familyname="KRSPY" stylename="x0y0t0">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
@@ -34,7 +48,14 @@
       <location>
         <dimension name="xopq" xvalue="1"/>
         <dimension name="yopq" xvalue="1"/>
-        <dimension name="Weight" xvalue="1"/>
+        <dimension name="xtra" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="krspy root-x0y1000t0.ufo" familyname="KRSPY" stylename="x0y1000t0">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1000"/>
+        <dimension name="xtra" xvalue="1"/>
       </location>
     </source>
   </sources>
@@ -43,7 +64,7 @@
       <location>
         <dimension name="xopq" xvalue="6"/>
         <dimension name="yopq" xvalue="10"/>
-        <dimension name="Weight" xvalue="1"/>
+        <dimension name="xtra" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
@@ -52,7 +73,7 @@
       <location>
         <dimension name="xopq" xvalue="885"/>
         <dimension name="yopq" xvalue="1000"/>
-        <dimension name="Weight" xvalue="1"/>
+        <dimension name="xtra" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
@@ -63,16 +84,32 @@
       <key>com.letterror.skateboard.interactionSources</key>
       <dict>
         <key>horizontal</key>
-        <array>
-          <string>yopq</string>
-        </array>
-        <key>ignore</key>
         <array/>
-        <key>vertical</key>
+        <key>ignore</key>
         <array>
           <string>xopq</string>
+          <string>yopq</string>
+        </array>
+        <key>vertical</key>
+        <array>
+          <string>Weight</string>
         </array>
       </dict>
+      <key>com.letterror.skateboard.mutedSources</key>
+      <array>
+        <array>
+          <string>krspy root-x0y1000t1000.ufo</string>
+          <string>foreground</string>
+        </array>
+        <array>
+          <string>krspy root-x1000y0t1000.ufo</string>
+          <string>foreground</string>
+        </array>
+        <array>
+          <string>krspy root-x0y0t1000.ufo</string>
+          <string>foreground</string>
+        </array>
+      </array>
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
         <key>Weight</key>

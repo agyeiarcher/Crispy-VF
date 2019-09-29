@@ -38,7 +38,7 @@ def xTRA():
             g.prepareUndo()
             
             if rightstemlabel in p.labels:
-                if p.x>g.width/2
+                if p.x>g.width/2:
                     if g.name is 'I':
                         if p.x>g.width/2:
                             p.move((widthadjustment/2.25,0))

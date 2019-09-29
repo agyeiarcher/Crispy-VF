@@ -1,5 +1,3 @@
-import fontParts
-
 g=CurrentGlyph()
 
 def xOPQ(stemAdjustment):
@@ -9,14 +7,15 @@ def xOPQ(stemAdjustment):
     # for glyph in f.selectedGlyphs:
         
     g.prepareUndo()
+    
+    if g.width<1000:
+        stemAdjustment=stemAdjustment*0.85
+        spacingEdit=stemAdjustment*1.1
 
     for contour in g.contours:
                 
         noShiftingRight=True
         noShiftingLeft=True
-    
-        if g.name is 'W':
-            stemAdjustment=stemAdjustment/2
             
         for point in contour.selection:
             if point.x > g.width/2:
@@ -29,12 +28,12 @@ def xOPQ(stemAdjustment):
                 print("left contour points moved by "+str(stemAdjustment)+ " points")
 
         if not noShiftingRight:
-            g.rightMargin+=stemAdjustment*1.2
+            g.rightMargin+=spacingEdit
         if not noShiftingLeft:
-            g.leftMargin+=stemAdjustment*1.2
+            g.leftMargin+=spacingEdit
     
     g.changed()    
     g.performUndo()
     
-xOPQ(1017)
- 
+xOPQ(1017/2)
+  

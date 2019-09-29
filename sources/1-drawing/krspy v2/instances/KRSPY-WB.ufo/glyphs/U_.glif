@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="U" format="2">
-  <advance width="6990.119119119119"/>
+  <advance width="6990"/>
   <unicode hex="0055"/>
   <outline>
     <contour>
-      <point x="5802.55955955956" y="2000.0" type="line" smooth="yes" identifier="sHbJc0ABCr"/>
-      <point x="5802.55955955956" y="622.0" type="line" identifier="rl1GTsia1n"/>
-      <point x="1542.5595595595596" y="622.0" type="line" smooth="yes" identifier="UzF1yMyYbs"/>
-      <point x="1187.5595595595596" y="942.0" type="line" smooth="yes" identifier="JI2e3WjmaS"/>
-      <point x="1187.5595595595596" y="2000.0" type="line"/>
-      <point x="285.63163163163165" y="2000.0" type="line" smooth="yes"/>
-      <point x="285.63163163163165" y="623.0" type="line" smooth="yes" identifier="ephNOl5vKR"/>
-      <point x="920.6316316316316" y="0.0" type="line" smooth="yes" identifier="TtJBDxLtac"/>
-      <point x="6704.487487487488" y="0.0" type="line" smooth="yes" identifier="v8mYloy7Gu"/>
-      <point x="6704.487487487488" y="2000.0" type="line" smooth="yes" identifier="eQnUhxJAi8"/>
+      <point x="5803" y="2000" type="line" smooth="yes" identifier="sHbJc0ABCr"/>
+      <point x="5803" y="622" type="line" identifier="rl1GTsia1n"/>
+      <point x="1543" y="622" type="line" smooth="yes" identifier="UzF1yMyYbs"/>
+      <point x="1188" y="942" type="line" smooth="yes" identifier="JI2e3WjmaS"/>
+      <point x="1188" y="2000" type="line"/>
+      <point x="286" y="2000" type="line" smooth="yes"/>
+      <point x="286" y="623" type="line" smooth="yes" identifier="ephNOl5vKR"/>
+      <point x="921" y="0" type="line" smooth="yes" identifier="TtJBDxLtac"/>
+      <point x="6704" y="0" type="line" smooth="yes" identifier="v8mYloy7Gu"/>
+      <point x="6704" y="2000" type="line" smooth="yes" identifier="eQnUhxJAi8"/>
     </contour>
   </outline>
   <lib>

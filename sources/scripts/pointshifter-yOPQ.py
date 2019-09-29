@@ -25,8 +25,8 @@ def yOPQ():
     #be careful to manually check for: J,
     
     stemwidth=2
-    topbaradjustment=620
-    crossbaradjustment=560
+    topbaradjustment=620*0.7
+    crossbaradjustment=360*0.7
     
     g.prepareUndo() 
     
