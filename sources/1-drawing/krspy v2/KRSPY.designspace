@@ -60,20 +60,29 @@
     </source>
   </sources>
   <instances>
-    <instance familyname="KRSPY" stylename="Wide Light" filename="instances/KRSPY-WL.ufo">
+    <instance familyname="KRSPY" stylename="Wide Light-RegGrade" filename="instances/KRSPY-WL-MidG.ufo">
       <location>
         <dimension name="xopq" xvalue="6"/>
         <dimension name="yopq" xvalue="10"/>
-        <dimension name="xtra" xvalue="0"/>
+        <dimension name="xtra" xvalue="1000"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="KRSPY" stylename="Wide Black" filename="instances/KRSPY-WB.ufo">
+    <instance familyname="KRSPY" stylename="Wide Black-MinGrade" filename="instances/KRSPY-WB-MinG.ufo">
       <location>
         <dimension name="xopq" xvalue="885"/>
         <dimension name="yopq" xvalue="1000"/>
-        <dimension name="xtra" xvalue="0"/>
+        <dimension name="xtra" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="Narrow Black-MaxGrade" filename="instances/KRSPY-NB-MaxG.ufo">
+      <location>
+        <dimension name="xopq" xvalue="722"/>
+        <dimension name="yopq" xvalue="1000"/>
+        <dimension name="xtra" xvalue="1"/>
       </location>
       <kerning/>
       <info/>
@@ -91,31 +100,14 @@
           <string>yopq</string>
         </array>
         <key>vertical</key>
-        <array>
-          <string>Weight</string>
-        </array>
+        <array/>
       </dict>
-      <key>com.letterror.skateboard.mutedSources</key>
-      <array>
-        <array>
-          <string>krspy root-x0y1000t1000.ufo</string>
-          <string>foreground</string>
-        </array>
-        <array>
-          <string>krspy root-x1000y0t1000.ufo</string>
-          <string>foreground</string>
-        </array>
-        <array>
-          <string>krspy root-x0y0t1000.ufo</string>
-          <string>foreground</string>
-        </array>
-      </array>
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
-        <key>Weight</key>
-        <real>1.0</real>
         <key>xopq</key>
         <real>6.0</real>
+        <key>xtra</key>
+        <real>1.0</real>
         <key>yopq</key>
         <real>10.0</real>
       </dict>
