@@ -87,29 +87,77 @@
       <kerning/>
       <info/>
     </instance>
+    <instance familyname="KRSPY" stylename="Narrow Black-MinGrade" filename="instances/KRSPY-NB-MinG.ufo">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="Style_2" filename="instances/KRSPY-NL-MaxG.ufo">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="Style_3" filename="instances/KRSPY-NL-MinG.ufo">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="xopq_468.90_yopq_756.32_xtra_57.20" filename="instances/KRSPY_xopq_468.90_yopq_756.32_xtra_57.20.ufo">
+      <location>
+        <dimension name="xopq" xvalue="468.902000"/>
+        <dimension name="yopq" xvalue="756.318747"/>
+        <dimension name="xtra" xvalue="57.202296"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="xopq_468.90_yopq_735.11_xtra_89.08" filename="instances/KRSPY_xopq_468.90_yopq_735.11_xtra_89.08.ufo">
+      <location>
+        <dimension name="xopq" xvalue="468.902000"/>
+        <dimension name="yopq" xvalue="735.112510"/>
+        <dimension name="xtra" xvalue="89.078674"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
   </instances>
   <lib>
     <dict>
       <key>com.letterror.skateboard.interactionSources</key>
       <dict>
         <key>horizontal</key>
-        <array/>
+        <array>
+          <string>xtra</string>
+        </array>
         <key>ignore</key>
         <array>
           <string>xopq</string>
-          <string>yopq</string>
         </array>
         <key>vertical</key>
-        <array/>
+        <array>
+          <string>yopq</string>
+        </array>
       </dict>
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
         <key>xopq</key>
-        <real>6.0</real>
+        <real>722.0</real>
         <key>xtra</key>
         <real>1.0</real>
         <key>yopq</key>
-        <real>10.0</real>
+        <real>1000.0</real>
       </dict>
       <key>com.letterror.skateboard.previewText</key>
       <string>SKATEBOARD</string>
