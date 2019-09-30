@@ -1,0 +1,179 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="xopq" name="xopq" minimum="1" maximum="1000" default="1" hidden="1">
+      <labelname xml:lang="en">xopq</labelname>
+    </axis>
+    <axis tag="yopq" name="yopq" minimum="1" maximum="1000" default="1" hidden="1">
+      <labelname xml:lang="en">yopq</labelname>
+    </axis>
+    <axis tag="xtra" name="xtra" minimum="1" maximum="1000" default="1" hidden="1">
+      <labelname xml:lang="en">xtra</labelname>
+    </axis>
+    <axis tag="wght" name="wght" minimum="0" maximum="1000" default="0">
+      <labelname xml:lang="en">Weight</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="krspy root-x0y1000t1000.ufo" familyname="KRSPY" stylename="x0y1000t1000">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1000"/>
+        <dimension name="xtra" xvalue="1000"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="krspy root-x1000y0t1000.ufo" familyname="KRSPY" stylename="x1000y0t1000">
+      <location>
+        <dimension name="xopq" xvalue="1000"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1000"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="krspy root-x0y0t1000.ufo" familyname="KRSPY" stylename="x0y0t1000">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1000"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="krspy root-x1000y0t0.ufo" familyname="KRSPY" stylename="x1000y0t0">
+      <location>
+        <dimension name="xopq" xvalue="1000"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="krspy root-x0y0t0.ufo" familyname="KRSPY" stylename="x0y0t0">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="krspy root-x0y1000t0.ufo" familyname="KRSPY" stylename="x0y1000t0">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1000"/>
+        <dimension name="xtra" xvalue="1"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="KRSPY" stylename="Wide Light-MinGrade" filename="instances/KRSPY-WL-Min.ufo">
+      <location>
+        <dimension name="xopq" xvalue="6"/>
+        <dimension name="yopq" xvalue="10"/>
+        <dimension name="xtra" xvalue="1000"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="Wide Black-MinGrade" filename="instances/KRSPY-WB-MinG.ufo">
+      <location>
+        <dimension name="xopq" xvalue="709"/>
+        <dimension name="yopq" xvalue="808"/>
+        <dimension name="xtra" xvalue="1000"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="Narrow Black-MaxGrade" filename="instances/KRSPY-NB-MaxG.ufo">
+      <location>
+        <dimension name="xopq" xvalue="722"/>
+        <dimension name="yopq" xvalue="1000"/>
+        <dimension name="xtra" xvalue="1"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="Narrow Black-MinGrade" filename="instances/KRSPY-NB-MinG.ufo">
+      <location>
+        <dimension name="xopq" xvalue="289"/>
+        <dimension name="yopq" xvalue="580"/>
+        <dimension name="xtra" xvalue="16"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="Narrow Light-MaxGrade" filename="instances/KRSPY-NL-MaxG.ufo">
+      <location>
+        <dimension name="xopq" xvalue="6"/>
+        <dimension name="yopq" xvalue="10"/>
+        <dimension name="xtra" xvalue="1"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="Narrow Light-MinGrade" filename="instances/KRSPY-NL-MinG.ufo">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="Wide Light-MaxGrade" filename="instances/KRSPY-WL-MaxG.ufo">
+      <location>
+        <dimension name="xopq" xvalue="10"/>
+        <dimension name="yopq" xvalue="14"/>
+        <dimension name="xtra" xvalue="1000"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="KRSPY" stylename="Wide Black-MaxGradde" filename="instances/KRSPY-WB-MaxG.ufo">
+      <location>
+        <dimension name="xopq" xvalue="1000"/>
+        <dimension name="yopq" xvalue="1000"/>
+        <dimension name="xtra" xvalue="1000"/>
+        <dimension name="wght" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>horizontal</key>
+        <array>
+          <string>xopq</string>
+        </array>
+        <key>ignore</key>
+        <array>
+          <string>xtra</string>
+        </array>
+        <key>vertical</key>
+        <array>
+          <string>yopq</string>
+        </array>
+      </dict>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>xopq</key>
+        <real>1000.0</real>
+        <key>xtra</key>
+        <real>1000.0</real>
+        <key>yopq</key>
+        <real>1000.0</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>SKATEBOARD</string>
+    </dict>
+  </lib>
+</designspace>

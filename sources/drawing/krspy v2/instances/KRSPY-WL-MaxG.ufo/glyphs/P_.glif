@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P" format="2">
+  <advance width="3878.5855855855857"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="86.45945945945945" y="0.0" type="line" identifier="EG08jqU5fb"/>
+      <point x="96.5945945945946" y="0.0" type="line" identifier="osRzIFK2Cu"/>
+      <point x="96.5945945945946" y="602.2232232232233" type="line" identifier="hIFVovVRwe"/>
+      <point x="3555.1051051051054" y="828.7927927927929" type="line" identifier="Tt6D8zYZmU"/>
+      <point x="3555.1051051051054" y="1600.0" type="line" identifier="6xW04auDFu"/>
+      <point x="86.45945945945945" y="1600.0" type="line" identifier="eETO5GBD5v"/>
+    </contour>
+    <contour>
+      <point x="96.5945945945946" y="610.963963963964" type="line" identifier="PIBVN1PGv1"/>
+      <point x="96.5945945945946" y="1589.7237237237237" type="line" identifier="IZIZQr2gYJ"/>
+      <point x="3543.96996996997" y="1589.7237237237237" type="line" identifier="2c4LCF1E1R"/>
+      <point x="3543.96996996997" y="835.9799799799798" type="line" identifier="1WCnzth1GX"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>1WCnzth1GX</key>
+        <array>
+          <string>RIGHTSIDE</string>
+          <string>RIGHTSIDE</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>2c4LCF1E1R</key>
+        <array>
+          <string>RIGHTSIDE</string>
+        </array>
+        <key>6xW04auDFu</key>
+        <array>
+          <string>RIGHTSIDE</string>
+        </array>
+        <key>PIBVN1PGv1</key>
+        <array>
+          <string>RIGHTSIDE</string>
+          <string>RIGHTSIDE</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>Tt6D8zYZmU</key>
+        <array>
+          <string>RIGHTSIDE</string>
+          <string>RIGHTSIDE</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>hIFVovVRwe</key>
+        <array>
+          <string>RIGHTSIDE</string>
+          <string>RIGHTSIDE</string>
+          <string>CROSSBAR</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
