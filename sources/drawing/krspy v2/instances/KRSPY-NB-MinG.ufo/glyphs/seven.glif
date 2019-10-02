@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven" format="2">
-  <advance width="736.5146768390011"/>
+  <advance width="1529.2519506493481"/>
   <unicode hex="0037"/>
   <outline>
     <contour>
-      <point x="295.3367241114989" y="0.0" type="line"/>
-      <point x="548.8029380732085" y="0.0" type="line" identifier="PiPrv7Kcoy"/>
-      <point x="692.5229644058471" y="1279.6686235785332" type="line" identifier="PkvwNC9Tx1"/>
-      <point x="692.5229644058471" y="1600.0" type="line" identifier="tgqM27bPOm"/>
-      <point x="39.35370505640777" y="1600.0" type="line" identifier="36ml4xRICt"/>
-      <point x="39.35370505640777" y="1092.1284347410474" type="line" identifier="aaDZsh5Mah"/>
-      <point x="290.20333847360877" y="1092.1284347410474" type="line"/>
-      <point x="290.20333847360877" y="1329.8617716815916" type="line"/>
-      <point x="439.20628736844947" y="1329.8617716815916" type="line"/>
-      <point x="439.20628736844947" y="1280.0328436544655" type="line"/>
+      <point x="602.3765156547939" y="0.0" type="line"/>
+      <point x="1227.799842885929" y="0.0" type="line" identifier="PiPrv7Kcoy"/>
+      <point x="1447.1270259248236" y="1184.3635497359223" type="line" identifier="PkvwNC9Tx1"/>
+      <point x="1447.1270259248236" y="1600.0" type="line" identifier="tgqM27bPOm"/>
+      <point x="77.27455383311238" y="1600.0" type="line" identifier="36ml4xRICt"/>
+      <point x="77.27455383311238" y="968.1300639979318" type="line" identifier="aaDZsh5Mah"/>
+      <point x="700.9642996349703" y="968.1300639979318" type="line"/>
+      <point x="700.9642996349703" y="1206.4701758815872" type="line"/>
+      <point x="821.1409347285222" y="1206.4701758815872" type="line"/>
+      <point x="821.1409347285222" y="1182.5725545365185" type="line"/>
     </contour>
   </outline>
   <lib>
