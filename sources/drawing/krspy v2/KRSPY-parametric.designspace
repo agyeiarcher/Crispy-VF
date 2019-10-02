@@ -14,6 +14,10 @@
   </axes>
   <sources>
     <source filename="../PARAMETRIC MASTERS/krspy root-x0y0t0.ufo" familyname="KRSPY" stylename="x0y0t0">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
       <location>
         <dimension name="xopq" xvalue="1"/>
         <dimension name="yopq" xvalue="1"/>

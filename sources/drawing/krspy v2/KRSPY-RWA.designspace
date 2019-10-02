@@ -12,56 +12,60 @@
     </axis>
   </axes>
   <sources>
-    <source filename="instances/KRSPY-NB-MaxG.ufo" familyname="KRSPY" stylename="Narrow Black-MaxGrade">
+    <source filename="instances/NarrowBlackMaxGrade.ufo" familyname="KRSPY" stylename="Narrow Black MaxGrade">
       <location>
         <dimension name="Weight" xvalue="1000"/>
         <dimension name="Grade" xvalue="50"/>
         <dimension name="Width" xvalue="1"/>
       </location>
     </source>
-    <source filename="instances/KRSPY-NB-MinG.ufo" familyname="KRSPY" stylename="Narrow Black-MinGrade">
+    <source filename="instances/NarrowBlackMinGrade.ufo" familyname="KRSPY" stylename="Narrow Black MinGrade.ufo">
       <location>
         <dimension name="Weight" xvalue="1000"/>
         <dimension name="Grade" xvalue="-50"/>
         <dimension name="Width" xvalue="1"/>
       </location>
     </source>
-    <source filename="instances/KRSPY-NL-MaxG.ufo" familyname="KRSPY" stylename="Narrow Light-MaxGrade">
+    <source filename="instances/NarrowLightMaxGrade.ufo" familyname="KRSPY" stylename="Narrow Light MaxGrade">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
       <location>
         <dimension name="Weight" xvalue="1"/>
         <dimension name="Grade" xvalue="50"/>
         <dimension name="Width" xvalue="1"/>
       </location>
     </source>
-    <source filename="instances/KRSPY-NL-MinG.ufo" familyname="KRSPY" stylename="Narrow Light-MinGrade">
+    <source filename="instances/NarrowLightMinGrade.ufo" familyname="KRSPY" stylename="Narrow Light MinGrade">
       <location>
         <dimension name="Weight" xvalue="1"/>
         <dimension name="Grade" xvalue="-50"/>
         <dimension name="Width" xvalue="1"/>
       </location>
     </source>
-    <source filename="instances/KRSPY-WB-MaxG.ufo" familyname="KRSPY" stylename="Wide Black-MaxGrade">
+    <source filename="instances/WideBlackMaxGrade.ufo" familyname="KRSPY" stylename="Wide Black MaxGrade">
       <location>
         <dimension name="Weight" xvalue="1000"/>
         <dimension name="Grade" xvalue="50"/>
         <dimension name="Width" xvalue="1000"/>
       </location>
     </source>
-    <source filename="instances/KRSPY-WB-MinG.ufo" familyname="KRSPY" stylename="Wide Black-MinGrade">
+    <source filename="instances/WideBlackMinGrade.ufo" familyname="KRSPY" stylename="Wide Black MinGrade">
       <location>
         <dimension name="Weight" xvalue="1000"/>
         <dimension name="Grade" xvalue="-50"/>
         <dimension name="Width" xvalue="1000"/>
       </location>
     </source>
-    <source filename="instances/KRSPY-WL-MaxG.ufo" familyname="KRSPY" stylename="Wide Light-MaxGrade">
+    <source filename="instances/WideLightMaxGrade.ufo" familyname="KRSPY" stylename="Wide Light MaxGrade">
       <location>
         <dimension name="Weight" xvalue="1"/>
         <dimension name="Grade" xvalue="50"/>
         <dimension name="Width" xvalue="1000"/>
       </location>
     </source>
-    <source filename="instances/KRSPY-WL-Min.ufo" familyname="KRSPY" stylename="Wide Light-MinGrade">
+    <source filename="instances/WideLightMinGrade.ufo" familyname="KRSPY" stylename="Wide Light MinGrade">
       <location>
         <dimension name="Weight" xvalue="1"/>
         <dimension name="Grade" xvalue="-50"/>
