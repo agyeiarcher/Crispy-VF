@@ -25,7 +25,7 @@ print(g.name)
 
 def xTRA():
     
-    widthadjustment=-4500
+    widthadjustment=4500
     topnotchadjustment=580
     sidenotchadjustment=240      
     outnotchadjustment=300
