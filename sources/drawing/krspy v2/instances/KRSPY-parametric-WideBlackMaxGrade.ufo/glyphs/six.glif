@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six" format="2">
+  <advance width="4317.70532194234"/>
+  <unicode hex="0036"/>
+  <outline>
+    <contour>
+      <point x="175.8073625556367" y="0.0" type="line" identifier="uiw6aBUf4P"/>
+      <point x="4141.077927176618" y="0.0" type="line" identifier="jtYkxiUX6G"/>
+      <point x="4141.077927176618" y="951.4961201201202" type="line" identifier="2G5L37c87I"/>
+      <point x="949.1352239137876" y="951.4961201201202" type="line"/>
+      <point x="949.1352239137876" y="914.6097537537537" type="line"/>
+      <point x="1083.897175288153" y="1027.745009009009" type="line"/>
+      <point x="3478.8313715494237" y="1027.745009009009" type="line"/>
+      <point x="3478.8313715494237" y="1072.0898018018017" type="line"/>
+      <point x="4139.84436944101" y="1072.0898018018017" type="line" identifier="Wuidbv6mUe"/>
+      <point x="4139.84436944101" y="1600.0" type="line" identifier="oGvEEuxnYv"/>
+      <point x="543.9370218157617" y="1600.0" type="line" identifier="xR3pEHbMJx"/>
+      <point x="175.8073625556367" y="1153.082042042042" type="line" identifier="KnMArb0tv8"/>
+    </contour>
+    <contour>
+      <point x="3366.480380310833" y="589.2854774774775" type="line"/>
+      <point x="3366.480380310833" y="543.9844804804804" type="line"/>
+      <point x="949.1352239137876" y="543.9844804804804" type="line"/>
+      <point x="949.1352239137876" y="589.2854774774775" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 04:43:13 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>2G5L37c87I</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>KnMArb0tv8</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>Wuidbv6mUe</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>jtYkxiUX6G</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>oGvEEuxnYv</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>uiw6aBUf4P</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>xR3pEHbMJx</key>
+        <array>
+          <string>leftside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

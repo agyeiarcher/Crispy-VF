@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero" format="2">
+  <advance width="3794.9484890295703"/>
+  <unicode hex="0030"/>
+  <outline>
+    <contour>
+      <point x="84.85872358845332" y="0.0" type="line" identifier="4KX3b3mGg4"/>
+      <point x="3710.089765441117" y="0.0" type="line" identifier="V2j8wYP0nr"/>
+      <point x="3710.089765441117" y="1600.0" type="line" identifier="NaxGoenf3y"/>
+      <point x="84.85872358845332" y="1600.0" type="line" identifier="rx6fJSLiri"/>
+    </contour>
+    <contour>
+      <point x="95.93990086182278" y="10.221254287320352" type="line"/>
+      <point x="95.93990086182278" y="1589.7787457126797" type="line"/>
+      <point x="3699.0085881677473" y="1589.7787457126797" type="line"/>
+      <point x="3699.0085881677473" y="10.221254287320352" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 06:00:43 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>4KX3b3mGg4</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>NaxGoenf3y</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>V2j8wYP0nr</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>rx6fJSLiri</key>
+        <array>
+          <string>leftside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
