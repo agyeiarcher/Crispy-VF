@@ -459,15 +459,15 @@
     <array>
       <array>
         <string>xopq</string>
-        <real>796.684</real>
+        <real>938.0</real>
       </array>
       <array>
         <string>yopq</string>
-        <real>852.590251</real>
+        <real>807.0</real>
       </array>
       <array>
         <string>xtra</string>
-        <real>707.056</real>
+        <real>904.0</real>
       </array>
     </array>
     <key>public.glyphOrder</key>
@@ -831,6 +831,14 @@
       <string>seven.subs</string>
       <string>eight.subs</string>
       <string>nine.subs</string>
+      <string>E.wide</string>
+      <string>C.wide</string>
+      <string>F.wide</string>
+      <string>G.wide</string>
+      <string>S.wide</string>
+      <string>Z.wide</string>
+      <string>five.wide</string>
+      <string>three.wide</string>
     </array>
   </dict>
 </plist>
