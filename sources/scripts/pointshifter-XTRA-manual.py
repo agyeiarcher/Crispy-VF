@@ -33,4 +33,4 @@ def xTRA(stemAdjustment):
         glyph.changed()    
         glyph.performUndo()
         
-xTRA(-3500)
+xTRA(3500)

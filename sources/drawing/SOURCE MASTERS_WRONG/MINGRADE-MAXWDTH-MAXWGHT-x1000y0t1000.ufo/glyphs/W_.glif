@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="8397"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="6610" y="1600" type="line" smooth="yes" identifier="12Pyby1xY2"/>
+      <point x="6610" y="2" type="line" identifier="iqeTRv7HXg"/>
+      <point x="4917" y="2" type="line" smooth="yes" identifier="GlWB6PG54Z"/>
+      <point x="4705" y="302" type="line"/>
+      <point x="4705" y="323" type="line"/>
+      <point x="4705" y="1600" type="line"/>
+      <point x="3690" y="1600" type="line" smooth="yes"/>
+      <point x="3690" y="298" type="line"/>
+      <point x="3522" y="2" type="line" identifier="Ljn2lpvpG8"/>
+      <point x="2293" y="2" type="line" smooth="yes" identifier="oee4nqI8Wl"/>
+      <point x="1785" y="498" type="line" smooth="yes" identifier="WWvGwSpq0g"/>
+      <point x="1785" y="1600" type="line" identifier="JfSFAkWGZC"/>
+      <point x="770" y="1600" type="line" smooth="yes" identifier="RTOJW56qXy"/>
+      <point x="770" y="498" type="line" smooth="yes" identifier="7g7f8Wu7K4"/>
+      <point x="1278" y="0" type="line" smooth="yes" identifier="R4lklfJsHA"/>
+      <point x="4198" y="0" type="line" smooth="yes" identifier="Pkl7cZ37MU"/>
+      <point x="4198" y="298" type="line"/>
+      <point x="4199" y="298" type="line"/>
+      <point x="4409" y="0" type="line" smooth="yes" identifier="rCeQLyjlsN"/>
+      <point x="7626" y="0" type="line" smooth="yes" identifier="ZqTZqAY3uY"/>
+      <point x="7626" y="1600" type="line" smooth="yes" identifier="5LJg4ajoG6"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 11:47:40 +0000</string>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>12Pyby1xY2</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
+        <key>5LJg4ajoG6</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
+        <key>7g7f8Wu7K4</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>SIDENOTCH</string>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>GlWB6PG54Z</key>
+        <array>
+          <string>INSIDENOTCHLEFT</string>
+        </array>
+        <key>JfSFAkWGZC</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>JvYTBAOPZP</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>Ljn2lpvpG8</key>
+        <array>
+          <string>INSIDENOTCHRIGHT</string>
+        </array>
+        <key>Pkl7cZ37MU</key>
+        <array>
+          <string>INSIDENOTCHRIGHT</string>
+        </array>
+        <key>R4lklfJsHA</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPNOTCH</string>
+        </array>
+        <key>RTOJW56qXy</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>WWvGwSpq0g</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>SIDENOTCH</string>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>ZqTZqAY3uY</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
+        <key>iqeTRv7HXg</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
+        <key>l7kU354nQi</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>lwgAcRFjz3</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>oee4nqI8Wl</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPNOTCH</string>
+        </array>
+        <key>rCeQLyjlsN</key>
+        <array>
+          <string>INSIDENOTCHLEFT</string>
+        </array>
+        <key>tG1gTEtDdI</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>vmHDiIUK3k</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>vyhN9GCvPW</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -27,13 +27,13 @@
           <string>G</string>
           <string>H</string>
           <string>I</string>
-          <string>I.alt1</string>
           <string>Igrave</string>
           <string>Iacute</string>
           <string>Icircumflex</string>
           <string>Idieresis</string>
           <string>J</string>
           <string>K</string>
+          <string>K.alt</string>
           <string>L</string>
           <string>M</string>
           <string>N</string>
@@ -47,6 +47,7 @@
           <string>P</string>
           <string>Q</string>
           <string>R</string>
+          <string>R.alt</string>
           <string>S</string>
           <string>S.alt</string>
           <string>T</string>
@@ -131,7 +132,6 @@
           <string>zero</string>
           <string>one</string>
           <string>two</string>
-          <string>2.alt</string>
           <string>three</string>
           <string>four</string>
           <string>five</string>
@@ -483,6 +483,7 @@
       <string>Idieresis</string>
       <string>J</string>
       <string>K</string>
+      <string>K.alt</string>
       <string>L</string>
       <string>M</string>
       <string>N</string>
@@ -496,7 +497,9 @@
       <string>P</string>
       <string>Q</string>
       <string>R</string>
+      <string>R.alt</string>
       <string>S</string>
+      <string>S.alt</string>
       <string>T</string>
       <string>U</string>
       <string>Ugrave</string>
@@ -813,6 +816,14 @@
       <string>seven.subs</string>
       <string>eight.subs</string>
       <string>nine.subs</string>
+      <string>E.wide</string>
+      <string>C.wide</string>
+      <string>F.wide</string>
+      <string>G.wide</string>
+      <string>S.wide</string>
+      <string>Z.wide</string>
+      <string>five.wide</string>
+      <string>three.wide</string>
     </array>
   </dict>
 </plist>

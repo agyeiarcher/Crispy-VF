@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="6267"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="5009.929088925305" y="1600.0" type="line" smooth="yes" identifier="12Pyby1xY2"/>
+      <point x="5010.309665802854" y="196.07827051753407" type="line" smooth="yes" identifier="5LJg4ajoG6"/>
+      <point x="3680.934594411278" y="500.5397725560192" type="line" smooth="yes" identifier="ZqTZqAY3uY"/>
+      <point x="3503.3329638556984" y="811.3182074316544" type="line" smooth="yes" identifier="rCeQLyjlsN"/>
+      <point x="3495.090881486786" y="1178.6324892034074" type="line"/>
+      <point x="3493.6359640398005" y="1854.0350657633612" type="line"/>
+      <point x="2735.3734076269297" y="1504.4182658526724" type="line" smooth="yes" identifier="Pkl7cZ37MU"/>
+      <point x="2725.7283767510808" y="806.6477855384232" type="line" smooth="yes" identifier="R4lklfJsHA"/>
+      <point x="2598.619541300878" y="442.3115102911589" type="line" smooth="yes" identifier="7g7f8Wu7K4"/>
+      <point x="1456.3423362825608" y="196.07827051753407" type="line" smooth="yes" identifier="RTOJW56qXy"/>
+      <point x="1219.3434817625719" y="499.91490964181776" type="line" identifier="JfSFAkWGZC"/>
+      <point x="1219.3434817625719" y="1846.0429513348513" type="line" smooth="yes" identifier="WWvGwSpq0g"/>
+      <point x="453.06741433455886" y="1904.080925160937" type="line" smooth="yes" identifier="oee4nqI8Wl"/>
+      <point x="462.2012593957134" y="568.2243427668827" type="line" identifier="Ljn2lpvpG8"/>
+      <point x="873.107935988536" y="-50.42643627512413" type="line"/>
+      <point x="3091.1177809567407" y="-304.46150203848515" type="line" smooth="yes"/>
+      <point x="3115.663480840105" y="27.264600458389964" type="line"/>
+      <point x="3121.2749560506672" y="280.72880090542884" type="line"/>
+      <point x="3294.864657774285" y="-50.99730159144627" type="line"/>
+      <point x="5811.507701155735" y="-0.38057687754810665" type="line" identifier="GlWB6PG54Z"/>
+      <point x="5820.64154621689" y="1904.080925160937" type="line" identifier="iqeTRv7HXg"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 11:47:40 +0000</string>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>JvYTBAOPZP</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>l7kU354nQi</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>lwgAcRFjz3</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>tG1gTEtDdI</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>vmHDiIUK3k</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>vyhN9GCvPW</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

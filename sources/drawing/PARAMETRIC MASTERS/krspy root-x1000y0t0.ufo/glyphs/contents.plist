@@ -22,6 +22,8 @@
     <string>B_.glif</string>
     <key>C</key>
     <string>C_.glif</string>
+    <key>C.wide</key>
+    <string>C_.wide.glif</string>
     <key>CR</key>
     <string>C_R_.glif</string>
     <key>Ccedilla</key>
@@ -36,6 +38,8 @@
     <string>D_linebelow.glif</string>
     <key>E</key>
     <string>E_.glif</string>
+    <key>E.wide</key>
+    <string>E_.wide.glif</string>
     <key>Eacute</key>
     <string>E_acute.glif</string>
     <key>Ecedillabreve</key>
@@ -54,8 +58,12 @@
     <string>E_th.glif</string>
     <key>F</key>
     <string>F_.glif</string>
+    <key>F.wide</key>
+    <string>F_.wide.glif</string>
     <key>G</key>
     <string>G_.glif</string>
+    <key>G.wide</key>
+    <string>G_.wide.glif</string>
     <key>Gmacron</key>
     <string>G_macron.glif</string>
     <key>H</key>
@@ -80,6 +88,8 @@
     <string>J_.glif</string>
     <key>K</key>
     <string>K_.glif</string>
+    <key>K.alt</key>
+    <string>K_.alt.glif</string>
     <key>L</key>
     <string>L_.glif</string>
     <key>Ldotbelow</key>
@@ -134,6 +144,8 @@
     <string>Q_.glif</string>
     <key>R</key>
     <string>R_.glif</string>
+    <key>R.alt</key>
+    <string>R_.alt.glif</string>
     <key>Rdotbelow</key>
     <string>R_dotbelow.glif</string>
     <key>Rlinebelow</key>
@@ -142,6 +154,8 @@
     <string>S_.glif</string>
     <key>S.alt</key>
     <string>S_.alt.glif</string>
+    <key>S.wide</key>
+    <string>S_.wide.glif</string>
     <key>Sacutedotaccent</key>
     <string>S_acutedotaccent.glif</string>
     <key>Scarondotaccent</key>
@@ -188,6 +202,8 @@
     <string>Y_dotaccent.glif</string>
     <key>Z</key>
     <string>Z_.glif</string>
+    <key>Z.wide</key>
+    <string>Z_.wide.glif</string>
     <key>Zdotbelow</key>
     <string>Z_dotbelow.glif</string>
     <key>a</key>
@@ -334,6 +350,8 @@
     <string>five.numr.glif</string>
     <key>five.subs</key>
     <string>five.subs.glif</string>
+    <key>five.wide</key>
+    <string>five.wide.glif</string>
     <key>fiveinferior</key>
     <string>fiveinferior.glif</string>
     <key>fivesuperior</key>
@@ -640,6 +658,8 @@
     <string>three.numr.glif</string>
     <key>three.subs</key>
     <string>three.subs.glif</string>
+    <key>three.wide</key>
+    <string>three.wide.glif</string>
     <key>threeinferior</key>
     <string>threeinferior.glif</string>
     <key>threequarters</key>
