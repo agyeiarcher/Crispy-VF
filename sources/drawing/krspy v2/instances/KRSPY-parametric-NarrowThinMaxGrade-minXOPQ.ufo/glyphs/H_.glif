@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="160.96096096096096"/>
+  <advance width="160"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="32.973973973973976" y="0.0" type="line" identifier="uqAJBjDIOT"/>
-      <point x="34.973973973973976" y="0.0" type="line" identifier="WUaPOcaxKT"/>
-      <point x="34.973973973973976" y="796.007007007007" type="line" identifier="QjywsYY2yB"/>
-      <point x="125.98698698698699" y="796.007007007007" type="line" identifier="7JgTtdb0jg"/>
-      <point x="125.98698698698699" y="0.0" type="line" identifier="njzlIRBsoY"/>
-      <point x="127.97397397397397" y="0.0" type="line" identifier="oOtn61SmRY"/>
-      <point x="127.97397397397397" y="1600.0" type="line" identifier="8OglXgblhr"/>
-      <point x="125.98698698698699" y="1600.0" type="line" identifier="db0bPhBdaU"/>
-      <point x="125.98698698698699" y="803.992992992993" type="line" identifier="MTAeavIVWY"/>
-      <point x="34.973973973973976" y="803.992992992993" type="line" identifier="lggLiivmLt"/>
-      <point x="34.973973973973976" y="1600.0" type="line" identifier="UPaHY3UudR"/>
-      <point x="32.973973973973976" y="1600.0" type="line" identifier="ZnCDQVdtyD"/>
+      <point x="32" y="0" type="line" identifier="uqAJBjDIOT"/>
+      <point x="34" y="0" type="line" identifier="WUaPOcaxKT"/>
+      <point x="34" y="796" type="line" identifier="QjywsYY2yB"/>
+      <point x="125" y="796" type="line" identifier="7JgTtdb0jg"/>
+      <point x="125" y="0" type="line" identifier="njzlIRBsoY"/>
+      <point x="127" y="0" type="line" identifier="oOtn61SmRY"/>
+      <point x="127" y="1600" type="line" identifier="8OglXgblhr"/>
+      <point x="125" y="1600" type="line" identifier="db0bPhBdaU"/>
+      <point x="125" y="804" type="line" identifier="MTAeavIVWY"/>
+      <point x="34" y="804" type="line" identifier="lggLiivmLt"/>
+      <point x="34" y="1600" type="line" identifier="UPaHY3UudR"/>
+      <point x="32" y="1600" type="line" identifier="ZnCDQVdtyD"/>
     </contour>
   </outline>
   <lib>

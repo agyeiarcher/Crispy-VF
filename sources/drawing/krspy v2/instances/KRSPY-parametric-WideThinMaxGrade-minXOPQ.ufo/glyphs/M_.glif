@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="M" format="2">
-  <advance width="3844.965716467218"/>
+  <advance width="3844"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="1910.6522769015262" y="80.0" type="line" identifier="0Dn4Xpf57M"/>
-      <point x="112.46996546095646" y="1588.0006913820728" type="line"/>
-      <point x="86.72610147685224" y="1588.0006913820728" type="line"/>
-      <point x="86.72610147685224" y="0.0" type="line"/>
-      <point x="84.72610147685224" y="0.0" type="line"/>
-      <point x="84.72610147685224" y="1600.0" type="line"/>
-      <point x="113.47597447297147" y="1600.0" type="line"/>
-      <point x="1911.672236801366" y="91.98680362043726" type="line"/>
-      <point x="1933.2934796658521" y="91.98680362043726" type="line" identifier="9aKZPM0HPh"/>
-      <point x="3732.4530175821465" y="1600.0" type="line"/>
-      <point x="3760.2396149903657" y="1600.0" type="line"/>
-      <point x="3760.2396149903657" y="0.0" type="line"/>
-      <point x="3758.2396149903657" y="0.0" type="line"/>
-      <point x="3758.2396149903657" y="1588.0006913820728" type="line"/>
-      <point x="3733.471726982237" y="1588.0006913820728" type="line"/>
-      <point x="1934.3134395656919" y="80.0" type="line" identifier="spdoeeCFft"/>
+      <point x="1910" y="80" type="line" identifier="0Dn4Xpf57M"/>
+      <point x="112" y="1588" type="line"/>
+      <point x="86" y="1588" type="line"/>
+      <point x="86" y="0" type="line"/>
+      <point x="84" y="0" type="line"/>
+      <point x="84" y="1600" type="line"/>
+      <point x="113" y="1600" type="line"/>
+      <point x="1911" y="92" type="line"/>
+      <point x="1933" y="92" type="line" identifier="9aKZPM0HPh"/>
+      <point x="3732" y="1600" type="line"/>
+      <point x="3760" y="1600" type="line"/>
+      <point x="3760" y="0" type="line"/>
+      <point x="3758" y="0" type="line"/>
+      <point x="3758" y="1588" type="line"/>
+      <point x="3733" y="1588" type="line"/>
+      <point x="1934" y="80" type="line" identifier="spdoeeCFft"/>
     </contour>
   </outline>
   <lib>

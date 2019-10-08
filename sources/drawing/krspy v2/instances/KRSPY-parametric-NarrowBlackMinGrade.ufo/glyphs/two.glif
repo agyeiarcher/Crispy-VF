@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="two" format="2">
-  <advance width="1354.7837837837837"/>
+  <advance width="1493"/>
   <unicode hex="0032"/>
   <outline>
     <contour>
-      <point x="69.56756756756758" y="0.0" type="line"/>
-      <point x="1285.5765765765766" y="0.0" type="line" identifier="pzdvPTirLJ"/>
-      <point x="1285.5765765765766" y="493.7917917917918" type="line" identifier="91SxUS0iwG"/>
-      <point x="730.927927927928" y="493.7917917917918" type="line" identifier="fP7EN0pUcl"/>
-      <point x="730.927927927928" y="421.4794794794795" type="line" identifier="eb458Bdvng"/>
-      <point x="624.2162162162163" y="421.4794794794795" type="line"/>
-      <point x="624.2162162162163" y="496.45445445445444" type="line" identifier="9fjc25rkUx"/>
-      <point x="1280.0250250250251" y="984.3643643643643" type="line" identifier="yyb1NCCI5w"/>
-      <point x="1280.0250250250251" y="1600.0" type="line" identifier="5FogYRSgkk"/>
-      <point x="73.2072072072072" y="1600.0" type="line" identifier="svlFvrau4c"/>
-      <point x="73.2072072072072" y="1011.7017017017016" type="line" identifier="LQ9fBsTy9K"/>
-      <point x="627.8558558558559" y="1011.7017017017016" type="line" identifier="jS6EyIAKtm"/>
-      <point x="627.8558558558559" y="1178.5205205205204" type="line"/>
-      <point x="725.3763763763764" y="1178.5205205205204" type="line" identifier="N6CMAjhNlU"/>
-      <point x="725.3763763763764" y="985.3643643643643" type="line" identifier="yK1d5IcluK"/>
-      <point x="69.56756756756758" y="498.45445445445444" type="line" identifier="teVKnpBcVb"/>
+      <point x="139" y="0" type="line"/>
+      <point x="1355" y="0" type="line" identifier="pzdvPTirLJ"/>
+      <point x="1355" y="494" type="line" identifier="91SxUS0iwG"/>
+      <point x="800" y="494" type="line" identifier="fP7EN0pUcl"/>
+      <point x="800" y="421" type="line" identifier="eb458Bdvng"/>
+      <point x="693" y="421" type="line"/>
+      <point x="693" y="496" type="line" identifier="9fjc25rkUx"/>
+      <point x="1349" y="984" type="line" identifier="yyb1NCCI5w"/>
+      <point x="1349" y="1600" type="line" identifier="5FogYRSgkk"/>
+      <point x="142" y="1600" type="line" identifier="svlFvrau4c"/>
+      <point x="142" y="1012" type="line" identifier="LQ9fBsTy9K"/>
+      <point x="697" y="1012" type="line" identifier="jS6EyIAKtm"/>
+      <point x="697" y="1179" type="line"/>
+      <point x="794" y="1179" type="line" identifier="N6CMAjhNlU"/>
+      <point x="794" y="985" type="line" identifier="yK1d5IcluK"/>
+      <point x="139" y="498" type="line" identifier="teVKnpBcVb"/>
     </contour>
   </outline>
   <lib>

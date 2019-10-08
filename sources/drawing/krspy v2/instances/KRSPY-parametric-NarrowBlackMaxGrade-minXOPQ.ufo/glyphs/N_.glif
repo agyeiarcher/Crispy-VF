@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N" format="2">
-  <advance width="167.25225225225225"/>
+  <advance width="167"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="27.10810810810811" y="0.0" type="line" identifier="CkwYPPvJLv"/>
-      <point x="29.10810810810811" y="0.0" type="line" identifier="oHTJsN7drZ"/>
-      <point x="29.10810810810811" y="1175.7477477477478" type="line" identifier="wfBbYd10Pm"/>
-      <point x="62.729729729729726" y="1175.7477477477478" type="line" identifier="MEnBDHq6zU"/>
-      <point x="120.14414414414415" y="0.0" type="line" identifier="3Nbopwznvn"/>
-      <point x="140.14414414414415" y="0.0" type="line" identifier="uKfuudIUvA"/>
-      <point x="140.14414414414415" y="1600.0" type="line" identifier="XRdLFXiM4t"/>
-      <point x="138.14414414414415" y="1600.0" type="line" identifier="MUSJPjCIXg"/>
-      <point x="138.14414414414415" y="424.2522522522522" type="line" identifier="VILP20cFmq"/>
-      <point x="101.52252252252252" y="424.2522522522522" type="line" identifier="z5b04GDwRN"/>
-      <point x="44.10810810810811" y="1600.0" type="line" identifier="LL64NQ6WBE"/>
-      <point x="27.10810810810811" y="1600.0" type="line" identifier="dzUaaP1sjt"/>
+      <point x="27" y="0" type="line" identifier="CkwYPPvJLv"/>
+      <point x="29" y="0" type="line" identifier="oHTJsN7drZ"/>
+      <point x="29" y="1176" type="line" identifier="wfBbYd10Pm"/>
+      <point x="63" y="1176" type="line" identifier="MEnBDHq6zU"/>
+      <point x="120" y="0" type="line" identifier="3Nbopwznvn"/>
+      <point x="140" y="0" type="line" identifier="uKfuudIUvA"/>
+      <point x="140" y="1600" type="line" identifier="XRdLFXiM4t"/>
+      <point x="138" y="1600" type="line" identifier="MUSJPjCIXg"/>
+      <point x="138" y="424" type="line" identifier="VILP20cFmq"/>
+      <point x="101" y="424" type="line" identifier="z5b04GDwRN"/>
+      <point x="44" y="1600" type="line" identifier="LL64NQ6WBE"/>
+      <point x="27" y="1600" type="line" identifier="dzUaaP1sjt"/>
     </contour>
   </outline>
   <lib>

@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Z.wide" format="2">
-  <advance width="119.0"/>
+  <advance width="133"/>
   <outline>
     <contour>
-      <point x="12.0" y="0.0" type="line"/>
-      <point x="108.0" y="0.0" type="line" identifier="pzdvPTirLJ"/>
-      <point x="108.0" y="2.0" type="line"/>
-      <point x="14.0" y="2.0" type="line"/>
-      <point x="14.0" y="231.0" type="line"/>
-      <point x="104.0" y="1480.0" type="line" identifier="yyb1NCCI5w"/>
-      <point x="104.0" y="1600.0" type="line" identifier="5FogYRSgkk"/>
-      <point x="15.0" y="1600.0" type="line" identifier="svlFvrau4c"/>
-      <point x="15.0" y="1598.0" type="line"/>
-      <point x="102.0" y="1598.0" type="line"/>
-      <point x="102.0" y="1480.0" type="line"/>
-      <point x="12.0" y="234.0" type="line" identifier="teVKnpBcVb"/>
+      <point x="19" y="0" type="line"/>
+      <point x="115" y="0" type="line" identifier="pzdvPTirLJ"/>
+      <point x="115" y="2" type="line"/>
+      <point x="21" y="2" type="line"/>
+      <point x="21" y="231" type="line"/>
+      <point x="111" y="1480" type="line" identifier="yyb1NCCI5w"/>
+      <point x="111" y="1600" type="line" identifier="5FogYRSgkk"/>
+      <point x="22" y="1600" type="line" identifier="svlFvrau4c"/>
+      <point x="22" y="1598" type="line"/>
+      <point x="109" y="1598" type="line"/>
+      <point x="109" y="1480" type="line"/>
+      <point x="19" y="234" type="line" identifier="teVKnpBcVb"/>
     </contour>
   </outline>
 </glyph>

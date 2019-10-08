@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="L" format="2">
-  <advance width="3157.1103986869753"/>
+  <advance width="3156"/>
   <unicode hex="004C"/>
   <outline>
     <contour>
-      <point x="72.58881403926448" y="0.0" type="line" identifier="XkJNfQlnnt"/>
-      <point x="3086.333558784009" y="0.0" type="line" identifier="82EXZEgt46"/>
-      <point x="3086.333558784009" y="633.3879645411178" type="line" identifier="VYRt9kHZtP"/>
-      <point x="3085.1940318697075" y="633.3879645411178" type="line" identifier="t7Q9RRLHt8"/>
-      <point x="3086.914978041104" y="642.9695461226993" type="line" identifier="cqpSxwFiM3"/>
-      <point x="74.5453832210589" y="642.9695461226993" type="line" identifier="MbxRZRd8vz"/>
-      <point x="74.5453832210589" y="1600.0" type="line" identifier="lYiaKSKITt"/>
-      <point x="72.58881403926448" y="1600.0" type="line" identifier="XFf4mMUzYo"/>
+      <point x="72" y="0" type="line" identifier="XkJNfQlnnt"/>
+      <point x="3086" y="0" type="line" identifier="82EXZEgt46"/>
+      <point x="3086" y="633" type="line" identifier="VYRt9kHZtP"/>
+      <point x="3085" y="633" type="line" identifier="t7Q9RRLHt8"/>
+      <point x="3086" y="643" type="line" identifier="cqpSxwFiM3"/>
+      <point x="74" y="643" type="line" identifier="MbxRZRd8vz"/>
+      <point x="74" y="1600" type="line" identifier="lYiaKSKITt"/>
+      <point x="72" y="1600" type="line" identifier="XFf4mMUzYo"/>
     </contour>
   </outline>
   <lib>

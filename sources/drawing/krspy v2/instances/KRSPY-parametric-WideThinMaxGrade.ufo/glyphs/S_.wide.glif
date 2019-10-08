@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="S.wide" format="2">
-  <advance width="3561.9879879879877"/>
+  <advance width="3561"/>
   <outline>
     <contour>
-      <point x="17.675675675675677" y="0.0" type="line" identifier="09VlJ0BjUX"/>
-      <point x="3536.4024024024025" y="0.0" type="line" identifier="EagWihqFM8"/>
-      <point x="3536.4024024024025" y="803.6026026026026" type="line" identifier="KfNuQA7eZe"/>
-      <point x="26.746395043692342" y="803.6026026026026" type="line" identifier="At364YZFEy"/>
-      <point x="26.746395043692342" y="1193.9799108417726" type="line"/>
-      <point x="355.2208274340407" y="1590.7439752064377" type="line"/>
-      <point x="3536.4024024024025" y="1590.7439752064377" type="line" identifier="3ZUkG35meB"/>
-      <point x="3536.4024024024025" y="1600.0" type="line" identifier="SaF9ojRFrW"/>
-      <point x="350.38212386560735" y="1600.0" type="line"/>
-      <point x="15.675675675675675" y="1193.641193746299" type="line"/>
-      <point x="15.675675675675675" y="796.3973973973974" type="line" identifier="3sQ8t8BZ6b"/>
-      <point x="3525.308308308308" y="796.3973973973974" type="line" identifier="yiV6OCBLHg"/>
-      <point x="3525.308308308308" y="9.25602479356233" type="line" identifier="9kdl9SYsn8"/>
-      <point x="17.675675675675677" y="9.25602479356233" type="line" identifier="yZDWuX8LLe"/>
+      <point x="17" y="0" type="line" identifier="09VlJ0BjUX"/>
+      <point x="3536" y="0" type="line" identifier="EagWihqFM8"/>
+      <point x="3536" y="804" type="line" identifier="KfNuQA7eZe"/>
+      <point x="26" y="804" type="line" identifier="At364YZFEy"/>
+      <point x="26" y="1194" type="line"/>
+      <point x="355" y="1591" type="line"/>
+      <point x="3536" y="1591" type="line" identifier="3ZUkG35meB"/>
+      <point x="3536" y="1600" type="line" identifier="SaF9ojRFrW"/>
+      <point x="350" y="1600" type="line"/>
+      <point x="15" y="1194" type="line"/>
+      <point x="15" y="796" type="line" identifier="3sQ8t8BZ6b"/>
+      <point x="3525" y="796" type="line" identifier="yiV6OCBLHg"/>
+      <point x="3525" y="9" type="line" identifier="9kdl9SYsn8"/>
+      <point x="17" y="9" type="line" identifier="yZDWuX8LLe"/>
     </contour>
   </outline>
 </glyph>

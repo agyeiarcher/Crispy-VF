@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N" format="2">
-  <advance width="180.81781781781783"/>
+  <advance width="180"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="32.92192192192192" y="0.0" type="line" identifier="CkwYPPvJLv"/>
-      <point x="34.92192192192192" y="0.0" type="line" identifier="oHTJsN7drZ"/>
-      <point x="34.92192192192192" y="1592.4044044044044" type="line" identifier="wfBbYd10Pm"/>
-      <point x="48.1951951951952" y="1592.4044044044044" type="line" identifier="MEnBDHq6zU"/>
-      <point x="127.89589589589589" y="0.0" type="line" identifier="3Nbopwznvn"/>
-      <point x="147.8958958958959" y="0.0" type="line" identifier="uKfuudIUvA"/>
-      <point x="147.8958958958959" y="1600.0" type="line" identifier="XRdLFXiM4t"/>
-      <point x="145.8958958958959" y="1600.0" type="line" identifier="MUSJPjCIXg"/>
-      <point x="145.8958958958959" y="7.595595595595595" type="line" identifier="VILP20cFmq"/>
-      <point x="129.62262262262263" y="7.595595595595595" type="line" identifier="z5b04GDwRN"/>
-      <point x="49.92192192192192" y="1600.0" type="line" identifier="LL64NQ6WBE"/>
-      <point x="32.92192192192192" y="1600.0" type="line" identifier="dzUaaP1sjt"/>
+      <point x="32" y="0" type="line" identifier="CkwYPPvJLv"/>
+      <point x="34" y="0" type="line" identifier="oHTJsN7drZ"/>
+      <point x="34" y="1592" type="line" identifier="wfBbYd10Pm"/>
+      <point x="47" y="1592" type="line" identifier="MEnBDHq6zU"/>
+      <point x="127" y="0" type="line" identifier="3Nbopwznvn"/>
+      <point x="147" y="0" type="line" identifier="uKfuudIUvA"/>
+      <point x="147" y="1600" type="line" identifier="XRdLFXiM4t"/>
+      <point x="145" y="1600" type="line" identifier="MUSJPjCIXg"/>
+      <point x="145" y="8" type="line" identifier="VILP20cFmq"/>
+      <point x="129" y="8" type="line" identifier="z5b04GDwRN"/>
+      <point x="49" y="1600" type="line" identifier="LL64NQ6WBE"/>
+      <point x="32" y="1600" type="line" identifier="dzUaaP1sjt"/>
     </contour>
   </outline>
   <lib>

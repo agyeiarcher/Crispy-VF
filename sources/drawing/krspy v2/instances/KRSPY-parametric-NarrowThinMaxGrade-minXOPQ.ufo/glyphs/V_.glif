@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="V" format="2">
-  <advance width="155.96096096096096"/>
+  <advance width="155"/>
   <unicode hex="0056"/>
   <outline>
     <contour>
-      <point x="34.92192192192192" y="1600.0" type="line" smooth="yes"/>
-      <point x="34.92192192192192" y="7.985985985985986" type="line"/>
-      <point x="82.45545545545545" y="7.985985985985986" type="line" smooth="yes"/>
-      <point x="126.92192192192192" y="308.6026026026026" type="line" smooth="yes"/>
-      <point x="126.92192192192192" y="1600.0" type="line"/>
-      <point x="128.92192192192192" y="1600.0" type="line" smooth="yes"/>
-      <point x="128.92192192192192" y="308.6026026026026" type="line" smooth="yes"/>
-      <point x="83.92192192192192" y="0.0" type="line" smooth="yes"/>
-      <point x="32.92192192192192" y="0.0" type="line" smooth="yes"/>
-      <point x="32.92192192192192" y="1600.0" type="line" smooth="yes"/>
+      <point x="34" y="1600" type="line" smooth="yes"/>
+      <point x="34" y="8" type="line"/>
+      <point x="82" y="8" type="line" smooth="yes"/>
+      <point x="126" y="309" type="line" smooth="yes"/>
+      <point x="126" y="1600" type="line"/>
+      <point x="128" y="1600" type="line" smooth="yes"/>
+      <point x="128" y="309" type="line" smooth="yes"/>
+      <point x="83" y="0" type="line" smooth="yes"/>
+      <point x="32" y="0" type="line" smooth="yes"/>
+      <point x="32" y="1600" type="line" smooth="yes"/>
     </contour>
   </outline>
   <lib>
