@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R.alt" format="2">
+  <advance width="1532"/>
+  <outline>
+    <contour>
+      <point x="714" y="914" type="line"/>
+      <point x="714" y="1199" type="line"/>
+      <point x="820" y="1199" type="line"/>
+      <point x="820" y="914" type="line"/>
+    </contour>
+    <contour>
+      <point x="1444" y="0" type="line"/>
+      <point x="1324" y="618" type="line"/>
+      <point x="1437" y="670" type="line"/>
+      <point x="1437" y="1600" type="line"/>
+      <point x="97" y="1600" type="line"/>
+      <point x="97" y="0" type="line"/>
+      <point x="714" y="0" type="line"/>
+      <point x="714" y="513" type="line"/>
+      <point x="800" y="511" type="line"/>
+      <point x="884" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>
