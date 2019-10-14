@@ -10,16 +10,23 @@
     </axis>
   </axes>
   <rules>
-    <rule name="subTopSerifs">
+    <rule name="subTopSerifsweight">
       <conditionset>
-        <condition name="width" minimum="3000" maximum="1000"/>
+        <condition name="weight" minimum="220" maximum="1000"/>
       </conditionset>
-      <sub name="G" with="G.wide"/>
       <sub name="F" with="F.wide"/>
       <sub name="C" with="C.wide"/>
       <sub name="E" with="E.wide"/>
       <sub name="S" with="S.wide"/>
       <sub name="Z" with="Z.wide"/>
+      <sub name="G" with="G.wide"/>
+      <sub name="N" with="N.wide"/>
+    </rule>
+    <rule name="narrowness">
+      <conditionset>
+        <condition name="width" minimum="1" maximum="200"/>
+      </conditionset>
+      <sub name="I" with="I.narrow"/>
     </rule>
   </rules>
   <sources>
@@ -95,7 +102,6 @@
         <key>ignore</key>
         <array>
           <string>grade</string>
-          <string>xopq</string>
         </array>
         <key>vertical</key>
         <array>
@@ -109,8 +115,6 @@
         <key>weight</key>
         <real>1.0</real>
         <key>width</key>
-        <real>1.0</real>
-        <key>xopq</key>
         <real>1.0</real>
       </dict>
       <key>com.letterror.skateboard.previewText</key>

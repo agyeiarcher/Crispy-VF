@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nine" format="2">
-  <advance width="1498"/>
+  <advance width="1497.7387387387387"/>
   <unicode hex="0039"/>
   <outline>
     <contour>
-      <point x="1420" y="1600" type="line" identifier="uiw6aBUf4P"/>
-      <point x="77" y="1600" type="line" identifier="jtYkxiUX6G"/>
-      <point x="77" y="669" type="line" identifier="2G5L37c87I"/>
-      <point x="803" y="669" type="line"/>
-      <point x="803" y="401" type="line"/>
-      <point x="696" y="401" type="line"/>
-      <point x="696" y="544" type="line"/>
-      <point x="79" y="544" type="line" identifier="Wuidbv6mUe"/>
-      <point x="79" y="0" type="line" identifier="oGvEEuxnYv"/>
-      <point x="1420" y="0" type="line" identifier="xR3pEHbMJx"/>
+      <point x="1419.972972972973" y="1600.0" type="line" identifier="uiw6aBUf4P"/>
+      <point x="77.18618618618618" y="1600.0" type="line" identifier="jtYkxiUX6G"/>
+      <point x="77.18618618618618" y="668.8198198198198" type="line" identifier="2G5L37c87I"/>
+      <point x="803.054054054054" y="668.8198198198198" type="line"/>
+      <point x="803.054054054054" y="401.2192192192192" type="line"/>
+      <point x="695.6846846846846" y="401.2192192192192" type="line"/>
+      <point x="695.6846846846846" y="543.7537537537537" type="line"/>
+      <point x="78.76576576576576" y="543.7537537537537" type="line" identifier="Wuidbv6mUe"/>
+      <point x="78.76576576576576" y="0.0" type="line" identifier="oGvEEuxnYv"/>
+      <point x="1419.972972972973" y="0.0" type="line" identifier="xR3pEHbMJx"/>
     </contour>
     <contour>
-      <point x="694" y="992" type="line"/>
-      <point x="694" y="1199" type="line"/>
-      <point x="803" y="1199" type="line"/>
-      <point x="803" y="992" type="line"/>
+      <point x="694.105105105105" y="991.9309309309309" type="line"/>
+      <point x="694.105105105105" y="1198.7807807807808" type="line"/>
+      <point x="803.054054054054" y="1198.7807807807808" type="line"/>
+      <point x="803.054054054054" y="991.9309309309309" type="line"/>
     </contour>
   </outline>
   <lib>

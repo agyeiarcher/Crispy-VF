@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="R.alt" format="2">
-  <advance width="5488"/>
+  <advance width="5506.551611671732"/>
   <outline>
     <contour>
-      <point x="955" y="923" type="line"/>
-      <point x="955" y="1150" type="line"/>
-      <point x="4532" y="1150" type="line"/>
-      <point x="4532" y="923" type="line"/>
+      <point x="1210.52295538782" y="893.1230720209699" type="line"/>
+      <point x="1208.7162477793106" y="1002.0018877736595" type="line"/>
+      <point x="4292.403821238656" y="1002.0018877736595" type="line"/>
+      <point x="4293.307175042911" y="893.1230720209699" type="line"/>
     </contour>
     <contour>
-      <point x="5350" y="0" type="line"/>
-      <point x="4890" y="599" type="line"/>
-      <point x="5354" y="652" type="line"/>
-      <point x="5351" y="1600" type="line"/>
-      <point x="136" y="1600" type="line"/>
-      <point x="136" y="0" type="line"/>
-      <point x="955" y="0" type="line"/>
-      <point x="955" y="479" type="line"/>
-      <point x="4191" y="477" type="line"/>
-      <point x="4603" y="0" type="line"/>
+      <point x="5240.5708531354185" y="0.8900552203855507" type="line"/>
+      <point x="4578.595661727794" y="563.0384047711376" type="line"/>
+      <point x="5288.891594297" y="565.9542936329723" type="line"/>
+      <point x="5237.400427454481" y="1600.8900552203856" type="line"/>
+      <point x="264.6229953677401" y="1600.8900552203856" type="line"/>
+      <point x="264.6229953677401" y="0.8900552203855507" type="line"/>
+      <point x="1209.6196015835653" y="0.8900552203855507" type="line"/>
+      <point x="1209.6196015835653" y="388.1837002167332" type="line"/>
+      <point x="3735.445105766427" y="388.0879347816285" type="line"/>
+      <point x="4299.404864323784" y="0.8900552203855507" type="line"/>
     </contour>
   </outline>
 </glyph>
