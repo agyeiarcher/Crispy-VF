@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U" format="2">
+  <advance width="5256.742742742742"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="4290.880880880881" y="1600.0" type="line" smooth="yes"/>
+      <point x="4290.880880880881" y="574.9729729729729" type="line"/>
+      <point x="1241.4724724724726" y="574.9729729729729" type="line" smooth="yes"/>
+      <point x="935.2742742742741" y="854.013013013013" type="line" smooth="yes"/>
+      <point x="935.2742742742741" y="1600.0" type="line"/>
+      <point x="80.3753753753754" y="1600.0" type="line" smooth="yes"/>
+      <point x="80.3753753753754" y="498.0000000000001" type="line" smooth="yes"/>
+      <point x="588.3753753753754" y="0.0" type="line" smooth="yes"/>
+      <point x="5147.523523523523" y="0.0" type="line" smooth="yes"/>
+      <point x="5147.523523523523" y="1600.0" type="line" smooth="yes"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

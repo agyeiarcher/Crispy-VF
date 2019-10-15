@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="1249.6316316316315"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="653.1351351351351" y="0.0" type="line"/>
+      <point x="1162.8108108108108" y="0.0" type="line"/>
+      <point x="1162.8108108108108" y="651.1591591591591" type="line"/>
+      <point x="1245.2812812812813" y="651.1591591591591" type="line"/>
+      <point x="1245.2812812812813" y="937.7237237237238" type="line"/>
+      <point x="1162.8108108108108" y="937.7237237237238" type="line"/>
+      <point x="1162.8108108108108" y="1600.0" type="line"/>
+      <point x="653.1351351351351" y="1600.0" type="line"/>
+      <point x="653.1351351351351" y="937.7237237237238" type="line"/>
+      <point x="565.3833833833834" y="937.7237237237238" type="line"/>
+      <point x="565.3833833833834" y="993.978978978979" type="line"/>
+      <point x="643.8248248248248" y="1680.0" type="line"/>
+      <point x="146.3133133133133" y="1680.0" type="line"/>
+      <point x="55.707707707707705" y="992.978978978979" type="line"/>
+      <point x="55.707707707707705" y="651.1591591591591" type="line"/>
+      <point x="653.1351351351351" y="651.1591591591591" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:20:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

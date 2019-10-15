@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one" format="2">
+  <advance width="757.6109803497192"/>
+  <unicode hex="0031"/>
+  <outline>
+    <contour>
+      <point x="40.27415703992281" y="0.0" type="line"/>
+      <point x="718.326966606246" y="0.0" type="line" identifier="CURJAw79Zl"/>
+      <point x="718.326966606246" y="277.57153549946344" type="line" identifier="0DUCJo8xIi"/>
+      <point x="581.222447672898" y="277.57153549946344" type="line" identifier="5nmxQXofSG"/>
+      <point x="581.222447672898" y="1600.0" type="line" identifier="4rjIeWbSbx"/>
+      <point x="36.82697111525941" y="1600.0" type="line"/>
+      <point x="36.82697111525941" y="1322.4284645005366" type="line"/>
+      <point x="177.37867597327056" y="1322.4284645005366" type="line"/>
+      <point x="177.37867597327056" y="277.57153549946344" type="line"/>
+      <point x="40.27415703992281" y="277.57153549946344" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:24:39 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>0DUCJo8xIi</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>4rjIeWbSbx</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>5nmxQXofSG</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>CURJAw79Zl</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
