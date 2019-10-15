@@ -1,0 +1,71 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="368.2952952952953"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="38.230230230230234" y="1600.0" type="line" smooth="yes" identifier="12Pyby1xY2"/>
+      <point x="36.230230230230234" y="1600.0" type="line" smooth="yes" identifier="5LJg4ajoG6"/>
+      <point x="36.230230230230234" y="0.0" type="line" smooth="yes" identifier="ZqTZqAY3uY"/>
+      <point x="139.55655655655656" y="0.0" type="line" smooth="yes" identifier="rCeQLyjlsN"/>
+      <point x="185.76076076076077" y="265.8258258258258" type="line"/>
+      <point x="185.78578578578578" y="265.8258258258258" type="line"/>
+      <point x="189.98998998999" y="0.0" type="line" smooth="yes" identifier="Pkl7cZ37MU"/>
+      <point x="281.72972972972974" y="0.0" type="line" smooth="yes" identifier="R4lklfJsHA"/>
+      <point x="337.3413413413414" y="310.8048048048048" type="line" smooth="yes" identifier="7g7f8Wu7K4"/>
+      <point x="337.3413413413414" y="1600.0" type="line" smooth="yes" identifier="RTOJW56qXy"/>
+      <point x="335.3413413413414" y="1600.0" type="line" identifier="JfSFAkWGZC"/>
+      <point x="335.3413413413414" y="311.7797797797798" type="line" smooth="yes" identifier="WWvGwSpq0g"/>
+      <point x="279.72972972972974" y="2.0" type="line" smooth="yes" identifier="oee4nqI8Wl"/>
+      <point x="191.98998998999" y="2.0" type="line" identifier="Ljn2lpvpG8"/>
+      <point x="187.78578578578578" y="265.8258258258258" type="line"/>
+      <point x="187.78578578578578" y="1592.4924924924926" type="line" smooth="yes"/>
+      <point x="185.78578578578578" y="1592.4924924924926" type="line"/>
+      <point x="185.78578578578578" y="268.85085085085086" type="line"/>
+      <point x="184.8108108108108" y="268.85085085085086" type="line"/>
+      <point x="137.5815815815816" y="2.0" type="line" identifier="GlWB6PG54Z"/>
+      <point x="38.230230230230234" y="2.0" type="line" identifier="iqeTRv7HXg"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 11:47:40 +0000</string>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>JvYTBAOPZP</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>l7kU354nQi</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>lwgAcRFjz3</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>tG1gTEtDdI</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>vmHDiIUK3k</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>vyhN9GCvPW</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

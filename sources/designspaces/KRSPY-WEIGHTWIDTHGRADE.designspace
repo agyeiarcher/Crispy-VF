@@ -1,0 +1,142 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.0">
+  <axes>
+    <axis tag="wght" name="weight" minimum="1" maximum="1000" default="1">
+      <labelname xml:lang="en">Weight</labelname>
+    </axis>
+    <axis tag="wdth" name="width" minimum="1" maximum="1000" default="1"/>
+    <axis tag="grad" name="grade" minimum="-50" maximum="50" default="50">
+      <labelname xml:lang="en">Grade</labelname>
+    </axis>
+  </axes>
+  <rules>
+    <rule name="subs1">
+      <conditionset>
+        <condition name="weight" minimum="300" maximum="1000"/>
+      </conditionset>
+      <conditionset>
+        <condition name="width" minimum="300" maximum="1000"/>
+      </conditionset>
+      <sub name="G" with="G.wide"/>
+      <sub name="E" with="E.wide"/>
+      <sub name="S" with="S.wide"/>
+      <sub name="C" with="C.wide"/>
+      <sub name="F" with="F.wide"/>
+    </rule>
+    <rule name="subs2">
+      <conditionset>
+        <condition name="width" minimum="120" maximum="350"/>
+      </conditionset>
+      <sub name="N" with="N.wide"/>
+    </rule>
+    <rule name="subs3">
+      <conditionset>
+        <condition name="width" minimum="1" maximum="250"/>
+      </conditionset>
+      <sub name="I" with="I.narrow"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="instances/KRSPY-parametric_NarrowThinMinGrade.ufo" familyname="KRSPY" stylename="Narrow Thin MinGrade-maxXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="grade" xvalue="-50"/>
+      </location>
+    </source>
+    <source filename="instances/KRSPY-parametric-NarrowBlackMaxGrade.ufo" familyname="KRSPY" stylename="Narrow Black MaxGrade-maxXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="grade" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="instances/KRSPY-parametric-NarrowBlackMinGrade.ufo" familyname="KRSPY" stylename="Narrow Black MinGrade-maxXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="grade" xvalue="-50"/>
+      </location>
+    </source>
+    <source filename="instances/KRSPY-parametric-NarrowThinMaxGrade.ufo" familyname="KRSPY" stylename="Narrow Thin MaxGrade-maxXOPQ">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="grade" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="instances/KRSPY-parametric-WideBlackMaxGrade.ufo" familyname="KRSPY" stylename="Wide Black MaxGrade-maxXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="grade" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="instances/KRSPY-parametric-WideBlackMinGrade.ufo" familyname="KRSPY" stylename="Wide Black MinGrade-maxXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="grade" xvalue="-50"/>
+      </location>
+    </source>
+    <source filename="instances/KRSPY-parametric-WideThinMaxGrade.ufo" familyname="KRSPY" stylename="Wide Thin MaxGrade-maxXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="grade" xvalue="50"/>
+      </location>
+    </source>
+    <source filename="instances/KRSPY-parametric-WideThinMinGrade.ufo" familyname="KRSPY" stylename="Wide Thin MinGrade-maxXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="grade" xvalue="-50"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="KRSPY" stylename="Default" filename="generated_instances/KRSPY-Default.ufo">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>horizontal</key>
+        <array>
+          <string>width</string>
+        </array>
+        <key>ignore</key>
+        <array>
+          <string>grade</string>
+        </array>
+        <key>vertical</key>
+        <array>
+          <string>weight</string>
+        </array>
+      </dict>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>grade</key>
+        <real>50.0</real>
+        <key>weight</key>
+        <real>1.0</real>
+        <key>width</key>
+        <real>1.0</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>SKATEBOARD</string>
+    </dict>
+  </lib>
+</designspace>

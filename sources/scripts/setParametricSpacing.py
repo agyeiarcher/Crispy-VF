@@ -12,8 +12,8 @@ leftSideNotch = ["A", "U", "X","O", "S.wide", "G.wide", "G"]
 rightSideFlat = ["J", "Q", "M", "N", "U", "H", "A", "N.wide", "I.wide"]
 leftSideFlat = ["M", "N", "K", "B", "E", "F", "P", "R", "W", "V", "L", "H", "E.wide", "F.wide", "N.wide", "I.wide"]
 
-rightSideSpecial = ["Z", "P", "T", "Y", "L", "Z.wide", "C.wide", "S.wide", "E.wide", "E", "F", "F.wide"]
-leftSideSpecial = ["J", "Z", "Y", "T", "Z.wide"]
+rightSideSpecial = ["Z", "P", "T", "Y", "L", "Z.wide", "C.wide", "S.wide", "E.wide", "E", "F", "F.wide", "S"]
+leftSideSpecial = ["J", "Z", "Y", "T", "Z.wide", "S"]
 
 
 rightGroup = [rightSideNotch, rightSideSpecial, rightSideFlat]
