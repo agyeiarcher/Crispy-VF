@@ -136,24 +136,28 @@
   <lib>
     <dict>
       <key>com.letterror.mathModelPref</key>
-      <string>previewVarLib</string>
+      <string>previewMutatorMath</string>
       <key>com.letterror.skateboard.interactionSources</key>
       <dict>
+        <key>horizontal</key>
+        <array/>
         <key>ignore</key>
         <array>
           <string>xopq</string>
           <string>yopq</string>
           <string>xtra</string>
         </array>
+        <key>vertical</key>
+        <array/>
       </dict>
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
         <key>xopq</key>
-        <real>57.0</real>
+        <real>588.0</real>
         <key>xtra</key>
         <real>1.0</real>
         <key>yopq</key>
-        <real>85.0</real>
+        <real>619.0</real>
       </dict>
       <key>com.letterror.skateboard.previewText</key>
       <string>N</string>

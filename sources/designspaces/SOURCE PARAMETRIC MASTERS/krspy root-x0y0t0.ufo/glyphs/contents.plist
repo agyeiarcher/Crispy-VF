@@ -254,12 +254,16 @@
     <string>bracketleft.glif</string>
     <key>bracketright</key>
     <string>bracketright.glif</string>
+    <key>breve</key>
+    <string>breve.glif</string>
     <key>brokenbar</key>
     <string>brokenbar.glif</string>
     <key>bullet</key>
     <string>bullet.glif</string>
     <key>c</key>
     <string>c.glif</string>
+    <key>caron</key>
+    <string>caron.glif</string>
     <key>ccedilla</key>
     <string>ccedilla.glif</string>
     <key>ccedillaacute</key>
@@ -270,6 +274,10 @@
     <string>cent.glif</string>
     <key>circumflex</key>
     <string>circumflex.glif</string>
+    <key>colon</key>
+    <string>colon.glif</string>
+    <key>comma</key>
+    <string>comma.glif</string>
     <key>commaturnedmod</key>
     <string>commaturnedmod.glif</string>
     <key>copyright</key>
@@ -292,6 +300,10 @@
     <string>dlinebelow.glif</string>
     <key>dollar</key>
     <string>dollar.glif</string>
+    <key>dotaccent</key>
+    <string>dotaccent.glif</string>
+    <key>dotlessi</key>
+    <string>dotlessi.glif</string>
     <key>doubleprimemod</key>
     <string>doubleprimemod.glif</string>
     <key>e</key>
@@ -338,6 +350,8 @@
     <string>eth.glif</string>
     <key>euro</key>
     <string>euro.glif</string>
+    <key>exclam</key>
+    <string>exclam.glif</string>
     <key>exclamdown</key>
     <string>exclamdown.glif</string>
     <key>f</key>
@@ -406,6 +420,8 @@
     <string>hdotbelow.glif</string>
     <key>horizontalbar</key>
     <string>horizontalbar.glif</string>
+    <key>hungarumlaut</key>
+    <string>hungarumlaut.glif</string>
     <key>hyphen</key>
     <string>hyphen.glif</string>
     <key>hyphentwo</key>
@@ -460,6 +476,8 @@
     <string>minus.glif</string>
     <key>minute</key>
     <string>minute.glif</string>
+    <key>mu</key>
+    <string>mu.glif</string>
     <key>multiply</key>
     <string>multiply.glif</string>
     <key>n</key>
@@ -498,6 +516,8 @@
     <string>odieresis.glif</string>
     <key>oe</key>
     <string>oe.glif</string>
+    <key>ogonek</key>
+    <string>ogonek.glif</string>
     <key>ograve</key>
     <string>ograve.glif</string>
     <key>omacronacute</key>
@@ -544,6 +564,8 @@
     <string>partialdiff.glif</string>
     <key>percent</key>
     <string>percent.glif</string>
+    <key>period</key>
+    <string>period.glif</string>
     <key>periodcentered</key>
     <string>periodcentered.glif</string>
     <key>pi</key>
@@ -560,6 +582,8 @@
     <string>punctuationspace.glif</string>
     <key>q</key>
     <string>q.glif</string>
+    <key>question</key>
+    <string>question.glif</string>
     <key>questiondown</key>
     <string>questiondown.glif</string>
     <key>quotedbl</key>
@@ -612,6 +636,8 @@
     <string>secondtonechinese.glif</string>
     <key>section</key>
     <string>section.glif</string>
+    <key>semicolon</key>
+    <string>semicolon.glif</string>
     <key>seven</key>
     <string>seven.glif</string>
     <key>seven.dnom</key>

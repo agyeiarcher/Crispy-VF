@@ -12,16 +12,17 @@
   <rules>
     <rule name="subwidth">
       <conditionset>
-        <condition name="weight" minimum="220" maximum="1000"/>
-        <condition name="width" minimum="160" maximum="1000"/>
+        <condition name="weight" minimum="300" maximum="1000"/>
+        <condition name="width" minimum="140" maximum="1000"/>
       </conditionset>
       <sub name="G" with="G.wide"/>
       <sub name="S" with="S.wide"/>
-      <sub name="N" with="N.wide"/>
       <sub name="C" with="C.wide"/>
       <sub name="Z" with="Z.wide"/>
       <sub name="F" with="F.wide"/>
       <sub name="E" with="E.wide"/>
+      <sub name="five" with="five.wide"/>
+      <sub name="three" with="three.wide"/>
     </rule>
   </rules>
   <sources>

@@ -433,19 +433,19 @@
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.YiUoFVX5YW</key>
     <real>5.0</real>
-    <key>com.typemytype.robofont.guideline.magnetic.f8pkuFMswG</key>
-    <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.r4Og11eW4Z</key>
     <real>7.0</real>
+    <key>com.typemytype.robofont.guideline.magnetic.uSWKMHidYF</key>
+    <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.zB3sZ5jdqB</key>
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.showMeasurements.YgrlY2J6wm</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.YiUoFVX5YW</key>
     <false/>
-    <key>com.typemytype.robofont.guideline.showMeasurements.f8pkuFMswG</key>
-    <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.r4Og11eW4Z</key>
+    <false/>
+    <key>com.typemytype.robofont.guideline.showMeasurements.uSWKMHidYF</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.zB3sZ5jdqB</key>
     <false/>
@@ -827,6 +827,19 @@
       <string>N.wide</string>
       <string>I.narrow</string>
       <string>L.wide</string>
+      <string>exclam</string>
+      <string>comma</string>
+      <string>period</string>
+      <string>colon</string>
+      <string>semicolon</string>
+      <string>question</string>
+      <string>mu</string>
+      <string>dotlessi</string>
+      <string>caron</string>
+      <string>breve</string>
+      <string>dotaccent</string>
+      <string>ogonek</string>
+      <string>hungarumlaut</string>
     </array>
   </dict>
 </plist>

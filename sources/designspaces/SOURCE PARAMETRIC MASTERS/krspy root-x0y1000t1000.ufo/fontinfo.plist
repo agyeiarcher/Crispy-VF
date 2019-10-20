@@ -18,21 +18,23 @@
         <key>identifier</key>
         <string>r4Og11eW4Z</string>
         <key>name</key>
-        <string>topserif-narrow</string>
+        <string>topbar</string>
         <key>x</key>
-        <integer>1896</integer>
+        <integer>3921</integer>
         <key>y</key>
-        <integer>1709</integer>
+        <integer>1032</integer>
       </dict>
       <dict>
         <key>angle</key>
         <integer>0</integer>
         <key>identifier</key>
-        <string>f8pkuFMswG</string>
+        <string>uSWKMHidYF</string>
+        <key>name</key>
+        <string>bottombar</string>
         <key>x</key>
-        <integer>263</integer>
+        <integer>3860</integer>
         <key>y</key>
-        <integer>303</integer>
+        <integer>578</integer>
       </dict>
     </array>
     <key>openTypeHeadCreated</key>
