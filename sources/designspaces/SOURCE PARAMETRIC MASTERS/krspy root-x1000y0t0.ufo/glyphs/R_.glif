@@ -12,8 +12,6 @@
     </contour>
     <contour>
       <point x="1914" y="0" type="line"/>
-      <point x="1914" y="562" type="line"/>
-      <point x="1772" y="799" type="line"/>
       <point x="1772" y="801" type="line"/>
       <point x="1910" y="1043" type="line"/>
       <point x="1910" y="1600" type="line"/>
@@ -22,8 +20,7 @@
       <point x="932" y="0" type="line"/>
       <point x="932" y="799" type="line"/>
       <point x="1005" y="799" type="line"/>
-      <point x="1048" y="761" type="line"/>
-      <point x="1048" y="0" type="line"/>
+      <point x="1078" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

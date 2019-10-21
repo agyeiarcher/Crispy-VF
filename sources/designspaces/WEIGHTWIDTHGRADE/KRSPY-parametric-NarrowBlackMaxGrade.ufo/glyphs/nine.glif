@@ -1,26 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nine" format="2">
-  <advance width="1257.8068068068067"/>
+  <advance width="1190"/>
   <unicode hex="0039"/>
   <outline>
-    <contour>
-      <point x="1191.3363363363362" y="1600.0" type="line" identifier="uiw6aBUf4P"/>
-      <point x="66.26426426426427" y="1600.0" type="line" identifier="jtYkxiUX6G"/>
-      <point x="66.26426426426427" y="706.2072072072071" type="line" identifier="2G5L37c87I"/>
-      <point x="681.6606606606606" y="706.2072072072071" type="line"/>
-      <point x="681.6606606606606" y="286.5645645645646" type="line"/>
-      <point x="577.1461461461461" y="286.5645645645646" type="line"/>
-      <point x="577.1461461461461" y="456.5165165165165" type="line"/>
-      <point x="67.47047047047047" y="456.5165165165165" type="line" identifier="Wuidbv6mUe"/>
-      <point x="67.47047047047047" y="0.0" type="line" identifier="oGvEEuxnYv"/>
-      <point x="1191.3363363363362" y="0.0" type="line" identifier="xR3pEHbMJx"/>
-    </contour>
-    <contour>
-      <point x="575.9399399399399" y="937.0960960960961" type="line"/>
-      <point x="575.9399399399399" y="1313.4354354354355" type="line"/>
-      <point x="681.6606606606606" y="1313.4354354354355" type="line"/>
-      <point x="681.6606606606606" y="937.0960960960961" type="line"/>
-    </contour>
+    <component base="six" xScale="-1.0" yScale="-1.0" xOffset="1199" yOffset="1600"/>
   </outline>
   <lib>
     <dict>

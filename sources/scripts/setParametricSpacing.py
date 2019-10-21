@@ -6,14 +6,14 @@ styleName = f.info.styleName
 
 #making batches of letter groups below, to check for different things. The xCheckGroup lists are flattened to check if any characters are duplicated, so spacing isn't applied more than once to any one character. If they are, they're skipped over and reported
 
-rightSideNotch = ["O", "B", "K", "D", "R", "W", "V", "X"]
-leftSideNotch = ["A", "U", "X","O", "S.wide", "G.wide", "G", "C"]
+rightSideNotch = ["O", "B", "K", "D", "R", "W", "V", "X", "three", "eight"]
+leftSideNotch = ["A", "U", "X","O", "G.wide", "G", "C", "eight", "six", "nine"]
 
-rightSideFlat = ["J", "Q", "M", "N", "U", "H", "A", "N.wide", "I.narrow", "three.wide"]
-leftSideFlat = ["M", "N", "K", "B", "E", "F", "P", "R", "W", "V", "L", "H", "E.wide", "F.wide", "N.wide", "I.narrow"]
+rightSideFlat = ["J", "Q", "M", "N", "U", "H", "A", "N.wide", "I.narrow", "three.wide", "Y.alt", "zero"]
+leftSideFlat = ["M", "N", "K", "B", "E", "F", "P", "R", "W", "V", "L", "H", "E.wide", "F.wide", "N.wide", "I.narrow", "zero"]
 
-rightSideSpecial = ["Z", "P", "T", "Y", "L", "Z.wide", "C.wide", "S.wide", "E.wide", "E", "F", "F.wide", "S", "I", "C"]
-leftSideSpecial = ["J", "Z", "Y", "Z.wide", "S", "T", "I", "five.wide", "three.wide"]
+rightSideSpecial = ["Z", "P", "T", "Y", "L", "Z.wide", "C.wide", "S.wide", "E.wide", "E", "F", "F.wide", "S", "I", "C", "G", "L.wide", "one", "five", "five.wide", "four", "seven", "six", "nine"]
+leftSideSpecial = ["J", "Z", "Y", "Z.wide", "S", "T", "I", "five.wide", "three.wide", "S.wide", "Y.alt", "one", "three", "five", "four", "seven"]
 
 rightPunct=["comma", "period"]
 leftPunct=["comma", "period"]

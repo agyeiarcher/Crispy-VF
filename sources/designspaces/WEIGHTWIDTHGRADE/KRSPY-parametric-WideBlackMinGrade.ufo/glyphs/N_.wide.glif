@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N.wide" format="2">
-  <advance width="4388.232232232232"/>
+  <advance width="4172"/>
   <outline>
     <contour>
-      <point x="130.2902902902903" y="0.0" type="line" identifier="CkwYPPvJLv"/>
-      <point x="985.1891891891892" y="0.0" type="line" identifier="oHTJsN7drZ"/>
-      <point x="985.1891891891892" y="970.972972972973" type="line" identifier="wfBbYd10Pm"/>
-      <point x="1000.9329329329329" y="970.972972972973" type="line" identifier="MEnBDHq6zU"/>
-      <point x="3389.347347347347" y="0.0" type="line" identifier="3Nbopwznvn"/>
-      <point x="4257.941941941942" y="0.0" type="line" identifier="uKfuudIUvA"/>
-      <point x="4257.941941941942" y="1600.0" type="line" identifier="XRdLFXiM4t"/>
-      <point x="3403.043043043044" y="1600.0" type="line" identifier="MUSJPjCIXg"/>
-      <point x="3403.043043043044" y="629.0270270270271" type="line" identifier="VILP20cFmq"/>
-      <point x="3389.504504504504" y="629.0270270270271" type="line" identifier="z5b04GDwRN"/>
-      <point x="1000.9329329329329" y="1600.0" type="line" identifier="LL64NQ6WBE"/>
-      <point x="130.2902902902903" y="1600.0" type="line" identifier="dzUaaP1sjt"/>
+      <point x="123" y="0" type="line" identifier="CkwYPPvJLv"/>
+      <point x="966" y="0" type="line" identifier="oHTJsN7drZ"/>
+      <point x="966" y="977" type="line" identifier="wfBbYd10Pm"/>
+      <point x="982" y="977" type="line" identifier="MEnBDHq6zU"/>
+      <point x="3195" y="0" type="line" identifier="3Nbopwznvn"/>
+      <point x="4049" y="0" type="line" identifier="uKfuudIUvA"/>
+      <point x="4049" y="1600" type="line" identifier="XRdLFXiM4t"/>
+      <point x="3206" y="1600" type="line" identifier="MUSJPjCIXg"/>
+      <point x="3206" y="628" type="line" identifier="VILP20cFmq"/>
+      <point x="3194" y="628" type="line" identifier="z5b04GDwRN"/>
+      <point x="983" y="1600" type="line" identifier="LL64NQ6WBE"/>
+      <point x="123" y="1600" type="line" identifier="dzUaaP1sjt"/>
     </contour>
   </outline>
 </glyph>

@@ -1,26 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nine" format="2">
-  <advance width="5817"/>
+  <advance width="5408"/>
   <unicode hex="0039"/>
   <outline>
-    <contour>
-      <point x="5570" y="1600" type="line" identifier="uiw6aBUf4P"/>
-      <point x="247" y="1600" type="line" identifier="jtYkxiUX6G"/>
-      <point x="247" y="799" type="line" identifier="2G5L37c87I"/>
-      <point x="4554" y="799" type="line" identifier="pbNZkZlHeQ"/>
-      <point x="4554" y="2" type="line" identifier="QjzipEcaP8"/>
-      <point x="1063" y="2" type="line"/>
-      <point x="1063" y="2" type="line" identifier="dZky7C2WsA"/>
-      <point x="248" y="2" type="line" identifier="Wuidbv6mUe"/>
-      <point x="248" y="0" type="line" identifier="oGvEEuxnYv"/>
-      <point x="5570" y="0" type="line" identifier="xR3pEHbMJx"/>
-    </contour>
-    <contour>
-      <point x="1262" y="801" type="line"/>
-      <point x="1262" y="1598" type="line"/>
-      <point x="4554" y="1598" type="line" identifier="8T5lIMK7eR"/>
-      <point x="4554" y="801" type="line" identifier="DYpLEXqNdl"/>
-    </contour>
+    <component base="six" xScale="-1" yScale="-1" xOffset="5423" yOffset="1600"/>
   </outline>
   <lib>
     <dict>

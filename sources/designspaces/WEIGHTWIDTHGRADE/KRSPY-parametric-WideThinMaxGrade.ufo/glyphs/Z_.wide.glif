@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Z.wide" format="2">
-  <advance width="4038.132300468637"/>
+  <advance width="4014"/>
   <outline>
     <contour>
-      <point x="106.04982760538316" y="0.0" type="line"/>
-      <point x="3944.822579336093" y="0.0" type="line" identifier="pzdvPTirLJ"/>
-      <point x="3944.822579336093" y="95.3095558020483" type="line"/>
-      <point x="220.19568517466416" y="95.3095558020483" type="line"/>
-      <point x="220.19568517466416" y="455.7037307577848" type="line"/>
-      <point x="3939.5647148650155" y="1280.6971355740122" type="line" identifier="yyb1NCCI5w"/>
-      <point x="3939.5647148650155" y="1600.0" type="line" identifier="5FogYRSgkk"/>
-      <point x="94.05069934799666" y="1600.0" type="line" identifier="svlFvrau4c"/>
-      <point x="94.05069934799666" y="1504.6904441979518" type="line"/>
-      <point x="3812.6961105249397" y="1504.6904441979518" type="line"/>
-      <point x="3812.6961105249397" y="1322.4497650803958" type="line"/>
-      <point x="106.04982760538316" y="500.6399312225138" type="line" identifier="teVKnpBcVb"/>
+      <point x="106" y="0" type="line"/>
+      <point x="3920" y="0" type="line" identifier="pzdvPTirLJ"/>
+      <point x="3920" y="79" type="line"/>
+      <point x="220" y="79" type="line"/>
+      <point x="220" y="447" type="line"/>
+      <point x="3914" y="1282" type="line" identifier="yyb1NCCI5w"/>
+      <point x="3914" y="1600" type="line" identifier="5FogYRSgkk"/>
+      <point x="96" y="1600" type="line" identifier="svlFvrau4c"/>
+      <point x="96" y="1521" type="line"/>
+      <point x="3787" y="1521" type="line"/>
+      <point x="3787" y="1336" type="line"/>
+      <point x="106" y="501" type="line" identifier="teVKnpBcVb"/>
     </contour>
   </outline>
 </glyph>

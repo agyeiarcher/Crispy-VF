@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Z" format="2">
-  <advance width="1090.9975831687543"/>
+  <advance width="1087"/>
   <unicode hex="005A"/>
   <outline>
     <contour>
-      <point x="30.365753140527918" y="0.0" type="line"/>
-      <point x="1053.1951861771681" y="0.0" type="line" identifier="pzdvPTirLJ"/>
-      <point x="1053.1951861771681" y="481.92356320284244" type="line" identifier="91SxUS0iwG"/>
-      <point x="652.4067220373528" y="481.92356320284244" type="line"/>
-      <point x="652.4067220373528" y="277.57153549946344" type="line"/>
-      <point x="444.8835592349106" y="277.57153549946344" type="line"/>
-      <point x="444.8835592349106" y="447.75312249186123" type="line"/>
-      <point x="1058.422052683314" y="1310.0426011597183" type="line" identifier="yyb1NCCI5w"/>
-      <point x="1058.422052683314" y="1600.0" type="line" identifier="5FogYRSgkk"/>
-      <point x="33.812939065191316" y="1600.0" type="line" identifier="svlFvrau4c"/>
-      <point x="33.812939065191316" y="1160.2847712577443" type="line" identifier="LQ9fBsTy9K"/>
-      <point x="394.3699465230997" y="1160.2847712577443" type="line"/>
-      <point x="394.3699465230997" y="1322.4284645005366" type="line"/>
-      <point x="640.8479560641723" y="1322.4284645005366" type="line"/>
-      <point x="640.8479560641723" y="1301.4701728755786" type="line"/>
-      <point x="30.365753140527918" y="452.8673358042728" type="line" identifier="teVKnpBcVb"/>
+      <point x="30" y="0" type="line"/>
+      <point x="1049" y="0" type="line" identifier="pzdvPTirLJ"/>
+      <point x="1049" y="487" type="line" identifier="91SxUS0iwG"/>
+      <point x="645" y="487" type="line"/>
+      <point x="645" y="275" type="line"/>
+      <point x="434" y="275" type="line"/>
+      <point x="434" y="445" type="line"/>
+      <point x="1054" y="1309" type="line" identifier="yyb1NCCI5w"/>
+      <point x="1054" y="1600" type="line" identifier="5FogYRSgkk"/>
+      <point x="34" y="1600" type="line" identifier="svlFvrau4c"/>
+      <point x="34" y="1156" type="line" identifier="LQ9fBsTy9K"/>
+      <point x="398" y="1156" type="line"/>
+      <point x="398" y="1325" type="line"/>
+      <point x="648" y="1325" type="line"/>
+      <point x="648" y="1306" type="line"/>
+      <point x="30" y="455" type="line" identifier="teVKnpBcVb"/>
     </contour>
   </outline>
   <lib>

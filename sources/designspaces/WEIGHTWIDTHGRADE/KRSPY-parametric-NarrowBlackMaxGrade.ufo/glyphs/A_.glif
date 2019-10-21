@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
-  <advance width="1213.5955955955956"/>
+  <advance width="1214"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="37.16416416416416" y="0.0" type="line" smooth="yes" identifier="jFq8ta4UUc"/>
-      <point x="546.8398398398399" y="0.0" type="line" smooth="yes" identifier="dQz4RxYhG4"/>
-      <point x="546.8398398398399" y="557.7387387387387" type="line" smooth="yes" identifier="viYRWe5UN7"/>
-      <point x="652.9729729729729" y="557.7387387387387" type="line" smooth="yes" identifier="QVexAlbAcl"/>
-      <point x="652.9729729729729" y="0.0" type="line" smooth="yes" identifier="ZgsCdxNJRW"/>
-      <point x="1162.6486486486488" y="0.0" type="line" smooth="yes" identifier="kpn4Kw9J0C"/>
-      <point x="1162.6486486486488" y="1600.0" type="line" smooth="yes" identifier="OBZ5Ayed7M"/>
-      <point x="162.28428428428427" y="1600.0" type="line" smooth="yes" identifier="iDT0uyhKrn"/>
-      <point x="37.16416416416416" y="1079.5455455455453" type="line" smooth="yes" identifier="dqVr87m3uJ"/>
+      <point x="37" y="0" type="line" smooth="yes" identifier="jFq8ta4UUc"/>
+      <point x="547" y="0" type="line" smooth="yes" identifier="dQz4RxYhG4"/>
+      <point x="547" y="558" type="line" smooth="yes" identifier="viYRWe5UN7"/>
+      <point x="653" y="558" type="line" smooth="yes" identifier="QVexAlbAcl"/>
+      <point x="653" y="0" type="line" smooth="yes" identifier="ZgsCdxNJRW"/>
+      <point x="1163" y="0" type="line" smooth="yes" identifier="kpn4Kw9J0C"/>
+      <point x="1163" y="1600" type="line" smooth="yes" identifier="OBZ5Ayed7M"/>
+      <point x="162" y="1600" type="line" smooth="yes" identifier="iDT0uyhKrn"/>
+      <point x="37" y="1080" type="line" smooth="yes" identifier="dqVr87m3uJ"/>
     </contour>
     <contour>
-      <point x="546.8398398398399" y="844.3033033033033" type="line" smooth="yes" identifier="IIRC9Wy7kQ"/>
-      <point x="546.8398398398399" y="1079.5455455455453" type="line" smooth="yes" identifier="VufvPdJ075"/>
-      <point x="596.3723723723723" y="1313.4354354354355" type="line" smooth="yes" identifier="FsYtJ2vFnp"/>
-      <point x="652.9729729729729" y="1313.4354354354355" type="line" smooth="yes" identifier="tUsW8L7b0y"/>
-      <point x="652.9729729729729" y="844.3033033033033" type="line" smooth="yes" identifier="eTe9B4y76W"/>
+      <point x="547" y="844" type="line" smooth="yes" identifier="IIRC9Wy7kQ"/>
+      <point x="547" y="1080" type="line" smooth="yes" identifier="VufvPdJ075"/>
+      <point x="596" y="1313" type="line" smooth="yes" identifier="FsYtJ2vFnp"/>
+      <point x="653" y="1313" type="line" smooth="yes" identifier="tUsW8L7b0y"/>
+      <point x="653" y="844" type="line" smooth="yes" identifier="eTe9B4y76W"/>
     </contour>
   </outline>
   <lib>

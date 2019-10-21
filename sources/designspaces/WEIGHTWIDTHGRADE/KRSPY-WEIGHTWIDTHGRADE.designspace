@@ -12,17 +12,23 @@
   <rules>
     <rule name="subwidth">
       <conditionset>
-        <condition name="weight" minimum="300" maximum="1000"/>
+        <condition name="weight" minimum="500" maximum="1000"/>
         <condition name="width" minimum="140" maximum="1000"/>
+      </conditionset>
+      <conditionset>
+        <condition name="width" minimum="600" maximum="1000"/>
       </conditionset>
       <sub name="G" with="G.wide"/>
       <sub name="S" with="S.wide"/>
-      <sub name="C" with="C.wide"/>
-      <sub name="Z" with="Z.wide"/>
-      <sub name="F" with="F.wide"/>
-      <sub name="E" with="E.wide"/>
       <sub name="five" with="five.wide"/>
       <sub name="three" with="three.wide"/>
+      <sub name="six" with="six.wide"/>
+    </rule>
+    <rule name="narrowI">
+      <conditionset>
+        <condition name="weight" minimum="1" maximum="200"/>
+      </conditionset>
+      <sub name="I" with="I.narrow"/>
     </rule>
   </rules>
   <sources>
@@ -100,6 +106,8 @@
   </instances>
   <lib>
     <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
       <key>com.letterror.skateboard.interactionSources</key>
       <dict>
         <key>horizontal</key>

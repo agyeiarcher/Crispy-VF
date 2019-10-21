@@ -118,7 +118,7 @@
       <location>
         <dimension name="xopq" xvalue="938"/>
         <dimension name="yopq" xvalue="952"/>
-        <dimension name="xtra" xvalue="949"/>
+        <dimension name="xtra" xvalue="904"/>
       </location>
       <kerning/>
       <info/>
@@ -127,7 +127,7 @@
       <location>
         <dimension name="xopq" xvalue="843"/>
         <dimension name="yopq" xvalue="901"/>
-        <dimension name="xtra" xvalue="1000"/>
+        <dimension name="xtra" xvalue="904"/>
       </location>
       <kerning/>
       <info/>
@@ -136,31 +136,27 @@
   <lib>
     <dict>
       <key>com.letterror.mathModelPref</key>
-      <string>previewMutatorMath</string>
+      <string>previewVarLib</string>
       <key>com.letterror.skateboard.interactionSources</key>
       <dict>
-        <key>horizontal</key>
-        <array/>
         <key>ignore</key>
         <array>
           <string>xopq</string>
           <string>yopq</string>
           <string>xtra</string>
         </array>
-        <key>vertical</key>
-        <array/>
       </dict>
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
         <key>xopq</key>
-        <real>588.0</real>
+        <real>843.0</real>
         <key>xtra</key>
-        <real>1.0</real>
+        <real>904.0</real>
         <key>yopq</key>
-        <real>619.0</real>
+        <real>901.0</real>
       </dict>
       <key>com.letterror.skateboard.previewText</key>
-      <string>N</string>
+      <string>HHHHHHHHHH IMPRESTED UNREADINESS ZERO-SUM ARMURE VENEY DEBAGS HOMESTALL INNUITS AFFRET MAYORALTIES CRYPTESTHETIC KAMALAS GLOOM SELF-DESTRUCTS SYLVAS TANGSHAN PRE-PRINT PATRESFAMILIAS PULMOBRANCHES EXCOGITATED SUBMULTIPLES DENOUEMENTS RESTYLES CILIARY ADULTERIZE CONSTITUTIONALS PERCEPTIVITIES PHOTOCHEMIST SWEETBREADS MUNCHAUSENS PASHIMS ORDINARS TORPID GOOD-WILLY DOUBLING INBURNING REBATO INEXPLICABLENESS SINUITIS SPLOSHING</string>
     </dict>
   </lib>
 </designspace>
