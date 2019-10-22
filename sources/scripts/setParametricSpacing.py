@@ -7,13 +7,13 @@ styleName = f.info.styleName
 #making batches of letter groups below, to check for different things. The xCheckGroup lists are flattened to check if any characters are duplicated, so spacing isn't applied more than once to any one character. If they are, they're skipped over and reported
 
 rightSideNotch = ["O", "B", "K", "D", "R", "W", "V", "X", "three", "eight"]
-leftSideNotch = ["A", "U", "X","O", "G.wide", "G", "C", "eight", "six", "nine"]
+leftSideNotch = ["A", "U", "X","O", "G.wide", "G", "C", "eight", "six", "nine", "Q"]
 
-rightSideFlat = ["J", "Q", "M", "N", "U", "H", "A", "N.wide", "I.narrow", "three.wide", "Y.alt", "zero"]
-leftSideFlat = ["M", "N", "K", "B", "E", "F", "P", "R", "W", "V", "L", "H", "E.wide", "F.wide", "N.wide", "I.narrow", "zero"]
+rightSideFlat = ["J", "Q", "M", "N", "U", "H", "A", "N.wide", "I.narrow", "three.wide", "Y.alt", "zero", "one.narrow"]
+leftSideFlat = ["D", "M", "N", "K", "B", "E", "F", "P", "R", "W", "V", "L", "H", "E.wide", "F.wide", "N.wide", "I.narrow", "zero"]
 
-rightSideSpecial = ["Z", "P", "T", "Y", "L", "Z.wide", "C.wide", "S.wide", "E.wide", "E", "F", "F.wide", "S", "I", "C", "G", "L.wide", "one", "five", "five.wide", "four", "seven", "six", "nine"]
-leftSideSpecial = ["J", "Z", "Y", "Z.wide", "S", "T", "I", "five.wide", "three.wide", "S.wide", "Y.alt", "one", "three", "five", "four", "seven"]
+rightSideSpecial = ["Z", "P", "T", "Y", "L", "Z.wide", "C.wide", "S.wide", "E.wide", "E", "F", "F.wide", "S", "I", "C", "G", "L.wide", "one", "five", "five.wide", "four", "seven", "six", "nine", "two"]
+leftSideSpecial = ["J", "Z", "Y", "Z.wide", "S", "T", "I", "five.wide", "three.wide", "S.wide", "Y.alt", "one", "three", "five", "four", "seven", "one.narrow", "two"]
 
 rightPunct=["comma", "period"]
 leftPunct=["comma", "period"]
@@ -93,14 +93,14 @@ def setSpacing(f):
             rightPunctValue = 21
             leftPunctValue = 21
         if styleName == "x1000y0t0":
-            rightSideNotchValue = 45
-            leftSideNotchValue = 45        
-            rightSideFlatValue = 66
-            leftSideFlatValue = 66
-            rightSideSpecialValue = 30
-            leftSideSpecialValue  = 30
-            rightPunctValue = 25
-            leftPunctValue = 25
+            rightSideNotchValue = 45-7
+            leftSideNotchValue = 45-7        
+            rightSideFlatValue = 66-7
+            leftSideFlatValue = 66-7
+            rightSideSpecialValue = 30-7
+            leftSideSpecialValue  = 30-7
+            rightPunctValue = 25-7
+            leftPunctValue = 25-7
 
         for g in f.keys():
             #set right margins

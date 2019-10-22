@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="comma" format="2">
-  <advance width="335"/>
+  <advance width="323"/>
   <unicode hex="002C"/>
   <outline>
     <contour>
-      <point x="175" y="-197" type="line"/>
-      <point x="291" y="0" type="line"/>
-      <point x="291" y="265" type="line"/>
-      <point x="-65" y="265" type="line"/>
-      <point x="-113" y="203" type="line"/>
-      <point x="-113" y="0" type="line"/>
-      <point x="115" y="0" type="line"/>
-      <point x="115" y="-197" type="line"/>
+      <point x="171" y="-197" type="line"/>
+      <point x="287" y="0" type="line"/>
+      <point x="287" y="265" type="line"/>
+      <point x="-69" y="265" type="line"/>
+      <point x="-117" y="203" type="line"/>
+      <point x="-117" y="0" type="line"/>
+      <point x="111" y="0" type="line"/>
+      <point x="111" y="-197" type="line"/>
     </contour>
   </outline>
 </glyph>
