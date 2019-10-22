@@ -139,21 +139,25 @@
       <string>previewVarLib</string>
       <key>com.letterror.skateboard.interactionSources</key>
       <dict>
+        <key>horizontal</key>
+        <array/>
         <key>ignore</key>
         <array>
           <string>xopq</string>
           <string>yopq</string>
           <string>xtra</string>
         </array>
+        <key>vertical</key>
+        <array/>
       </dict>
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
         <key>xopq</key>
-        <real>843.0</real>
+        <real>57.0</real>
         <key>xtra</key>
-        <real>904.0</real>
+        <real>1.0</real>
         <key>yopq</key>
-        <real>901.0</real>
+        <real>85.0</real>
       </dict>
       <key>com.letterror.skateboard.previewText</key>
       <string>HHHHHHHHHH IMPRESTED UNREADINESS ZERO-SUM ARMURE VENEY DEBAGS HOMESTALL INNUITS AFFRET MAYORALTIES CRYPTESTHETIC KAMALAS GLOOM SELF-DESTRUCTS SYLVAS TANGSHAN PRE-PRINT PATRESFAMILIAS PULMOBRANCHES EXCOGITATED SUBMULTIPLES DENOUEMENTS RESTYLES CILIARY ADULTERIZE CONSTITUTIONALS PERCEPTIVITIES PHOTOCHEMIST SWEETBREADS MUNCHAUSENS PASHIMS ORDINARS TORPID GOOD-WILLY DOUBLING INBURNING REBATO INEXPLICABLENESS SINUITIS SPLOSHING</string>
