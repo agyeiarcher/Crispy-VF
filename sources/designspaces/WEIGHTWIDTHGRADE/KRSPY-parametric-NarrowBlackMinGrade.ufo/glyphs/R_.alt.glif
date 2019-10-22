@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="R.alt" format="2">
-  <advance width="1174"/>
+  <advance width="1293"/>
   <outline>
     <contour>
-      <point x="482" y="877" type="line"/>
-      <point x="482" y="1322" type="line"/>
-      <point x="694" y="1322" type="line"/>
-      <point x="694" y="877" type="line"/>
+      <point x="541" y="877" type="line"/>
+      <point x="541" y="1322" type="line"/>
+      <point x="753" y="1322" type="line"/>
+      <point x="753" y="877" type="line"/>
     </contour>
     <contour>
-      <point x="1106" y="0" type="line"/>
-      <point x="998" y="675" type="line"/>
-      <point x="1098" y="709" type="line"/>
-      <point x="1097" y="1600" type="line"/>
-      <point x="78" y="1600" type="line"/>
-      <point x="78" y="0" type="line"/>
-      <point x="482" y="0" type="line"/>
-      <point x="482" y="602" type="line"/>
-      <point x="655" y="601" type="line"/>
-      <point x="738" y="0" type="line"/>
+      <point x="1165" y="0" type="line"/>
+      <point x="1057" y="675" type="line"/>
+      <point x="1157" y="709" type="line"/>
+      <point x="1156" y="1600" type="line"/>
+      <point x="137" y="1600" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="541" y="0" type="line"/>
+      <point x="541" y="602" type="line"/>
+      <point x="714" y="601" type="line"/>
+      <point x="797" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>
