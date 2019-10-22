@@ -1,27 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="K" format="2">
-  <advance width="1214"/>
+  <advance width="1224"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="561" y="0" type="line" identifier="wmNm7XZsaF"/>
-      <point x="561" y="657" type="line" identifier="O22liaP9Qk"/>
-      <point x="614" y="657" type="line" identifier="ELFBWIb1vd"/>
-      <point x="667" y="611" type="line" identifier="DzXo67YEfw"/>
-      <point x="667" y="0" type="line" identifier="aKpYWD78l2"/>
-      <point x="1176" y="0" type="line" identifier="ChS7KlqGi6"/>
-      <point x="1176" y="636" type="line" identifier="sWLgkU8Vey"/>
-      <point x="1065" y="799" type="line" identifier="Of0iQc0wBG"/>
-      <point x="1065" y="801" type="line" identifier="j4jnmtDJYB"/>
-      <point x="1174" y="961" type="line" identifier="dWvz0rZ5Hv"/>
-      <point x="1174" y="1600" type="line" identifier="dMJ1ywOKQQ"/>
-      <point x="664" y="1600" type="line" identifier="08OWjR2YBJ"/>
-      <point x="664" y="986" type="line" identifier="F62GU90G6q"/>
-      <point x="614" y="943" type="line" identifier="g4YLdZEoM3"/>
-      <point x="561" y="943" type="line" identifier="uZuki3Isec"/>
-      <point x="561" y="1600" type="line" identifier="nRfcNgqJ4H"/>
-      <point x="51" y="1600" type="line" identifier="3XJlWt89ad"/>
-      <point x="51" y="0" type="line" identifier="wdbO8kCovY"/>
+      <point x="676" y="0" type="line"/>
+      <point x="1173" y="0" type="line"/>
+      <point x="1173" y="724" type="line"/>
+      <point x="676" y="917" type="line"/>
+    </contour>
+    <contour>
+      <point x="663" y="1600" type="line"/>
+      <point x="663" y="1011" type="line"/>
+      <point x="561" y="968" type="line"/>
+      <point x="561" y="1600" type="line"/>
+      <point x="51" y="1600" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="561" y="0" type="line"/>
+      <point x="561" y="645" type="line"/>
+      <point x="1173" y="939" type="line"/>
+      <point x="1173" y="1600" type="line"/>
     </contour>
   </outline>
   <lib>

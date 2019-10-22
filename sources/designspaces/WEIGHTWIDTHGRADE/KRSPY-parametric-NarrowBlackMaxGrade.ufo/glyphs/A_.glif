@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
-  <advance width="1214"/>
+  <advance width="1223"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="37" y="0" type="line" smooth="yes" identifier="jFq8ta4UUc"/>
-      <point x="547" y="0" type="line" smooth="yes" identifier="dQz4RxYhG4"/>
-      <point x="547" y="558" type="line" smooth="yes" identifier="viYRWe5UN7"/>
-      <point x="653" y="558" type="line" smooth="yes" identifier="QVexAlbAcl"/>
-      <point x="653" y="0" type="line" smooth="yes" identifier="ZgsCdxNJRW"/>
-      <point x="1163" y="0" type="line" smooth="yes" identifier="kpn4Kw9J0C"/>
-      <point x="1163" y="1600" type="line" smooth="yes" identifier="OBZ5Ayed7M"/>
-      <point x="162" y="1600" type="line" smooth="yes" identifier="iDT0uyhKrn"/>
-      <point x="37" y="1080" type="line" smooth="yes" identifier="dqVr87m3uJ"/>
+      <point x="554" y="0" type="line"/>
+      <point x="554" y="987" type="line"/>
+      <point x="600" y="1313" type="line"/>
+      <point x="662" y="1313" type="line"/>
+      <point x="662" y="0" type="line"/>
+      <point x="1172" y="0" type="line"/>
+      <point x="1172" y="1600" type="line"/>
+      <point x="149" y="1600" type="line"/>
+      <point x="44" y="1044" type="line"/>
+      <point x="44" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="547" y="844" type="line" smooth="yes" identifier="IIRC9Wy7kQ"/>
-      <point x="547" y="1080" type="line" smooth="yes" identifier="VufvPdJ075"/>
-      <point x="596" y="1313" type="line" smooth="yes" identifier="FsYtJ2vFnp"/>
-      <point x="653" y="1313" type="line" smooth="yes" identifier="tUsW8L7b0y"/>
-      <point x="653" y="844" type="line" smooth="yes" identifier="eTe9B4y76W"/>
+      <point x="357" y="736" type="line"/>
+      <point x="357" y="449" type="line"/>
+      <point x="878" y="449" type="line"/>
+      <point x="878" y="736" type="line"/>
     </contour>
   </outline>
   <lib>
