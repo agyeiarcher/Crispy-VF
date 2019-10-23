@@ -46,10 +46,6 @@
   </rules>
   <sources>
     <source filename="KRSPY-parametric_NarrowThinMinGrade-maxXOPQmaxYOPQminXTRA.ufo" familyname="KRSPY" stylename="Narrow Thin MinGrade-maxXOPQmaxYOPQminXTRA">
-      <lib copy="1"/>
-      <groups copy="1"/>
-      <features copy="1"/>
-      <info copy="1"/>
       <location>
         <dimension name="weight" xvalue="1"/>
         <dimension name="width" xvalue="1"/>
@@ -213,7 +209,7 @@
       <location>
         <dimension name="weight" xvalue="1000"/>
         <dimension name="width" xvalue="1"/>
-        <dimension name="grade" xvalue="25"/>
+        <dimension name="grade" xvalue="-25"/>
         <dimension name="xOPQ" xvalue="1"/>
         <dimension name="yOPQ" xvalue="1000"/>
         <dimension name="xTRA" xvalue="1000"/>
@@ -259,17 +255,21 @@
         <dimension name="xTRA" xvalue="1"/>
       </location>
     </source>
-    <source filename="KRSPY-parametric-NarrowThinMaxGrade-maxXOPQminYOPQmaxXTRA.ufo" familyname="KRSPY" stylename="Narrow Thin MaxGrade-maxXOPQminYOPQmaxXTRA">
+    <source filename="KRSPY-parametric-NarrowThinMaxGrad-maxXOPQminYOPQmaxXTRAe.ufo" familyname="KRSPY" stylename="Narrow Thin MaxGrade-maxXOPQminYOPQmaxXTRA">
       <location>
         <dimension name="weight" xvalue="1"/>
         <dimension name="width" xvalue="1"/>
         <dimension name="grade" xvalue="25"/>
         <dimension name="xOPQ" xvalue="1000"/>
         <dimension name="yOPQ" xvalue="1"/>
-        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="xTRA" xvalue="1000"/>
       </location>
     </source>
     <source filename="KRSPY-parametric-NarrowThinMaxGrade-maxXOPQminYOPQminXTRA.ufo" familyname="KRSPY" stylename="Narrow Thin MaxGrade-maxXOPQminYOPQminXTRA">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
       <location>
         <dimension name="weight" xvalue="1"/>
         <dimension name="width" xvalue="1"/>
@@ -592,14 +592,108 @@
     <source filename="KRSPY-parametric-WideThinMinGrade-minXOPQminYOPQminXTRA.ufo" familyname="KRSPY" stylename="Wide Thin MinGrade-minXOPQminYOPQminXTRA">
       <location>
         <dimension name="weight" xvalue="1"/>
-        <dimension name="width" xvalue="1"/>
+        <dimension name="width" xvalue="1000"/>
         <dimension name="grade" xvalue="-25"/>
         <dimension name="xOPQ" xvalue="1"/>
         <dimension name="yOPQ" xvalue="1"/>
         <dimension name="xTRA" xvalue="1"/>
       </location>
     </source>
+    <source filename="../WEIGHTWIDTHGRADE/KRSPY-parametric_NarrowThinMinGrade.ufo" familyname="KRSPY" stylename="Narrow Thin MinGrade-maxXOPQmaxYOPQmaxXTRA">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="grade" xvalue="-25"/>
+        <dimension name="xOPQ" xvalue="1000"/>
+        <dimension name="yOPQ" xvalue="1000"/>
+        <dimension name="xTRA" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="../WEIGHTWIDTHGRADE/KRSPY-parametric-NarrowBlackMaxGrade.ufo" familyname="KRSPY" stylename="Narrow Black MaxGrade-maxXOPQmaxYOPQmaxXTRA">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="grade" xvalue="25"/>
+        <dimension name="xOPQ" xvalue="1000"/>
+        <dimension name="yOPQ" xvalue="1000"/>
+        <dimension name="xTRA" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="../WEIGHTWIDTHGRADE/KRSPY-parametric-NarrowBlackMinGrade.ufo" familyname="KRSPY" stylename="Narrow Black MinGrade-maxXOPQmaxYOPQmaxXTRA">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="grade" xvalue="-25"/>
+        <dimension name="xOPQ" xvalue="1000"/>
+        <dimension name="yOPQ" xvalue="1000"/>
+        <dimension name="xTRA" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="../WEIGHTWIDTHGRADE/KRSPY-parametric-NarrowThinMaxGrade.ufo" familyname="KRSPY" stylename="Narrow Thin MaxGrade-maxXOPQmaxYOPQmaxXTRA">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="grade" xvalue="25"/>
+        <dimension name="xOPQ" xvalue="1000"/>
+        <dimension name="yOPQ" xvalue="1000"/>
+        <dimension name="xTRA" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="../WEIGHTWIDTHGRADE/KRSPY-parametric-WideBlackMaxGrade.ufo" familyname="KRSPY" stylename="Wide Black MaxGrade-maxXOPQmaxYOPQmaxXTRA">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="grade" xvalue="25"/>
+        <dimension name="xOPQ" xvalue="1000"/>
+        <dimension name="yOPQ" xvalue="1000"/>
+        <dimension name="xTRA" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="../WEIGHTWIDTHGRADE/KRSPY-parametric-WideBlackMinGrade.ufo" familyname="KRSPY" stylename="Wide Black MinGrade-maxXOPQmaxYOPQmaxXTRA">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="grade" xvalue="-25"/>
+        <dimension name="xOPQ" xvalue="1000"/>
+        <dimension name="yOPQ" xvalue="1000"/>
+        <dimension name="xTRA" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="../WEIGHTWIDTHGRADE/KRSPY-parametric-WideThinMaxGrade.ufo" familyname="KRSPY" stylename="Wide Thin MaxGrade-maxXOPQmaxYOPQmaxXTRA">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="grade" xvalue="25"/>
+        <dimension name="xOPQ" xvalue="1000"/>
+        <dimension name="yOPQ" xvalue="1000"/>
+        <dimension name="xTRA" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="../WEIGHTWIDTHGRADE/KRSPY-parametric-WideThinMinGrade.ufo" familyname="KRSPY" stylename="Wide Thin MinGrade-maxXOPQmaxYOPQmaxXTRA">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1000"/>
+        <dimension name="grade" xvalue="-25"/>
+        <dimension name="xOPQ" xvalue="1000"/>
+        <dimension name="yOPQ" xvalue="1000"/>
+        <dimension name="xTRA" xvalue="1000"/>
+      </location>
+    </source>
   </sources>
+  <instances>
+    <instance familyname="KRSPY" stylename="Default" filename="instances/KRSPY-Default.ufo">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="grade" xvalue="25"/>
+        <dimension name="xOPQ" xvalue="1000"/>
+        <dimension name="yOPQ" xvalue="1000"/>
+        <dimension name="xTRA" xvalue="1000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
   <lib>
     <dict>
       <key>com.letterror.mathModelPref</key>

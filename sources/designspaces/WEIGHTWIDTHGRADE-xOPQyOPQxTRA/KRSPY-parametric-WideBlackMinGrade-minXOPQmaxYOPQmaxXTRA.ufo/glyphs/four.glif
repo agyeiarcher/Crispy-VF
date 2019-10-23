@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="four" format="2">
-  <advance width="3561"/>
+  <advance width="3564"/>
   <unicode hex="0034"/>
   <outline>
     <contour>
-      <point x="3070" y="0" type="line"/>
-      <point x="3072" y="0" type="line"/>
-      <point x="3072" y="499" type="line"/>
-      <point x="3462" y="499" type="line"/>
-      <point x="3462" y="1002" type="line"/>
-      <point x="3072" y="1002" type="line"/>
-      <point x="3072" y="1600" type="line"/>
-      <point x="3070" y="1600" type="line"/>
-      <point x="3070" y="1002" type="line"/>
-      <point x="101" y="1002" type="line"/>
+      <point x="3071" y="0" type="line"/>
+      <point x="3073" y="0" type="line"/>
+      <point x="3073" y="499" type="line"/>
+      <point x="3463" y="499" type="line"/>
+      <point x="3463" y="1002" type="line"/>
+      <point x="3073" y="1002" type="line"/>
+      <point x="3073" y="1600" type="line"/>
+      <point x="3071" y="1600" type="line"/>
+      <point x="3071" y="1002" type="line"/>
+      <point x="102" y="1002" type="line"/>
+      <point x="102" y="1075" type="line"/>
+      <point x="506" y="1615" type="line"/>
+      <point x="504" y="1615" type="line"/>
       <point x="101" y="1075" type="line"/>
-      <point x="505" y="1615" type="line"/>
-      <point x="503" y="1615" type="line"/>
-      <point x="100" y="1075" type="line"/>
-      <point x="100" y="499" type="line"/>
-      <point x="3070" y="499" type="line"/>
+      <point x="101" y="499" type="line"/>
+      <point x="3071" y="499" type="line"/>
     </contour>
   </outline>
   <lib>

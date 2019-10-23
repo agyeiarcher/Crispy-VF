@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="six" format="2">
-  <advance width="277"/>
+  <advance width="151"/>
   <unicode hex="0036"/>
   <outline>
     <contour>
-      <point x="34" y="0" type="line" identifier="uiw6aBUf4P"/>
-      <point x="248" y="0" type="line" identifier="jtYkxiUX6G"/>
-      <point x="248" y="801" type="line" identifier="2G5L37c87I"/>
-      <point x="36" y="801" type="line"/>
-      <point x="36" y="1433" type="line"/>
-      <point x="88" y="1598" type="line"/>
-      <point x="246" y="1598" type="line"/>
-      <point x="246" y="1355" type="line"/>
-      <point x="248" y="1355" type="line" identifier="Wuidbv6mUe"/>
-      <point x="248" y="1600" type="line" identifier="oGvEEuxnYv"/>
-      <point x="86" y="1600" type="line" identifier="xR3pEHbMJx"/>
-      <point x="34" y="1434" type="line" identifier="KnMArb0tv8"/>
+      <point x="-29" y="0" type="line" identifier="uiw6aBUf4P"/>
+      <point x="185" y="0" type="line" identifier="jtYkxiUX6G"/>
+      <point x="185" y="801" type="line" identifier="2G5L37c87I"/>
+      <point x="-27" y="801" type="line"/>
+      <point x="-27" y="1433" type="line"/>
+      <point x="25" y="1598" type="line"/>
+      <point x="183" y="1598" type="line"/>
+      <point x="183" y="1355" type="line"/>
+      <point x="185" y="1355" type="line" identifier="Wuidbv6mUe"/>
+      <point x="185" y="1600" type="line" identifier="oGvEEuxnYv"/>
+      <point x="23" y="1600" type="line" identifier="xR3pEHbMJx"/>
+      <point x="-29" y="1434" type="line" identifier="KnMArb0tv8"/>
     </contour>
     <contour>
-      <point x="246" y="799" type="line"/>
-      <point x="246" y="2" type="line"/>
-      <point x="36" y="2" type="line"/>
-      <point x="36" y="799" type="line"/>
+      <point x="183" y="799" type="line"/>
+      <point x="183" y="2" type="line"/>
+      <point x="-27" y="2" type="line"/>
+      <point x="-27" y="799" type="line"/>
     </contour>
   </outline>
   <lib>
