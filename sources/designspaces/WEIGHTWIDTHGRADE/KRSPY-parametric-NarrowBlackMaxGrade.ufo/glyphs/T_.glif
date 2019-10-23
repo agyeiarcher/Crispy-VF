@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="T" format="2">
+<<<<<<< HEAD
   <advance width="1076"/>
   <unicode hex="0054"/>
   <outline>
@@ -12,6 +13,20 @@
       <point x="23" y="1600" type="line" identifier="8oS81nStJX"/>
       <point x="23" y="1288" type="line"/>
       <point x="282" y="1288" type="line" identifier="1xm0mHc9eh"/>
+=======
+  <advance width="960"/>
+  <unicode hex="0054"/>
+  <outline>
+    <contour>
+      <point x="209" y="0" type="line"/>
+      <point x="750" y="0" type="line"/>
+      <point x="750" y="1313" type="line" identifier="zTICSjBOe7"/>
+      <point x="940" y="1313" type="line"/>
+      <point x="940" y="1600" type="line" identifier="l8jRaw0YkY"/>
+      <point x="20" y="1600" type="line" identifier="8oS81nStJX"/>
+      <point x="20" y="1313" type="line"/>
+      <point x="209" y="1313" type="line" identifier="1xm0mHc9eh"/>
+>>>>>>> 1ac05343c8cbbfc832346cb6bbe2d0dac5db8134
     </contour>
   </outline>
   <lib>

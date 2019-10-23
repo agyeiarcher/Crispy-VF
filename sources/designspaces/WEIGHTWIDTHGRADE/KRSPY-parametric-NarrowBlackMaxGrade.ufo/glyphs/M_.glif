@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="M" format="2">
+<<<<<<< HEAD
   <advance width="1999"/>
   <unicode hex="004D"/>
   <outline>
@@ -20,6 +21,27 @@
       <point x="1502" y="1288" type="line"/>
       <point x="1466" y="1288" type="line"/>
       <point x="1418" y="169" type="line" identifier="spdoeeCFft"/>
+=======
+  <advance width="1841"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="561" y="0" type="line"/>
+      <point x="561" y="1263" type="line"/>
+      <point x="669" y="1263" type="line"/>
+      <point x="669" y="0" type="line"/>
+      <point x="1179" y="0" type="line"/>
+      <point x="1179" y="1263" type="line"/>
+      <point x="1287" y="1263" type="line"/>
+      <point x="1287" y="0" type="line"/>
+      <point x="1797" y="0" type="line"/>
+      <point x="1797" y="1600" type="line"/>
+      <point x="948" y="1600" type="line"/>
+      <point x="948" y="1391" type="line"/>
+      <point x="772" y="1600" type="line"/>
+      <point x="51" y="1600" type="line"/>
+      <point x="51" y="0" type="line"/>
+>>>>>>> 1ac05343c8cbbfc832346cb6bbe2d0dac5db8134
     </contour>
   </outline>
   <lib>

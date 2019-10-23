@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="J" format="2">
+<<<<<<< HEAD
   <advance width="1180"/>
   <unicode hex="004A"/>
   <outline>
@@ -14,6 +15,20 @@
       <point x="579" y="312" type="line" identifier="NQmE31PUns"/>
       <point x="533" y="769" type="line" identifier="qiXxY6YhCq"/>
       <point x="23" y="769" type="line" identifier="7exNZv1XSc"/>
+=======
+  <advance width="1173"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour>
+      <point x="35" y="0" type="line" identifier="jiO9eX9U07"/>
+      <point x="1122" y="0" type="line" identifier="wgpFs1yguc"/>
+      <point x="1122" y="1600" type="line" identifier="d5Di3vNzni"/>
+      <point x="602" y="1600" type="line" identifier="TbrXnCyMEi"/>
+      <point x="602" y="287" type="line" identifier="zFXsE8BUYG"/>
+      <point x="495" y="287" type="line" identifier="NQmE31PUns"/>
+      <point x="495" y="730" type="line" identifier="qiXxY6YhCq"/>
+      <point x="35" y="730" type="line" identifier="7exNZv1XSc"/>
+>>>>>>> 1ac05343c8cbbfc832346cb6bbe2d0dac5db8134
     </contour>
   </outline>
   <lib>

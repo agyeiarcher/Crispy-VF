@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="P" format="2">
+<<<<<<< HEAD
   <advance width="1190"/>
   <unicode hex="0050"/>
   <outline>
@@ -16,6 +17,24 @@
       <point x="556" y="1288" type="line" identifier="IZIZQr2gYJ"/>
       <point x="657" y="1288" type="line" identifier="2c4LCF1E1R"/>
       <point x="657" y="884" type="line" identifier="1WCnzth1GX"/>
+=======
+  <advance width="1217"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="561" y="722" type="line"/>
+      <point x="561" y="1313" type="line"/>
+      <point x="663" y="1313" type="line"/>
+      <point x="663" y="771" type="line"/>
+    </contour>
+    <contour>
+      <point x="1173" y="689" type="line"/>
+      <point x="1173" y="1600" type="line"/>
+      <point x="51" y="1600" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="561" y="0" type="line"/>
+      <point x="561" y="395" type="line"/>
+>>>>>>> 1ac05343c8cbbfc832346cb6bbe2d0dac5db8134
     </contour>
   </outline>
   <lib>

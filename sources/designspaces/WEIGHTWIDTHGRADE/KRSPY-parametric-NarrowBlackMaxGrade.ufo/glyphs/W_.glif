@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="W" format="2">
+<<<<<<< HEAD
   <advance width="1783"/>
+=======
+  <advance width="1841"/>
+>>>>>>> 1ac05343c8cbbfc832346cb6bbe2d0dac5db8134
   <unicode hex="0057"/>
+  <guideline x="678" y="337" angle="0" identifier="bsm4HOOYND"/>
   <outline>
     <contour>
+<<<<<<< HEAD
       <point x="556" y="1600" type="line" smooth="yes" identifier="12Pyby1xY2"/>
       <point x="47" y="1600" type="line" smooth="yes" identifier="5LJg4ajoG6"/>
       <point x="47" y="0" type="line" smooth="yes" identifier="ZqTZqAY3uY"/>
@@ -25,6 +31,24 @@
       <point x="651" y="531" type="line"/>
       <point x="574" y="312" type="line" identifier="GlWB6PG54Z"/>
       <point x="556" y="312" type="line" identifier="iqeTRv7HXg"/>
+=======
+      <point x="561" y="1600" type="line"/>
+      <point x="51" y="1600" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="772" y="0" type="line"/>
+      <point x="948" y="209" type="line"/>
+      <point x="948" y="0" type="line"/>
+      <point x="1797" y="0" type="line"/>
+      <point x="1797" y="556" type="line"/>
+      <point x="1797" y="1600" type="line"/>
+      <point x="1287" y="1600" type="line"/>
+      <point x="1287" y="337" type="line"/>
+      <point x="1179" y="337" type="line"/>
+      <point x="1179" y="1600" type="line"/>
+      <point x="669" y="1600" type="line"/>
+      <point x="669" y="337" type="line"/>
+      <point x="561" y="337" type="line"/>
+>>>>>>> 1ac05343c8cbbfc832346cb6bbe2d0dac5db8134
     </contour>
   </outline>
   <lib>

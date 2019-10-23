@@ -1,9 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="V" format="2">
+<<<<<<< HEAD
   <advance width="1204"/>
   <unicode hex="0056"/>
   <outline>
     <component base="U" xScale="-1.0" xOffset="1204"/>
+=======
+  <advance width="1223"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="669" y="1600" type="line"/>
+      <point x="669" y="613" type="line"/>
+      <point x="613" y="287" type="line"/>
+      <point x="561" y="287" type="line"/>
+      <point x="561" y="1600" type="line"/>
+      <point x="51" y="1600" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="1064" y="0" type="line"/>
+      <point x="1179" y="556" type="line"/>
+      <point x="1179" y="1600" type="line"/>
+    </contour>
+>>>>>>> 1ac05343c8cbbfc832346cb6bbe2d0dac5db8134
   </outline>
   <lib>
     <dict>

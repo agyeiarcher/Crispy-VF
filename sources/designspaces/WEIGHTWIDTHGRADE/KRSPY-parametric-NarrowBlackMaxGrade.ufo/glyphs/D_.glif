@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="D" format="2">
+<<<<<<< HEAD
   <advance width="1208"/>
   <unicode hex="0044"/>
   <outline>
@@ -16,6 +17,24 @@
       <point x="666" y="1141" type="line" identifier="5OFemp6E2Y"/>
       <point x="666" y="312" type="line" identifier="4w8cXO1HlF"/>
       <point x="556" y="312" type="line" identifier="OGdfzPVlic"/>
+=======
+  <advance width="1223"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="51" y="1600" type="line" identifier="gh4oopoKIn"/>
+      <point x="51" y="0" type="line" identifier="hTYdJwlqIh"/>
+      <point x="1064" y="0" type="line" identifier="IF8msvcgce"/>
+      <point x="1179" y="452" type="line" identifier="ydeACnPZN4"/>
+      <point x="1179" y="1600" type="line" identifier="wIy2omw5Da"/>
+    </contour>
+    <contour>
+      <point x="561" y="287" type="line" identifier="YShvMHvurg"/>
+      <point x="561" y="1313" type="line" identifier="OGdfzPVlic"/>
+      <point x="669" y="1313" type="line" identifier="4w8cXO1HlF"/>
+      <point x="669" y="512" type="line" identifier="5OFemp6E2Y"/>
+      <point x="613" y="287" type="line" identifier="DiLdvAK6bW"/>
+>>>>>>> 1ac05343c8cbbfc832346cb6bbe2d0dac5db8134
     </contour>
   </outline>
   <lib>

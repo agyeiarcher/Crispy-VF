@@ -1,5 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="B" format="2">
+<<<<<<< HEAD
   <advance width="1205"/>
   <unicode hex="0042"/>
   <outline>
@@ -26,6 +27,32 @@
       <point x="622" y="640" type="line" identifier="VyYlzRh5nq"/>
       <point x="662" y="589" type="line" identifier="lsRGatjQja"/>
       <point x="662" y="312" type="line" identifier="xhlDJ3CjD5"/>
+=======
+  <advance width="1224"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="561" y="968" type="line"/>
+      <point x="561" y="1313" type="line"/>
+      <point x="663" y="1313" type="line"/>
+      <point x="663" y="1011" type="line"/>
+    </contour>
+    <contour>
+      <point x="1173" y="939" type="line"/>
+      <point x="1173" y="1600" type="line"/>
+      <point x="51" y="1600" type="line"/>
+      <point x="51" y="0" type="line"/>
+      <point x="561" y="0" type="line"/>
+      <point x="561" y="645" type="line"/>
+    </contour>
+    <contour>
+      <point x="482" y="301" type="line"/>
+      <point x="487" y="0" type="line"/>
+      <point x="1173" y="0" type="line"/>
+      <point x="1173" y="724" type="line"/>
+      <point x="676" y="917" type="line"/>
+      <point x="676" y="301" type="line"/>
+>>>>>>> 1ac05343c8cbbfc832346cb6bbe2d0dac5db8134
     </contour>
   </outline>
   <lib>
