@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="N.narrow" format="2">
+  <advance width="1796"/>
+  <outline>
+    <contour>
+      <point x="120" y="0" type="line" smooth="yes"/>
+      <point x="850" y="0" type="line"/>
+      <point x="850" y="637" type="line"/>
+      <point x="939" y="1093" type="line"/>
+      <point x="946" y="1093" type="line"/>
+      <point x="946" y="0" type="line" smooth="yes"/>
+      <point x="1676" y="0" type="line" smooth="yes"/>
+      <point x="1676" y="1600" type="line" smooth="yes"/>
+      <point x="918" y="1600" type="line" smooth="yes"/>
+      <point x="859" y="1388" type="line"/>
+      <point x="845" y="1388" type="line"/>
+      <point x="845" y="1600" type="line"/>
+      <point x="120" y="1600" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.95,0.95,0.05</string>
+    </dict>
+  </lib>
+</glyph>

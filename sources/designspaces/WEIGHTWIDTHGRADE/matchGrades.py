@@ -1,12 +1,13 @@
 import os, fnmatch
+from fontParts.world import OpenFont
 
 minGradeFlag = "MinGrade"
 maxGradeFlag = "MaxGrade"
 
 minGradeMasters = []
 maxGradeMasters = []
-allMasters = []
 
+#the following block makes two lists, one list with the masters labeled with "MinGrade", and another with "MaxGrade"
 listOfFiles = os.listdir('.')
 pattern = "*.ufo"
 for entry in listOfFiles:
@@ -15,7 +16,6 @@ for entry in listOfFiles:
             minGradeMasters.append(entry)
         if maxGradeFlag in entry:
             maxGradeMasters.append(entry)
-        allMasters.append(entry)
 
 def makeGrades(maxMaster, minMaster):
     for k in maxMaster.keys():
@@ -32,12 +32,13 @@ def makeGrades(maxMaster, minMaster):
                 minMaster[k].rightMargin+=int(widthDiff/2)
             minMaster.save()
             maxMaster.save()
+            #verifications here
             print(minMaster.info.styleName + " " + minMaster[k].name + " = " + str(minMaster[k].width))
             print(maxMaster.info.styleName + " " + maxMaster[k].name + " = " + str(maxMaster[k].width)+"\n")
 
 for masterMax in maxGradeMasters:
     for masterMin in minGradeMasters:
         if masterMax.replace(maxGradeFlag, "") == masterMin.replace(minGradeFlag, ""):
-            maxMaster=OpenFont(masterMax, showInterface=False)
-            minMaster=OpenFont(masterMin, showInterface=False)
+            maxMaster=OpenFont(masterMax)
+            minMaster=OpenFont(masterMin)
             makeGrades(maxMaster, minMaster)

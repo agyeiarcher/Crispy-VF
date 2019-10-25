@@ -23,25 +23,54 @@
   <rules>
     <rule name="subwidth">
       <conditionset>
-        <condition name="weight" minimum="500" maximum="1000"/>
+        <condition name="weight" minimum="350" maximum="1000"/>
         <condition name="width" minimum="140" maximum="1000"/>
       </conditionset>
       <conditionset>
-        <condition name="width" minimum="600" maximum="1000"/>
+        <condition name="width" minimum="400" maximum="1000"/>
       </conditionset>
-      <sub name="G" with="G.wide"/>
-      <sub name="S" with="S.wide"/>
+      <conditionset>
+        <condition name="weight" minimum="600" maximum="1000"/>
+      </conditionset>
       <sub name="five" with="five.wide"/>
       <sub name="three" with="three.wide"/>
       <sub name="six" with="six.wide"/>
-      <sub name="L" with="L.wide"/>
+      <sub name="nine" with="nine.wide"/>
     </rule>
     <rule name="narrowI">
       <conditionset>
-        <condition name="weight" minimum="1" maximum="200"/>
+        <condition name="width" minimum="1" maximum="320"/>
       </conditionset>
       <sub name="I" with="I.narrow"/>
       <sub name="one" with="one.narrow"/>
+      <sub name="K" with="K.narrow"/>
+      <sub name="N" with="N.narrow"/>
+      <sub name="M" with="M.narrow"/>
+      <sub name="B" with="B.narrow"/>
+      <sub name="W" with="W.narrow"/>
+    </rule>
+    <rule name="subtopserf">
+      <conditionset>
+        <condition name="weight" minimum="400" maximum="1000"/>
+        <condition name="width" minimum="260" maximum="1000"/>
+      </conditionset>
+      <sub name="E" with="E.wide"/>
+      <sub name="F" with="F.wide"/>
+    </rule>
+    <rule name="SubS">
+      <conditionset>
+        <condition name="weight" minimum="700" maximum="1000"/>
+        <condition name="width" minimum="400" maximum="1000"/>
+      </conditionset>
+    </rule>
+    <rule name="subG">
+      <conditionset>
+        <condition name="weight" minimum="600" maximum="1000"/>
+        <condition name="width" minimum="700" maximum="1000"/>
+      </conditionset>
+      <sub name="C" with="C.wide"/>
+      <sub name="G" with="G.wide"/>
+      <sub name="S" with="S.wide"/>
     </rule>
   </rules>
   <sources>
@@ -266,10 +295,6 @@
       </location>
     </source>
     <source filename="KRSPY-parametric-NarrowThinMaxGrade-maxXOPQminYOPQminXTRA.ufo" familyname="KRSPY" stylename="Narrow Thin MaxGrade-maxXOPQminYOPQminXTRA">
-      <lib copy="1"/>
-      <groups copy="1"/>
-      <features copy="1"/>
-      <info copy="1"/>
       <location>
         <dimension name="weight" xvalue="1"/>
         <dimension name="width" xvalue="1"/>
@@ -630,6 +655,10 @@
       </location>
     </source>
     <source filename="../WEIGHTWIDTHGRADE/KRSPY-parametric-NarrowThinMaxGrade.ufo" familyname="KRSPY" stylename="Narrow Thin MaxGrade-maxXOPQmaxYOPQmaxXTRA">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
       <location>
         <dimension name="weight" xvalue="1"/>
         <dimension name="width" xvalue="1"/>

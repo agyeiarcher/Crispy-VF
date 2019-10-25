@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.wide" format="2">
+  <advance width="314"/>
+  <outline>
+    <contour>
+      <point x="22" y="0" type="line" identifier="uiw6aBUf4P"/>
+      <point x="291" y="0" type="line" identifier="jtYkxiUX6G"/>
+      <point x="291" y="820" type="line" identifier="2G5L37c87I"/>
+      <point x="109" y="820" type="line"/>
+      <point x="109" y="1380" type="line"/>
+      <point x="143" y="1530" type="line"/>
+      <point x="290" y="1530" type="line"/>
+      <point x="290" y="1600" type="line" identifier="oGvEEuxnYv"/>
+      <point x="60" y="1600" type="line" identifier="xR3pEHbMJx"/>
+      <point x="22" y="1381" type="line" identifier="KnMArb0tv8"/>
+    </contour>
+    <contour>
+      <point x="203" y="762" type="line"/>
+      <point x="203" y="70" type="line"/>
+      <point x="109" y="70" type="line"/>
+      <point x="109" y="762" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.95,0.95,0.05</string>
+    </dict>
+  </lib>
+</glyph>

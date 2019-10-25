@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="4152"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="3464" y="0" type="line"/>
+      <point x="3567" y="0" type="line"/>
+      <point x="3567" y="749" type="line"/>
+      <point x="3993" y="749" type="line"/>
+      <point x="3993" y="834" type="line"/>
+      <point x="3567" y="834" type="line"/>
+      <point x="3567" y="1600" type="line"/>
+      <point x="3464" y="1600" type="line"/>
+      <point x="3464" y="834" type="line"/>
+      <point x="261" y="834" type="line"/>
+      <point x="261" y="1114" type="line"/>
+      <point x="752" y="1668" type="line"/>
+      <point x="648" y="1668" type="line"/>
+      <point x="159" y="1114" type="line"/>
+      <point x="159" y="749" type="line"/>
+      <point x="3464" y="749" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:20:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

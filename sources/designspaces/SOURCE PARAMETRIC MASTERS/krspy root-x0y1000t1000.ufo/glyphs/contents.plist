@@ -20,6 +20,8 @@
     <string>A_tilde.glif</string>
     <key>B</key>
     <string>B_.glif</string>
+    <key>B.narrow</key>
+    <string>B_.narrow.glif</string>
     <key>C</key>
     <string>C_.glif</string>
     <key>C.wide</key>
@@ -92,6 +94,8 @@
     <string>K_.glif</string>
     <key>K.alt</key>
     <string>K_.alt.glif</string>
+    <key>K.narrow</key>
+    <string>K_.narrow.glif</string>
     <key>L</key>
     <string>L_.glif</string>
     <key>L.wide</key>
@@ -102,10 +106,14 @@
     <string>L_linebelow.glif</string>
     <key>M</key>
     <string>M_.glif</string>
+    <key>M.narrow</key>
+    <string>M_.narrow.glif</string>
     <key>Mdotbelow</key>
     <string>M_dotbelow.glif</string>
     <key>N</key>
     <string>N_.glif</string>
+    <key>N.narrow</key>
+    <string>N_.narrow.glif</string>
     <key>N.wide</key>
     <string>N_.wide.glif</string>
     <key>NULL</key>
@@ -182,6 +190,8 @@
     <string>T_linebelow.glif</string>
     <key>U</key>
     <string>U_.glif</string>
+    <key>U.narrow</key>
+    <string>U_.narrow.glif</string>
     <key>Uacute</key>
     <string>U_acute.glif</string>
     <key>Ucircumflex</key>
@@ -198,6 +208,8 @@
     <string>V_.glif</string>
     <key>W</key>
     <string>W_.glif</string>
+    <key>W.narrow</key>
+    <string>W_.narrow.glif</string>
     <key>X</key>
     <string>X_.glif</string>
     <key>Y</key>

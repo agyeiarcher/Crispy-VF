@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.narrow" format="2">
+  <advance width="1255"/>
+  <outline>
+    <contour>
+      <point x="891" y="0" type="line" smooth="yes" identifier="12Pyby1xY2"/>
+      <point x="1231" y="0" type="line" smooth="yes" identifier="5LJg4ajoG6"/>
+      <point x="1231" y="1600" type="line" smooth="yes" identifier="ZqTZqAY3uY"/>
+      <point x="141" y="1600" type="line" smooth="yes" identifier="R4lklfJsHA"/>
+      <point x="35" y="1161" type="line" smooth="yes" identifier="7g7f8Wu7K4"/>
+      <point x="35" y="0" type="line" smooth="yes" identifier="RTOJW56qXy"/>
+      <point x="374" y="0" type="line" identifier="JfSFAkWGZC"/>
+      <point x="374" y="1165" type="line" smooth="yes" identifier="WWvGwSpq0g"/>
+      <point x="411" y="1341" type="line" smooth="yes" identifier="oee4nqI8Wl"/>
+      <point x="459" y="1341" type="line" identifier="Ljn2lpvpG8"/>
+      <point x="459" y="112" type="line" smooth="yes"/>
+      <point x="798" y="112" type="line"/>
+      <point x="798" y="1341" type="line" identifier="GlWB6PG54Z"/>
+      <point x="891" y="1341" type="line" identifier="iqeTRv7HXg"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.95,0.95,0.05</string>
+    </dict>
+  </lib>
+</glyph>

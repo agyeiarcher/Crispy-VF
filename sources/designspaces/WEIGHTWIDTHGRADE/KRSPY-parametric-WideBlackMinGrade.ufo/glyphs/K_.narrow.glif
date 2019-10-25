@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="K.narrow" format="2">
+  <advance width="5269"/>
+  <outline>
+    <contour>
+      <point x="1166" y="0" type="line"/>
+      <point x="1166" y="500" type="line"/>
+      <point x="3913" y="643" type="line"/>
+      <point x="4153" y="0" type="line"/>
+      <point x="4994" y="0" type="line"/>
+      <point x="4643" y="817" type="line"/>
+      <point x="4932" y="832" type="line"/>
+      <point x="4932" y="1600" type="line"/>
+      <point x="4087" y="1600" type="line"/>
+      <point x="4087" y="1155" type="line"/>
+      <point x="1166" y="1002" type="line"/>
+      <point x="1166" y="1600" type="line"/>
+      <point x="322" y="1600" type="line"/>
+      <point x="322" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.95,0.95,0.05</string>
+    </dict>
+  </lib>
+</glyph>

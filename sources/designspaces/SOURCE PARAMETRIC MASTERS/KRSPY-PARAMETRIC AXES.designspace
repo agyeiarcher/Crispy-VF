@@ -62,8 +62,8 @@
   <instances>
     <instance familyname="KRSPY" stylename="Narrow Black MaxGrade-maxXOPQmaxYOPQmaxXTRA" filename="../WEIGHTWIDTHGRADE/KRSPY-parametric-NarrowBlackMaxGrade.ufo">
       <location>
-        <dimension name="xopq" xvalue="588"/>
-        <dimension name="yopq" xvalue="675"/>
+        <dimension name="xopq" xvalue="391"/>
+        <dimension name="yopq" xvalue="560"/>
         <dimension name="xtra" xvalue="1"/>
       </location>
       <kerning/>
@@ -71,8 +71,8 @@
     </instance>
     <instance familyname="KRSPY" stylename="Narrow Black MinGrade-maxXOPQmaxYOPQmaxXTRA" filename="../WEIGHTWIDTHGRADE/KRSPY-parametric-NarrowBlackMinGrade.ufo">
       <location>
-        <dimension name="xopq" xvalue="463"/>
-        <dimension name="yopq" xvalue="592"/>
+        <dimension name="xopq" xvalue="274"/>
+        <dimension name="yopq" xvalue="508"/>
         <dimension name="xtra" xvalue="34"/>
       </location>
       <kerning/>
@@ -87,7 +87,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="KRSPY" stylename="Narrow Thin MaxGrade-`" filename="../WEIGHTWIDTHGRADE/KRSPY-parametric-NarrowThinMaxGrade.ufo">
+    <instance familyname="KRSPY" stylename="Narrow Thin MaxGrade-maxXOPQmaxYOPQmaxXTRA" filename="../WEIGHTWIDTHGRADE/KRSPY-parametric-NarrowThinMaxGrade.ufo">
       <location>
         <dimension name="xopq" xvalue="57"/>
         <dimension name="yopq" xvalue="85"/>
@@ -135,7 +135,7 @@
     <instance familyname="KRSPY" stylename="Narrow Black MaxGrade-minXOPQmaxYOPQmaxXTRA" filename="../WEIGHTWIDTHGRADE-xOPQyOPQxTRA/KRSPY-parametric-Narrow Black MaxGrade-minXOPQmaxYOPQmaxXTRA.ufo">
       <location>
         <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="675"/>
+        <dimension name="yopq" xvalue="560"/>
         <dimension name="xtra" xvalue="1"/>
       </location>
       <kerning/>
@@ -144,7 +144,7 @@
     <instance familyname="KRSPY" stylename="Narrow Black MinGrade-minXOPQmaxYOPQmaxXTRA" filename="../WEIGHTWIDTHGRADE-xOPQyOPQxTRA/KRSPY-parametric-NarrowBlackMinGrade-minXOPQmaxYOPQmaxXTRA.ufo">
       <location>
         <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="592"/>
+        <dimension name="yopq" xvalue="508"/>
         <dimension name="xtra" xvalue="34"/>
       </location>
       <kerning/>
@@ -206,7 +206,7 @@
     </instance>
     <instance familyname="KRSPY" stylename="Narrow Black MaxGrade-maxXOPQminYOPQmaxXTRA" filename="../WEIGHTWIDTHGRADE-xOPQyOPQxTRA/KRSPY-parametric-NarrowBlackMaxGrade-maxXOPQminYOPQmaxXTRA.ufo">
       <location>
-        <dimension name="xopq" xvalue="588"/>
+        <dimension name="xopq" xvalue="391"/>
         <dimension name="yopq" xvalue="1"/>
         <dimension name="xtra" xvalue="1"/>
       </location>
@@ -215,7 +215,7 @@
     </instance>
     <instance familyname="KRSPY" stylename="Narrow Black MinGrade-maxXOPQminYOPQmaxXTRA" filename="../WEIGHTWIDTHGRADE-xOPQyOPQxTRA/KRSPY-parametric-NarrowBlackMinGrade-maxXOPQminYOPQmaxXTRA.ufo">
       <location>
-        <dimension name="xopq" xvalue="463"/>
+        <dimension name="xopq" xvalue="274"/>
         <dimension name="yopq" xvalue="1"/>
         <dimension name="xtra" xvalue="34"/>
       </location>
@@ -350,8 +350,8 @@
     </instance>
     <instance familyname="KRSPY" stylename="Narrow Black MaxGrade-maxXOPQmaxYOPQminXTRA" filename="../WEIGHTWIDTHGRADE-xOPQyOPQxTRA/KRSPY-parametric-NarrowBlackMaxGrade-maxXOPQmaxYOPQminXTRA.ufo">
       <location>
-        <dimension name="xopq" xvalue="588"/>
-        <dimension name="yopq" xvalue="675"/>
+        <dimension name="xopq" xvalue="391"/>
+        <dimension name="yopq" xvalue="560"/>
         <dimension name="xtra" xvalue="1"/>
       </location>
       <kerning/>
@@ -359,8 +359,8 @@
     </instance>
     <instance familyname="KRSPY" stylename="Narrow Black MinGrade-maxXOPQmaxYOPQminXTRA" filename="../WEIGHTWIDTHGRADE-xOPQyOPQxTRA/KRSPY-parametric-NarrowBlackMinGrade-maxXOPQmaxYOPQminXTRA.ufo">
       <location>
-        <dimension name="xopq" xvalue="463"/>
-        <dimension name="yopq" xvalue="592"/>
+        <dimension name="xopq" xvalue="274"/>
+        <dimension name="yopq" xvalue="508"/>
         <dimension name="xtra" xvalue="1"/>
       </location>
       <kerning/>
@@ -423,7 +423,7 @@
     <instance familyname="KRSPY" stylename="Narrow Black MaxGrade-minXOPQmaxYOPQminXTRA" filename="../WEIGHTWIDTHGRADE-xOPQyOPQxTRA/KRSPY-parametric-NarrowBlackMaxGrade-minXOPQmaxYOPQminXTRA.ufo">
       <location>
         <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="675"/>
+        <dimension name="yopq" xvalue="560"/>
         <dimension name="xtra" xvalue="1"/>
       </location>
       <kerning/>
@@ -432,7 +432,7 @@
     <instance familyname="KRSPY" stylename="Narrow Black MinGrade-minXOPQmaxYOPQminXTRA" filename="../WEIGHTWIDTHGRADE-xOPQyOPQxTRA/KRSPY-parametric-NarrowBlackMinGrade-minXOPQmaxYOPQminXTRA.ufo">
       <location>
         <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="592"/>
+        <dimension name="yopq" xvalue="508"/>
         <dimension name="xtra" xvalue="1"/>
       </location>
       <kerning/>
@@ -494,7 +494,7 @@
     </instance>
     <instance familyname="KRSPY" stylename="Narrow Black MaxGrade-maxXOPQminYOPQminXTRA" filename="../WEIGHTWIDTHGRADE-xOPQyOPQxTRA/KRSPY-parametric-NarrowBlackMaxGrade-maxXOPQminYOPQminXTRA.ufo">
       <location>
-        <dimension name="xopq" xvalue="588"/>
+        <dimension name="xopq" xvalue="391"/>
         <dimension name="yopq" xvalue="1"/>
         <dimension name="xtra" xvalue="1"/>
       </location>
@@ -503,7 +503,7 @@
     </instance>
     <instance familyname="KRSPY" stylename="Narrow Black MinGrade-maxXOPQminYOPQminXTRA" filename="../WEIGHTWIDTHGRADE-xOPQyOPQxTRA/KRSPY-parametric-NarrowBlackMinGrade-maxXOPQminYOPQminXTRA.ufo">
       <location>
-        <dimension name="xopq" xvalue="463"/>
+        <dimension name="xopq" xvalue="274"/>
         <dimension name="yopq" xvalue="1"/>
         <dimension name="xtra" xvalue="1"/>
       </location>
@@ -643,24 +643,28 @@
       <string>previewVarLib</string>
       <key>com.letterror.skateboard.interactionSources</key>
       <dict>
+        <key>horizontal</key>
+        <array/>
         <key>ignore</key>
         <array>
           <string>xopq</string>
           <string>yopq</string>
           <string>xtra</string>
         </array>
+        <key>vertical</key>
+        <array/>
       </dict>
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
         <key>xopq</key>
-        <real>588.0</real>
+        <real>391.0</real>
         <key>xtra</key>
         <real>1.0</real>
         <key>yopq</key>
-        <real>675.0</real>
+        <real>560.0</real>
       </dict>
       <key>com.letterror.skateboard.previewText</key>
-      <string>OOOOOOOOOOO9OO HHH8HH JAH BOON                            </string>
+      <string>OOOOOOOOOOO/M.narrow OO HHHBHH JABOON                            </string>
     </dict>
   </lib>
 </designspace>

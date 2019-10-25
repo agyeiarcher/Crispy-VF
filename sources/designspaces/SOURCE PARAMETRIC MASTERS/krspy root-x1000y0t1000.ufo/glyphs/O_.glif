@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="O" format="2">
-  <advance width="5556"/>
+  <advance width="5696"/>
   <unicode hex="004F"/>
   <outline>
     <contour>
-      <point x="5406" y="495" type="line"/>
-      <point x="5406" y="1600" type="line"/>
-      <point x="648" y="1600" type="line"/>
-      <point x="150" y="1105" type="line"/>
-      <point x="150" y="0" type="line"/>
-      <point x="4908" y="0" type="line"/>
+      <point x="5476" y="495" type="line"/>
+      <point x="5476" y="1600" type="line"/>
+      <point x="718" y="1600" type="line"/>
+      <point x="220" y="1105" type="line"/>
+      <point x="220" y="0" type="line"/>
+      <point x="4978" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="4391" y="456" type="line"/>
-      <point x="3957" y="2" type="line"/>
-      <point x="1165" y="2" type="line"/>
-      <point x="1165" y="1144" type="line"/>
-      <point x="1599" y="1598" type="line"/>
-      <point x="4391" y="1598" type="line"/>
+      <point x="4461" y="456" type="line"/>
+      <point x="4027" y="2" type="line"/>
+      <point x="1235" y="2" type="line"/>
+      <point x="1235" y="1144" type="line"/>
+      <point x="1669" y="1598" type="line"/>
+      <point x="4461" y="1598" type="line"/>
     </contour>
   </outline>
   <lib>

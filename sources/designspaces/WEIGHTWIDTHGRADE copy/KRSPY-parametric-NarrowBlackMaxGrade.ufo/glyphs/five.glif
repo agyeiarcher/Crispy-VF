@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five" format="2">
+  <advance width="800"/>
+  <unicode hex="0035"/>
+  <outline>
+    <contour>
+      <point x="19" y="0" type="line" identifier="09VlJ0BjUX"/>
+      <point x="783" y="0" type="line" identifier="EagWihqFM8"/>
+      <point x="783" y="964" type="line" identifier="KfNuQA7eZe"/>
+      <point x="357" y="964" type="line" identifier="At364YZFEy"/>
+      <point x="357" y="1341" type="line" identifier="BcuLfvaQKC"/>
+      <point x="783" y="1341" type="line" identifier="3ZUkG35meB"/>
+      <point x="783" y="1600" type="line" identifier="SaF9ojRFrW"/>
+      <point x="17" y="1600" type="line" identifier="F4sQEYelA8"/>
+      <point x="17" y="705" type="line" identifier="3sQ8t8BZ6b"/>
+      <point x="443" y="705" type="line" identifier="yiV6OCBLHg"/>
+      <point x="443" y="259" type="line" identifier="9kdl9SYsn8"/>
+      <point x="358" y="259" type="line" identifier="yZDWuX8LLe"/>
+      <point x="358" y="472" type="line" identifier="jYb9001DTm"/>
+      <point x="19" y="472" type="line" identifier="ho4DrS0rdW"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:25:33 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>AlMtGpcmf6</key>
+        <array>
+          <string>rightside</string>
+          <string>leftside</string>
+          <string>crossbar</string>
+        </array>
+        <key>GxHslptW0F</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>SWxRhN59bN</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>Wam28MqnPG</key>
+        <array>
+          <string>rightside</string>
+          <string>leftside</string>
+          <string>crossbar</string>
+        </array>
+        <key>X2pSUpzeW3</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>c38TcsNPOL</key>
+        <array>
+          <string>rightside</string>
+          <string>leftside</string>
+          <string>crossbar</string>
+        </array>
+        <key>ejjvaR50qr</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>kEx7Jk7fPR</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>pdTUrgsN3b</key>
+        <array>
+          <string>rightside</string>
+          <string>leftside</string>
+          <string>crossbar</string>
+        </array>
+        <key>pwqGB8iowo</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>zlgP441jBh</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
