@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.wide.shadow.shadow" format="2">
+  <advance width="945"/>
+  <outline>
+    <contour>
+      <point x="28" y="287" type="line"/>
+      <point x="-132" y="107" type="line"/>
+      <point x="-132" y="-180" type="line"/>
+      <point x="933" y="-180" type="line"/>
+      <point x="1093" y="0" type="line"/>
+      <point x="1093" y="873" type="line"/>
+      <point x="989" y="873" type="line"/>
+      <point x="1055" y="947" type="line"/>
+      <point x="1055" y="1600" type="line"/>
+      <point x="30" y="1600" type="line"/>
+      <point x="-130" y="1420" type="line"/>
+      <point x="-130" y="1127" type="line"/>
+      <point x="385" y="1127" type="line"/>
+      <point x="385" y="873" type="line"/>
+      <point x="99" y="873" type="line"/>
+      <point x="-61" y="693" type="line"/>
+      <point x="-61" y="518" type="line"/>
+      <point x="424" y="518" type="line"/>
+      <point x="424" y="287" type="line"/>
+    </contour>
+    <contour>
+      <point x="28" y="0" type="line" identifier="O9abUc1nmN"/>
+      <point x="28" y="287" type="line" identifier="YajKQV3MHP"/>
+      <point x="584" y="287" type="line" identifier="xv9CFHiFgB"/>
+      <point x="584" y="698" type="line" identifier="Dm8zjmbhNr"/>
+      <point x="99" y="698" type="line" identifier="8aKgEELrVU"/>
+      <point x="99" y="873" type="line" identifier="lRLJEhXMlO"/>
+      <point x="482" y="873" type="line" identifier="iic1IBkDqp"/>
+      <point x="482" y="877" type="line"/>
+      <point x="545" y="947" type="line" identifier="YUjTrmoWd9"/>
+      <point x="545" y="1307" type="line" identifier="RHLvSX2Jv6"/>
+      <point x="30" y="1307" type="line" identifier="7ogBYufWpl"/>
+      <point x="30" y="1600" type="line" identifier="pE1XSRiy68"/>
+      <point x="1055" y="1600" type="line" identifier="xg8x2Ki40p"/>
+      <point x="1055" y="947" type="line" identifier="S91TzLL02W"/>
+      <point x="987" y="876" type="line"/>
+      <point x="987" y="873" type="line" identifier="JQaOzDQqlF"/>
+      <point x="1093" y="873" type="line" identifier="su2XmdS8e8"/>
+      <point x="1093" y="0" type="line" identifier="kMJYMTfXCq"/>
+    </contour>
+  </outline>
+</glyph>

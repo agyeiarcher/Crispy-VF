@@ -1,14 +1,18 @@
 # from penCollection.translationpen import TranslationPen
-from fontTools.pens.basePen import BasePen
 from math import pi, radians, degrees, tan, hypot, atan2, cos, sin
-
-from ufoLib.pointPen import PointToSegmentPen, SegmentToPointPen
-from ufoLib.pointPen import ReverseContourPointPen
+from fontTools.ufoLib.pointPen import PointToSegmentPen, SegmentToPointPen, ReverseContourPointPen
 from fontTools.misc.bezierTools import splitCubicAtT
+from penCollection.outlinePen import OutlinePen
 from fontTools.pens.basePen import BasePen
+from fontTools.pens.recordingPen import RecordingPen
+from mojo.pens import DecomposePointPen
 
+f = CurrentFont()
+g = CurrentGlyph()
 _ANGLE_EPSILON = pi/36
 
+extrusionX = -180
+extrusionY = -180
 
 def calcVector(point1, point2):
     x1, y1 = point1
@@ -17,18 +21,15 @@ def calcVector(point1, point2):
     dy = y2 - y1
     return dx, dy
 
-
 def calcAngle(point1, point2):
     dx, dy = calcVector(point1, point2)
     return atan2(dy, dx)
 
-
-def polarCoord(coordsxy, angle, distance):
+def polarCoord(coordsxy, angle, distance, extrusion=160): #this basically defined the coordinates for the x+y of the translation. i think.
     (x,y)=coordsxy
-    nx = x + (distance * cos(angle))
-    ny = y + (distance * sin(angle))
+    nx = x + (distance * cos(angle))+extrusionX
+    ny = y + (distance * sin(angle))+extrusionY
     return nx, ny
-
 
 def calcArea(points):
     l = len(points)
@@ -36,11 +37,9 @@ def calcArea(points):
     for i in range(l):
         x1, y1 = points[i]
         n = (i+1)%l #modified here to test for n values
-        print("testing for "+str(n))
         x2, y2 = points[int(n)]  #modified here to return int to stop throwing error
         area += (x1*y2)-(x2*y1)
     return area / 2 #modified here to return int to stop throwing error
-
 
 def firstDerivative(coords1, c_coords1, c_coords2, coords2, value):
     x1, y1=coords1
@@ -51,13 +50,10 @@ def firstDerivative(coords1, c_coords1, c_coords2, coords2, value):
     my = bezierTangent(y1, cy1, cy2, y2, value)
     return mx, my
 
-
 def bezierTangent(a, b, c, d, t):
     # Implementation of http://stackoverflow.com/questions/4089443/find-the-tangent-of-a-point-on-a-cubic-bezier-curve-on-an-iphone
     return (-3*(1-t)**2 * a) + (3*(1-t)**2 * b) - (6*t*(1-t) * b) - (3*t**2 * c) + (6*t*(1-t) * c) + (3*t**2 * d)
-
-
-
+    
 class TranslationPen(BasePen):
     """
     Draw an outline resulting from the reunion of an initial contour and a translated version thereof.
@@ -65,56 +61,45 @@ class TranslationPen(BasePen):
     This kind of drawing basically produces a calligraphic effect (in a translated manner as Gerrit Noordzij puts it),
     it can also serve as a way of extruding a shape for 3D shadow effects.
     """
-
+    
     def __init__(self, otherPen, frontAngle=0, frontWidth=20):
         self.otherPen = otherPen
         self.frontAngle = radians(frontAngle)
         self.offset = polarCoord((0,0), radians(frontAngle), frontWidth)
         self.points = []
-
+    
 
     def _moveTo(self, pt):
         self.points.append((pt, 'move'))
 
-
     def _lineTo(self, pt1):
         pt0, previousType = self.points[-1]
         angle = calcAngle(pt0, pt1)
-
         self.translatedLineSegment(pt0, pt1)
-
         self.points.append((pt1, 'line'))
-
 
     def _curveToOne(self, c1, c2, pt1):
         pt0, previousType = self.points[-1]
-
         newSegments = self.splitAtAngledExtremas(pt0, c1, c2, pt1)
-
         if len(newSegments):
             for segment in newSegments:
                 pt0, c1, c2, pt1 = segment
                 self.translatedCurveSegment(pt0, c1, c2, pt1)
         else:
             self.translatedCurveSegment(pt0, c1, c2, pt1)
-
         self.points.append((c1, None))
         self.points.append((c2, None))
         self.points.append((pt1, 'curve'))
 
-
     def endPath(self):
         self.points = []
 
-
     def closePath(self):
         previousPoint, previousType = self.points[-1]
-
         if previousType in ['line','curve']:
             pt0, pt1 = self.points[-1][0], self.points[0][0]
             self.translatedLineSegment(pt0, pt1)
             self.points = []
-
 
     def splitAtAngledExtremas(self, pt0, pt1, pt2, pt3):
         frontAngle = self.frontAngle
@@ -130,7 +115,6 @@ class TranslationPen(BasePen):
                     break
         return segments
 
-
     def translatedCurveSegment(self, pt0, c1, c2, pt1):
         ox, oy = self.offset
         #added the declarations to compensate for def((x,x), (x,x)) not working in Py3
@@ -144,7 +128,7 @@ class TranslationPen(BasePen):
         pen.lineTo((x1+ox, y1+oy))
         pen.curveTo((xc2+ox, yc2+oy), (xc1+ox, yc1+oy), (x0+ox, y0+oy))
         pen.closePath()
-
+        
 
     def translatedLineSegment(self, pt0, pt1):
         ox, oy = self.offset  
@@ -158,7 +142,6 @@ class TranslationPen(BasePen):
         pen.lineTo((x0+ox, y0+oy))
         pen.closePath()
 
-
     def getPen(self, points):
         area = calcArea(points)
         if area < 0:
@@ -166,24 +149,59 @@ class TranslationPen(BasePen):
         else:
             pen = self.otherPen
         return pen
-
+    
+    def returnExtrapolation(self, transformation):
+        ox, oy = self.offset
+        print(ox,oy)
 
     def getReversePen(self):
         adapterPen = PointToSegmentPen(self.otherPen)
         reversePen = ReverseContourPointPen(adapterPen)
         return SegmentToPointPen(reversePen)
 
-
     def addComponent(self, baseGlyphName, transformation):
         self.otherPen.addComponent(baseGlyphName, transformation)
+        
 
+def makeShadow(g, extrusionX, extrusionY):
+    destPen = RecordingPen()
+    myPen = TranslationPen(destPen)
+    g.draw(myPen)
+    with g.undo("Apply Translate Pen"):
+        destPen.replay(g.getPen())
+        if g.rightMargin%2==0:
+            g.rightMargin+=int(extrusionX-20) #20 is compensation for frontWidth in the TranslationPen constructor
+        else:
+            g.rightMargin+=int(extrusionX-19)
+        g.changed()
 
-from fontTools.pens.recordingPen import RecordingPen
-g = CurrentGlyph()
-destPen = RecordingPen()
-myPen = TranslationPen(destPen) #am i doing this right?
+def makeShadowGlyphBackground(g):
+    shadowGlyph = RGlyph()
+    shadowGlyph.width = g.width
+    shadowPen = shadowGlyph.getPointPen()
+    decomposePen = DecomposePointPen(f, shadowPen)
+    g.drawPoints(decomposePen)
+    f.insertGlyph(shadowGlyph, name=str(g.name+".shadow"))
+    # frontGlyphPen = g.getPointPen()
+    # frontGlyphPen.addComponent(str(g.name), offset=(0, 0), scale=(1, 1))
+    # shadowGlyph.draw(frontGlyphPen)
+    # testpen = g.getPen()
+    # testpen.draw()
 
-g.draw(myPen)
-
-with g.undo("Apply Translate Pen"):
-    destPen.replay(g.getPen())
+with g.undo("Add new shadow glyph"):
+    f.prepareUndo()
+    makeShadowGlyphBackground(g)
+    shadowGlyph = f[str(g.name+".shadow")]
+    makeShadow(shadowGlyph, extrusionX, extrusionY)
+    shadowGlyph.removeOverlap()
+    # draw reversed contour glyph
+    insetPen = shadowGlyph.getPointPen()
+    reversePen = ReverseContourPointPen(insetPen)
+    outlinePen = OutlinePen(f, contrast=0, offset=1, connection="square")
+    outlinePen.drawSettings(drawInner=True, drawOuter=True)
+    g.draw(outlinePen)
+    outlinePen.drawPoints(insetPen)
+    g.drawPoints(reversePen)
+    f.performUndo()
+    # shadowGlyph.removeOverlap()
+    
