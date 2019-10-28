@@ -19,6 +19,7 @@ mkdir $OUTPUT_DIR
 #rm $OUTPUT_DIR/*-backup-fonttools-prep-gasp.ttf
 
 cp fonts/KRSPY-WEIGHWIDTHGRADE-XYT.ttf $OUTPUT_DIR
+cp ofl.txt $OUTPUT_DIR/OFL.txt
 #cp METADATA.pb $OUTPUT_DIR
 #cp DESCRIPTION.*.html $OUTPUT_DIR
 
