@@ -1,0 +1,174 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance width="799"/>
+  <unicode hex="0046"/>
+  <outline>
+    <contour>
+      <point x="35" y="0" type="line" identifier="oAgH2tA6DJ"/>
+      <point x="374" y="0" type="line" identifier="zCZyMcW5ho"/>
+      <point x="374" y="631" type="line" identifier="yHYqkMd7LI"/>
+      <point x="669" y="631" type="line" identifier="NmB7yyQuio"/>
+      <point x="669" y="891" type="line" identifier="wQk2C8zPHh"/>
+      <point x="374" y="891" type="line" identifier="4cFHKQfHDt"/>
+      <point x="374" y="1341" type="line" identifier="ZvzwyrcwpS"/>
+      <point x="442" y="1341" type="line" identifier="4E754ovOIe"/>
+      <point x="442" y="1072" type="line" identifier="vZkeT9KrKR"/>
+      <point x="781" y="1072" type="line" identifier="0tk7G4orz6"/>
+      <point x="781" y="1600" type="line" identifier="NUrIjqOB7J"/>
+      <point x="35" y="1600" type="line" identifier="TBAYuCfUFX"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>0tk7G4orz6</key>
+        <array>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>4E754ovOIe</key>
+        <array>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>4cFHKQfHDt</key>
+        <array>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBARTOP</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>F6QQD702pX</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>NUrIjqOB7J</key>
+        <array>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>NmB7yyQuio</key>
+        <array>
+          <string>LEFTSIDEINSIDE</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBARBOTTOM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>TBAYuCfUFX</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+        <key>ZvzwyrcwpS</key>
+        <array>
+          <string>LEFTSIDEINSIDE</string>
+        </array>
+        <key>bL0wwzlx16</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>oAgH2tA6DJ</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+        <key>vZkeT9KrKR</key>
+        <array>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>wQk2C8zPHh</key>
+        <array>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBARTOP</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>yHYqkMd7LI</key>
+        <array>
+          <string>LEFTSIDEINSIDE</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBARBOTTOM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>zCZyMcW5ho</key>
+        <array>
+          <string>LEFTSIDEINSIDE</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

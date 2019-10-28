@@ -1,0 +1,104 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="826"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour>
+      <point x="83" y="0" type="line" identifier="jiO9eX9U07"/>
+      <point x="791" y="0" type="line" identifier="wgpFs1yguc"/>
+      <point x="791" y="1600" type="line" identifier="d5Di3vNzni"/>
+      <point x="39" y="1600" type="line" identifier="TbrXnCyMEi"/>
+      <point x="39" y="1341" type="line" identifier="AdYfGKx8QJ"/>
+      <point x="451" y="1341" type="line" identifier="46RrD1WET2"/>
+      <point x="451" y="259" type="line" identifier="zFXsE8BUYG"/>
+      <point x="398" y="259" type="line" identifier="NQmE31PUns"/>
+      <point x="357" y="731" type="line" identifier="qiXxY6YhCq"/>
+      <point x="17" y="731" type="line" identifier="7exNZv1XSc"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 12:46:30 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>46RrD1WET2</key>
+        <array>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>INSIDETOP</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>INSIDEBOTTOM</string>
+        </array>
+        <key>7exNZv1XSc</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+        <key>AdYfGKx8QJ</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>INSIDETOP</string>
+        </array>
+        <key>NQmE31PUns</key>
+        <array>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>INSIDEBOTTOM</string>
+        </array>
+        <key>TbrXnCyMEi</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+        <key>d5Di3vNzni</key>
+        <array>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>INSIDETOP</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>INSIDEBOTTOM</string>
+        </array>
+        <key>jiO9eX9U07</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+        <key>qiXxY6YhCq</key>
+        <array>
+          <string>LEFTSIDEINSIDE</string>
+        </array>
+        <key>wgpFs1yguc</key>
+        <array>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>INSIDETOP</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>INSIDEBOTTOM</string>
+        </array>
+        <key>zFXsE8BUYG</key>
+        <array>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>INSIDETOP</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>INSIDEBOTTOM</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

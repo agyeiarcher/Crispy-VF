@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B.narrow" format="2">
+  <advance width="839"/>
+  <outline>
+    <contour>
+      <point x="35" y="0" type="line" identifier="hvY9r8RmLr"/>
+      <point x="815" y="0" type="line" identifier="9QFpw7nfq7"/>
+      <point x="815" y="675" type="line" identifier="543PerILpr"/>
+      <point x="726" y="784" type="line" identifier="870ZhtaozS"/>
+      <point x="811" y="833" type="line" identifier="eGKH52Jgnk"/>
+      <point x="811" y="1600" type="line" identifier="FaP204GrdB"/>
+      <point x="35" y="1600" type="line" identifier="JEev70GAj6"/>
+    </contour>
+    <contour>
+      <point x="374" y="874" type="line" identifier="By7dfMihfe"/>
+      <point x="374" y="1341" type="line" identifier="1p5hKrurVy"/>
+      <point x="472" y="1341" type="line" identifier="Qby8aMtF2X"/>
+      <point x="472" y="921" type="line" identifier="9lW01gQyU2"/>
+    </contour>
+    <contour>
+      <point x="374" y="259" type="line" identifier="jaMSiLrCua"/>
+      <point x="374" y="648" type="line" identifier="XSrxNd2axx"/>
+      <point x="419" y="669" type="line" identifier="VyYlzRh5nq"/>
+      <point x="475" y="594" type="line" identifier="lsRGatjQja"/>
+      <point x="475" y="259" type="line" identifier="xhlDJ3CjD5"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>0,0.95,0.95,0.05</string>
+    </dict>
+  </lib>
+</glyph>
