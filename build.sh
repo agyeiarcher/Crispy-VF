@@ -4,7 +4,7 @@ OUTPUT_DIR=build_output
 rm $OUTPUT_DIR -rf
 mkdir $OUTPUT_DIR
 cp fonts/KRSPY-WEIGHWIDTHGRADE-XYT.ttf $OUTPUT_DIR
-cp ofl.txt $OUTPUT_DIR/OFL.txt
+cp OFL.txt $OUTPUT_DIR
 #cp METADATA.pb $OUTPUT_DIR
 #cp DESCRIPTION.*.html $OUTPUT_DIR
 
@@ -20,7 +20,7 @@ do
 done
 
 ## Cleanup gftools mess:
-#rm $OUTPUT_DIR/*-backup-fonttools-prep-gasp.ttf
+rm $OUTPUT_DIR/*-backup-fonttools-prep-gasp.ttf
 
 export OPTIONS="--no-progress"
 export OPTIONS="$OPTIONS --exclude-checkid /check/ftxvalidator" # We lack this on Travis.
