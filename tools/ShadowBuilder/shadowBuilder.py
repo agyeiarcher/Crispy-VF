@@ -179,7 +179,7 @@ def makeShadow(g, extrusionX, extrusionY):
 
 def makeShadowGlyphBackground(g):
     m  = Identity
-    m = m.scale(1.01,1.005)
+    m = m.scale(1.01,1.006)
     m = tuple(m)
     shadowGlyph = RGlyph()
     shadowGlyph.width = g.width
@@ -207,3 +207,5 @@ def makeShadowGlyph(g):
     outlinePen.drawSettings(drawInner=True, drawOuter=True)
     outlinePen.drawPoints(insetPen)
     f.performUndo()
+
+makeShadowGlyph(g)

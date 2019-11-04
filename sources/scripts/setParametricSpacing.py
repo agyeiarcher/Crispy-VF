@@ -48,32 +48,32 @@ def allClear(rightSideCheckGroup, leftSideCheckGroup):
 def setSpacing(f):
     if allClear(rightSideCheckGroup, leftSideCheckGroup):
         if styleName == "x0y0t1000":
-            rightSideNotchValue = 220  
-            leftSideNotchValue = 220         
-            rightSideFlatValue = 270
-            leftSideFlatValue = 270
-            rightSideSpecialValue = 160
-            leftSideSpecialValue  = 160
-            rightPunctValue = 90
-            leftPunctValue = 90
+            rightSideNotchValue = 160 
+            leftSideNotchValue = 160         
+            rightSideFlatValue = 200
+            leftSideFlatValue = 200
+            rightSideSpecialValue = 130
+            leftSideSpecialValue  = 130
+            rightPunctValue = 50
+            leftPunctValue = 50
         if styleName == "x0y1000t1000":
-            rightSideNotchValue = 220  
-            leftSideNotchValue = 220         
-            rightSideFlatValue = 270
-            leftSideFlatValue = 270
-            rightSideSpecialValue = 160
-            leftSideSpecialValue  = 160
-            rightPunctValue = 90
-            leftPunctValue = 90
+            rightSideNotchValue = 160 
+            leftSideNotchValue = 160         
+            rightSideFlatValue = 200
+            leftSideFlatValue = 200
+            rightSideSpecialValue = 130
+            leftSideSpecialValue  = 130
+            rightPunctValue = 50
+            leftPunctValue = 50
         if styleName == "x1000y0t1000":
-            rightSideNotchValue = 220  
-            leftSideNotchValue = 220         
-            rightSideFlatValue = 270
-            leftSideFlatValue = 270
-            rightSideSpecialValue = 160
-            leftSideSpecialValue  = 160
-            rightPunctValue = 90
-            leftPunctValue = 90
+            rightSideNotchValue = 160 
+            leftSideNotchValue = 160         
+            rightSideFlatValue = 200
+            leftSideFlatValue = 200
+            rightSideSpecialValue = 130
+            leftSideSpecialValue  = 130
+            rightPunctValue = 50
+            leftPunctValue = 50
         if styleName == "x0y0t0":
             rightSideNotchValue = 29
             leftSideNotchValue = 29        

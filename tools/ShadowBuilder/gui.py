@@ -12,106 +12,12 @@ from mojo.pens import DecomposePointPen
 from fontTools.misc.transform import Identity
 from fontPens.transformPointPen import TransformPointPen
 
-
 f= CurrentFont()
 g = CurrentGlyph()
+
 _ANGLE_EPSILON = pi/36
-extrusionX = -180
-extrusionY = -180
 
 ############
-
-def drawGlyph(k):
-    # using code from Jens Kutilek's SVG Builder
-    # https://github.com/jenskutilek/sudo-font/blob/master/scripts/BuildWebSVGs.py
-    bez = BezierPath()
-    k.draw(bez)
-    drawPath(bez)
-    
-def text_path_main(pos, font_path, thisGlyph):
-    # using code from Jens Kutilek's SVG Builder
-    # https://github.com/jenskutilek/sudo-font/blob/master/scripts/BuildWebSVGs.py
-    x, y = pos
-    save()
-    translate(x, y)
-    h=f[thisGlyph]
-    fill(0)
-    drawGlyph(h)
-    restore()
-
-class DrawBotViewer(object):
-
-    def __init__(self, k):
-        self.k = k
-        # create a window
-        self.w = FloatingWindow((300, 500), "move %s" % self.k.name)
-        self.w.drawBotCanvas = DrawView((0, 40, -0, -0))
-        # add a slider for moving in the x axis
-        self.w.sliderX = Slider(
-                (10, 10, -10, 22),
-                value=0, maxValue=200, minValue=-200,
-                callback=self.drawIt)
-
-        # add a slider for moving in the y axis
-        self.w.sliderY = Slider(
-                (10, 42, -10, 22),
-                value=0, maxValue=200, minValue=-200,
-                callback=self.drawIt)
-        self.drawIt()
-        # open the window
-        self.w.open()
-        
-    def drawIt(self):
-        # get the value from the slider
-        Xvalue = self.w.sliderX.get()
-        Yvalue = self.w.sliderY.get()
-        print(value)
-        # initiate a new drawing
-        newDrawing()
-        # add a page
-        newPage(300, 300)
-        # set a fill color
-        fill(1, value/100., 0)
-        # draw a rectangle
-        rect(10, 10, 100, 100)
-        # set a font size
-        fontSize(48 + value)
-        # draw some text
-        text("Hello", (10, 120))
-        # get the pdf document
-        pdfData = pdfImage()
-        # set the pdf document into the canvas
-        self.w.drawBotCanvas.setPDFDocument(pdfData)
-
-    def sliderCallback(self, sender):
-        # slider chagned so redraw it
-        self.drawIt()
-
-    def drawIt(self):
-        # get the value from the slider
-        valueX = self.w.sliderX.get()
-        valueX = self.w.sliderY.get()
-        print(valueX)
-        # initiate a new drawing
-        newDrawing()
-        # add a page
-        newPage(200, 200)
-        # set a fill color
-        # fill(1, value/100., 0)
-        # draw a rectangle
-        # set a font size
-        # font(TTFont(f.path))
-        fontSize(48 + valueX)
-        # draw some text
-        # text("H", (10, 120))
-        scale(0.1)
-        text_path_main((5,100), f.path, "G")
-        # get the pdf document
-        pdfData = pdfImage()
-        # set the pdf document into the canvas
-        self.w.drawBotCanvas.setPDFDocument(pdfData)
-
-#######
 
 def calcVector(point1, point2):
     x1, y1 = point1
@@ -167,7 +73,6 @@ class TranslationPen(BasePen):
         self.offset = polarCoord((0,0), radians(frontAngle), frontWidth)
         self.points = []
     
-
     def _moveTo(self, pt):
         self.points.append((pt, 'move'))
 
@@ -228,7 +133,6 @@ class TranslationPen(BasePen):
         pen.curveTo((xc2+ox, yc2+oy), (xc1+ox, yc1+oy), (x0+ox, y0+oy))
         pen.closePath()
         
-
     def translatedLineSegment(self, pt0, pt1):
         ox, oy = self.offset  
         x0, y0 = pt0
@@ -260,51 +164,122 @@ class TranslationPen(BasePen):
 
     def addComponent(self, baseGlyphName, transformation):
         self.otherPen.addComponent(baseGlyphName, transformation)
-        
 
-def makeShadow(g, extrusionX, extrusionY):
-    destPen = RecordingPen()
-    myPen = TranslationPen(destPen)
-    g.draw(myPen)
-    with g.undo("Apply Translate Pen"):
-        destPen.replay(g.getPen())
-        if g.rightMargin%2==0:
-            g.rightMargin+=int(extrusionX-20) #20 is compensation for frontWidth in the TranslationPen constructor
-        else:
-            g.rightMargin+=int(extrusionX-19)
+########
+
+def drawGlyph(k):
+    # using code from Jens Kutilek's SVG Builder
+    # https://github.com/jenskutilek/sudo-font/blob/master/scripts/BuildWebSVGs.py
+    bez = BezierPath()
+    k.draw(bez)
+    drawPath(bez)
+    
+def text_path_main(pos, font_path, thisGlyph):
+    # using code from Jens Kutilek's SVG Builder
+    # https://github.com/jenskutilek/sudo-font/blob/master/scripts/BuildWebSVGs.py
+    x, y = pos
+    save()
+    translate(x, y)
+    h=f[thisGlyph]
+    fill(0)
+    drawGlyph(h)
+    restore()
+
+class DrawBotViewer(object):
+
+    def __init__(self, k, extrusionX=20, extrusionY=20):
+        self.k = k # k=RGlyph
+        # create a window
+        self.extrusionX = extrusionX
+        self.extrusionY = extrusionY
+        self.g = g
+        self.w = FloatingWindow((300, 500), "move %s" % self.k.name)
+        self.w.drawBotCanvas = DrawView((0, 80, -0, -0))
+        # add a slider for moving in the x axis
+        self.w.sliderX = Slider(
+                (10, 10, -10, 22),
+                value=-120, maxValue=200, minValue=-200,
+                callback=self.adjust)
+        # add a slider for moving in the y axis
+        self.w.sliderY = Slider(
+                (10, 42, -10, 22),
+                value=-120, maxValue=200, minValue=-200,
+                callback=self.adjust)
+        # open the window
+        print(extrusionX)
+        self.w.open()
+        self.makeShadowGlyph(g, self.extrusionX, self.extrusionY)
+        self.drawIt()
+
+    def drawIt(self):
+        newDrawing()
+        # add a page
+        newPage(200, 200)
+        # set a fill color
+        # fill(1, value/100., 0)
+        # draw a rectangle
+        # set a font size
+        # font(TTFont(f.path))
+        # draw some text
+        # text("H", (10, 120))
+        translate(width()/2.8,height()/6)
+        with savedState():
+            scale(0.08)
+            text_path_main((5,100), f.path, str(g.name+".shadow"))
+        # get the pdf document
+        pdfData = pdfImage()
+        # set the pdf document into the canvas
+        self.w.drawBotCanvas.setPDFDocument(pdfData)
+        
+    def makeShadow(self, g, extrusionX, extrusionY):
+        destPen = RecordingPen()
+        myPen = TranslationPen(destPen)
+        g.draw(myPen)
+        # with g.undo("Apply Translate Pen"):
+        #     destPen.replay(g.getPen())
+        # if g.rightMargin%2==0:
+        #     g.rightMargin+=int(extrusionX-20) #20 is compensation for frontWidth in the TranslationPen constructor
+        # else:
+        #     g.rightMargin+=int(extrusionX-19)
         g.changed()
 
-def makeShadowGlyphBackground(g):
-    m  = Identity
-    m = m.scale(1.01,1.005)
-    m = tuple(m)
-    shadowGlyph = RGlyph()
-    shadowGlyph.width = g.width
-    shadowPen = shadowGlyph.getPointPen()
-    transformPen = TransformPointPen(shadowPen, m)
-    decomposePen = DecomposePointPen(f, transformPen)
-    g.drawPoints(decomposePen)
-    f.insertGlyph(shadowGlyph, name=str(g.name+".shadow"))
+    def makeShadowGlyphBackground(self, g):
+        m  = Identity
+        m = m.scale(1.01,1.005)
+        m = tuple(m)
+        shadowGlyph = RGlyph()
+        shadowGlyph.width = g.width
+        shadowPen = shadowGlyph.getPointPen()
+        transformPen = TransformPointPen(shadowPen, m)
+        decomposePen = DecomposePointPen(f, transformPen)
+        g.drawPoints(decomposePen)
+        f.insertGlyph(shadowGlyph, name=str(g.name+".shadow"))
 
-def makeShadowGlyph(g):
-    f.prepareUndo()
-    m  = Identity
-    m = m.scale(1)
-    m = tuple(m)
-    makeShadowGlyphBackground(g)
-    shadowGlyph = f[str(g.name+".shadow")]
-    makeShadow(shadowGlyph, extrusionX, extrusionY)
-    shadowGlyph.removeOverlap()
-    insetPen = shadowGlyph.getPointPen()
-    transformPen = TransformPointPen(insetPen, m)
-    reversePen = ReverseContourPointPen(transformPen)
-    g.drawPoints(reversePen)
-    outlinePen = OutlinePen(f, contrast=0, offset=1, connection="square", miterLimit=10)
-    g.draw(outlinePen)
-    outlinePen.drawSettings(drawInner=True, drawOuter=True)
-    outlinePen.drawPoints(insetPen)
-    f.performUndo()
+    def makeShadowGlyph(self, g, extrusionX, extrusionY):
+        self.extrusionX=extrusionX
+        f.prepareUndo()
+        m  = Identity
+        m = m.scale(1)
+        m = tuple(m)
+        self.makeShadowGlyphBackground(g)
+        shadowGlyph = f[str(g.name+".shadow")]
+        self.makeShadow(shadowGlyph, extrusionX, extrusionY)
+        shadowGlyph.removeOverlap()
+        insetPen = shadowGlyph.getPointPen()
+        transformPen = TransformPointPen(insetPen, m)
+        reversePen = ReverseContourPointPen(transformPen)
+        g.drawPoints(reversePen)
+        outlinePen = OutlinePen(f, contrast=0, offset=1, connection="square", miterLimit=10)
+        g.draw(outlinePen)
+        outlinePen.drawSettings(drawInner=True, drawOuter=True)
+        outlinePen.drawPoints(insetPen)
+        f.performUndo()
+    
+    def adjust(self, sender):
+        extrusionX = self.w.sliderX.get()
+        extrusionY = self.w.sliderY.get()
+        self.makeShadowGlyph(self, g, extrusionX, extrusionY)
+        self.drawIt()
 
-DrawBotViewer(f["G"])
+DrawBotViewer(g)
 # print(f.path)
-
