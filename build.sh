@@ -12,7 +12,7 @@ mkdir $OUTPUT_DIR
 
 for src in $SOURCE_DIR/*.designspace
 do
-  fontmake -m $src -o variable -i --output-dir $OUTPUT_DIR/
+  fontmake -m $src -o variable --output-dir $OUTPUT_DIR/
 done
 
 #test exported variable font file
