@@ -139,7 +139,7 @@
     <instance familyname="Crispy" stylename="100 Wide MaxGrade" filename="instances/Crispy-Default.ufo">
       <location>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="width" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
         <dimension name="grade" xvalue="50"/>
       </location>
       <kerning/>

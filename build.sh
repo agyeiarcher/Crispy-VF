@@ -1,10 +1,10 @@
 OUTPUT_DIR=build_output
-SOURCE_DIR= /sources/designspaces/WEIGHTWIDTHGRADE/
+SOURCE_DIR= sources/designspaces/WEIGHTWIDTHGRADE/
 #
 rm $OUTPUT_DIR -rf
 mkdir $OUTPUT_DIR
-cp fonts/Crispy[GRAD,wdth,wght].ttf $OUTPUT_DIR
-cp ofl.txt $OUTPUT_DIR/OFL.txt
+#cp fonts/Crispy[GRAD,wdth,wght].ttf $OUTPUT_DIR
+#cp ofl.txt $OUTPUT_DIR/OFL.txt
 #cp METADATA.pb $OUTPUT_DIR
 #cp DESCRIPTION.*.html $OUTPUT_DIR
 
