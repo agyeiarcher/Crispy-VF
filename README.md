@@ -2,4 +2,4 @@
 
 <br/>
 
-![Get off my dick](gomd.png)
+![Get off my dick](docs/gomd.png)
