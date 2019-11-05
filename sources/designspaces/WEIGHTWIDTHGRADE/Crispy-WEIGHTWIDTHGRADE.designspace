@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.0">
   <axes>
-    <axis tag="wght" name="weight" minimum="1" maximum="1000" default="1">
+    <axis tag="wght" name="weight" minimum="100" maximum="900" default="100">
       <labelname xml:lang="en">Weight</labelname>
     </axis>
     <axis tag="wdth" name="width" minimum="1" maximum="1000" default="1"/>
@@ -12,7 +12,7 @@
   <rules>
     <rule name="subwidth">
       <conditionset>
-        <condition name="weight" minimum="320" maximum="1000"/>
+        <condition name="weight" minimum="200" maximum="900"/>
         <condition name="width" minimum="300" maximum="1000"/>
       </conditionset>
       <sub name="G" with="G.wide"/>
@@ -29,7 +29,7 @@
     </rule>
     <rule name="narrowsubs">
       <conditionset>
-        <condition name="weight" minimum="1" maximum="1000"/>
+        <condition name="weight" minimum="100" maximum="900"/>
         <condition name="width" minimum="1" maximum="300"/>
         <condition name="grade" minimum="-50" maximum="50"/>
       </conditionset>
@@ -42,7 +42,7 @@
     </rule>
     <rule name="deepsub">
       <conditionset>
-        <condition name="weight" minimum="550" maximum="1000"/>
+        <condition name="weight" minimum="300" maximum="900"/>
         <condition name="width" minimum="600" maximum="1000"/>
         <condition name="grade" minimum="-50" maximum="50"/>
       </conditionset>
@@ -50,7 +50,7 @@
     </rule>
     <rule name="krule">
       <conditionset>
-        <condition name="weight" minimum="1" maximum="1000"/>
+        <condition name="weight" minimum="100" maximum="900"/>
         <condition name="width" minimum="1" maximum="1000"/>
         <condition name="grade" minimum="-50" maximum="50"/>
       </conditionset>
@@ -58,7 +58,7 @@
     </rule>
     <rule name="subY">
       <conditionset>
-        <condition name="weight" minimum="1" maximum="1000"/>
+        <condition name="weight" minimum="100" maximum="900"/>
         <condition name="width" minimum="200" maximum="1000"/>
         <condition name="grade" minimum="-50" maximum="50"/>
       </conditionset>
@@ -66,7 +66,7 @@
     </rule>
     <rule name="subYalt">
       <conditionset>
-        <condition name="weight" minimum="1" maximum="1000"/>
+        <condition name="weight" minimum="100" maximum="900"/>
         <condition name="width" minimum="501" maximum="1000"/>
         <condition name="grade" minimum="-50" maximum="50"/>
       </conditionset>
@@ -76,21 +76,21 @@
   <sources>
     <source filename="Crispy-parametric-NarrowThinMinGrade.ufo" familyname="Crispy" stylename="Narrow Thin MinGrade-maxXOPQ">
       <location>
-        <dimension name="weight" xvalue="1"/>
+        <dimension name="weight" xvalue="100"/>
         <dimension name="width" xvalue="1"/>
         <dimension name="grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Crispy-parametric-NarrowBlackMaxGrade.ufo" familyname="Crispy" stylename="Narrow Black MaxGrade-maxXOPQ">
       <location>
-        <dimension name="weight" xvalue="1000"/>
+        <dimension name="weight" xvalue="900"/>
         <dimension name="width" xvalue="1"/>
         <dimension name="grade" xvalue="50"/>
       </location>
     </source>
     <source filename="Crispy-parametric-NarrowBlackMinGrade.ufo" familyname="Crispy" stylename="Narrow Black MinGrade-maxXOPQ">
       <location>
-        <dimension name="weight" xvalue="1000"/>
+        <dimension name="weight" xvalue="900"/>
         <dimension name="width" xvalue="1"/>
         <dimension name="grade" xvalue="-50"/>
       </location>
@@ -101,44 +101,44 @@
       <features copy="1"/>
       <info copy="1"/>
       <location>
-        <dimension name="weight" xvalue="1"/>
+        <dimension name="weight" xvalue="100"/>
         <dimension name="width" xvalue="1"/>
         <dimension name="grade" xvalue="50"/>
       </location>
     </source>
     <source filename="Crispy-parametric-WideBlackMaxGrade.ufo" familyname="Crispy" stylename="Wide Black MaxGrade-maxXOPQ">
       <location>
-        <dimension name="weight" xvalue="1000"/>
+        <dimension name="weight" xvalue="900"/>
         <dimension name="width" xvalue="1000"/>
         <dimension name="grade" xvalue="50"/>
       </location>
     </source>
     <source filename="Crispy-parametric-WideBlackMinGrade.ufo" familyname="Crispy" stylename="Wide Black MinGrade-maxXOPQ">
       <location>
-        <dimension name="weight" xvalue="1000"/>
+        <dimension name="weight" xvalue="900"/>
         <dimension name="width" xvalue="1000"/>
         <dimension name="grade" xvalue="-50"/>
       </location>
     </source>
     <source filename="Crispy-parametric-WideThinMaxGrade.ufo" familyname="Crispy" stylename="Wide Thin MaxGrade-maxXOPQ">
       <location>
-        <dimension name="weight" xvalue="1"/>
+        <dimension name="weight" xvalue="100"/>
         <dimension name="width" xvalue="1000"/>
         <dimension name="grade" xvalue="50"/>
       </location>
     </source>
     <source filename="Crispy-parametric-WideThinMinGrade.ufo" familyname="Crispy" stylename="Wide Thin MinGrade-maxXOPQ">
       <location>
-        <dimension name="weight" xvalue="1"/>
+        <dimension name="weight" xvalue="100"/>
         <dimension name="width" xvalue="1000"/>
         <dimension name="grade" xvalue="-50"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance familyname="Crispy" stylename="0 Wide MaxGrade" filename="instances/Crispy-Default.ufo">
+    <instance familyname="Crispy" stylename="100 Wide MaxGrade" filename="instances/Crispy-Default.ufo">
       <location>
-        <dimension name="weight" xvalue="1"/>
+        <dimension name="weight" xvalue="100"/>
         <dimension name="width" xvalue="1"/>
         <dimension name="grade" xvalue="50"/>
       </location>
