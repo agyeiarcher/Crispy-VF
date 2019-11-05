@@ -3,7 +3,7 @@ SOURCE_DIR= /sources/designspaces/WEIGHTWIDTHGRADE/Crispy-WEIGHTWIDTHGRADE.desig
 #
 rm $OUTPUT_DIR -rf
 mkdir $OUTPUT_DIR
-#cp fonts/CRISPY[weight,width,grade].ttf $OUTPUT_DIR
+cp fonts/CRISPY[weight,width,grade].ttf $OUTPUT_DIR
 cp ofl.txt $OUTPUT_DIR/OFL.txt
 #cp METADATA.pb $OUTPUT_DIR
 #cp DESCRIPTION.*.html $OUTPUT_DIR
