@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A.shadow" format="2">
+  <advance width="4032"/>
+  <outline>
+    <contour>
+      <point x="3753" y="1465" type="line"/>
+      <point x="3753" y="802" type="line"/>
+      <point x="3803" y="802" type="line" smooth="yes" identifier="eTe9B4y76W"/>
+      <point x="3803" y="1515" type="line" smooth="yes" identifier="tUsW8L7b0y"/>
+      <point x="702" y="1515" type="line" smooth="yes" identifier="FsYtJ2vFnp"/>
+      <point x="259" y="1080" type="line" smooth="yes" identifier="VufvPdJ075"/>
+      <point x="259" y="1079" type="line"/>
+      <point x="652" y="1465" type="line"/>
+    </contour>
+    <contour>
+      <point x="3803" y="717" type="line" smooth="yes" identifier="QVexAlbAcl"/>
+      <point x="259" y="717" type="line" smooth="yes" identifier="viYRWe5UN7"/>
+      <point x="259" y="667" type="line"/>
+      <point x="3753" y="667" type="line"/>
+      <point x="3753" y="-50" type="line"/>
+      <point x="3856" y="-50" type="line"/>
+      <point x="3906" y="0" type="line" smooth="yes" identifier="kpn4Kw9J0C"/>
+      <point x="3803" y="0" type="line" smooth="yes" identifier="ZgsCdxNJRW"/>
+    </contour>
+    <contour>
+      <point x="157" y="0" type="line" smooth="yes" identifier="jFq8ta4UUc"/>
+      <point x="157" y="1107" type="line" smooth="yes" identifier="dqVr87m3uJ"/>
+      <point x="107" y="1057" type="line"/>
+      <point x="107" y="-50" type="line"/>
+      <point x="209" y="-50" type="line"/>
+      <point x="259" y="0" type="line" smooth="yes" identifier="dQz4RxYhG4"/>
+    </contour>
+  </outline>
+</glyph>

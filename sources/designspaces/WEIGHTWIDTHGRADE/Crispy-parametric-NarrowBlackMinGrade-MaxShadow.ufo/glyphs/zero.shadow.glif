@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.shadow" format="2">
+  <advance width="703"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line" identifier="4KX3b3mGg4"/>
+      <point x="40" y="1600" type="line" identifier="rx6fJSLiri"/>
+      <point x="-10" y="1550" type="line"/>
+      <point x="-10" y="-50" type="line"/>
+      <point x="683" y="-50" type="line"/>
+      <point x="733" y="0" type="line" identifier="V2j8wYP0nr"/>
+    </contour>
+    <contour>
+      <point x="443" y="238" type="line"/>
+      <point x="493" y="238" type="line"/>
+      <point x="493" y="1362" type="line"/>
+      <point x="279" y="1362" type="line"/>
+      <point x="279" y="1312" type="line"/>
+      <point x="443" y="1312" type="line"/>
+    </contour>
+  </outline>
+</glyph>

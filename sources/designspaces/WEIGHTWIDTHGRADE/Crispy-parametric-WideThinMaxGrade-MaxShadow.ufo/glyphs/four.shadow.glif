@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.shadow" format="2">
+  <advance width="3966"/>
+  <outline>
+    <contour>
+      <point x="3908" y="749" type="line"/>
+      <point x="3488" y="749" type="line"/>
+      <point x="3488" y="699" type="line"/>
+      <point x="3858" y="699" type="line"/>
+    </contour>
+    <contour>
+      <point x="3386" y="0" type="line"/>
+      <point x="3386" y="749" type="line"/>
+      <point x="128" y="749" type="line"/>
+      <point x="128" y="1111" type="line"/>
+      <point x="610" y="1668" type="line"/>
+      <point x="560" y="1618" type="line"/>
+      <point x="78" y="1061" type="line"/>
+      <point x="78" y="699" type="line"/>
+      <point x="3336" y="699" type="line"/>
+      <point x="3336" y="-50" type="line"/>
+      <point x="3438" y="-50" type="line"/>
+      <point x="3488" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="3336" y="834" type="line"/>
+      <point x="3386" y="834" type="line"/>
+      <point x="3386" y="1600" type="line"/>
+      <point x="3336" y="1550" type="line"/>
+    </contour>
+  </outline>
+</glyph>

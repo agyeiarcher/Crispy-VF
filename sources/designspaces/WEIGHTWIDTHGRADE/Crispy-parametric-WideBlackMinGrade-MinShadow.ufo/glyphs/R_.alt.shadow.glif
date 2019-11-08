@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R.alt.shadow" format="2">
+  <advance width="5084"/>
+  <outline>
+    <contour>
+      <point x="4915" y="1" type="line"/>
+      <point x="4435" y="487" type="line"/>
+      <point x="4938" y="491" type="line"/>
+      <point x="4988" y="541" type="line"/>
+      <point x="4386" y="536" type="line"/>
+      <point x="4915" y="1" type="line"/>
+      <point x="4078" y="1" type="line"/>
+      <point x="3646" y="373" type="line"/>
+      <point x="1157" y="373" type="line"/>
+      <point x="1081" y="1" type="line"/>
+      <point x="238" y="1" type="line"/>
+      <point x="238" y="1601" type="line"/>
+      <point x="188" y="1551" type="line"/>
+      <point x="188" y="-49" type="line"/>
+      <point x="1031" y="-49" type="line"/>
+      <point x="1081" y="1" type="line"/>
+      <point x="1147" y="323" type="line"/>
+      <point x="3596" y="323" type="line"/>
+      <point x="4028" y="-49" type="line"/>
+      <point x="4865" y="-49" type="line"/>
+    </contour>
+    <contour>
+      <point x="1158" y="848" type="line"/>
+      <point x="1101" y="991" type="line"/>
+      <point x="4019" y="991" type="line"/>
+      <point x="4075" y="848" type="line"/>
+      <point x="4145" y="848" type="line"/>
+      <point x="4069" y="1041" type="line"/>
+      <point x="1081" y="1041" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.wide.shadow" format="2">
+  <advance width="4888"/>
+  <outline>
+    <contour>
+      <point x="962" y="1047" type="line"/>
+      <point x="4636" y="1047" type="line"/>
+      <point x="4686" y="1097" type="line" identifier="3ZUkG35meB"/>
+      <point x="962" y="1097" type="line" identifier="BcuLfvaQKC"/>
+    </contour>
+    <contour>
+      <point x="120" y="0" type="line" identifier="09VlJ0BjUX"/>
+      <point x="120" y="503" type="line" identifier="yZDWuX8LLe"/>
+      <point x="70" y="453" type="line"/>
+      <point x="70" y="-50" type="line"/>
+      <point x="4636" y="-50" type="line"/>
+      <point x="4686" y="0" type="line" identifier="EagWihqFM8"/>
+    </contour>
+    <contour>
+      <point x="68" y="585" type="line"/>
+      <point x="3793" y="585" type="line"/>
+      <point x="3793" y="503" type="line"/>
+      <point x="3843" y="503" type="line" identifier="9kdl9SYsn8"/>
+      <point x="3843" y="635" type="line" identifier="yiV6OCBLHg"/>
+      <point x="118" y="635" type="line" identifier="3sQ8t8BZ6b"/>
+      <point x="118" y="1600" type="line" identifier="F4sQEYelA8"/>
+      <point x="68" y="1550" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F.wide.shadow" format="2">
+  <advance width="609"/>
+  <outline>
+    <contour>
+      <point x="279" y="1313" type="line"/>
+      <point x="605" y="1313" type="line"/>
+      <point x="655" y="1363" type="line" identifier="4E754ovOIe"/>
+      <point x="279" y="1363" type="line" identifier="ZvzwyrcwpS"/>
+    </contour>
+    <contour>
+      <point x="40" y="0" type="line" identifier="oAgH2tA6DJ"/>
+      <point x="40" y="1600" type="line" identifier="TBAYuCfUFX"/>
+      <point x="-10" y="1550" type="line"/>
+      <point x="-10" y="-50" type="line"/>
+      <point x="229" y="-50" type="line"/>
+      <point x="279" y="0" type="line" identifier="zCZyMcW5ho"/>
+    </contour>
+    <contour>
+      <point x="613" y="550" type="line" identifier="NmB7yyQuio"/>
+      <point x="279" y="550" type="line" identifier="yHYqkMd7LI"/>
+      <point x="279" y="500" type="line"/>
+      <point x="563" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

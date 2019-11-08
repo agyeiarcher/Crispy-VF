@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H.shadow" format="2">
+  <advance width="191"/>
+  <outline>
+    <contour>
+      <point x="177" y="780" type="line" identifier="7JgTtdb0jg"/>
+      <point x="85" y="780" type="line" identifier="QjywsYY2yB"/>
+      <point x="85" y="730" type="line"/>
+      <point x="127" y="730" type="line"/>
+      <point x="127" y="-50" type="line"/>
+      <point x="177" y="-50" type="line"/>
+      <point x="227" y="0" type="line" identifier="oOtn61SmRY"/>
+      <point x="177" y="0" type="line" identifier="njzlIRBsoY"/>
+    </contour>
+    <contour>
+      <point x="127" y="820" type="line"/>
+      <point x="177" y="820" type="line" identifier="MTAeavIVWY"/>
+      <point x="177" y="1600" type="line" identifier="db0bPhBdaU"/>
+      <point x="127" y="1550" type="line"/>
+    </contour>
+    <contour>
+      <point x="34" y="0" type="line" identifier="uqAJBjDIOT"/>
+      <point x="34" y="1600" type="line" identifier="ZnCDQVdtyD"/>
+      <point x="-16" y="1550" type="line"/>
+      <point x="-16" y="-50" type="line"/>
+      <point x="35" y="-50" type="line"/>
+      <point x="85" y="0" type="line" identifier="WUaPOcaxKT"/>
+    </contour>
+  </outline>
+</glyph>

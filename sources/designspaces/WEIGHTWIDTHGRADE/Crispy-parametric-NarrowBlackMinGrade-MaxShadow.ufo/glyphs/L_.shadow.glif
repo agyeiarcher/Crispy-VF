@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.shadow" format="2">
+  <advance width="642"/>
+  <outline>
+    <contour>
+      <point x="40" y="0" type="line" identifier="XkJNfQlnnt"/>
+      <point x="40" y="1600" type="line" identifier="XFf4mMUzYo"/>
+      <point x="-10" y="1550" type="line"/>
+      <point x="-10" y="-50" type="line"/>
+      <point x="638" y="-50" type="line"/>
+      <point x="688" y="0" type="line" identifier="82EXZEgt46"/>
+    </contour>
+    <contour>
+      <point x="399" y="237" type="line"/>
+      <point x="449" y="237" type="line" identifier="cqpSxwFiM3"/>
+      <point x="449" y="563" type="line" identifier="t7Q9RRLHt8"/>
+      <point x="399" y="513" type="line"/>
+    </contour>
+  </outline>
+</glyph>

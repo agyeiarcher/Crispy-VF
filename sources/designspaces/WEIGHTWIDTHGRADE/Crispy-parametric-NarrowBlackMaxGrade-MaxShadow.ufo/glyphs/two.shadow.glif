@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.shadow" format="2">
+  <advance width="735"/>
+  <outline>
+    <contour>
+      <point x="17" y="0" type="line"/>
+      <point x="17" y="513" type="line" identifier="teVKnpBcVb"/>
+      <point x="442" y="1093" type="line"/>
+      <point x="442" y="1341" type="line"/>
+      <point x="342" y="1341" type="line"/>
+      <point x="342" y="1291" type="line"/>
+      <point x="392" y="1291" type="line"/>
+      <point x="392" y="1043" type="line"/>
+      <point x="-33" y="463" type="line"/>
+      <point x="-33" y="-50" type="line"/>
+      <point x="737" y="-50" type="line"/>
+      <point x="787" y="0" type="line" identifier="pzdvPTirLJ"/>
+    </contour>
+    <contour>
+      <point x="-28" y="1078" type="line"/>
+      <point x="292" y="1078" type="line"/>
+      <point x="342" y="1128" type="line"/>
+      <point x="22" y="1128" type="line" identifier="LQ9fBsTy9K"/>
+      <point x="22" y="1600" type="line" identifier="svlFvrau4c"/>
+      <point x="-28" y="1550" type="line"/>
+    </contour>
+  </outline>
+</glyph>

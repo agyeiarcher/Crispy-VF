@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period.shadow" format="2">
+  <advance width="-6"/>
+  <outline>
+    <contour>
+      <point x="34" y="0" type="line" identifier="1m237t4hyw"/>
+      <point x="26" y="0" type="line" identifier="S4rO5KuHiL"/>
+      <point x="26" y="4" type="line"/>
+      <point x="27" y="7" type="line" identifier="zfocDyDTCM"/>
+      <point x="-23" y="-43" type="line"/>
+      <point x="-24" y="-46" type="line"/>
+      <point x="-24" y="-50" type="line"/>
+      <point x="-16" y="-50" type="line"/>
+    </contour>
+    <contour>
+      <point x="35.0" y="8.0" type="line"/>
+      <point x="35.0" y="-1.0000000000000002" type="line"/>
+      <point x="25.0" y="-0.9999999999999998" type="line"/>
+      <point x="25.0" y="4.162277660168383" type="line"/>
+      <point x="26.279240779943873" y="8.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="33.0" y="1.2246467991473532e-16" type="line"/>
+      <point x="33.0" y="7.0" type="line"/>
+      <point x="34.0" y="6.0" type="line"/>
+      <point x="27.0" y="6.0" type="line"/>
+      <point x="27.948683298050515" y="6.683772233983162" type="line"/>
+      <point x="26.948683298050515" y="3.683772233983162" type="line"/>
+      <point x="27.0" y="3.9999999999999996" type="line"/>
+      <point x="27.0" y="-2.4492935982947064e-16" type="line"/>
+      <point x="26.0" y="1.0" type="line"/>
+      <point x="34.0" y="1.0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

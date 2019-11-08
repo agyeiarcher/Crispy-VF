@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.shadow" format="2">
+  <advance width="4681"/>
+  <outline>
+    <contour>
+      <point x="119" y="0" type="line"/>
+      <point x="119" y="503" type="line"/>
+      <point x="69" y="453" type="line"/>
+      <point x="69" y="-50" type="line"/>
+      <point x="4583" y="-50" type="line"/>
+      <point x="4633" y="0" type="line" identifier="CURJAw79Zl"/>
+    </contour>
+    <contour>
+      <point x="158" y="1047" type="line"/>
+      <point x="1904" y="1047" type="line"/>
+      <point x="1904" y="503" type="line"/>
+      <point x="1954" y="503" type="line"/>
+      <point x="1954" y="1097" type="line"/>
+      <point x="208" y="1097" type="line"/>
+      <point x="208" y="1600" type="line"/>
+      <point x="158" y="1550" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="comma.shadow" format="2">
+  <advance width="424"/>
+  <outline>
+    <contour>
+      <point x="305" y="-566" type="line"/>
+      <point x="287" y="-566" type="line"/>
+      <point x="287" y="0" type="line"/>
+      <point x="233" y="0" type="line"/>
+      <point x="233" y="58" type="line"/>
+      <point x="249" y="88" type="line"/>
+      <point x="199" y="38" type="line"/>
+      <point x="183" y="8" type="line"/>
+      <point x="183" y="-50" type="line"/>
+      <point x="237" y="-50" type="line"/>
+      <point x="237" y="-616" type="line"/>
+      <point x="255" y="-616" type="line"/>
+    </contour>
+  </outline>
+</glyph>

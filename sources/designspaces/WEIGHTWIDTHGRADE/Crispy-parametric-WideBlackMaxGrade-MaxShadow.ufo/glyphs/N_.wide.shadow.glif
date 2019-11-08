@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N.wide.shadow" format="2">
+  <advance width="4702"/>
+  <outline>
+    <contour>
+      <point x="1331" y="1056" type="line" identifier="MEnBDHq6zU"/>
+      <point x="1203" y="1056" type="line" identifier="wfBbYd10Pm"/>
+      <point x="1203" y="1006" type="line"/>
+      <point x="1281" y="1006" type="line"/>
+      <point x="3191" y="-50" type="line"/>
+      <point x="4530" y="-50" type="line"/>
+      <point x="4580" y="0" type="line" identifier="uKfuudIUvA"/>
+      <point x="3241" y="0" type="line" identifier="3Nbopwznvn"/>
+    </contour>
+    <contour>
+      <point x="3585" y="546" type="line"/>
+      <point x="3635" y="546" type="line" identifier="VILP20cFmq"/>
+      <point x="3635" y="1600" type="line" identifier="MUSJPjCIXg"/>
+      <point x="3585" y="1550" type="line"/>
+    </contour>
+    <contour>
+      <point x="259" y="0" type="line" identifier="CkwYPPvJLv"/>
+      <point x="259" y="1600" type="line" identifier="dzUaaP1sjt"/>
+      <point x="209" y="1550" type="line"/>
+      <point x="209" y="-50" type="line"/>
+      <point x="1153" y="-50" type="line"/>
+      <point x="1203" y="0" type="line" identifier="oHTJsN7drZ"/>
+    </contour>
+  </outline>
+</glyph>

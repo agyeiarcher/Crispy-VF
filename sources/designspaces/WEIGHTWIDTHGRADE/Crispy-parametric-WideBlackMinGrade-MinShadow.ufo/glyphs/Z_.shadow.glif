@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z.shadow" format="2">
+  <advance width="4603"/>
+  <outline>
+    <contour>
+      <point x="118" y="0" type="line"/>
+      <point x="119" y="840" type="line" identifier="teVKnpBcVb"/>
+      <point x="3359" y="1133" type="line"/>
+      <point x="3690" y="1133" type="line"/>
+      <point x="3691" y="1163" type="line"/>
+      <point x="3359" y="1133" type="line"/>
+      <point x="974" y="1133" type="line"/>
+      <point x="974" y="1083" type="line"/>
+      <point x="2806" y="1083" type="line"/>
+      <point x="119" y="840" type="line"/>
+      <point x="69" y="790" type="line"/>
+      <point x="68" y="-50" type="line"/>
+      <point x="4503" y="-50" type="line"/>
+      <point x="4553" y="0" type="line" identifier="pzdvPTirLJ"/>
+    </contour>
+    <contour>
+      <point x="86" y="952" type="line"/>
+      <point x="924" y="952" type="line"/>
+      <point x="974" y="1002" type="line"/>
+      <point x="136" y="1002" type="line" identifier="LQ9fBsTy9K"/>
+      <point x="136" y="1600" type="line" identifier="svlFvrau4c"/>
+      <point x="86" y="1550" type="line"/>
+    </contour>
+    <contour>
+      <point x="3659" y="467" type="line"/>
+      <point x="3709" y="467" type="line"/>
+      <point x="3709" y="673" type="line"/>
+      <point x="3659" y="623" type="line"/>
+    </contour>
+    <contour>
+      <point x="962" y="467" type="line"/>
+      <point x="1159" y="467" type="line"/>
+      <point x="4484" y="790" type="line"/>
+      <point x="4534" y="840" type="line" identifier="yyb1NCCI5w"/>
+      <point x="962" y="493" type="line"/>
+    </contour>
+  </outline>
+</glyph>

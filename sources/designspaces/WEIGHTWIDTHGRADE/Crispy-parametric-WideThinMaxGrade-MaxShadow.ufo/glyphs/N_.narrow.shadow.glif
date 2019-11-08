@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N.narrow.shadow" format="2">
+  <advance width="3070"/>
+  <outline>
+    <contour>
+      <point x="2841" y="1515" type="line"/>
+      <point x="540" y="1515" type="line"/>
+      <point x="499" y="1465" type="line"/>
+      <point x="2791" y="1465" type="line"/>
+      <point x="2791" y="-50" type="line"/>
+      <point x="2894" y="-50" type="line"/>
+      <point x="2944" y="0" type="line" smooth="yes"/>
+      <point x="2841" y="0" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="499" y="1465" type="line"/>
+      <point x="299" y="1218" type="line"/>
+      <point x="499" y="1465" type="line"/>
+    </contour>
+    <contour>
+      <point x="197" y="14" type="line" smooth="yes"/>
+      <point x="197" y="1600" type="line"/>
+      <point x="147" y="1550" type="line"/>
+      <point x="147" y="-36" type="line"/>
+      <point x="249" y="-36" type="line"/>
+      <point x="299" y="14" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="1333" type="line"/>
+      <point x="304" y="1333" type="line"/>
+      <point x="519" y="1600" type="line" smooth="yes"/>
+      <point x="469" y="1550" type="line"/>
+    </contour>
+  </outline>
+</glyph>

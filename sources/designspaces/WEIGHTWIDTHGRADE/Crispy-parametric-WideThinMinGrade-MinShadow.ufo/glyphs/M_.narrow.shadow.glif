@@ -1,0 +1,82 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.narrow.shadow" format="2">
+  <advance width="4880"/>
+  <outline>
+    <contour>
+      <point x="4787" y="0" type="line" smooth="yes" identifier="12Pyby1xY2"/>
+      <point x="4787" y="1596" type="line" identifier="iqeTRv7HXg"/>
+      <point x="2498" y="1596" type="line" identifier="GlWB6PG54Z"/>
+      <point x="2498" y="1546" type="line"/>
+      <point x="4737" y="1546" type="line"/>
+      <point x="4737" y="-50" type="line"/>
+      <point x="4742" y="-50" type="line"/>
+      <point x="4792" y="0" type="line" smooth="yes" identifier="5LJg4ajoG6"/>
+    </contour>
+    <contour>
+      <point x="2493" y="1596" type="line" identifier="Ljn2lpvpG8"/>
+      <point x="706" y="1596" type="line" smooth="yes" identifier="oee4nqI8Wl"/>
+      <point x="203" y="1105" type="line" smooth="yes" identifier="WWvGwSpq0g"/>
+      <point x="203" y="1104" type="line"/>
+      <point x="656" y="1546" type="line"/>
+      <point x="2443" y="1546" type="line"/>
+      <point x="2443" y="-50" type="line"/>
+      <point x="2448" y="-50" type="line"/>
+      <point x="2498" y="0" type="line"/>
+      <point x="2493" y="0" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="148" y="-50" type="line"/>
+      <point x="153" y="-50" type="line"/>
+      <point x="203" y="0" type="line" identifier="JfSFAkWGZC"/>
+      <point x="198" y="0" type="line" smooth="yes" identifier="RTOJW56qXy"/>
+      <point x="198" y="1106" type="line" smooth="yes" identifier="7g7f8Wu7K4"/>
+      <point x="148" y="1056" type="line"/>
+    </contour>
+    <contour>
+      <point x="4793.0" y="-1.0000000000000002" type="line"/>
+      <point x="4786.0" y="-0.9999999999999998" type="line"/>
+      <point x="4786.0" y="1596.0" type="line"/>
+      <point x="4787.0" y="1595.0" type="line"/>
+      <point x="2498.0" y="1595.0" type="line"/>
+      <point x="2499.0" y="1596.0" type="line"/>
+      <point x="2499.0" y="-1.0000000000000002" type="line"/>
+      <point x="2492.0" y="-0.9999999999999998" type="line"/>
+      <point x="2492.0" y="1596.0" type="line"/>
+      <point x="2493.0" y="1595.0" type="line"/>
+      <point x="706.0" y="1595.0" type="line"/>
+      <point x="706.698519380273" y="1595.284408862979" type="line"/>
+      <point x="203.69851938027298" y="1104.284408862979" type="line"/>
+      <point x="204.0" y="1105.0" type="line"/>
+      <point x="204.0" y="-1.0000000000000002" type="line"/>
+      <point x="197.0" y="-0.9999999999999998" type="line"/>
+      <point x="197.0" y="1106.4200952240603" type="line"/>
+      <point x="701.5916437390154" y="1601.0" type="line"/>
+      <point x="4793.0" y="1601.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="4787.0" y="1.0" type="line"/>
+      <point x="4792.0" y="1.0" type="line"/>
+      <point x="4791.0" y="1.2246467991473532e-16" type="line"/>
+      <point x="4791.0" y="1600.0" type="line"/>
+      <point x="4792.0" y="1599.0" type="line"/>
+      <point x="702.0" y="1599.0" type="line"/>
+      <point x="702.6999864040415" y="1599.2858438306946" type="line"/>
+      <point x="198.69998640404148" y="1105.2858438306946" type="line"/>
+      <point x="199.0" y="1106.0" type="line"/>
+      <point x="199.0" y="-2.4492935982947064e-16" type="line"/>
+      <point x="198.0" y="1.0" type="line"/>
+      <point x="203.0" y="1.0" type="line"/>
+      <point x="202.0" y="1.2246467991473532e-16" type="line"/>
+      <point x="202.0" y="1105.4213028978838" type="line"/>
+      <point x="705.5928404121476" y="1597.0" type="line"/>
+      <point x="2494.0" y="1597.0" type="line"/>
+      <point x="2494.0" y="-2.4492935982947064e-16" type="line"/>
+      <point x="2493.0" y="1.0" type="line"/>
+      <point x="2498.0" y="1.0" type="line"/>
+      <point x="2497.0" y="1.2246467991473532e-16" type="line"/>
+      <point x="2497.0" y="1597.0" type="line"/>
+      <point x="4788.0" y="1597.0" type="line"/>
+      <point x="4788.0" y="-2.4492935982947064e-16" type="line"/>
+    </contour>
+  </outline>
+</glyph>

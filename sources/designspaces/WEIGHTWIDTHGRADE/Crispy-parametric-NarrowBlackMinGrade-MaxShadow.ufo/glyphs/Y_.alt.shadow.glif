@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y.alt.shadow" format="2">
+  <advance width="676"/>
+  <outline>
+    <contour>
+      <point x="-26" y="633" type="line"/>
+      <point x="417" y="633" type="line"/>
+      <point x="417" y="236" type="line"/>
+      <point x="467" y="236" type="line"/>
+      <point x="467" y="683" type="line" identifier="7JgTtdb0jg"/>
+      <point x="24" y="683" type="line" identifier="uqAJBjDIOT"/>
+      <point x="24" y="1600" type="line" identifier="ZnCDQVdtyD"/>
+      <point x="-26" y="1550" type="line"/>
+    </contour>
+    <contour>
+      <point x="417" y="920" type="line"/>
+      <point x="467" y="920" type="line" identifier="MTAeavIVWY"/>
+      <point x="467" y="1600" type="line" identifier="db0bPhBdaU"/>
+      <point x="417" y="1550" type="line"/>
+    </contour>
+    <contour>
+      <point x="36" y="0" type="line"/>
+      <point x="36" y="498" type="line"/>
+      <point x="-14" y="448" type="line"/>
+      <point x="-14" y="-50" type="line"/>
+      <point x="656" y="-50" type="line"/>
+      <point x="706" y="0" type="line" identifier="oOtn61SmRY"/>
+    </contour>
+  </outline>
+</glyph>

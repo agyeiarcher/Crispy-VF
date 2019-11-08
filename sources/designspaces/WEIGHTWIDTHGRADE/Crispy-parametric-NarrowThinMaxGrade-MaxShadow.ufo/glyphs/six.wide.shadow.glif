@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.wide.shadow" format="2">
+  <advance width="161"/>
+  <outline>
+    <contour>
+      <point x="68" y="1405" type="line"/>
+      <point x="92" y="1509" type="line"/>
+      <point x="161" y="1509" type="line"/>
+      <point x="211" y="1559" type="line"/>
+      <point x="103" y="1559" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="778" type="line"/>
+      <point x="68" y="778" type="line"/>
+      <point x="68" y="728" type="line"/>
+      <point x="111" y="728" type="line"/>
+      <point x="111" y="41" type="line"/>
+      <point x="161" y="41" type="line"/>
+    </contour>
+    <contour>
+      <point x="18" y="0" type="line" identifier="uiw6aBUf4P"/>
+      <point x="18" y="1406" type="line" identifier="KnMArb0tv8"/>
+      <point x="56" y="1600" type="line" identifier="xR3pEHbMJx"/>
+      <point x="6" y="1550" type="line"/>
+      <point x="-32" y="1356" type="line"/>
+      <point x="-32" y="-50" type="line"/>
+      <point x="161" y="-50" type="line"/>
+      <point x="211" y="0" type="line" identifier="jtYkxiUX6G"/>
+    </contour>
+  </outline>
+</glyph>

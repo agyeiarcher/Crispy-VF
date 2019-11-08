@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.shadow" format="2">
+  <advance width="4675"/>
+  <outline>
+    <contour>
+      <point x="118" y="0" type="line"/>
+      <point x="118" y="790" type="line" identifier="teVKnpBcVb"/>
+      <point x="3484" y="1047" type="line"/>
+      <point x="3484" y="1047" type="line"/>
+      <point x="3534" y="1051" type="line"/>
+      <point x="3534" y="1133" type="line"/>
+      <point x="977" y="1133" type="line"/>
+      <point x="977" y="1083" type="line"/>
+      <point x="3484" y="1083" type="line"/>
+      <point x="3484" y="1047" type="line"/>
+      <point x="118" y="790" type="line"/>
+      <point x="68" y="740" type="line"/>
+      <point x="68" y="-50" type="line"/>
+      <point x="4577" y="-50" type="line"/>
+      <point x="4627" y="0" type="line" identifier="pzdvPTirLJ"/>
+    </contour>
+    <contour>
+      <point x="87" y="915" type="line"/>
+      <point x="927" y="915" type="line"/>
+      <point x="977" y="965" type="line"/>
+      <point x="137" y="965" type="line" identifier="LQ9fBsTy9K"/>
+      <point x="137" y="1600" type="line" identifier="svlFvrau4c"/>
+      <point x="87" y="1550" type="line"/>
+    </contour>
+    <contour>
+      <point x="1114" y="467" type="line"/>
+      <point x="1257" y="467" type="line"/>
+      <point x="4517" y="738" type="line"/>
+      <point x="4567" y="788" type="line" identifier="yyb1NCCI5w"/>
+      <point x="1114" y="501" type="line"/>
+    </contour>
+  </outline>
+</glyph>
