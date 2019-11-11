@@ -1,37 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="two.shadow" format="2">
-  <advance width="3854"/>
+  <advance width="3754"/>
   <outline>
     <contour>
-      <point x="135" y="581" type="line"/>
-      <point x="3718" y="1138" type="line"/>
+      <point x="135" y="496" type="line"/>
+      <point x="3618" y="1038" type="line"/>
       <point x="3768" y="1188" type="line" identifier="yyb1NCCI5w"/>
       <point x="135" y="623" type="line"/>
     </contour>
     <contour>
       <point x="129" y="0" type="line"/>
       <point x="129" y="625" type="line" identifier="teVKnpBcVb"/>
-      <point x="3712" y="1181" type="line"/>
-      <point x="3712" y="1181" type="line"/>
       <point x="3762" y="1189" type="line"/>
       <point x="3762" y="1596" type="line"/>
       <point x="137" y="1596" type="line"/>
-      <point x="137" y="1546" type="line"/>
-      <point x="3712" y="1546" type="line"/>
-      <point x="3712" y="1181" type="line"/>
+      <point x="137" y="1446" type="line"/>
+      <point x="3612" y="1446" type="line"/>
+      <point x="3612" y="1166" type="line"/>
       <point x="129" y="625" type="line"/>
-      <point x="79" y="575" type="line"/>
-      <point x="79" y="-50" type="line"/>
-      <point x="3744" y="-50" type="line"/>
+      <point x="-21" y="475" type="line"/>
+      <point x="-21" y="-150" type="line"/>
+      <point x="3644" y="-150" type="line"/>
       <point x="3794" y="0" type="line" identifier="pzdvPTirLJ"/>
     </contour>
     <contour>
-      <point x="82" y="1191" type="line"/>
-      <point x="87" y="1191" type="line"/>
+      <point x="-18" y="1091" type="line"/>
+      <point x="-13" y="1091" type="line"/>
       <point x="137" y="1241" type="line"/>
       <point x="132" y="1241" type="line" identifier="LQ9fBsTy9K"/>
       <point x="132" y="1600" type="line" identifier="svlFvrau4c"/>
-      <point x="82" y="1550" type="line"/>
+      <point x="-18" y="1450" type="line"/>
     </contour>
     <contour>
       <point x="3795.0" y="-1.0000000000000002" type="line"/>

@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="C.wide.shadow" format="2">
-  <advance width="3650"/>
+  <advance width="3550"/>
   <outline>
     <contour>
       <point x="85" y="0" type="line" identifier="7lPhzTnk2Z"/>
       <point x="85" y="1107" type="line" identifier="V1EWIdPahq"/>
-      <point x="35" y="1057" type="line"/>
-      <point x="35" y="-50" type="line"/>
-      <point x="3540" y="-50" type="line"/>
+      <point x="-65" y="957" type="line"/>
+      <point x="-65" y="-150" type="line"/>
+      <point x="3440" y="-150" type="line"/>
       <point x="3590" y="0" type="line" identifier="qJVLZGnkwh"/>
     </contour>
     <contour>
       <point x="89" y="1105" type="line" identifier="sUWsr03vF4"/>
-      <point x="89" y="1104" type="line"/>
-      <point x="541" y="1546" type="line"/>
-      <point x="3539" y="1546" type="line"/>
+      <point x="89" y="1102" type="line"/>
+      <point x="441" y="1446" type="line"/>
+      <point x="3439" y="1446" type="line"/>
       <point x="3589" y="1596" type="line" identifier="5BjRbcud80"/>
       <point x="591" y="1596" type="line" identifier="dbOUe6OhxL"/>
     </contour>

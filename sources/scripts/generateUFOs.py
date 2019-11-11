@@ -230,39 +230,39 @@ for font in fontList:
         if boldWeight in styleName:
             if maxGrade in styleName:
                 if narrowWidth in styleName:
-                    extrusionX = -50
-                    extrusionY = -50
+                    extrusionX = -150
+                    extrusionY = -150
                 elif wideWidth in styleName:
-                    extrusionX = -50
-                    extrusionY = -50
+                    extrusionX = -150
+                    extrusionY = -150
                 if p[g]:
                     makeShadowGlyph(p, p[g], 1)
             if minGrade in styleName:
                 if narrowWidth in styleName:
-                    extrusionX = -50
-                    extrusionY = -50
+                    extrusionX = -150
+                    extrusionY = -150
                 elif wideWidth in styleName:
-                    extrusionX = -50
-                    extrusionY = -50
+                    extrusionX = -150
+                    extrusionY = -150
                 if p[g]:
                     makeShadowGlyph(p, p[g], 1)
         if lightWeight in styleName:
             if maxGrade in styleName:
                 if narrowWidth in styleName:
-                    extrusionX = -50
-                    extrusionY = -50
+                    extrusionX = -150
+                    extrusionY = -150
                 elif wideWidth in styleName:
-                    extrusionX = -50
-                    extrusionY = -50
+                    extrusionX = -150
+                    extrusionY = -150
                 if p[g]:
                     makeShadowGlyph(p, p[g], 1)
             if minGrade in styleName:
                 if narrowWidth in styleName:
-                    extrusionX = -50
-                    extrusionY = -50
+                    extrusionX = -150
+                    extrusionY = -150
                 elif wideWidth in styleName:
-                    extrusionX = -50
-                    extrusionY = -50
+                    extrusionX = -150
+                    extrusionY = -150
                 if p[g]:
                     makeShadowGlyph(p, p[g], 1)
         p.save()

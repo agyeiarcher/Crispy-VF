@@ -1,31 +1,63 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seven.shadow" format="2">
-  <advance width="3943"/>
+  <advance width="3843"/>
   <outline>
     <contour>
       <point x="1920" y="0" type="line"/>
-      <point x="3704" y="1205" type="line"/>
-      <point x="3704" y="1205" type="line"/>
       <point x="3754" y="1239" type="line"/>
       <point x="3754" y="1515" type="line"/>
       <point x="230" y="1515" type="line"/>
-      <point x="230" y="1465" type="line"/>
-      <point x="3704" y="1465" type="line"/>
-      <point x="3704" y="1205" type="line"/>
+      <point x="230" y="1365" type="line"/>
+      <point x="3604" y="1365" type="line"/>
+      <point x="3604" y="1138" type="line"/>
       <point x="1920" y="0" type="line"/>
-      <point x="1870" y="-50" type="line"/>
-      <point x="1982" y="-50" type="line"/>
-      <point x="3835" y="1188" type="line"/>
+      <point x="1770" y="-150" type="line"/>
+      <point x="1882" y="-150" type="line"/>
+      <point x="3735" y="1088" type="line"/>
       <point x="3885" y="1238" type="line" identifier="PkvwNC9Tx1"/>
       <point x="2032" y="0" type="line" identifier="PiPrv7Kcoy"/>
     </contour>
     <contour>
-      <point x="78" y="913" type="line"/>
-      <point x="180" y="913" type="line"/>
+      <point x="-22" y="813" type="line"/>
+      <point x="80" y="813" type="line"/>
       <point x="230" y="963" type="line"/>
       <point x="128" y="963" type="line" identifier="aaDZsh5Mah"/>
       <point x="128" y="1600" type="line" identifier="36ml4xRICt"/>
-      <point x="78" y="1550" type="line"/>
+      <point x="-22" y="1450" type="line"/>
+    </contour>
+    <contour>
+      <point x="2032.303319178435" y="-1.0" type="line"/>
+      <point x="1916.7334176701333" y="-0.9999999999999996" type="line"/>
+      <point x="3753.4402012762207" y="1239.8286286193797" type="line"/>
+      <point x="3753.0" y="1239.0" type="line"/>
+      <point x="3753.0" y="1515.0" type="line"/>
+      <point x="3754.0" y="1514.0" type="line"/>
+      <point x="230.0" y="1514.0" type="line"/>
+      <point x="231.0" y="1515.0" type="line"/>
+      <point x="231.0" y="962.0" type="line"/>
+      <point x="127.0" y="962.0" type="line"/>
+      <point x="127.0" y="1601.0" type="line"/>
+      <point x="3886.0" y="1601.0" type="line"/>
+      <point x="3886.0" y="1237.4654564798152" type="line"/>
+    </contour>
+    <contour>
+      <point x="1920.0" y="1.0" type="line"/>
+      <point x="2032.0" y="1.0" type="line"/>
+      <point x="2031.4444716531934" y="0.8314975982492874" type="line"/>
+      <point x="3884.4444716531934" y="1238.8314975982494" type="line"/>
+      <point x="3884.0" y="1238.0" type="line"/>
+      <point x="3884.0" y="1600.0" type="line"/>
+      <point x="3885.0" y="1599.0" type="line"/>
+      <point x="128.0" y="1599.0" type="line"/>
+      <point x="129.0" y="1600.0" type="line"/>
+      <point x="129.0" y="963.0" type="line"/>
+      <point x="128.0" y="964.0" type="line"/>
+      <point x="230.0" y="964.0" type="line"/>
+      <point x="229.0" y="963.0" type="line"/>
+      <point x="229.0" y="1516.0" type="line"/>
+      <point x="3755.0" y="1516.0" type="line"/>
+      <point x="3755.0" y="1238.4687592657006" type="line"/>
+      <point x="1920.5597987237793" y="-0.8286286193796297" type="line"/>
     </contour>
   </outline>
 </glyph>

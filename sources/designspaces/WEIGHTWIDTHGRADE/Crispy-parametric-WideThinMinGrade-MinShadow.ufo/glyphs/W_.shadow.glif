@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="W.shadow" format="2">
-  <advance width="4880"/>
+  <advance width="4780"/>
   <outline>
     <contour>
       <point x="4284" y="4" type="line" smooth="yes" identifier="oee4nqI8Wl"/>
-      <point x="4737" y="447" type="line"/>
-      <point x="4737" y="447" type="line"/>
+      <point x="4637" y="349" type="line"/>
+      <point x="4637" y="349" type="line"/>
       <point x="4787" y="496" type="line" smooth="yes" identifier="WWvGwSpq0g"/>
       <point x="4787" y="1600" type="line" identifier="JfSFAkWGZC"/>
-      <point x="4737" y="1550" type="line"/>
-      <point x="4737" y="447" type="line"/>
+      <point x="4637" y="1450" type="line"/>
+      <point x="4637" y="349" type="line"/>
     </contour>
     <contour>
       <point x="2493" y="0" type="line" smooth="yes" identifier="Pkl7cZ37MU"/>
@@ -18,24 +18,24 @@
       <point x="2284" y="0" type="line" smooth="yes" identifier="rCeQLyjlsN"/>
       <point x="198" y="0" type="line" smooth="yes" identifier="ZqTZqAY3uY"/>
       <point x="198" y="1600" type="line" smooth="yes" identifier="5LJg4ajoG6"/>
-      <point x="148" y="1550" type="line"/>
-      <point x="148" y="-50" type="line"/>
-      <point x="2234" y="-50" type="line"/>
+      <point x="48" y="1450" type="line"/>
+      <point x="48" y="-150" type="line"/>
+      <point x="2134" y="-150" type="line"/>
       <point x="2284" y="0" type="line" smooth="yes"/>
-      <point x="2443" y="227" type="line"/>
-      <point x="2443" y="-50" type="line"/>
-      <point x="4238" y="-50" type="line"/>
-      <point x="4742" y="445" type="line"/>
+      <point x="2343" y="84" type="line"/>
+      <point x="2343" y="-150" type="line"/>
+      <point x="4138" y="-150" type="line"/>
+      <point x="4642" y="345" type="line"/>
       <point x="4792" y="495" type="line" smooth="yes" identifier="7g7f8Wu7K4"/>
       <point x="4288" y="0" type="line" smooth="yes" identifier="R4lklfJsHA"/>
     </contour>
     <contour>
-      <point x="2443" y="253" type="line"/>
-      <point x="2267" y="4" type="line"/>
+      <point x="2343" y="153" type="line"/>
+      <point x="2238" y="4" type="line"/>
       <point x="2282" y="4" type="line" identifier="GlWB6PG54Z"/>
       <point x="2493" y="303" type="line"/>
       <point x="2493" y="1501" type="line"/>
-      <point x="2443" y="1451" type="line"/>
+      <point x="2343" y="1351" type="line"/>
     </contour>
     <contour>
       <point x="197.0" y="1601.0" type="line"/>

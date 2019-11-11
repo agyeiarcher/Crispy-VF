@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H.shadow" format="2">
-  <advance width="3994"/>
+  <advance width="3894"/>
   <outline>
     <contour>
       <point x="3858" y="798" type="line" identifier="7JgTtdb0jg"/>
       <point x="203" y="798" type="line" identifier="QjywsYY2yB"/>
-      <point x="203" y="748" type="line"/>
-      <point x="3808" y="748" type="line"/>
-      <point x="3808" y="-50" type="line"/>
-      <point x="3814" y="-50" type="line"/>
+      <point x="203" y="648" type="line"/>
+      <point x="3708" y="648" type="line"/>
+      <point x="3708" y="-150" type="line"/>
+      <point x="3714" y="-150" type="line"/>
       <point x="3864" y="0" type="line" identifier="oOtn61SmRY"/>
       <point x="3858" y="0" type="line" identifier="njzlIRBsoY"/>
     </contour>
     <contour>
-      <point x="3808" y="802" type="line"/>
+      <point x="3708" y="802" type="line"/>
       <point x="3858" y="802" type="line" identifier="MTAeavIVWY"/>
       <point x="3858" y="1600" type="line" identifier="db0bPhBdaU"/>
-      <point x="3808" y="1550" type="line"/>
+      <point x="3708" y="1450" type="line"/>
     </contour>
     <contour>
       <point x="198" y="0" type="line" identifier="uqAJBjDIOT"/>
       <point x="198" y="1600" type="line" identifier="ZnCDQVdtyD"/>
-      <point x="148" y="1550" type="line"/>
-      <point x="148" y="-50" type="line"/>
-      <point x="153" y="-50" type="line"/>
+      <point x="48" y="1450" type="line"/>
+      <point x="48" y="-150" type="line"/>
+      <point x="53" y="-150" type="line"/>
       <point x="203" y="0" type="line" identifier="WUaPOcaxKT"/>
     </contour>
     <contour>

@@ -1,14 +1,30 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="I.narrow.shadow" format="2">
-  <advance width="1367"/>
+  <advance width="1267"/>
   <outline>
     <contour>
       <point x="1141" y="0" type="line" identifier="1m237t4hyw"/>
       <point x="296" y="0" type="line" identifier="S4rO5KuHiL"/>
       <point x="296" y="1601" type="line" identifier="zfocDyDTCM"/>
-      <point x="246" y="1551" type="line"/>
-      <point x="246" y="-50" type="line"/>
-      <point x="1091" y="-50" type="line"/>
+      <point x="146" y="1451" type="line"/>
+      <point x="146" y="-150" type="line"/>
+      <point x="991" y="-150" type="line"/>
+    </contour>
+    <contour>
+      <point x="1142.0" y="1602.0" type="line"/>
+      <point x="1142.0" y="-1.0000000000000002" type="line"/>
+      <point x="295.0" y="-0.9999999999999998" type="line"/>
+      <point x="295.0" y="1602.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1140.0" y="1.2246467991473532e-16" type="line"/>
+      <point x="1140.0" y="1601.0" type="line"/>
+      <point x="1141.0" y="1600.0" type="line"/>
+      <point x="296.0" y="1600.0" type="line"/>
+      <point x="297.0" y="1601.0" type="line"/>
+      <point x="297.0" y="-2.4492935982947064e-16" type="line"/>
+      <point x="296.0" y="1.0" type="line"/>
+      <point x="1141.0" y="1.0" type="line"/>
     </contour>
   </outline>
 </glyph>

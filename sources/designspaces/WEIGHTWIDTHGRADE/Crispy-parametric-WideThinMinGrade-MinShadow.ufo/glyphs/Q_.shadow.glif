@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Q.shadow" format="2">
-  <advance width="4033"/>
+  <advance width="3933"/>
   <outline>
     <contour>
       <point x="3898" y="4" type="line" identifier="jjd5iRDXWT"/>
       <point x="3898" y="1596" type="line" identifier="g70r2r6DwY"/>
       <point x="655" y="1596" type="line" identifier="qXlVxK5ShE"/>
       <point x="164" y="1245" type="line" identifier="vdfGLkskOQ"/>
-      <point x="164" y="1231" type="line"/>
-      <point x="605" y="1546" type="line"/>
-      <point x="3848" y="1546" type="line"/>
-      <point x="3848" y="4" type="line"/>
+      <point x="164" y="1202" type="line"/>
+      <point x="505" y="1446" type="line"/>
+      <point x="3748" y="1446" type="line"/>
+      <point x="3748" y="4" type="line"/>
     </contour>
     <contour>
       <point x="2032" y="-214" type="line"/>
       <point x="2032" y="0" type="line"/>
       <point x="159" y="0" type="line" identifier="U6WibAQAUl"/>
       <point x="159" y="1246" type="line" identifier="kbL68Qh2zr"/>
-      <point x="109" y="1196" type="line"/>
-      <point x="109" y="-50" type="line"/>
-      <point x="1982" y="-50" type="line"/>
-      <point x="1982" y="-264" type="line"/>
-      <point x="1987" y="-264" type="line"/>
+      <point x="9" y="1096" type="line"/>
+      <point x="9" y="-150" type="line"/>
+      <point x="1882" y="-150" type="line"/>
+      <point x="1882" y="-364" type="line"/>
+      <point x="1887" y="-364" type="line"/>
       <point x="2037" y="-214" type="line"/>
     </contour>
     <contour>
@@ -31,8 +31,8 @@
       <point x="2032" y="2" type="line"/>
       <point x="2032" y="0" type="line"/>
       <point x="2037" y="0" type="line"/>
-      <point x="2037" y="-50" type="line"/>
-      <point x="3853" y="-50" type="line"/>
+      <point x="2037" y="-150" type="line"/>
+      <point x="3753" y="-150" type="line"/>
     </contour>
     <contour>
       <point x="650.6776305078067" y="1601.0" type="line"/>

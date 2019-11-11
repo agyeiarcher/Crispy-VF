@@ -8,9 +8,6 @@
     <axis tag="GRAD" name="grade" minimum="-25" maximum="25" default="25">
       <labelname xml:lang="en">Grade</labelname>
     </axis>
-    <axis tag="SHDW" name="shadow" minimum="0" maximum="1" default="0">
-      <labelname xml:lang="en">Shadow</labelname>
-    </axis>
   </axes>
   <rules>
     <rule name="subwidth">
@@ -164,7 +161,6 @@
         <dimension name="weight" xvalue="100"/>
         <dimension name="width" xvalue="100"/>
         <dimension name="grade" xvalue="-25"/>
-        <dimension name="shadow" xvalue="0"/>
       </location>
     </source>
     <source filename="Crispy-parametric-NarrowBlackMaxGrade-MinShadow.ufo" familyname="Crispy" stylename="Narrow Black MaxGrade-maxXOPQ">
@@ -172,7 +168,6 @@
         <dimension name="weight" xvalue="900"/>
         <dimension name="width" xvalue="100"/>
         <dimension name="grade" xvalue="25"/>
-        <dimension name="shadow" xvalue="0"/>
       </location>
     </source>
     <source filename="Crispy-parametric-NarrowBlackMinGrade-MinShadow.ufo" familyname="Crispy" stylename="Narrow Black MinGrade-maxXOPQ">
@@ -180,7 +175,6 @@
         <dimension name="weight" xvalue="900"/>
         <dimension name="width" xvalue="100"/>
         <dimension name="grade" xvalue="-25"/>
-        <dimension name="shadow" xvalue="0"/>
       </location>
     </source>
     <source filename="Crispy-parametric-NarrowThinMaxGrade-MinShadow.ufo" familyname="Crispy" stylename="Narrow Thin MaxGrade-maxXOPQ">
@@ -192,7 +186,6 @@
         <dimension name="weight" xvalue="100"/>
         <dimension name="width" xvalue="100"/>
         <dimension name="grade" xvalue="25"/>
-        <dimension name="shadow" xvalue="0"/>
       </location>
     </source>
     <source filename="Crispy-parametric-WideBlackMaxGrade-MinShadow.ufo" familyname="Crispy" stylename="Wide Black MaxGrade-maxXOPQ">
@@ -200,7 +193,6 @@
         <dimension name="weight" xvalue="900"/>
         <dimension name="width" xvalue="900"/>
         <dimension name="grade" xvalue="25"/>
-        <dimension name="shadow" xvalue="0"/>
       </location>
     </source>
     <source filename="Crispy-parametric-WideBlackMinGrade-MinShadow.ufo" familyname="Crispy" stylename="Wide Black MinGrade-maxXOPQ">
@@ -208,7 +200,6 @@
         <dimension name="weight" xvalue="900"/>
         <dimension name="width" xvalue="900"/>
         <dimension name="grade" xvalue="-25"/>
-        <dimension name="shadow" xvalue="0"/>
       </location>
     </source>
     <source filename="Crispy-parametric-WideThinMaxGrade-MinShadow.ufo" familyname="Crispy" stylename="Wide Thin MaxGrade-maxXOPQ">
@@ -216,7 +207,6 @@
         <dimension name="weight" xvalue="100"/>
         <dimension name="width" xvalue="900"/>
         <dimension name="grade" xvalue="25"/>
-        <dimension name="shadow" xvalue="0"/>
       </location>
     </source>
     <source filename="Crispy-parametric-WideThinMinGrade-MinShadow.ufo" familyname="Crispy" stylename="Wide Thin MinGrade-maxXOPQ">
@@ -224,81 +214,15 @@
         <dimension name="weight" xvalue="100"/>
         <dimension name="width" xvalue="900"/>
         <dimension name="grade" xvalue="-25"/>
-        <dimension name="shadow" xvalue="0"/>
-      </location>
-    </source>
-    <source filename="Crispy-parametric-NarrowBlackMaxGrade-MaxShadow.ufo" familyname="Crispy" stylename="Narrow Black MaxGrade-MaxShadow">
-      <location>
-        <dimension name="weight" xvalue="900"/>
-        <dimension name="width" xvalue="100"/>
-        <dimension name="grade" xvalue="25"/>
-        <dimension name="shadow" xvalue="1"/>
-      </location>
-    </source>
-    <source filename="Crispy-parametric-NarrowBlackMinGrade-MaxShadow.ufo" familyname="Crispy" stylename="Narrow Black MinGrade-MaxShadow">
-      <location>
-        <dimension name="weight" xvalue="900"/>
-        <dimension name="width" xvalue="100"/>
-        <dimension name="grade" xvalue="-25"/>
-        <dimension name="shadow" xvalue="1"/>
-      </location>
-    </source>
-    <source filename="Crispy-parametric-NarrowThinMaxGrade-MaxShadow.ufo" familyname="Crispy" stylename="Narrow Thin MaxGrade-MaxShadow">
-      <location>
-        <dimension name="weight" xvalue="100"/>
-        <dimension name="width" xvalue="100"/>
-        <dimension name="grade" xvalue="25"/>
-        <dimension name="shadow" xvalue="1"/>
-      </location>
-    </source>
-    <source filename="Crispy-parametric-NarrowThinMinGrade-MaxShadow.ufo" familyname="Crispy" stylename="Narrow Thin MinGrade-MaxShadow">
-      <location>
-        <dimension name="weight" xvalue="100"/>
-        <dimension name="width" xvalue="100"/>
-        <dimension name="grade" xvalue="-25"/>
-        <dimension name="shadow" xvalue="1"/>
-      </location>
-    </source>
-    <source filename="Crispy-parametric-WideBlackMaxGrade-MaxShadow.ufo" familyname="Crispy" stylename="Wide Black MaxGrade-MaxShadow">
-      <location>
-        <dimension name="weight" xvalue="900"/>
-        <dimension name="width" xvalue="900"/>
-        <dimension name="grade" xvalue="25"/>
-        <dimension name="shadow" xvalue="1"/>
-      </location>
-    </source>
-    <source filename="Crispy-parametric-WideBlackMinGrade-MaxShadow.ufo" familyname="Crispy" stylename="Wide Black MinGrade-MaxShadow">
-      <location>
-        <dimension name="weight" xvalue="900"/>
-        <dimension name="width" xvalue="900"/>
-        <dimension name="grade" xvalue="-25"/>
-        <dimension name="shadow" xvalue="1"/>
-      </location>
-    </source>
-    <source filename="Crispy-parametric-WideThinMaxGrade-MaxShadow.ufo" familyname="Crispy" stylename="Wide Thin MaxGrade-MaxShadow">
-      <location>
-        <dimension name="weight" xvalue="100"/>
-        <dimension name="width" xvalue="900"/>
-        <dimension name="grade" xvalue="25"/>
-        <dimension name="shadow" xvalue="1"/>
-      </location>
-    </source>
-    <source filename="Crispy-parametric-WideThinMinGrade-MaxShadow.ufo" familyname="Crispy" stylename="Wide Thin MinGrade-MaxShadow">
-      <location>
-        <dimension name="weight" xvalue="100"/>
-        <dimension name="width" xvalue="900"/>
-        <dimension name="grade" xvalue="-25"/>
-        <dimension name="shadow" xvalue="1"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance familyname="Crispy" stylename="100 Wide MaxGrade" filename="instances/Crispy 400.ufo">
+    <instance familyname="Crispy" stylename="400 Regular MaxGrade" filename="instances/Crispy 400.ufo">
       <location>
         <dimension name="weight" xvalue="400"/>
         <dimension name="width" xvalue="400"/>
         <dimension name="grade" xvalue="0"/>
-        <dimension name="shadow" xvalue="0"/>
       </location>
       <kerning/>
       <info/>

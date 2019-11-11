@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.narrow.shadow" format="2">
-  <advance width="2100"/>
+  <advance width="2000"/>
   <outline>
     <contour>
       <point x="1970" y="0" type="line" identifier="5nmxQXofSG"/>
@@ -8,11 +8,11 @@
       <point x="1965" y="1596" type="line"/>
       <point x="129" y="1596" type="line"/>
       <point x="129" y="1600" type="line"/>
-      <point x="79" y="1550" type="line"/>
-      <point x="79" y="1546" type="line"/>
-      <point x="1915" y="1546" type="line"/>
-      <point x="1915" y="-50" type="line"/>
-      <point x="1920" y="-50" type="line"/>
+      <point x="-21" y="1450" type="line"/>
+      <point x="-21" y="1446" type="line"/>
+      <point x="1815" y="1446" type="line"/>
+      <point x="1815" y="-150" type="line"/>
+      <point x="1820" y="-150" type="line"/>
     </contour>
     <contour>
       <point x="1971.0" y="1601.0" type="line"/>

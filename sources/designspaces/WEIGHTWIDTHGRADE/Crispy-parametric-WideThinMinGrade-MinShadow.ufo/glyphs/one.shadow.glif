@@ -1,24 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.shadow" format="2">
-  <advance width="3864"/>
+  <advance width="3764"/>
   <outline>
     <contour>
       <point x="132" y="0" type="line"/>
       <point x="132" y="4" type="line"/>
-      <point x="82" y="-46" type="line"/>
-      <point x="82" y="-50" type="line"/>
-      <point x="3754" y="-50" type="line"/>
+      <point x="-18" y="-146" type="line"/>
+      <point x="-18" y="-150" type="line"/>
+      <point x="3654" y="-150" type="line"/>
       <point x="3804" y="0" type="line" identifier="CURJAw79Zl"/>
     </contour>
     <contour>
-      <point x="79" y="1546" type="line"/>
-      <point x="1916" y="1546" type="line"/>
-      <point x="1916" y="4" type="line"/>
+      <point x="-21" y="1446" type="line"/>
+      <point x="1816" y="1446" type="line"/>
+      <point x="1816" y="4" type="line"/>
       <point x="1966" y="4" type="line"/>
       <point x="1966" y="1596" type="line"/>
       <point x="129" y="1596" type="line"/>
       <point x="129" y="1600" type="line"/>
-      <point x="79" y="1550" type="line"/>
+      <point x="-21" y="1450" type="line"/>
     </contour>
     <contour>
       <point x="3805.0" y="-1.0000000000000002" type="line"/>

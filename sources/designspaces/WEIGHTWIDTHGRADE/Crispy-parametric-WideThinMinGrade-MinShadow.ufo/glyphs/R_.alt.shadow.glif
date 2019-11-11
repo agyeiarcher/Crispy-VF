@@ -1,41 +1,37 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="R.alt.shadow" format="2">
-  <advance width="3765"/>
+  <advance width="3665"/>
   <outline>
-    <contour>
-      <point x="3789" y="0" type="line"/>
-      <point x="3449" y="649" type="line"/>
-      <point x="3736" y="649" type="line"/>
-      <point x="3786" y="699" type="line"/>
-      <point x="3423" y="699" type="line"/>
-      <point x="3449" y="649" type="line"/>
-      <point x="3449" y="649" type="line"/>
-    </contour>
-    <contour>
-      <point x="3731" y="702" type="line"/>
-      <point x="3781" y="702" type="line"/>
-      <point x="3781" y="1596" type="line"/>
-      <point x="50" y="1596" type="line"/>
-      <point x="50" y="1546" type="line"/>
-      <point x="3731" y="1546" type="line"/>
-    </contour>
     <contour>
       <point x="3789" y="0" type="line"/>
       <point x="3784" y="0" type="line"/>
       <point x="3417" y="699" type="line"/>
       <point x="50" y="699" type="line"/>
-      <point x="50" y="649" type="line"/>
-      <point x="3367" y="649" type="line"/>
-      <point x="3734" y="-50" type="line"/>
-      <point x="3739" y="-50" type="line"/>
+      <point x="50" y="549" type="line"/>
+      <point x="3267" y="549" type="line"/>
+      <point x="3634" y="-150" type="line"/>
+      <point x="3639" y="-150" type="line"/>
+      <point x="3789" y="0" type="line"/>
+      <point x="3502" y="549" type="line"/>
+      <point x="3636" y="549" type="line"/>
+      <point x="3786" y="699" type="line"/>
+      <point x="3423" y="699" type="line"/>
     </contour>
     <contour>
-      <point x="-5" y="-50" type="line"/>
-      <point x="0" y="-50" type="line"/>
+      <point x="3631" y="702" type="line"/>
+      <point x="3781" y="702" type="line"/>
+      <point x="3781" y="1596" type="line"/>
+      <point x="50" y="1596" type="line"/>
+      <point x="50" y="1446" type="line"/>
+      <point x="3631" y="1446" type="line"/>
+    </contour>
+    <contour>
+      <point x="-105" y="-150" type="line"/>
+      <point x="-100" y="-150" type="line"/>
       <point x="50" y="0" type="line"/>
       <point x="45" y="0" type="line"/>
       <point x="45" y="1600" type="line"/>
-      <point x="-5" y="1550" type="line"/>
+      <point x="-105" y="1450" type="line"/>
     </contour>
     <contour>
       <point x="51.0" y="702.0" type="line"/>

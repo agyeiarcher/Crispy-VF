@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="U.shadow" format="2">
-  <advance width="3950"/>
+  <advance width="3850"/>
   <outline>
     <contour>
       <point x="159" y="496" type="line" smooth="yes"/>
       <point x="159" y="1600" type="line" smooth="yes"/>
-      <point x="109" y="1550" type="line"/>
-      <point x="109" y="446" type="line"/>
-      <point x="612" y="-50" type="line"/>
-      <point x="3772" y="-50" type="line"/>
+      <point x="9" y="1450" type="line"/>
+      <point x="9" y="346" type="line"/>
+      <point x="512" y="-150" type="line"/>
+      <point x="3672" y="-150" type="line"/>
       <point x="3822" y="0" type="line" smooth="yes"/>
       <point x="662" y="0" type="line" smooth="yes"/>
     </contour>
     <contour>
       <point x="3817" y="1600" type="line" smooth="yes"/>
-      <point x="3767" y="1550" type="line"/>
-      <point x="3767" y="4" type="line"/>
+      <point x="3667" y="1450" type="line"/>
+      <point x="3667" y="4" type="line"/>
       <point x="3817" y="4" type="line"/>
     </contour>
     <contour>
