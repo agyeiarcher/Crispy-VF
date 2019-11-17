@@ -12,19 +12,19 @@ cp ofl.txt $OUTPUT_DIR/OFL.txt
 
 	#run grade matcher script - this is really messy and could be a lot better
 
-cd sources/designspaces/WEIGHTWIDTHGRADE/
-python matchGrades.py
-cd ..
-cd ..
-cd ..
+#cd sources/designspaces/WEIGHTWIDTHGRADE/
+#python matchGrades.py
+#cd ..
+#cd ..
+#cd ..
 
 	#build variable font from designspace file - same. need to get better at shell scripting
 
-fontmake -m sources/designspaces/WEIGHTWIDTHGRADE/Crispy[GRAD,wdth,wght].designspace -o variable --output-dir $OUTPUT_DIR/
+fontmake -m sources/designspaces/WEIGHTWIDTH/Crispy[wdth,wght].designspace -o variable --output-dir $OUTPUT_DIR/
 
     #rename file without -VF
 
-mv $OUTPUT_DIR/Crispy[GRAD,wdth,wght]-VF.ttf $OUTPUT_DIR/Crispy[GRAD,wdth,wght].ttf
+mv $OUTPUT_DIR/Crispy[wdth,wght]-VF.ttf $OUTPUT_DIR/Crispy[wdth,wght].ttf
 
     #test exported variable font file
 
@@ -44,4 +44,4 @@ export OPTIONS="$OPTIONS --exclude-checkid /check/description" # Comment this ou
 #export OPTIONS="$OPTIONS --exclude-checkid /check/varfont" # Comment this out when making a variable font.
 export OPTIONS="$OPTIONS --loglevel INFO --ghmarkdown Fontbakery-check-results.md"
 
-fontbakery check-googlefonts $OPTIONS $OUTPUT_DIR/*Crispy[GRAD,wdth,wght].ttf
+fontbakery check-googlefonts $OPTIONS $OUTPUT_DIR/*Crispy[wdth,wght].ttf

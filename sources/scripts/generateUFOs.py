@@ -207,7 +207,7 @@ def makeShadowGlyph(p, g, offsetValue):
 ufoProcessor.build("/Users/aamacbook/Work Interim/Krspy-VF/sources/designspaces/SOURCE PARAMETRIC MASTERS/CRISPY-PARAMETRIC AXES.designspace", useVarlib=True, roundGeometry=True)
 print("Instance builds completed.")
 
-source_dir = '/Users/aamacbook/Work Interim/Krspy-VF/sources/designspaces/WEIGHTWIDTHGRADE/'
+source_dir = '/Users/aamacbook/Work Interim/Krspy-VF/sources/designspaces/WEIGHTWIDTH/'
 listOfFiles = os.listdir(source_dir)
 fontList = []
 pattern = "*.ufo"
@@ -217,55 +217,57 @@ for entry in listOfFiles:
 
 for font in fontList:
     p = OpenFont(source_dir+font, showInterface = False)
-    styleName = p.info.styleName
-    boldWeight = "Black"
-    lightWeight = "Thin"
-    narrowWidth = "Narrow"
-    wideWidth = "Wide"
-    maxGrade = "MaxGrade"
-    minGrade = "MinGrade"
-    minShadow = "MinShadow"
-    maxShadow = "MaxShadow"
+    # styleName = p.info.styleName
+    # boldWeight = "Black"
+    # lightWeight = "Thin"
+    # narrowWidth = "Narrow"
+    # wideWidth = "Wide"
+    # maxGrade = "MaxGrade"
+    # minGrade = "MinGrade"
+    # minShadow = "MinShadow"
+    # maxShadow = "MaxShadow"
     for g in p.keys():
-        if boldWeight in styleName:
-            if maxGrade in styleName:
-                if narrowWidth in styleName:
-                    extrusionX = -150
-                    extrusionY = -150
-                elif wideWidth in styleName:
-                    extrusionX = -150
-                    extrusionY = -150
-                if p[g]:
-                    makeShadowGlyph(p, p[g], 1)
-            if minGrade in styleName:
-                if narrowWidth in styleName:
-                    extrusionX = -150
-                    extrusionY = -150
-                elif wideWidth in styleName:
-                    extrusionX = -150
-                    extrusionY = -150
-                if p[g]:
-                    makeShadowGlyph(p, p[g], 1)
-        if lightWeight in styleName:
-            if maxGrade in styleName:
-                if narrowWidth in styleName:
-                    extrusionX = -150
-                    extrusionY = -150
-                elif wideWidth in styleName:
-                    extrusionX = -150
-                    extrusionY = -150
-                if p[g]:
-                    makeShadowGlyph(p, p[g], 1)
-            if minGrade in styleName:
-                if narrowWidth in styleName:
-                    extrusionX = -150
-                    extrusionY = -150
-                elif wideWidth in styleName:
-                    extrusionX = -150
-                    extrusionY = -150
-                if p[g]:
-                    makeShadowGlyph(p, p[g], 1)
-        p.save()
+        # if boldWeight in styleName:
+        #     if maxGrade in styleName:
+        #         if narrowWidth in styleName:
+        #             extrusionX = -150
+        #             extrusionY = -150
+        #         elif wideWidth in styleName:
+        #             extrusionX = -150
+        #             extrusionY = -150
+        #         if p[g]:
+        #             makeShadowGlyph(p, p[g], 1)
+        #     if minGrade in styleName:
+        #         if narrowWidth in styleName:
+        #             extrusionX = -150
+        #             extrusionY = -150
+        #         elif wideWidth in styleName:
+        #             extrusionX = -150
+        #             extrusionY = -150
+        #         if p[g]:
+        #             makeShadowGlyph(p, p[g], 1)
+        # if lightWeight in styleName:
+        #     if maxGrade in styleName:
+        #         if narrowWidth in styleName:
+        #             extrusionX = -150
+        #             extrusionY = -150
+        #         elif wideWidth in styleName:
+        #             extrusionX = -150
+        #             extrusionY = -150
+        #         if p[g]:
+        #             makeShadowGlyph(p, p[g], 1)
+        #     if minGrade in styleName:
+        #         if narrowWidth in styleName:
+        #             extrusionX = -150
+        #             extrusionY = -150
+        #         elif wideWidth in styleName:
+        #             extrusionX = -150
+        #             extrusionY = -150
+        if p[g]:
+            extrusionX = -150
+            extrusionY = -150
+            makeShadowGlyph(p, p[g], 1)
+    p.save()
     print("Made shadows for " + styleName + "")
 
 print("Shadow instances complete ")

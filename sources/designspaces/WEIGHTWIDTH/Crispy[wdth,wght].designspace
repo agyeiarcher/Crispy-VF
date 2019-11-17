@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="weight" minimum="100" maximum="900" default="100">
+      <labelname xml:lang="en">Weight</labelname>
+    </axis>
+    <axis tag="wdth" name="width" minimum="100" maximum="900" default="100"/>
+  </axes>
+  <rules>
+    <rule name="subwidth">
+      <conditionset>
+        <condition name="weight" minimum="700" maximum="900"/>
+        <condition name="width" minimum="600" maximum="900"/>
+      </conditionset>
+      <sub name="S" with="S.wide"/>
+      <sub name="five" with="five.wide"/>
+      <sub name="three" with="three.wide"/>
+      <sub name="six" with="six.wide"/>
+      <sub name="L" with="L.wide"/>
+      <sub name="E" with="E.wide"/>
+      <sub name="nine" with="nine.wide"/>
+      <sub name="K" with="K.alt"/>
+      <sub name="F" with="F.wide"/>
+      <sub name="R" with="R.alt"/>
+      <sub name="G" with="G.wide"/>
+    </rule>
+    <rule name="narrowsubs">
+      <conditionset>
+        <condition name="weight" minimum="100" maximum="900"/>
+        <condition name="width" minimum="100" maximum="400"/>
+      </conditionset>
+      <sub name="M" with="M.narrow"/>
+      <sub name="N" with="N.narrow"/>
+      <sub name="W" with="W.narrow"/>
+      <sub name="one" with="one.narrow"/>
+      <sub name="I" with="I.narrow"/>
+      <sub name="B" with="B.narrow"/>
+    </rule>
+    <rule name="deepsub">
+      <conditionset>
+        <condition name="weight" minimum="300" maximum="900"/>
+        <condition name="width" minimum="550" maximum="900"/>
+      </conditionset>
+      <sub name="C" with="C.wide"/>
+      <sub name="three" with="three.wide"/>
+      <sub name="P" with="P.wide"/>
+    </rule>
+    <rule name="krule">
+      <conditionset>
+        <condition name="weight" minimum="100" maximum="900"/>
+        <condition name="width" minimum="100" maximum="900"/>
+      </conditionset>
+      <sub name="K" with="K.alt"/>
+    </rule>
+    <rule name="subY">
+      <conditionset>
+        <condition name="weight" minimum="100" maximum="900"/>
+        <condition name="width" minimum="120" maximum="900"/>
+      </conditionset>
+      <sub name="Y" with="Y.alt"/>
+    </rule>
+    <rule name="subYalt">
+      <conditionset>
+        <condition name="weight" minimum="100" maximum="900"/>
+        <condition name="width" minimum="501" maximum="900"/>
+      </conditionset>
+      <sub name="Y.alt" with="Y.wide"/>
+    </rule>
+    <rule name="subwidth">
+      <conditionset>
+        <condition name="weight" minimum="700" maximum="900"/>
+        <condition name="width" minimum="600" maximum="900"/>
+      </conditionset>
+      <sub name="S" with="S.wide"/>
+      <sub name="five" with="five.wide"/>
+      <sub name="three" with="three.wide"/>
+      <sub name="six" with="six.wide"/>
+      <sub name="L" with="L.wide"/>
+      <sub name="E" with="E.wide"/>
+      <sub name="nine" with="nine.wide"/>
+      <sub name="K" with="K.alt"/>
+      <sub name="F" with="F.wide"/>
+      <sub name="R" with="R.alt"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="Crispy 100 Narrow.ufo" familyname="Crispy" stylename="100 Narrow">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Crispy 100 Wide.ufo" familyname="Crispy" stylename="100 Wide">
+      <location>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="width" xvalue="900"/>
+      </location>
+    </source>
+    <source filename="Crispy 900 Narrow.ufo" familyname="Crispy" stylename="900 Narrow">
+      <location>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="Crispy 900 Wide.ufo" familyname="Crispy" stylename="900 Wide">
+      <location>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="width" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Crispy" stylename="400" filename="instances/Crispy 400.ufo">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="width" xvalue="400"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>horizontal</key>
+        <array>
+          <string>width</string>
+        </array>
+        <key>ignore</key>
+        <array>
+          <string>grade</string>
+        </array>
+        <key>vertical</key>
+        <array>
+          <string>weight</string>
+        </array>
+      </dict>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>grade</key>
+        <real>50.0</real>
+        <key>shadow</key>
+        <real>0.0</real>
+        <key>weight</key>
+        <real>1.0</real>
+        <key>width</key>
+        <real>1.0</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>SKATEBOARD</string>
+    </dict>
+  </lib>
+</designspace>

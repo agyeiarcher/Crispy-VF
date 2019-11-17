@@ -371,6 +371,26 @@
         <string>glyphList</string>
       </dict>
     </array>
+    <key>com.loicsander.scaleFast</key>
+    <dict>
+      <key>batchGenerationList</key>
+      <array>
+        <dict>
+          <key>glyphset</key>
+          <string>all</string>
+          <key>preset</key>
+          <string>shorter</string>
+          <key>suffix</key>
+          <string></string>
+          <key>↳</key>
+          <true/>
+        </dict>
+      </array>
+      <key>guides</key>
+      <array/>
+      <key>presets</key>
+      <dict/>
+    </dict>
     <key>com.schriftgestaltung.DisplayStrings</key>
     <array>
       <string>UOLTRON</string>

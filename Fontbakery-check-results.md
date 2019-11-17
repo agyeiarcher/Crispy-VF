@@ -17,15 +17,7 @@ Fontbakery version: 0.7.14
 <br>
 </details>
 <details>
-<summary><b>[19] Crispy[GRAD,wdth,wght].ttf</b></summary>
-<details>
-<summary>💔 <b>ERROR:</b> Check variable font instances have correct coordinate values</summary>
-
-* [com.google.fonts/check/varfont_instance_coordinates](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/varfont_instance_coordinates)
-* 💔 **ERROR** Failed with KeyError: 'GRAD'
-* 🔥 **FAIL** Instance "100 Wide MaxGrade" wdth value is "400.0". It should be "100.0" [code: bad-coordinate]
-
-</details>
+<summary><b>[18] Crispy[wdth,wght].ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Checking OS/2 fsType.</summary>
 
@@ -60,14 +52,21 @@ https://docs.microsoft.com/en-us/typography/opentype/spec/os2#fstype [code: drm]
 <summary>🔥 <b>FAIL:</b> Check name table: TYPOGRAPHIC_SUBFAMILY_NAME entries. </summary>
 
 * [com.google.fonts/check/name/typographicsubfamilyname](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/typographicsubfamilyname)
-* 🔥 **FAIL** TYPOGRAPHIC_SUBFAMILY_NAME entry for Win "Narrow Thin MaxGrade" must be "Regular". Please note, since the font style is RIBBI, this record can be safely deleted. [code: bad-win-name]
+* 🔥 **FAIL** TYPOGRAPHIC_SUBFAMILY_NAME entry for Win "100 Narrow" must be "Regular". Please note, since the font style is RIBBI, this record can be safely deleted. [code: bad-win-name]
+
+</details>
+<details>
+<summary>🔥 <b>FAIL:</b> Check variable font instances have correct coordinate values</summary>
+
+* [com.google.fonts/check/varfont_instance_coordinates](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/varfont_instance_coordinates)
+* 🔥 **FAIL** Instance "400" wdth value is "400.0". It should be "100.0" [code: bad-coordinate]
 
 </details>
 <details>
 <summary>🔥 <b>FAIL:</b> Check variable font instances have correct names</summary>
 
 * [com.google.fonts/check/varfont_instance_names](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/varfont_instance_names)
-* 🔥 **FAIL** Instance name "100 Wide MaxGrade" is incorrect. It should be "" [code: bad-name]
+* 🔥 **FAIL** Instance name "400" is incorrect. It should be "" [code: bad-name]
 * 🔥 **FAIL** This will cause problems with some of the Google Fonts systems that look up fonts by their style names. This must be fixed! [code: bad-instance-names]
 
 </details>
@@ -104,16 +103,6 @@ They can be removed by using fonttools/ttx.
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters.</summary>
-
-* [com.google.fonts/check/name/family_and_style_max_length](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length)
-* ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
- FONT_FAMILY_NAME = 'Crispy Narrow Thin MaxGrade' / SUBFAMILY_NAME = 'Regular'
-
-Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
-
-</details>
-<details>
 <summary>⚠ <b>WARN:</b> Checking Vertical Metric Linegaps.</summary>
 
 * [com.google.fonts/check/linegaps](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/hhea.html#com.google.fonts/check/linegaps)
@@ -133,12 +122,12 @@ Please take a look at the conversation at https://github.com/googlefonts/fontbak
 * [com.google.fonts/check/hinting_impact](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/hinting_impact)
 * ℹ **INFO** Hinting filesize impact:
 
-|  | font/Crispy[GRAD,wdth,wght].ttf |
+|  | font/Crispy[wdth,wght].ttf |
 |:--- | ---:|
-| Dehinted Size | 50.3kb |
-| Hinted Size | 50.2kb |
-| Increase | -128 bytes |
-| Change   | -0.2 % |
+| Dehinted Size | 30.8kb |
+| Hinted Size | 30.7kb |
+| Increase | -108 bytes |
+| Change   | -0.3 % |
  [code: size-impact]
 
 </details>
@@ -184,7 +173,7 @@ The version string must ideally include a git commit hash and either a "dev" or 
 <summary>ℹ <b>INFO:</b> Font contains all required tables?</summary>
 
 * [com.google.fonts/check/required_tables](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/required_tables)
-* ℹ **INFO** This font contains the following optional tables [DSIG, GSUB, loca, prep, gasp]
+* ℹ **INFO** This font contains the following optional tables [prep, DSIG, GSUB, loca, gasp]
 
 </details>
 <br>
@@ -194,8 +183,8 @@ The version string must ideally include a git commit hash and either a "dev" or 
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 1 | 8 | 4 | 34 | 7 | 60 | 0 |
-| 1% | 7% | 4% | 30% | 6% | 53% | 0% |
+| 0 | 9 | 3 | 34 | 7 | 61 | 0 |
+| 0% | 8% | 3% | 30% | 6% | 54% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
