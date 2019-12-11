@@ -17,14 +17,14 @@ Fontbakery version: 0.7.14
 <br>
 </details>
 <details>
-<summary><b>[18] Crispy[wdth,wght].ttf</b></summary>
+<summary><b>[17] Crispy[wdth,wght].ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Checking OS/2 fsType.</summary>
 
 * [com.google.fonts/check/fstype](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype)
 * 🔥 **FAIL** OS/2 fsType is a legacy DRM-related field.
-In this font it is set to 264 meaning that:
-The font may be embedded but must only be installed temporarily on other systems.The font may not be subsetted prior to embedding.
+In this font it is set to 8 meaning that:
+The font may be embedded but must only be installed temporarily on other systems.
 
 No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead.
 Fonts with this setting indicate that they may be embedded and permanently installed on the remote system by an application.
@@ -41,32 +41,24 @@ https://docs.microsoft.com/en-us/typography/opentype/spec/os2#fstype [code: drm]
 
 </details>
 <details>
-<summary>🔥 <b>FAIL:</b> Checking OS/2 usWeightClass.</summary>
-
-* [com.google.fonts/check/usweightclass](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass)
-* 🔥 **FAIL** OS/2 usWeightClass expected value for 'Regular' is 400 but this font has 100.
- GlyphsApp users should set a Custom Parameter for 'Axis Location' in each master to ensure that the information is accurately built into variable fonts. [code: bad-value]
-
-</details>
-<details>
 <summary>🔥 <b>FAIL:</b> Check name table: TYPOGRAPHIC_SUBFAMILY_NAME entries. </summary>
 
 * [com.google.fonts/check/name/typographicsubfamilyname](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/typographicsubfamilyname)
-* 🔥 **FAIL** TYPOGRAPHIC_SUBFAMILY_NAME entry for Win "100 Narrow" must be "Regular". Please note, since the font style is RIBBI, this record can be safely deleted. [code: bad-win-name]
+* 🔥 **FAIL** TYPOGRAPHIC_SUBFAMILY_NAME for Win "100 Narrow" is incorrect. It must be "Thin". [code: bad-typo-win]
 
 </details>
 <details>
 <summary>🔥 <b>FAIL:</b> Check variable font instances have correct coordinate values</summary>
 
 * [com.google.fonts/check/varfont_instance_coordinates](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/varfont_instance_coordinates)
-* 🔥 **FAIL** Instance "400" wdth value is "400.0". It should be "100.0" [code: bad-coordinate]
+* 🔥 **FAIL** Instance "Semibold" wght value is "600.0". It should be "400.0" [code: bad-coordinate]
 
 </details>
 <details>
 <summary>🔥 <b>FAIL:</b> Check variable font instances have correct names</summary>
 
 * [com.google.fonts/check/varfont_instance_names](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/varfont_instance_names)
-* 🔥 **FAIL** Instance name "400" is incorrect. It should be "" [code: bad-name]
+* 🔥 **FAIL** Instance name "Semibold" is incorrect. It should be "" [code: bad-name]
 * 🔥 **FAIL** This will cause problems with some of the Google Fonts systems that look up fonts by their style names. This must be fixed! [code: bad-instance-names]
 
 </details>
@@ -74,18 +66,7 @@ https://docs.microsoft.com/en-us/typography/opentype/spec/os2#fstype [code: drm]
 <summary>🔥 <b>FAIL:</b> Checking OS/2 Metrics match hhea Metrics.</summary>
 
 * [com.google.fonts/check/os2_metrics_match_hhea](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/os2_metrics_match_hhea)
-* 🔥 **FAIL** OS/2 sTypoAscender (1622) and hhea ascent (2000) must be equal. [code: ascender]
-
-</details>
-<details>
-<summary>🔥 <b>FAIL:</b> Are there unwanted tables?</summary>
-
-* [com.google.fonts/check/unwanted_tables](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/unwanted_tables)
-* 🔥 **FAIL** The following unwanted font tables were found:
-Table: MVAR
-Reason: Produces a bug in DirectWrite which causes https://bugzilla.mozilla.org/show_bug.cgi?id=1492477, https://github.com/google/fonts/issues/2085
-
-They can be removed by using fonttools/ttx.
+* 🔥 **FAIL** OS/2 sTypoAscender (1600) and hhea ascent (2000) must be equal. [code: ascender]
 
 </details>
 <details>
@@ -100,6 +81,13 @@ They can be removed by using fonttools/ttx.
 
 * [com.google.fonts/check/vendor_id](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id)
 * ⚠ **WARN** OS/2 VendorID value 'NONE' is not a known registered id. You should set it to your own 4 character code, and register that code with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx [code: unknown]
+
+</details>
+<details>
+<summary>⚠ <b>WARN:</b> Checking OS/2 usWeightClass.</summary>
+
+* [com.google.fonts/check/usweightclass](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass)
+* ⚠ **WARN** Thin:100 is OK on TTFs, but OTF files with those values will cause bluring on Windows. GlyphsApp users must set an Instance Custom Parameter for the Thin and ExtraLight styles to 250 and 275, so that if OTFs are exported then it will not blur on Windows. [code: blur-on-windows]
 
 </details>
 <details>
@@ -124,10 +112,10 @@ They can be removed by using fonttools/ttx.
 
 |  | font/Crispy[wdth,wght].ttf |
 |:--- | ---:|
-| Dehinted Size | 30.8kb |
-| Hinted Size | 30.7kb |
-| Increase | -108 bytes |
-| Change   | -0.3 % |
+| Dehinted Size | 31.1kb |
+| Hinted Size | 31.0kb |
+| Increase | -124 bytes |
+| Change   | -0.4 % |
  [code: size-impact]
 
 </details>
@@ -173,7 +161,7 @@ The version string must ideally include a git commit hash and either a "dev" or 
 <summary>ℹ <b>INFO:</b> Font contains all required tables?</summary>
 
 * [com.google.fonts/check/required_tables](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/required_tables)
-* ℹ **INFO** This font contains the following optional tables [prep, DSIG, GSUB, loca, gasp]
+* ℹ **INFO** This font contains the following optional tables [gasp, GSUB, DSIG, prep, loca]
 
 </details>
 <br>
@@ -183,8 +171,8 @@ The version string must ideally include a git commit hash and either a "dev" or 
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 9 | 3 | 34 | 7 | 61 | 0 |
-| 0% | 8% | 3% | 30% | 6% | 54% | 0% |
+| 0 | 7 | 4 | 31 | 7 | 65 | 0 |
+| 0% | 6% | 4% | 27% | 6% | 57% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**

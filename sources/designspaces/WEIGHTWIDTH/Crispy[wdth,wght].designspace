@@ -9,8 +9,12 @@
   <rules>
     <rule name="subwidth">
       <conditionset>
-        <condition name="weight" minimum="700" maximum="900"/>
-        <condition name="width" minimum="600" maximum="900"/>
+        <condition name="weight" minimum="500" maximum="900"/>
+        <condition name="width" minimum="300" maximum="900"/>
+      </conditionset>
+      <conditionset>
+        <condition name="weight" minimum="501" maximum="900"/>
+        <condition name="width" minimum="100" maximum="900"/>
       </conditionset>
       <sub name="S" with="S.wide"/>
       <sub name="five" with="five.wide"/>
@@ -27,7 +31,7 @@
     <rule name="narrowsubs">
       <conditionset>
         <condition name="weight" minimum="100" maximum="900"/>
-        <condition name="width" minimum="100" maximum="400"/>
+        <condition name="width" minimum="100" maximum="200"/>
       </conditionset>
       <sub name="M" with="M.narrow"/>
       <sub name="N" with="N.narrow"/>
@@ -47,40 +51,17 @@
     </rule>
     <rule name="krule">
       <conditionset>
-        <condition name="weight" minimum="100" maximum="900"/>
-        <condition name="width" minimum="100" maximum="900"/>
+        <condition name="weight" minimum="300" maximum="900"/>
+        <condition name="width" minimum="500" maximum="900"/>
       </conditionset>
       <sub name="K" with="K.alt"/>
     </rule>
     <rule name="subY">
       <conditionset>
         <condition name="weight" minimum="100" maximum="900"/>
-        <condition name="width" minimum="120" maximum="900"/>
+        <condition name="width" minimum="200" maximum="900"/>
       </conditionset>
-      <sub name="Y" with="Y.alt"/>
-    </rule>
-    <rule name="subYalt">
-      <conditionset>
-        <condition name="weight" minimum="100" maximum="900"/>
-        <condition name="width" minimum="501" maximum="900"/>
-      </conditionset>
-      <sub name="Y.alt" with="Y.wide"/>
-    </rule>
-    <rule name="subwidth">
-      <conditionset>
-        <condition name="weight" minimum="700" maximum="900"/>
-        <condition name="width" minimum="600" maximum="900"/>
-      </conditionset>
-      <sub name="S" with="S.wide"/>
-      <sub name="five" with="five.wide"/>
-      <sub name="three" with="three.wide"/>
-      <sub name="six" with="six.wide"/>
-      <sub name="L" with="L.wide"/>
-      <sub name="E" with="E.wide"/>
-      <sub name="nine" with="nine.wide"/>
-      <sub name="K" with="K.alt"/>
-      <sub name="F" with="F.wide"/>
-      <sub name="R" with="R.alt"/>
+      <sub name="Y" with="Y.wide"/>
     </rule>
   </rules>
   <sources>
@@ -114,10 +95,74 @@
     </source>
   </sources>
   <instances>
-    <instance familyname="Crispy" stylename="400" filename="instances/Crispy 400.ufo">
+    <instance familyname="Crispy" stylename="Light" filename="instances/Crispy-300.ufo">
+      <location>
+        <dimension name="weight" xvalue="300"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Regular" filename="instances/Crispy-400.ufo">
       <location>
         <dimension name="weight" xvalue="400"/>
-        <dimension name="width" xvalue="400"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Medium" filename="instances/Crispy-500.ufo">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Bold" filename="instances/Crispy-700.ufo">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="ExtraLight" filename="instances/Crispy-200.ufo">
+      <location>
+        <dimension name="weight" xvalue="200"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Black" filename="instances/Crispy-900.ufo">
+      <location>
+        <dimension name="weight" xvalue="900"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Thin" filename="instances/Crispy-100.ufo">
+      <location>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Semibold" filename="instances/Crispy-600.ufo">
+      <location>
+        <dimension name="weight" xvalue="600"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="ExtraBold" filename="instances/Crispy-800.ufo">
+      <location>
+        <dimension name="weight" xvalue="800"/>
+        <dimension name="width" xvalue="100"/>
       </location>
       <kerning/>
       <info/>

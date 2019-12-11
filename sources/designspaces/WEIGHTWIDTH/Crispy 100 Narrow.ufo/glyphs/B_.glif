@@ -5,23 +5,25 @@
   <outline>
     <contour>
       <point x="34" y="0" type="line" identifier="hvY9r8RmLr"/>
-      <point x="228" y="0" type="line" identifier="9QFpw7nfq7"/>
+      <point x="185" y="0" type="line" identifier="9QFpw7nfq7"/>
+      <point x="228" y="365" type="line"/>
       <point x="228" y="800" type="line" identifier="543PerILpr"/>
-      <point x="191" y="800" type="line" identifier="zhomauHW30"/>
-      <point x="199" y="1600" type="line" identifier="FaP204GrdB"/>
+      <point x="200" y="800" type="line" identifier="zhomauHW30"/>
+      <point x="200" y="1600" type="line" identifier="FaP204GrdB"/>
       <point x="34" y="1600" type="line" identifier="JEev70GAj6"/>
     </contour>
     <contour>
       <point x="85" y="820" type="line" identifier="By7dfMihfe"/>
       <point x="85" y="1559" type="line" identifier="1p5hKrurVy"/>
-      <point x="150" y="1559" type="line" identifier="Qby8aMtF2X"/>
-      <point x="147" y="820" type="line" identifier="xpxyvIzPoc"/>
+      <point x="155" y="1559" type="line" identifier="Qby8aMtF2X"/>
+      <point x="155" y="820" type="line" identifier="xpxyvIzPoc"/>
     </contour>
     <contour>
       <point x="85" y="41" type="line" identifier="jaMSiLrCua"/>
       <point x="85" y="779" type="line" identifier="XSrxNd2axx"/>
       <point x="178" y="779" type="line" identifier="lsRGatjQja"/>
-      <point x="178" y="41" type="line" identifier="xhlDJ3CjD5"/>
+      <point x="178" y="365" type="line"/>
+      <point x="138" y="41" type="line" identifier="xhlDJ3CjD5"/>
     </contour>
   </outline>
   <lib>
