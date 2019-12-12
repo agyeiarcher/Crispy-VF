@@ -1,18 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="L" format="2">
-  <advance width="3558"/>
+  <advance width="3707"/>
   <unicode hex="004C"/>
   <outline>
-    <contour>
-      <point x="200" y="0" type="line" identifier="XkJNfQlnnt"/>
-      <point x="3428" y="0" type="line" identifier="82EXZEgt46"/>
-      <point x="3428" y="587" type="line" identifier="VYRt9kHZtP"/>
-      <point x="3426" y="587" type="line" identifier="t7Q9RRLHt8"/>
-      <point x="3426" y="2" type="line" identifier="cqpSxwFiM3"/>
-      <point x="202" y="2" type="line" identifier="MbxRZRd8vz"/>
-      <point x="202" y="1600" type="line" identifier="lYiaKSKITt"/>
-      <point x="200" y="1600" type="line" identifier="XFf4mMUzYo"/>
-    </contour>
+    <component base="J" xScale="-1" xOffset="3858"/>
   </outline>
   <lib>
     <dict>
