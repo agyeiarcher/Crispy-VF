@@ -204,7 +204,7 @@ def makeShadowGlyph(p, g, offsetValue):
     outlinePen.drawSettings(drawInner=True, drawOuter=True)
     outlinePen.drawPoints(insetPen)
 
-ufoProcessor.build("/Users/aamacbook/Work Interim/Krspy-VF/sources/designspaces/SOURCE PARAMETRIC MASTERS/CRISPY-PARAMETRIC AXES.designspace", useVarlib=True, roundGeometry=True)
+ufoProcessor.build("../designspaces/SOURCE PARAMETRIC MASTERS/CRISPY-PARAMETRIC AXES.designspace", useVarlib=True, roundGeometry=True)
 print("Instance builds completed.")
 
 # source_dir = '/Users/aamacbook/Work Interim/Krspy-VF/sources/designspaces/WEIGHTWIDTH/'

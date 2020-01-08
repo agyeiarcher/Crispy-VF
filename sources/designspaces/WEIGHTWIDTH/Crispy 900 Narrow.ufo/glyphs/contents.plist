@@ -20,8 +20,6 @@
     <string>A_tilde.glif</string>
     <key>B</key>
     <string>B_.glif</string>
-    <key>B.narrow</key>
-    <string>B_.narrow.glif</string>
     <key>C</key>
     <string>C_.glif</string>
     <key>C.wide</key>
@@ -92,10 +90,6 @@
     <string>J_.glif</string>
     <key>K</key>
     <string>K_.glif</string>
-    <key>K.alt</key>
-    <string>K_.alt.glif</string>
-    <key>K.narrow</key>
-    <string>K_.narrow.glif</string>
     <key>L</key>
     <string>L_.glif</string>
     <key>L.wide</key>
@@ -160,16 +154,12 @@
     <string>Q_.glif</string>
     <key>R</key>
     <string>R_.glif</string>
-    <key>R.alt</key>
-    <string>R_.alt.glif</string>
     <key>Rdotbelow</key>
     <string>R_dotbelow.glif</string>
     <key>Rlinebelow</key>
     <string>R_linebelow.glif</string>
     <key>S</key>
     <string>S_.glif</string>
-    <key>S.alt</key>
-    <string>S_.alt.glif</string>
     <key>S.wide</key>
     <string>S_.wide.glif</string>
     <key>Sacutedotaccent</key>
@@ -192,8 +182,8 @@
     <string>T_linebelow.glif</string>
     <key>U</key>
     <string>U_.glif</string>
-    <key>U.narrow</key>
-    <string>U_.narrow.glif</string>
+    <key>U.alt</key>
+    <string>U_.alt.glif</string>
     <key>Uacute</key>
     <string>U_acute.glif</string>
     <key>Ucircumflex</key>
@@ -216,8 +206,6 @@
     <string>X_.glif</string>
     <key>Y</key>
     <string>Y_.glif</string>
-    <key>Y.alt</key>
-    <string>Y_.alt.glif</string>
     <key>Y.wide</key>
     <string>Y_.wide.glif</string>
     <key>Yacute</key>
@@ -662,6 +650,8 @@
     <string>semicolon.glif</string>
     <key>seven</key>
     <string>seven.glif</string>
+    <key>seven.alt</key>
+    <string>seven.alt.glif</string>
     <key>seven.dnom</key>
     <string>seven.dnom.glif</string>
     <key>seven.numr</key>
@@ -734,6 +724,8 @@
     <string>two.numr.glif</string>
     <key>two.subs</key>
     <string>two.subs.glif</string>
+    <key>two.wide</key>
+    <string>two.wide.glif</string>
     <key>twoinferior</key>
     <string>twoinferior.glif</string>
     <key>twosuperior</key>

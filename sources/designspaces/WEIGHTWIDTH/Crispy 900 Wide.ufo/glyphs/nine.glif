@@ -3,7 +3,24 @@
   <advance width="5153"/>
   <unicode hex="0039"/>
   <outline>
-    <component base="six" xScale="-1.0" yScale="-1.0" xOffset="5132" yOffset="1600"/>
+    <contour>
+      <point x="4978" y="1603" type="line" identifier="uiw6aBUf4P"/>
+      <point x="102" y="1603" type="line" identifier="jtYkxiUX6G"/>
+      <point x="102" y="563" type="line" identifier="2G5L37c87I"/>
+      <point x="4034" y="563" type="line"/>
+      <point x="4034" y="508" type="line"/>
+      <point x="1049" y="508" type="line"/>
+      <point x="1049" y="547" type="line"/>
+      <point x="103" y="547" type="line" identifier="Wuidbv6mUe"/>
+      <point x="103" y="3" type="line" identifier="oGvEEuxnYv"/>
+      <point x="4978" y="3" type="line" identifier="xR3pEHbMJx"/>
+    </contour>
+    <contour>
+      <point x="1049" y="1041" type="line"/>
+      <point x="1049" y="1098" type="line"/>
+      <point x="4034" y="1098" type="line"/>
+      <point x="4034" y="1041" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

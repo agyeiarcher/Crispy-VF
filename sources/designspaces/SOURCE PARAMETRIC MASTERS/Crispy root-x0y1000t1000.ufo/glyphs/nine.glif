@@ -3,7 +3,24 @@
   <advance width="3985"/>
   <unicode hex="0039"/>
   <outline>
-    <component base="six" xScale="-1" yScale="-1" xOffset="4015" yOffset="1600"/>
+    <contour>
+      <point x="3855" y="1600" type="line" identifier="uiw6aBUf4P"/>
+      <point x="160" y="1600" type="line" identifier="jtYkxiUX6G"/>
+      <point x="160" y="548" type="line" identifier="2G5L37c87I"/>
+      <point x="3854" y="548" type="line" identifier="72LiJ3isu1"/>
+      <point x="3854" y="534" type="line" identifier="13O6KDd4Sw"/>
+      <point x="162" y="534" type="line" identifier="ktdoGwhfdX"/>
+      <point x="162" y="544" type="line" identifier="8ozwOvfWmp"/>
+      <point x="161" y="544" type="line" identifier="Wuidbv6mUe"/>
+      <point x="161" y="0" type="line" identifier="oGvEEuxnYv"/>
+      <point x="3855" y="0" type="line" identifier="xR3pEHbMJx"/>
+    </contour>
+    <contour>
+      <point x="162" y="1052" type="line" identifier="RcpK9jxYju"/>
+      <point x="162" y="1066" type="line" identifier="cJA7J65EsT"/>
+      <point x="3854" y="1066" type="line" identifier="shxfjT5cXU"/>
+      <point x="3854" y="1052" type="line" identifier="K8bSiP0Z1a"/>
+    </contour>
   </outline>
   <lib>
     <dict>

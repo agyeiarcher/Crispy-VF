@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="P" format="2">
-  <advance width="250"/>
+  <advance width="244"/>
   <unicode hex="0050"/>
   <outline>
     <contour>
-      <point x="34" y="0" type="line" identifier="EG08jqU5fb"/>
-      <point x="85" y="0" type="line" identifier="osRzIFK2Cu"/>
-      <point x="85" y="727" type="line" identifier="hIFVovVRwe"/>
-      <point x="224" y="782" type="line" identifier="Tt6D8zYZmU"/>
-      <point x="224" y="1600" type="line" identifier="6xW04auDFu"/>
-      <point x="34" y="1600" type="line" identifier="eETO5GBD5v"/>
+      <point x="33" y="0" type="line" identifier="EG08jqU5fb"/>
+      <point x="83" y="0" type="line" identifier="osRzIFK2Cu"/>
+      <point x="83" y="728" type="line" identifier="hIFVovVRwe"/>
+      <point x="219" y="728" type="line" identifier="Tt6D8zYZmU"/>
+      <point x="219" y="1600" type="line" identifier="6xW04auDFu"/>
+      <point x="33" y="1600" type="line" identifier="eETO5GBD5v"/>
     </contour>
     <contour>
-      <point x="85" y="769" type="line" identifier="PIBVN1PGv1"/>
-      <point x="85" y="1559" type="line" identifier="IZIZQr2gYJ"/>
-      <point x="174" y="1559" type="line" identifier="2c4LCF1E1R"/>
-      <point x="174" y="813" type="line" identifier="1WCnzth1GX"/>
+      <point x="83" y="769" type="line" identifier="PIBVN1PGv1"/>
+      <point x="83" y="1559" type="line" identifier="IZIZQr2gYJ"/>
+      <point x="168" y="1559" type="line" identifier="2c4LCF1E1R"/>
+      <point x="168" y="769" type="line" identifier="1WCnzth1GX"/>
     </contour>
   </outline>
   <lib>
@@ -23,40 +23,7 @@
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
       <string>2019-04-28 05:35:59 +0000</string>
       <key>com.typemytype.robofont.pointLabels</key>
-      <dict>
-        <key>1WCnzth1GX</key>
-        <array>
-          <string>RIGHTSIDE</string>
-          <string>RIGHTSIDE</string>
-          <string>CROSSBAR</string>
-        </array>
-        <key>2c4LCF1E1R</key>
-        <array>
-          <string>RIGHTSIDE</string>
-        </array>
-        <key>6xW04auDFu</key>
-        <array>
-          <string>RIGHTSIDE</string>
-        </array>
-        <key>PIBVN1PGv1</key>
-        <array>
-          <string>RIGHTSIDE</string>
-          <string>RIGHTSIDE</string>
-          <string>CROSSBAR</string>
-        </array>
-        <key>Tt6D8zYZmU</key>
-        <array>
-          <string>RIGHTSIDE</string>
-          <string>RIGHTSIDE</string>
-          <string>CROSSBAR</string>
-        </array>
-        <key>hIFVovVRwe</key>
-        <array>
-          <string>RIGHTSIDE</string>
-          <string>RIGHTSIDE</string>
-          <string>CROSSBAR</string>
-        </array>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>

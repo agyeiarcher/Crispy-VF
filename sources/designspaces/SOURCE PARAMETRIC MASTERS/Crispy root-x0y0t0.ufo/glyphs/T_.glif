@@ -4,13 +4,13 @@
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="78" y="0" type="line"/>
-      <point x="80" y="0" type="line"/>
+      <point x="78" y="0" type="line" identifier="xM1Dzg2tgE"/>
+      <point x="80" y="0" type="line" identifier="CSHDAW5hz0"/>
       <point x="80" y="1598" type="line" identifier="zTICSjBOe7"/>
-      <point x="131" y="1598" type="line"/>
+      <point x="131" y="1598" type="line" identifier="a8N9VF5LBc"/>
       <point x="131" y="1600" type="line" identifier="l8jRaw0YkY"/>
       <point x="27" y="1600" type="line" identifier="8oS81nStJX"/>
-      <point x="27" y="1598" type="line"/>
+      <point x="27" y="1598" type="line" identifier="exTEPFeHQO"/>
       <point x="78" y="1598" type="line" identifier="1xm0mHc9eh"/>
     </contour>
   </outline>
@@ -20,52 +20,6 @@
       <string>2019-04-28 05:35:59 +0000</string>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
-        <key>1xm0mHc9eh</key>
-        <array>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-        </array>
-        <key>8oS81nStJX</key>
-        <array>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>shiftstem</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>leftside</string>
-        </array>
         <key>ABe8abv3LE</key>
         <array>
           <string>rightside</string>
@@ -370,44 +324,6 @@
           <string>shiftdown</string>
           <string>leftside</string>
         </array>
-        <key>l8jRaw0YkY</key>
-        <array>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>shiftstem</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
-          <string>leftside</string>
-        </array>
         <key>rf7pecy6mC</key>
         <array>
           <string>rightside</string>
@@ -483,14 +399,6 @@
           <string>rightside</string>
           <string>shiftdown</string>
           <string>leftside</string>
-        </array>
-        <key>zTICSjBOe7</key>
-        <array>
-          <string>rightside</string>
-          <string>leftside</string>
-          <string>leftside</string>
-          <string>rightside</string>
-          <string>shiftdown</string>
         </array>
       </dict>
     </dict>

@@ -97,8 +97,6 @@
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.f8pkuFMswG</key>
     <real>5.0</real>
-    <key>com.typemytype.robofont.guideline.magnetic.r4Og11eW4Z</key>
-    <real>7.0</real>
     <key>com.typemytype.robofont.guideline.magnetic.zB3sZ5jdqB</key>
     <real>5.0</real>
     <key>com.typemytype.robofont.guideline.showMeasurements.YgrlY2J6wm</key>
@@ -106,8 +104,6 @@
     <key>com.typemytype.robofont.guideline.showMeasurements.YiUoFVX5YW</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.f8pkuFMswG</key>
-    <false/>
-    <key>com.typemytype.robofont.guideline.showMeasurements.r4Og11eW4Z</key>
     <false/>
     <key>com.typemytype.robofont.guideline.showMeasurements.zB3sZ5jdqB</key>
     <false/>
@@ -488,7 +484,6 @@
       <string>seven.subs</string>
       <string>eight.subs</string>
       <string>nine.subs</string>
-      <string>Y.alt</string>
       <string>C.wide</string>
       <string>E.wide</string>
       <string>F.wide</string>
@@ -503,14 +498,14 @@
       <string>five.wide</string>
       <string>six.wide</string>
       <string>nine.wide</string>
-      <string>B.narrow</string>
       <string>I.narrow</string>
-      <string>K.narrow</string>
       <string>M.narrow</string>
       <string>N.narrow</string>
-      <string>U.narrow</string>
       <string>W.narrow</string>
       <string>one.narrow</string>
+      <string>U.alt</string>
+      <string>two.wide</string>
+      <string>seven.alt</string>
     </array>
   </dict>
 </plist>

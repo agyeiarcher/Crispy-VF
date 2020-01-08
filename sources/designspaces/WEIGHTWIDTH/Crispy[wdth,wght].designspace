@@ -10,58 +10,28 @@
     <rule name="subwidth">
       <conditionset>
         <condition name="weight" minimum="500" maximum="900"/>
-        <condition name="width" minimum="300" maximum="900"/>
-      </conditionset>
-      <conditionset>
-        <condition name="weight" minimum="501" maximum="900"/>
-        <condition name="width" minimum="100" maximum="900"/>
+        <condition name="width" minimum="701" maximum="900"/>
       </conditionset>
       <sub name="S" with="S.wide"/>
-      <sub name="five" with="five.wide"/>
       <sub name="three" with="three.wide"/>
       <sub name="six" with="six.wide"/>
-      <sub name="L" with="L.wide"/>
       <sub name="E" with="E.wide"/>
       <sub name="nine" with="nine.wide"/>
-      <sub name="K" with="K.alt"/>
       <sub name="F" with="F.wide"/>
-      <sub name="R" with="R.alt"/>
       <sub name="G" with="G.wide"/>
+      <sub name="two" with="two.wide"/>
+      <sub name="Y" with="Y.wide"/>
     </rule>
     <rule name="narrowsubs">
       <conditionset>
         <condition name="weight" minimum="100" maximum="900"/>
-        <condition name="width" minimum="100" maximum="200"/>
+        <condition name="width" minimum="100" maximum="900"/>
       </conditionset>
       <sub name="M" with="M.narrow"/>
       <sub name="N" with="N.narrow"/>
       <sub name="W" with="W.narrow"/>
       <sub name="one" with="one.narrow"/>
       <sub name="I" with="I.narrow"/>
-      <sub name="B" with="B.narrow"/>
-    </rule>
-    <rule name="deepsub">
-      <conditionset>
-        <condition name="weight" minimum="300" maximum="900"/>
-        <condition name="width" minimum="550" maximum="900"/>
-      </conditionset>
-      <sub name="C" with="C.wide"/>
-      <sub name="three" with="three.wide"/>
-      <sub name="P" with="P.wide"/>
-    </rule>
-    <rule name="krule">
-      <conditionset>
-        <condition name="weight" minimum="300" maximum="900"/>
-        <condition name="width" minimum="500" maximum="900"/>
-      </conditionset>
-      <sub name="K" with="K.alt"/>
-    </rule>
-    <rule name="subY">
-      <conditionset>
-        <condition name="weight" minimum="100" maximum="900"/>
-        <condition name="width" minimum="200" maximum="900"/>
-      </conditionset>
-      <sub name="Y" with="Y.wide"/>
     </rule>
   </rules>
   <sources>

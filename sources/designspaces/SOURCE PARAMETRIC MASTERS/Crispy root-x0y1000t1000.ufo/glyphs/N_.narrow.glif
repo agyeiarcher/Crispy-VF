@@ -1,22 +1,8 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N.narrow" format="2">
-  <advance width="4029"/>
+  <advance width="4095"/>
   <outline>
-    <contour>
-      <point x="200" y="100" type="line" smooth="yes"/>
-      <point x="202" y="100" type="line"/>
-      <point x="202" y="826" type="line"/>
-      <point x="653" y="1032" type="line" smooth="yes"/>
-      <point x="3827" y="1032" type="line"/>
-      <point x="3827" y="0" type="line" smooth="yes"/>
-      <point x="3829" y="0" type="line" smooth="yes"/>
-      <point x="3829" y="1600" type="line" smooth="yes"/>
-      <point x="624" y="1600" type="line" smooth="yes"/>
-      <point x="304" y="1482" type="line"/>
-      <point x="202" y="1482" type="line"/>
-      <point x="202" y="1600" type="line"/>
-      <point x="200" y="1600" type="line"/>
-    </contour>
+    <component base="U.alt" xScale="-1" yScale="-1" xOffset="4096" yOffset="1600"/>
   </outline>
   <lib>
     <dict>

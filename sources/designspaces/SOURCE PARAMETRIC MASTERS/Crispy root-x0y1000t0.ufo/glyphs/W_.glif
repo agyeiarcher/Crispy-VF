@@ -3,29 +3,7 @@
   <advance width="248"/>
   <unicode hex="0057"/>
   <outline>
-    <contour>
-      <point x="33" y="1600" type="line" smooth="yes" identifier="12Pyby1xY2"/>
-      <point x="31" y="1600" type="line" smooth="yes" identifier="5LJg4ajoG6"/>
-      <point x="31" y="0" type="line" smooth="yes" identifier="ZqTZqAY3uY"/>
-      <point x="103" y="0" type="line" smooth="yes" identifier="rCeQLyjlsN"/>
-      <point x="123" y="249" type="line"/>
-      <point x="125" y="249" type="line"/>
-      <point x="125" y="0" type="line" smooth="yes" identifier="Pkl7cZ37MU"/>
-      <point x="177" y="0" type="line" smooth="yes" identifier="R4lklfJsHA"/>
-      <point x="221" y="506" type="line" smooth="yes" identifier="7g7f8Wu7K4"/>
-      <point x="221" y="1600" type="line" smooth="yes" identifier="RTOJW56qXy"/>
-      <point x="219" y="1600" type="line" identifier="JfSFAkWGZC"/>
-      <point x="219" y="505" type="line" smooth="yes" identifier="WWvGwSpq0g"/>
-      <point x="216" y="462" type="line" smooth="yes" identifier="oee4nqI8Wl"/>
-      <point x="127" y="462" type="line" identifier="Ljn2lpvpG8"/>
-      <point x="127" y="575" type="line"/>
-      <point x="127" y="1300" type="line" smooth="yes"/>
-      <point x="125" y="1300" type="line"/>
-      <point x="125" y="578" type="line"/>
-      <point x="125" y="578" type="line"/>
-      <point x="82" y="462" type="line" identifier="GlWB6PG54Z"/>
-      <point x="33" y="462" type="line" identifier="iqeTRv7HXg"/>
-    </contour>
+    <component base="M.narrow" xScale="-1" yScale="-1" xOffset="252" yOffset="1600"/>
   </outline>
   <lib>
     <dict>

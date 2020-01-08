@@ -2,22 +2,27 @@
 <glyph name="two" format="2">
   <advance width="3957"/>
   <unicode hex="0032"/>
+  <guideline x="-36" y="1077" angle="0" identifier="84wMfnS53Y"/>
+  <guideline x="-955" y="1062" angle="0" identifier="ogrxUPcRuz"/>
+  <guideline x="-1043" y="542" angle="0" identifier="YD0xs8qcRg"/>
   <outline>
     <contour>
       <point x="130" y="0" type="line"/>
-      <point x="3827" y="0" type="line" identifier="gv0FCpnndI"/>
-      <point x="3827" y="524" type="line" identifier="DQGhNM8lAj"/>
+      <point x="3817" y="0" type="line" identifier="gv0FCpnndI"/>
+      <point x="3817" y="568" type="line" identifier="DQGhNM8lAj"/>
+      <point x="3815" y="568" type="line"/>
+      <point x="3815" y="524" type="line"/>
       <point x="132" y="524" type="line" identifier="iVaCX1qNyg"/>
-      <point x="132" y="678" type="line" identifier="txehcYf1Qb"/>
-      <point x="3821" y="702" type="line" identifier="JgNsFS8mOF"/>
-      <point x="3821" y="1600" type="line" identifier="LqPsxcQ396"/>
+      <point x="132" y="586" type="line" identifier="txehcYf1Qb"/>
+      <point x="3816" y="586" type="line" identifier="JgNsFS8mOF"/>
+      <point x="3816" y="1600" type="line" identifier="LqPsxcQ396"/>
       <point x="133" y="1600" type="line"/>
-      <point x="133" y="888" type="line" identifier="BaMnOdvVJN"/>
-      <point x="135" y="888" type="line" identifier="dONjKIMbbu"/>
-      <point x="135" y="1076" type="line" identifier="6SWWF8hE5m"/>
-      <point x="3819" y="1076" type="line" identifier="autDcvqQ3x"/>
-      <point x="3819" y="902" type="line" identifier="lgD2xZ4fKC"/>
-      <point x="130" y="878" type="line" identifier="Y1sa85OIFF"/>
+      <point x="133" y="1032" type="line" identifier="BaMnOdvVJN"/>
+      <point x="135" y="1032" type="line" identifier="dONjKIMbbu"/>
+      <point x="135" y="1077" type="line" identifier="6SWWF8hE5m"/>
+      <point x="3814" y="1077" type="line" identifier="autDcvqQ3x"/>
+      <point x="3814" y="1002" type="line" identifier="lgD2xZ4fKC"/>
+      <point x="130" y="1002" type="line" identifier="Y1sa85OIFF"/>
     </contour>
   </outline>
   <lib>

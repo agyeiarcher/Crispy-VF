@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="M" format="2">
-  <advance width="1391"/>
+  <advance width="1256"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
-      <point x="415" y="208" type="line" identifier="0Dn4Xpf57M"/>
-      <point x="367" y="1341" type="line"/>
+      <point x="392" y="120" type="line" identifier="0Dn4Xpf57M"/>
+      <point x="361" y="1341" type="line"/>
       <point x="335" y="1341" type="line"/>
       <point x="335" y="0" type="line"/>
       <point x="35" y="0" type="line"/>
       <point x="35" y="1600" type="line"/>
-      <point x="648" y="1600" type="line"/>
-      <point x="685" y="445" type="line"/>
-      <point x="706" y="445" type="line" identifier="9aKZPM0HPh"/>
-      <point x="743" y="1600" type="line"/>
-      <point x="1356" y="1600" type="line"/>
-      <point x="1356" y="0" type="line"/>
-      <point x="1055" y="0" type="line"/>
-      <point x="1055" y="1341" type="line"/>
-      <point x="1024" y="1341" type="line"/>
-      <point x="976" y="208" type="line" identifier="spdoeeCFft"/>
+      <point x="601" y="1600" type="line"/>
+      <point x="628" y="358" type="line"/>
+      <point x="635" y="358" type="line" identifier="9aKZPM0HPh"/>
+      <point x="662" y="1600" type="line"/>
+      <point x="1228" y="1600" type="line"/>
+      <point x="1228" y="0" type="line"/>
+      <point x="928" y="0" type="line"/>
+      <point x="928" y="1341" type="line"/>
+      <point x="902" y="1341" type="line"/>
+      <point x="872" y="120" type="line" identifier="spdoeeCFft"/>
     </contour>
   </outline>
   <lib>

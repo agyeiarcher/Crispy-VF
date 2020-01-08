@@ -620,15 +620,11 @@
       <string>seven</string>
       <string>eight</string>
       <string>nine</string>
-      <string>Y.alt</string>
       <string>six.wide</string>
       <string>nine.wide</string>
       <string>one.narrow</string>
-      <string>B.narrow</string>
-      <string>K.narrow</string>
       <string>M.narrow</string>
       <string>N.narrow</string>
-      <string>U.narrow</string>
       <string>W.narrow</string>
       <string>twosuperior</string>
       <string>threesuperior</string>
@@ -883,6 +879,9 @@
       <string>hungarumlaut</string>
       <string>Y.wide</string>
       <string>P.wide</string>
+      <string>U.alt</string>
+      <string>two.wide</string>
+      <string>seven.alt</string>
     </array>
   </dict>
 </plist>

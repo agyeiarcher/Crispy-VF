@@ -494,9 +494,6 @@
       <string>seven.subs</string>
       <string>eight.subs</string>
       <string>nine.subs</string>
-      <string>K.alt</string>
-      <string>R.alt</string>
-      <string>S.alt</string>
       <string>I.narrow</string>
       <string>C.wide</string>
       <string>E.wide</string>
@@ -508,18 +505,17 @@
       <string>three.wide</string>
       <string>five.wide</string>
       <string>L.wide</string>
-      <string>Y.alt</string>
       <string>six.wide</string>
       <string>nine.wide</string>
       <string>one.narrow</string>
-      <string>B.narrow</string>
-      <string>K.narrow</string>
       <string>M.narrow</string>
       <string>N.narrow</string>
-      <string>U.narrow</string>
       <string>W.narrow</string>
       <string>Y.wide</string>
       <string>P.wide</string>
+      <string>U.alt</string>
+      <string>two.wide</string>
+      <string>seven.alt</string>
     </array>
   </dict>
 </plist>
