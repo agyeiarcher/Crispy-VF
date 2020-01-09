@@ -394,6 +394,16 @@
       <string>estimated</string>
       <string>lozenge</string>
       <string>zerowidthspace</string>
+      <string>/arrowNE</string>
+      <string>/arrowNW</string>
+      <string>/arrowSE</string>
+      <string>/arrowSW</string>
+      <string>/arrowdown</string>
+      <string>/arrowleft</string>
+      <string>/arrowleftright</string>
+      <string>/arrowright</string>
+      <string>/arrowup</string>
+      <string>/arrowupdown</string>
       <string>CR</string>
       <string>NULL</string>
       <string>Ndotaccent</string>
@@ -466,7 +476,6 @@
       <string>seven.subs</string>
       <string>eight.subs</string>
       <string>nine.subs</string>
-      <string>U.alt</string>
       <string>C.wide</string>
       <string>E.wide</string>
       <string>F.wide</string>
@@ -477,6 +486,7 @@
       <string>S.wide</string>
       <string>Y.wide</string>
       <string>Z.wide</string>
+      <string>two.wide</string>
       <string>three.wide</string>
       <string>five.wide</string>
       <string>six.wide</string>
@@ -486,7 +496,7 @@
       <string>N.narrow</string>
       <string>W.narrow</string>
       <string>one.narrow</string>
-      <string>two.wide</string>
+      <string>U.alt</string>
       <string>seven.alt</string>
     </array>
   </dict>

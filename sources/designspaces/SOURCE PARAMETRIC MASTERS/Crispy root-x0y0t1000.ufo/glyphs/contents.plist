@@ -2,6 +2,26 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
+    <key>/arrowNE</key>
+    <string>_arrowN_E_.glif</string>
+    <key>/arrowNW</key>
+    <string>_arrowN_W_.glif</string>
+    <key>/arrowSE</key>
+    <string>_arrowS_E_.glif</string>
+    <key>/arrowSW</key>
+    <string>_arrowS_W_.glif</string>
+    <key>/arrowdown</key>
+    <string>_arrowdown.glif</string>
+    <key>/arrowleft</key>
+    <string>_arrowleft.glif</string>
+    <key>/arrowleftright</key>
+    <string>_arrowleftright.glif</string>
+    <key>/arrowright</key>
+    <string>_arrowright.glif</string>
+    <key>/arrowup</key>
+    <string>_arrowup.glif</string>
+    <key>/arrowupdown</key>
+    <string>_arrowupdown.glif</string>
     <key>A</key>
     <string>A_.glif</string>
     <key>AE</key>
