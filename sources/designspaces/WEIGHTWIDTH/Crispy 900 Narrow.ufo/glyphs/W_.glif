@@ -1,30 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="W" format="2">
-  <advance width="1255"/>
+  <advance width="1193"/>
   <unicode hex="0057"/>
   <outline>
-    <contour>
-      <point x="35" y="0" type="line" smooth="yes" identifier="ZqTZqAY3uY"/>
-      <point x="548" y="0" type="line" smooth="yes" identifier="rCeQLyjlsN"/>
-      <point x="588" y="175" type="line"/>
-      <point x="595" y="175" type="line"/>
-      <point x="595" y="0" type="line" smooth="yes" identifier="Pkl7cZ37MU"/>
-      <point x="1124" y="0" type="line" smooth="yes" identifier="R4lklfJsHA"/>
-      <point x="1231" y="444" type="line" smooth="yes" identifier="7g7f8Wu7K4"/>
-      <point x="1231" y="1600" type="line" smooth="yes" identifier="RTOJW56qXy"/>
-      <point x="891" y="1600" type="line" identifier="JfSFAkWGZC"/>
-      <point x="891" y="440" type="line" smooth="yes" identifier="WWvGwSpq0g"/>
-      <point x="854" y="259" type="line" smooth="yes" identifier="oee4nqI8Wl"/>
-      <point x="807" y="259" type="line" identifier="Ljn2lpvpG8"/>
-      <point x="807" y="488" type="line"/>
-      <point x="807" y="1432" type="line" smooth="yes"/>
-      <point x="468" y="1432" type="line"/>
-      <point x="468" y="474" type="line"/>
-      <point x="405" y="259" type="line" identifier="GlWB6PG54Z"/>
-      <point x="374" y="259" type="line" identifier="iqeTRv7HXg"/>
-      <point x="374" y="1600" type="line" smooth="yes" identifier="12Pyby1xY2"/>
-      <point x="35" y="1600" type="line" smooth="yes" identifier="5LJg4ajoG6"/>
-    </contour>
+    <component base="M.narrow" xScale="-1.0" yScale="-1.0" xOffset="1192" yOffset="1600"/>
   </outline>
   <lib>
     <dict>

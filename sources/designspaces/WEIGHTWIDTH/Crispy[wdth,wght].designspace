@@ -149,9 +149,7 @@
           <string>width</string>
         </array>
         <key>ignore</key>
-        <array>
-          <string>grade</string>
-        </array>
+        <array/>
         <key>vertical</key>
         <array>
           <string>weight</string>
@@ -159,10 +157,6 @@
       </dict>
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
-        <key>grade</key>
-        <real>50.0</real>
-        <key>shadow</key>
-        <real>0.0</real>
         <key>weight</key>
         <real>1.0</real>
         <key>width</key>
