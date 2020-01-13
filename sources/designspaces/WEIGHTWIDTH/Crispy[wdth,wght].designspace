@@ -9,8 +9,8 @@
   <rules>
     <rule name="subwidth">
       <conditionset>
-        <condition name="weight" minimum="500" maximum="900"/>
-        <condition name="width" minimum="701" maximum="900"/>
+        <condition name="weight" minimum="100" maximum="900"/>
+        <condition name="width" minimum="551" maximum="900"/>
       </conditionset>
       <sub name="S" with="S.wide"/>
       <sub name="three" with="three.wide"/>
@@ -21,15 +21,15 @@
       <sub name="G" with="G.wide"/>
       <sub name="two" with="two.wide"/>
       <sub name="Y" with="Y.wide"/>
+      <sub name="L" with="L.wide"/>
+      <sub name="C" with="C.wide"/>
     </rule>
     <rule name="narrowsubs">
       <conditionset>
-        <condition name="weight" minimum="100" maximum="900"/>
-        <condition name="width" minimum="100" maximum="900"/>
+        <condition name="width" minimum="100" maximum="351"/>
       </conditionset>
       <sub name="M" with="M.narrow"/>
       <sub name="N" with="N.narrow"/>
-      <sub name="W" with="W.narrow"/>
       <sub name="one" with="one.narrow"/>
       <sub name="I" with="I.narrow"/>
     </rule>

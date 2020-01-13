@@ -4,10 +4,4 @@
   <outline>
     <component base="M.narrow" xScale="-1.0" yScale="-1.0" xOffset="5260" yOffset="1600"/>
   </outline>
-  <lib>
-    <dict>
-      <key>public.markColor</key>
-      <string>0,0.95,0.95,0.05</string>
-    </dict>
-  </lib>
 </glyph>

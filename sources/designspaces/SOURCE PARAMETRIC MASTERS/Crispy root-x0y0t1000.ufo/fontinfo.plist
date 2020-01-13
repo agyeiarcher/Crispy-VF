@@ -42,9 +42,9 @@
     <key>openTypeNamePreferredSubfamilyName</key>
     <string>Regular-Narrow-Stout</string>
     <key>openTypeOS2Type</key>
-    <array>
-      <integer>3</integer>
-    </array>
+    <array/>
+    <key>openTypeOS2VendorID</key>
+    <string>!666</string>
     <key>openTypeOS2WeightClass</key>
     <integer>400</integer>
     <key>openTypeOS2WidthClass</key>

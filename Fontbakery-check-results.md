@@ -8,31 +8,16 @@ Fontbakery version: 0.7.14
 <summary>ℹ <b>INFO:</b> Do we have the latest version of FontBakery installed?</summary>
 
 * [com.google.fonts/check/fontbakery_version](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version)
-* ℹ **INFO** fontbakery (0.7.15)  - Well designed Font QA tool, written in Python 3
+* ℹ **INFO** fontbakery (0.7.16)  - Well designed Font QA tool, written in Python 3
   INSTALLED: 0.7.14
-  LATEST:    0.7.15
+  LATEST:    0.7.16
 
 
 </details>
 <br>
 </details>
 <details>
-<summary><b>[17] Crispy[wdth,wght].ttf</b></summary>
-<details>
-<summary>🔥 <b>FAIL:</b> Checking OS/2 fsType.</summary>
-
-* [com.google.fonts/check/fstype](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/fstype)
-* 🔥 **FAIL** OS/2 fsType is a legacy DRM-related field.
-In this font it is set to 8 meaning that:
-The font may be embedded but must only be installed temporarily on other systems.
-
-No such DRM restrictions can be enabled on the Google Fonts collection, so the fsType field must be set to zero (Installable Embedding) instead.
-Fonts with this setting indicate that they may be embedded and permanently installed on the remote system by an application.
-
-More detailed info is available at:
-https://docs.microsoft.com/en-us/typography/opentype/spec/os2#fstype [code: drm]
-
-</details>
+<summary><b>[16] Crispy[wdth,wght].ttf</b></summary>
 <details>
 <summary>🔥 <b>FAIL:</b> Check glyph coverage.</summary>
 
@@ -73,14 +58,14 @@ https://docs.microsoft.com/en-us/typography/opentype/spec/os2#fstype [code: drm]
 <summary>🔥 <b>FAIL:</b> Whitespace and non-breaking space have the same width?</summary>
 
 * [com.google.fonts/check/whitespace_widths](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/hmtx.html#com.google.fonts/check/whitespace_widths)
-* 🔥 **FAIL** Whitespace and non-breaking space have differing width: Whitespace (space) is 140 font units wide, non-breaking space (nbspace) is 406 font units wide. Both should be positive and the same. [code: different-widths]
+* 🔥 **FAIL** Whitespace and non-breaking space have differing width: Whitespace (uni0020) is 140 font units wide, non-breaking space (uni00A0) is 406 font units wide. Both should be positive and the same. [code: different-widths]
 
 </details>
 <details>
 <summary>⚠ <b>WARN:</b> Checking OS/2 achVendID.</summary>
 
 * [com.google.fonts/check/vendor_id](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/vendor_id)
-* ⚠ **WARN** OS/2 VendorID value 'NONE' is not a known registered id. You should set it to your own 4 character code, and register that code with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx [code: unknown]
+* ⚠ **WARN** OS/2 VendorID value '!666' is not a known registered id. You should set it to your own 4 character code, and register that code with Microsoft at https://www.microsoft.com/typography/links/vendorlist.aspx [code: unknown]
 
 </details>
 <details>
@@ -112,9 +97,9 @@ https://docs.microsoft.com/en-us/typography/opentype/spec/os2#fstype [code: drm]
 
 |  | font/Crispy[wdth,wght].ttf |
 |:--- | ---:|
-| Dehinted Size | 31.1kb |
-| Hinted Size | 31.0kb |
-| Increase | -124 bytes |
+| Dehinted Size | 33.0kb |
+| Hinted Size | 32.8kb |
+| Increase | -128 bytes |
 | Change   | -0.4 % |
  [code: size-impact]
 
@@ -161,7 +146,7 @@ The version string must ideally include a git commit hash and either a "dev" or 
 <summary>ℹ <b>INFO:</b> Font contains all required tables?</summary>
 
 * [com.google.fonts/check/required_tables](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/required_tables)
-* ℹ **INFO** This font contains the following optional tables [gasp, GSUB, DSIG, prep, loca]
+* ℹ **INFO** This font contains the following optional tables [prep, gasp, GSUB, DSIG, loca]
 
 </details>
 <br>
@@ -171,8 +156,8 @@ The version string must ideally include a git commit hash and either a "dev" or 
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 7 | 4 | 31 | 7 | 65 | 0 |
-| 0% | 6% | 4% | 27% | 6% | 57% | 0% |
+| 0 | 6 | 4 | 31 | 7 | 66 | 0 |
+| 0% | 5% | 4% | 27% | 6% | 58% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**
