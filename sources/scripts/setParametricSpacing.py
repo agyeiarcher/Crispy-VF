@@ -48,16 +48,16 @@ def allClear(rightSideCheckGroup, leftSideCheckGroup):
 def setSpacing(f):
     if allClear(rightSideCheckGroup, leftSideCheckGroup):
         if styleName == "x0y0t1000":
-            rightSideNotchValue = 160 
-            leftSideNotchValue = 160         
-            rightSideFlatValue = 200
-            leftSideFlatValue = 200
-            rightSideSpecialValue = 130
-            leftSideSpecialValue  = 130
+            rightSideNotchValue = 260 
+            leftSideNotchValue = 260         
+            rightSideFlatValue = 380
+            leftSideFlatValue = 380
+            rightSideSpecialValue = 160
+            leftSideSpecialValue  = 160
             rightPunctValue = 50
             leftPunctValue = 50
         if styleName == "x0y1000t1000":
-            rightSideNotchValue = 160 
+            rightSideNotchValue = 160 AllFonts
             leftSideNotchValue = 160         
             rightSideFlatValue = 200
             leftSideFlatValue = 200

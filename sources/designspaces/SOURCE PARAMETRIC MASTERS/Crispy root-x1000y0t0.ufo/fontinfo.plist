@@ -20,9 +20,9 @@
         <key>name</key>
         <string>topserif-narrow</string>
         <key>x</key>
-        <integer>164</integer>
+        <integer>1653</integer>
         <key>y</key>
-        <integer>1700</integer>
+        <integer>1179</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -33,6 +33,16 @@
         <integer>263</integer>
         <key>y</key>
         <integer>303</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>TGGfKjbSIj</string>
+        <key>x</key>
+        <integer>1615</integer>
+        <key>y</key>
+        <integer>1122</integer>
       </dict>
     </array>
     <key>openTypeHeadCreated</key>
