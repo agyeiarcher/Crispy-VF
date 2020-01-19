@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="U.alt" format="2">
-  <advance width="4882"/>
+  <advance width="5034"/>
   <outline>
     <contour>
-      <point x="3775" y="1600" type="line" smooth="yes"/>
-      <point x="3775" y="536" type="line"/>
-      <point x="1104" y="536" type="line" smooth="yes"/>
-      <point x="1104" y="1600" type="line"/>
-      <point x="158" y="1600" type="line" smooth="yes"/>
-      <point x="158" y="0" type="line" smooth="yes"/>
-      <point x="4721" y="0" type="line" smooth="yes"/>
-      <point x="4721" y="1600" type="line" smooth="yes"/>
+      <point x="3851" y="1600" type="line" smooth="yes"/>
+      <point x="3851" y="536" type="line"/>
+      <point x="1180" y="536" type="line" smooth="yes"/>
+      <point x="1180" y="1600" type="line"/>
+      <point x="234" y="1600" type="line" smooth="yes"/>
+      <point x="234" y="0" type="line" smooth="yes"/>
+      <point x="4797" y="0" type="line" smooth="yes"/>
+      <point x="4797" y="1600" type="line" smooth="yes"/>
     </contour>
   </outline>
 </glyph>
