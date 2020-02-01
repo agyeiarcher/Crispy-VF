@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X.shadow" format="2">
+  <advance width="-156"/>
+  <outline>
+    <contour>
+      <point x="158" y="2" type="line"/>
+      <point x="158" y="749" type="line"/>
+      <point x="161" y="752" type="line"/>
+      <point x="138" y="780" type="line"/>
+      <point x="159" y="801" type="line"/>
+      <point x="154" y="801" type="line"/>
+      <point x="154" y="1605" type="line"/>
+      <point x="34" y="1485" type="line"/>
+      <point x="34" y="1605" type="line"/>
+      <point x="-270" y="1301" type="line"/>
+      <point x="-270" y="544" type="line"/>
+      <point x="-253" y="523" type="line"/>
+      <point x="-274" y="502" type="line"/>
+      <point x="-274" y="-302" type="line"/>
+      <point x="-269" y="-302" type="line"/>
+      <point x="-146" y="-179" type="line"/>
+      <point x="-146" y="-302" type="line"/>
+      <point x="-141" y="-302" type="line"/>
+      <point x="163" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="154" y="751" type="line"/>
+      <point x="154" y="-1" type="line"/>
+      <point x="-142" y="-297" type="line"/>
+      <point x="-142" y="-169" type="line"/>
+      <point x="-270" y="-297" type="line"/>
+      <point x="-270" y="500" type="line"/>
+      <point x="-247" y="523" type="line"/>
+      <point x="-266" y="546" type="line"/>
+      <point x="-266" y="1299" type="line"/>
+      <point x="30" y="1595" type="line"/>
+      <point x="30" y="1475" type="line"/>
+      <point x="150" y="1595" type="line"/>
+      <point x="150" y="802" type="line"/>
+      <point x="145" y="797" type="line"/>
+      <point x="149" y="797" type="line"/>
+      <point x="132" y="780" type="line"/>
+      <point x="155" y="752" type="line"/>
+    </contour>
+  </outline>
+</glyph>

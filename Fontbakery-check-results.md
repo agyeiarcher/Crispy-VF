@@ -8,16 +8,24 @@ Fontbakery version: 0.7.14
 <summary>ℹ <b>INFO:</b> Do we have the latest version of FontBakery installed?</summary>
 
 * [com.google.fonts/check/fontbakery_version](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/fontbakery_version)
-* ℹ **INFO** fontbakery (0.7.16)  - Well designed Font QA tool, written in Python 3
+* ℹ **INFO** fontbakery (0.7.17)  - Well designed Font QA tool, written in Python 3
   INSTALLED: 0.7.14
-  LATEST:    0.7.16
+  LATEST:    0.7.17
 
 
 </details>
 <br>
 </details>
 <details>
-<summary><b>[16] Crispy[wdth,wght].ttf</b></summary>
+<summary><b>[19] Crispy[GRAD,wdth,wght].ttf</b></summary>
+<details>
+<summary>💔 <b>ERROR:</b> Check variable font instances have correct coordinate values</summary>
+
+* [com.google.fonts/check/varfont_instance_coordinates](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/varfont_instance_coordinates)
+* 💔 **ERROR** Failed with KeyError: 'GRAD'
+* 🔥 **FAIL** Instance "Condensed Thin" wdth value is "100.0". It should be "75.0" [code: bad-coordinate]
+
+</details>
 <details>
 <summary>🔥 <b>FAIL:</b> Check glyph coverage.</summary>
 
@@ -26,24 +34,34 @@ Fontbakery version: 0.7.14
 
 </details>
 <details>
-<summary>🔥 <b>FAIL:</b> Check name table: TYPOGRAPHIC_SUBFAMILY_NAME entries. </summary>
+<summary>🔥 <b>FAIL:</b> Checking OS/2 usWeightClass.</summary>
 
-* [com.google.fonts/check/name/typographicsubfamilyname](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/typographicsubfamilyname)
-* 🔥 **FAIL** TYPOGRAPHIC_SUBFAMILY_NAME for Win "100 Narrow" is incorrect. It must be "Thin". [code: bad-typo-win]
+* [com.google.fonts/check/usweightclass](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass)
+* 🔥 **FAIL** OS/2 usWeightClass expected value for 'Regular' is 400 but this font has 1.
+ GlyphsApp users should set a Custom Parameter for 'Axis Location' in each master to ensure that the information is accurately built into variable fonts. [code: bad-value]
 
 </details>
 <details>
-<summary>🔥 <b>FAIL:</b> Check variable font instances have correct coordinate values</summary>
+<summary>🔥 <b>FAIL:</b> Check name table: TYPOGRAPHIC_SUBFAMILY_NAME entries. </summary>
 
-* [com.google.fonts/check/varfont_instance_coordinates](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/varfont_instance_coordinates)
-* 🔥 **FAIL** Instance "Semibold" wght value is "600.0". It should be "400.0" [code: bad-coordinate]
+* [com.google.fonts/check/name/typographicsubfamilyname](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/typographicsubfamilyname)
+* 🔥 **FAIL** TYPOGRAPHIC_SUBFAMILY_NAME entry for Win "Cond Thin-MaxGrade" must be "Regular". Please note, since the font style is RIBBI, this record can be safely deleted. [code: bad-win-name]
 
 </details>
 <details>
 <summary>🔥 <b>FAIL:</b> Check variable font instances have correct names</summary>
 
 * [com.google.fonts/check/varfont_instance_names](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/varfont_instance_names)
-* 🔥 **FAIL** Instance name "Semibold" is incorrect. It should be "" [code: bad-name]
+* 🔥 **FAIL** Instance name "Condensed Semibold" is incorrect. It should be "Condensed" [code: bad-name]
+* 🔥 **FAIL** Instance name "Extended Thin" is incorrect. It should be "Thin" [code: bad-name]
+* 🔥 **FAIL** Instance name "Extended ExtraLight" is incorrect. It should be "ExtraLight" [code: bad-name]
+* 🔥 **FAIL** Instance name "Extended Light" is incorrect. It should be "Light" [code: bad-name]
+* 🔥 **FAIL** Instance name "Extended Regular" is incorrect. It should be "Regular" [code: bad-name]
+* 🔥 **FAIL** Instance name "Extended Medium" is incorrect. It should be "Medium" [code: bad-name]
+* 🔥 **FAIL** Instance name "Extended SemiBold" is incorrect. It should be "SemiBold" [code: bad-name]
+* 🔥 **FAIL** Instance name "Extended Bold" is incorrect. It should be "Bold" [code: bad-name]
+* 🔥 **FAIL** Instance name "Extended ExtraBold" is incorrect. It should be "ExtraBold" [code: bad-name]
+* 🔥 **FAIL** Instance name "Extended Black" is incorrect. It should be "Black" [code: bad-name]
 * 🔥 **FAIL** This will cause problems with some of the Google Fonts systems that look up fonts by their style names. This must be fixed! [code: bad-instance-names]
 
 </details>
@@ -58,7 +76,14 @@ Fontbakery version: 0.7.14
 <summary>🔥 <b>FAIL:</b> Whitespace and non-breaking space have the same width?</summary>
 
 * [com.google.fonts/check/whitespace_widths](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/hmtx.html#com.google.fonts/check/whitespace_widths)
-* 🔥 **FAIL** Whitespace and non-breaking space have differing width: Whitespace (uni0020) is 140 font units wide, non-breaking space (uni00A0) is 406 font units wide. Both should be positive and the same. [code: different-widths]
+* 🔥 **FAIL** Whitespace and non-breaking space have differing width: Whitespace (uni0020) is 114 font units wide, non-breaking space (uni00A0) is 402 font units wide. Both should be positive and the same. [code: different-widths]
+
+</details>
+<details>
+<summary>🔥 <b>FAIL:</b> The variable font 'wdth' (Width) axis coordinate must be 100 on the 'Regular' instance.</summary>
+
+* [com.google.fonts/check/varfont/regular_wdth_coord](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/fvar.html#com.google.fonts/check/varfont/regular_wdth_coord)
+* 🔥 **FAIL** The "wdth" coordinate of the "Regular" instance must be 100. Got 300.0 as a default value instead. [code: not-100]
 
 </details>
 <details>
@@ -69,10 +94,13 @@ Fontbakery version: 0.7.14
 
 </details>
 <details>
-<summary>⚠ <b>WARN:</b> Checking OS/2 usWeightClass.</summary>
+<summary>⚠ <b>WARN:</b> Combined length of family and style must not exceed 27 characters.</summary>
 
-* [com.google.fonts/check/usweightclass](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/usweightclass)
-* ⚠ **WARN** Thin:100 is OK on TTFs, but OTF files with those values will cause bluring on Windows. GlyphsApp users must set an Instance Custom Parameter for the Thin and ExtraLight styles to 250 and 275, so that if OTFs are exported then it will not blur on Windows. [code: blur-on-windows]
+* [com.google.fonts/check/name/family_and_style_max_length](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/name/family_and_style_max_length)
+* ⚠ **WARN** The combined length of family and style exceeds 27 chars in the following 'WINDOWS' entries:
+ FONT_FAMILY_NAME = 'Crispy Cond Thin-MaxGrade' / SUBFAMILY_NAME = 'Regular'
+
+Please take a look at the conversation at https://github.com/googlefonts/fontbakery/issues/2179 in order to understand the reasoning behind these name table records max-length criteria. [code: too-long]
 
 </details>
 <details>
@@ -95,12 +123,12 @@ Fontbakery version: 0.7.14
 * [com.google.fonts/check/hinting_impact](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/googlefonts.html#com.google.fonts/check/hinting_impact)
 * ℹ **INFO** Hinting filesize impact:
 
-|  | font/Crispy[wdth,wght].ttf |
+|  | font/variable_ttf/Crispy[GRAD,wdth,wght].ttf |
 |:--- | ---:|
-| Dehinted Size | 33.0kb |
-| Hinted Size | 32.8kb |
-| Increase | -128 bytes |
-| Change   | -0.4 % |
+| Dehinted Size | 53.7kb |
+| Hinted Size | 53.5kb |
+| Increase | -152 bytes |
+| Change   | -0.3 % |
  [code: size-impact]
 
 </details>
@@ -146,7 +174,19 @@ The version string must ideally include a git commit hash and either a "dev" or 
 <summary>ℹ <b>INFO:</b> Font contains all required tables?</summary>
 
 * [com.google.fonts/check/required_tables](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/universal.html#com.google.fonts/check/required_tables)
-* ℹ **INFO** This font contains the following optional tables [prep, gasp, GSUB, DSIG, loca]
+* ℹ **INFO** This font contains the following optional tables [loca, prep, GSUB, gasp, DSIG]
+
+</details>
+<details>
+<summary>ℹ <b>INFO:</b> Font follows the family naming recommendations?</summary>
+
+* [com.google.fonts/check/family_naming_recommendations](https://font-bakery.readthedocs.io/en/latest/fontbakery/profiles/name.html#com.google.fonts/check/family_naming_recommendations)
+* ℹ **INFO** Font does not follow some family naming recommendations:
+
+| Field | Value | Recommendation |
+|:----- |:----- |:-------------- |
+| Postscript Name | Crispy-CondThin-MaxGrade | May contain not more than a single hyphen |
+ [code: bad-entries]
 
 </details>
 <br>
@@ -156,8 +196,8 @@ The version string must ideally include a git commit hash and either a "dev" or 
 
 | 💔 ERROR | 🔥 FAIL | ⚠ WARN | 💤 SKIP | ℹ INFO | 🍞 PASS | 🔎 DEBUG |
 |:-----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| 0 | 6 | 4 | 31 | 7 | 66 | 0 |
-| 0% | 5% | 4% | 27% | 6% | 58% | 0% |
+| 1 | 7 | 4 | 31 | 8 | 63 | 0 |
+| 1% | 6% | 4% | 27% | 7% | 55% | 0% |
 
 **Note:** The following loglevels were omitted in this report:
 * **SKIP**

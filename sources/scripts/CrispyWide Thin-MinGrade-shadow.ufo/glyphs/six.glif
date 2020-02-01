@@ -1,0 +1,92 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six" format="2">
+  <advance width="3826"/>
+  <unicode hex="0036"/>
+  <outline>
+    <contour>
+      <point x="3828" y="-1" type="line"/>
+      <point x="3828" y="804" type="line"/>
+      <point x="234" y="804" type="line"/>
+      <point x="234" y="1206" type="line"/>
+      <point x="569" y="1444" type="line"/>
+      <point x="3669" y="1444" type="line"/>
+      <point x="3669" y="928" type="line"/>
+      <point x="3676" y="928" type="line"/>
+      <point x="3827" y="1079" type="line"/>
+      <point x="3827" y="1602" type="line"/>
+      <point x="715" y="1602" type="line"/>
+      <point x="227" y="1255" type="line"/>
+      <point x="76" y="1104" type="line"/>
+      <point x="76" y="-152" type="line"/>
+      <point x="3677" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="1208" type="line"/>
+      <point x="230" y="800" type="line"/>
+      <point x="3824" y="800" type="line"/>
+      <point x="3824" y="1" type="line"/>
+      <point x="3675" y="-148" type="line"/>
+      <point x="80" y="-148" type="line"/>
+      <point x="80" y="1102" type="line"/>
+      <point x="229" y="1251" type="line"/>
+      <point x="717" y="1598" type="line"/>
+      <point x="3823" y="1598" type="line"/>
+      <point x="3823" y="1081" type="line"/>
+      <point x="3674" y="932" type="line"/>
+      <point x="3673" y="932" type="line"/>
+      <point x="3673" y="1448" type="line"/>
+      <point x="567" y="1448" type="line"/>
+    </contour>
+    <contour>
+      <point x="3674" y="2" type="line"/>
+      <point x="3674" y="650" type="line"/>
+      <point x="230" y="650" type="line"/>
+      <point x="230" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="234" y="6" type="line"/>
+      <point x="234" y="646" type="line"/>
+      <point x="3670" y="646" type="line"/>
+      <point x="3670" y="6" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 04:43:13 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>2G5L37c87I</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>KnMArb0tv8</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>Wuidbv6mUe</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>jtYkxiUX6G</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>oGvEEuxnYv</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>uiw6aBUf4P</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>xR3pEHbMJx</key>
+        <array>
+          <string>leftside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

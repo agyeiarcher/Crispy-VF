@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="H.shadow" format="2">
+  <advance width="-149"/>
+  <outline>
+    <contour>
+      <point x="159" y="2" type="line"/>
+      <point x="159" y="1605" type="line"/>
+      <point x="35" y="1481" type="line"/>
+      <point x="35" y="1605" type="line"/>
+      <point x="-269" y="1301" type="line"/>
+      <point x="-269" y="-302" type="line"/>
+      <point x="-264" y="-302" type="line"/>
+      <point x="-145" y="-183" type="line"/>
+      <point x="-145" y="-302" type="line"/>
+      <point x="-140" y="-302" type="line"/>
+      <point x="164" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="31" y="1471" type="line"/>
+      <point x="155" y="1595" type="line"/>
+      <point x="155" y="802" type="line"/>
+      <point x="150" y="797" type="line"/>
+      <point x="155" y="797" type="line"/>
+      <point x="155" y="-1" type="line"/>
+      <point x="-141" y="-297" type="line"/>
+      <point x="-141" y="-173" type="line"/>
+      <point x="-265" y="-297" type="line"/>
+      <point x="-265" y="1299" type="line"/>
+      <point x="31" y="1595" type="line"/>
+    </contour>
+  </outline>
+</glyph>

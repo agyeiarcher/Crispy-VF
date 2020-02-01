@@ -1,0 +1,57 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="5127"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="919" y="-152" type="line"/>
+      <point x="1070" y="-1" type="line"/>
+      <point x="1070" y="125" type="line"/>
+      <point x="3921" y="125" type="line"/>
+      <point x="3921" y="-152" type="line"/>
+      <point x="4834" y="-152" type="line"/>
+      <point x="4985" y="-1" type="line"/>
+      <point x="4985" y="1602" type="line"/>
+      <point x="665" y="1602" type="line"/>
+      <point x="159" y="1097" type="line"/>
+      <point x="8" y="947" type="line"/>
+      <point x="8" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="161" y="1095" type="line"/>
+      <point x="667" y="1598" type="line"/>
+      <point x="4981" y="1598" type="line"/>
+      <point x="4981" y="1" type="line"/>
+      <point x="4832" y="-148" type="line"/>
+      <point x="3925" y="-148" type="line"/>
+      <point x="3925" y="129" type="line"/>
+      <point x="1066" y="129" type="line"/>
+      <point x="1066" y="1" type="line"/>
+      <point x="917" y="-148" type="line"/>
+      <point x="12" y="-148" type="line"/>
+      <point x="12" y="945" type="line"/>
+    </contour>
+    <contour>
+      <point x="3925" y="805" type="line"/>
+      <point x="3925" y="922" type="line"/>
+      <point x="1070" y="922" type="line"/>
+      <point x="1066" y="918" type="line"/>
+      <point x="1066" y="805" type="line"/>
+    </contour>
+    <contour>
+      <point x="1070" y="809" type="line"/>
+      <point x="1070" y="916" type="line"/>
+      <point x="1072" y="918" type="line"/>
+      <point x="3921" y="918" type="line"/>
+      <point x="3921" y="809" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

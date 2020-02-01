@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <advance width="5199"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="5213" y="1602" type="line"/>
+      <point x="310" y="1602" type="line"/>
+      <point x="159" y="1451" type="line"/>
+      <point x="159" y="-152" type="line"/>
+      <point x="4562" y="-152" type="line"/>
+      <point x="5062" y="340" type="line"/>
+      <point x="5062" y="340" type="line"/>
+      <point x="5062" y="340" type="line"/>
+      <point x="5213" y="490" type="line"/>
+    </contour>
+    <contour>
+      <point x="163" y="-148" type="line"/>
+      <point x="163" y="1449" type="line"/>
+      <point x="312" y="1598" type="line"/>
+      <point x="5209" y="1598" type="line"/>
+      <point x="5209" y="492" type="line"/>
+      <point x="5060" y="342" type="line"/>
+      <point x="4560" y="-148" type="line"/>
+    </contour>
+    <contour>
+      <point x="4117" y="608" type="line"/>
+      <point x="4117" y="916" type="line"/>
+      <point x="1254" y="916" type="line"/>
+      <point x="1254" y="533" type="line"/>
+      <point x="4011" y="533" type="line"/>
+    </contour>
+    <contour>
+      <point x="1258" y="537" type="line"/>
+      <point x="1258" y="912" type="line"/>
+      <point x="4113" y="912" type="line"/>
+      <point x="4113" y="610" type="line"/>
+      <point x="4009" y="537" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>DhFNkdKcfj</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>yunTqSzRcA</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

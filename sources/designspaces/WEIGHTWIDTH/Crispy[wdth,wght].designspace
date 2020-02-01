@@ -65,7 +65,7 @@
     </source>
   </sources>
   <instances>
-    <instance familyname="Crispy" stylename="Light" filename="instances/Crispy-300.ufo">
+    <instance familyname="Crispy Condensed" stylename="Light" filename="instances/Crispy Condensed-300.ufo">
       <location>
         <dimension name="weight" xvalue="300"/>
         <dimension name="width" xvalue="100"/>
@@ -73,7 +73,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Crispy" stylename="Regular" filename="instances/Crispy-400.ufo">
+    <instance familyname="Crispy Condensed" stylename="Regular" filename="instances/Crispy Condensed-400.ufo">
       <location>
         <dimension name="weight" xvalue="400"/>
         <dimension name="width" xvalue="100"/>
@@ -81,7 +81,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Crispy" stylename="Medium" filename="instances/Crispy-500.ufo">
+    <instance familyname="Crispy Condensed" stylename="Medium" filename="instances/Crispy Condensed-500.ufo">
       <location>
         <dimension name="weight" xvalue="500"/>
         <dimension name="width" xvalue="100"/>
@@ -89,7 +89,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Crispy" stylename="Bold" filename="instances/Crispy-700.ufo">
+    <instance familyname="Crispy Condensed" stylename="Bold" filename="instances/Crispy Condensed-700.ufo">
       <location>
         <dimension name="weight" xvalue="700"/>
         <dimension name="width" xvalue="100"/>
@@ -97,7 +97,7 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Crispy" stylename="ExtraLight" filename="instances/Crispy-200.ufo">
+    <instance familyname="Crispy Condensed" stylename="ExtraLight" filename="instances/Crispy Condensed-200.ufo">
       <location>
         <dimension name="weight" xvalue="200"/>
         <dimension name="width" xvalue="100"/>
@@ -105,9 +105,33 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Crispy" stylename="Black" filename="instances/Crispy-900.ufo">
+    <instance familyname="Crispy Condensed" stylename="Black" filename="instances/Crispy Condensed-900.ufo">
       <location>
         <dimension name="weight" xvalue="900"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy Condensed" stylename="Thin" filename="instances/Crispy Condensed-100.ufo">
+      <location>
+        <dimension name="weight" xvalue="100"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy Condensed" stylename="Semibold" filename="instances/Crispy Condensed-600.ufo">
+      <location>
+        <dimension name="weight" xvalue="600"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy Condensed" stylename="ExtraBold" filename="instances/Crispy Condensed-800.ufo">
+      <location>
+        <dimension name="weight" xvalue="800"/>
         <dimension name="width" xvalue="100"/>
       </location>
       <kerning/>
@@ -116,23 +140,23 @@
     <instance familyname="Crispy" stylename="Thin" filename="instances/Crispy-100.ufo">
       <location>
         <dimension name="weight" xvalue="100"/>
-        <dimension name="width" xvalue="100"/>
+        <dimension name="width" xvalue="400"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Crispy" stylename="Semibold" filename="instances/Crispy-600.ufo">
+    <instance familyname="Crispy" stylename="ExtraLight" filename="instances/Crispy-200.ufo">
       <location>
-        <dimension name="weight" xvalue="600"/>
-        <dimension name="width" xvalue="100"/>
+        <dimension name="weight" xvalue="200"/>
+        <dimension name="width" xvalue="400"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Crispy" stylename="ExtraBold" filename="instances/Crispy-800.ufo">
+    <instance familyname="Crispy" stylename="Light" filename="instances/Crispy-300.ufo">
       <location>
-        <dimension name="weight" xvalue="800"/>
-        <dimension name="width" xvalue="100"/>
+        <dimension name="weight" xvalue="300"/>
+        <dimension name="width" xvalue="400"/>
       </location>
       <kerning/>
       <info/>

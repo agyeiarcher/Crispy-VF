@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="613"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour>
+      <point x="742" y="-1" type="line"/>
+      <point x="742" y="1602" type="line"/>
+      <point x="436" y="1602" type="line"/>
+      <point x="285" y="1451" type="line"/>
+      <point x="285" y="727" type="line"/>
+      <point x="22" y="727" type="line"/>
+      <point x="-129" y="576" type="line"/>
+      <point x="-129" y="-152" type="line"/>
+      <point x="591" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="289" y="723" type="line"/>
+      <point x="289" y="1449" type="line"/>
+      <point x="438" y="1598" type="line"/>
+      <point x="738" y="1598" type="line"/>
+      <point x="738" y="1" type="line"/>
+      <point x="589" y="-148" type="line"/>
+      <point x="-125" y="-148" type="line"/>
+      <point x="-125" y="574" type="line"/>
+      <point x="24" y="723" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 12:46:30 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>AdYfGKx8QJ</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>INSIDETOP</string>
+        </array>
+        <key>TbrXnCyMEi</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="G.wide.shadow" format="2">
+  <advance width="-169"/>
+  <outline>
+    <contour>
+      <point x="155" y="2" type="line"/>
+      <point x="155" y="801" type="line"/>
+      <point x="90" y="801" type="line"/>
+      <point x="90" y="806" type="line"/>
+      <point x="29" y="745" type="line"/>
+      <point x="29" y="1291" type="line"/>
+      <point x="31" y="1293" type="line"/>
+      <point x="65" y="1506" type="line"/>
+      <point x="159" y="1600" type="line"/>
+      <point x="77" y="1600" type="line"/>
+      <point x="78" y="1606" type="line"/>
+      <point x="-227" y="1301" type="line"/>
+      <point x="-275" y="995" type="line"/>
+      <point x="-275" y="-302" type="line"/>
+      <point x="-144" y="-302" type="line"/>
+      <point x="160" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="1589" type="line"/>
+      <point x="78" y="1596" type="line"/>
+      <point x="149" y="1596" type="line"/>
+      <point x="61" y="1508" type="line"/>
+      <point x="27" y="1295" type="line"/>
+      <point x="25" y="1293" type="line"/>
+      <point x="25" y="735" type="line"/>
+      <point x="87" y="797" type="line"/>
+      <point x="151" y="797" type="line"/>
+      <point x="151" y="3" type="line"/>
+      <point x="146" y="-2" type="line"/>
+      <point x="150" y="-2" type="line"/>
+      <point x="-146" y="-298" type="line"/>
+      <point x="-271" y="-298" type="line"/>
+      <point x="-271" y="995" type="line"/>
+      <point x="-223" y="1299" type="line"/>
+      <point x="72" y="1594" type="line"/>
+    </contour>
+  </outline>
+</glyph>

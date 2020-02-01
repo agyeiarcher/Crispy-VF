@@ -1,0 +1,146 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="X" format="2">
+  <advance width="636"/>
+  <unicode hex="0058"/>
+  <outline>
+    <contour>
+      <point x="631" y="-152" type="line"/>
+      <point x="782" y="-1" type="line"/>
+      <point x="782" y="677" type="line"/>
+      <point x="729" y="751" type="line"/>
+      <point x="778" y="800" type="line"/>
+      <point x="778" y="1602" type="line"/>
+      <point x="436" y="1602" type="line"/>
+      <point x="371" y="1537" type="line"/>
+      <point x="371" y="1602" type="line"/>
+      <point x="28" y="1602" type="line"/>
+      <point x="-123" y="1451" type="line"/>
+      <point x="-123" y="770" type="line"/>
+      <point x="-75" y="702" type="line"/>
+      <point x="-127" y="650" type="line"/>
+      <point x="-127" y="-152" type="line"/>
+      <point x="216" y="-152" type="line"/>
+      <point x="289" y="-79" type="line"/>
+      <point x="289" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="723" y="751" type="line"/>
+      <point x="778" y="675" type="line"/>
+      <point x="778" y="1" type="line"/>
+      <point x="629" y="-148" type="line"/>
+      <point x="293" y="-148" type="line"/>
+      <point x="293" y="-69" type="line"/>
+      <point x="214" y="-148" type="line"/>
+      <point x="-123" y="-148" type="line"/>
+      <point x="-123" y="648" type="line"/>
+      <point x="-69" y="702" type="line"/>
+      <point x="-119" y="772" type="line"/>
+      <point x="-119" y="1449" type="line"/>
+      <point x="30" y="1598" type="line"/>
+      <point x="367" y="1598" type="line"/>
+      <point x="367" y="1527" type="line"/>
+      <point x="438" y="1598" type="line"/>
+      <point x="774" y="1598" type="line"/>
+      <point x="774" y="802" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>2AoyMNBDus</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+        <key>3RUxnrTvXW</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+        <key>5E2SHdZBnl</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+        <key>DhM0pRDHg5</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+        <key>HtiNjuVoMT</key>
+        <array>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>rightside</string>
+        </array>
+        <key>Hxl70cp8II</key>
+        <array>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>rightside</string>
+        </array>
+        <key>JvPOtaXHlU</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+        <key>L4QRW2yg68</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+        <key>SOkkUNzV8O</key>
+        <array>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+        <key>TCOXywMDjP</key>
+        <array>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>rightside</string>
+        </array>
+        <key>aujrsODbNh</key>
+        <array>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>rightside</string>
+        </array>
+        <key>mdbzbOpU9s</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+        <key>mzk5RCOTSG</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+        <key>oo2HOwJkzJ</key>
+        <array>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+        <key>sLI75Ua05e</key>
+        <array>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+        <key>yfThTK6gCq</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+        <key>z5onK1VUCe</key>
+        <array>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+        </array>
+        <key>zMJTtBUO7o</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

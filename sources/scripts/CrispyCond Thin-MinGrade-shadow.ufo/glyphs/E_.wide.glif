@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E.wide" format="2">
+  <advance width="-36"/>
+  <outline>
+    <contour>
+      <point x="115" y="-1" type="line"/>
+      <point x="115" y="4" type="line"/>
+      <point x="35" y="4" type="line"/>
+      <point x="35" y="727" type="line"/>
+      <point x="106" y="798" type="line"/>
+      <point x="106" y="803" type="line"/>
+      <point x="35" y="803" type="line"/>
+      <point x="35" y="1518" type="line"/>
+      <point x="114" y="1597" type="line"/>
+      <point x="114" y="1602" type="line"/>
+      <point x="30" y="1602" type="line"/>
+      <point x="-121" y="1451" type="line"/>
+      <point x="-121" y="-152" type="line"/>
+      <point x="-36" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="31" y="729" type="line"/>
+      <point x="31" y="0" type="line"/>
+      <point x="110" y="0" type="line"/>
+      <point x="-38" y="-148" type="line"/>
+      <point x="-117" y="-148" type="line"/>
+      <point x="-117" y="1449" type="line"/>
+      <point x="32" y="1598" type="line"/>
+      <point x="109" y="1598" type="line"/>
+      <point x="31" y="1520" type="line"/>
+      <point x="31" y="799" type="line"/>
+      <point x="101" y="799" type="line"/>
+    </contour>
+  </outline>
+</glyph>

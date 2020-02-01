@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="227"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="137" y="1602" type="line"/>
+      <point x="130" y="1602" type="line"/>
+      <point x="-21" y="1451" type="line"/>
+      <point x="-21" y="-108" type="line"/>
+      <point x="-14" y="-108" type="line"/>
+      <point x="137" y="43" type="line"/>
+    </contour>
+    <contour>
+      <point x="-16" y="-104" type="line"/>
+      <point x="-17" y="-104" type="line"/>
+      <point x="-17" y="1449" type="line"/>
+      <point x="132" y="1598" type="line"/>
+      <point x="133" y="1598" type="line"/>
+      <point x="133" y="45" type="line"/>
+    </contour>
+    <contour>
+      <point x="242" y="14" type="line"/>
+      <point x="227" y="14" type="line"/>
+      <point x="226" y="7" type="line"/>
+      <point x="226" y="-2" type="line"/>
+      <point x="242" y="-2" type="line"/>
+    </contour>
+    <contour>
+      <point x="230" y="2" type="line"/>
+      <point x="230" y="7" type="line"/>
+      <point x="231" y="10" type="line"/>
+      <point x="238" y="10" type="line"/>
+      <point x="238" y="2" type="line"/>
+    </contour>
+    <component base="period" xOffset="101"/>
+    <component base="period" xOffset="101"/>
+    <component base="period" xOffset="101"/>
+    <component base="period" xOffset="101"/>
+  </outline>
+</glyph>

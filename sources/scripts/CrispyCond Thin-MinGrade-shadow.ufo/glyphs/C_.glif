@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C" format="2">
+  <advance width="9"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="5" y="-152" type="line"/>
+      <point x="156" y="-1" type="line"/>
+      <point x="156" y="328" type="line"/>
+      <point x="151" y="328" type="line"/>
+      <point x="32" y="209" type="line"/>
+      <point x="32" y="968" type="line"/>
+      <point x="155" y="1091" type="line"/>
+      <point x="155" y="1602" type="line"/>
+      <point x="65" y="1602" type="line"/>
+      <point x="-86" y="1451" type="line"/>
+      <point x="-124" y="1284" type="line"/>
+      <point x="-124" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="28" y="970" type="line"/>
+      <point x="28" y="199" type="line"/>
+      <point x="152" y="323" type="line"/>
+      <point x="152" y="1" type="line"/>
+      <point x="3" y="-148" type="line"/>
+      <point x="-120" y="-148" type="line"/>
+      <point x="-120" y="1284" type="line"/>
+      <point x="-82" y="1449" type="line"/>
+      <point x="67" y="1598" type="line"/>
+      <point x="151" y="1598" type="line"/>
+      <point x="151" y="1093" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 11:49:41 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>QjTd5GXXER</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>o9Cec4GtsE</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

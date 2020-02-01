@@ -60,7 +60,7 @@
     </source>
   </sources>
   <instances>
-    <instance familyname="Crispy" stylename="900 Narrow" filename="../WEIGHTWIDTH/Crispy 900 Narrow.ufo">
+    <instance familyname="Crispy" stylename="Cond Black-MaxGrade" filename="../WEIGHTWIDTHGRADE/MASTERS/Crispy Cond Black-MaxGrade.ufo">
       <location>
         <dimension name="xopq" xvalue="391"/>
         <dimension name="yopq" xvalue="560"/>
@@ -69,29 +69,65 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Crispy" stylename="100 Narrow" filename="../WEIGHTWIDTH/Crispy 100 Narrow.ufo">
+    <instance familyname="Crispy" stylename="Cond Thin-MaxGrade" filename="../WEIGHTWIDTHGRADE/MASTERS/Crispy Cond Thin-MaxGrade.ufo">
       <location>
-        <dimension name="xopq" xvalue="57"/>
-        <dimension name="yopq" xvalue="85"/>
+        <dimension name="xopq" xvalue="17.700000"/>
+        <dimension name="yopq" xvalue="30"/>
         <dimension name="xtra" xvalue="1"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Crispy" stylename="100 Wide" filename="../WEIGHTWIDTH/Crispy 100 Wide.ufo">
+    <instance familyname="Crispy" stylename="Wide Thin-MaxGrade" filename="../WEIGHTWIDTHGRADE/MASTERS/Crispy Wide Thin-MaxGrade.ufo">
       <location>
-        <dimension name="xopq" xvalue="100"/>
-        <dimension name="yopq" xvalue="148"/>
-        <dimension name="xtra" xvalue="980"/>
+        <dimension name="xopq" xvalue="13"/>
+        <dimension name="yopq" xvalue="22"/>
+        <dimension name="xtra" xvalue="965.850000"/>
       </location>
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Crispy" stylename="900 Wide" filename="../WEIGHTWIDTH/Crispy 900 Wide.ufo">
+    <instance familyname="Crispy" stylename="Wide Black-MaxGrade" filename="../WEIGHTWIDTHGRADE/MASTERS/Crispy Wide Black-MaxGrade.ufo">
       <location>
         <dimension name="xopq" xvalue="938"/>
         <dimension name="yopq" xvalue="952"/>
         <dimension name="xtra" xvalue="952"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Wide Black-MinGrade" filename="../WEIGHTWIDTHGRADE/MASTERS/Crispy Wide Black-MinGrade.ufo">
+      <location>
+        <dimension name="xopq" xvalue="900"/>
+        <dimension name="yopq" xvalue="938"/>
+        <dimension name="xtra" xvalue="966.300000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Cond Black-MinGrade" filename="../WEIGHTWIDTHGRADE/MASTERS/Crispy Cond Black-MinGrade.ufo">
+      <location>
+        <dimension name="xopq" xvalue="347.600000"/>
+        <dimension name="yopq" xvalue="530"/>
+        <dimension name="xtra" xvalue="21"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Wide Thin-MinGrade" filename="../WEIGHTWIDTHGRADE/MASTERS/Crispy Wide Thin-MinGrade.ufo">
+      <location>
+        <dimension name="xopq" xvalue="3"/>
+        <dimension name="yopq" xvalue="4.500000"/>
+        <dimension name="xtra" xvalue="972.250000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Cond Thin-MinGrade" filename="../WEIGHTWIDTHGRADE/MASTERS/Crispy Cond Thin-MinGrade.ufo">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="9.950000"/>
       </location>
       <kerning/>
       <info/>
@@ -118,14 +154,14 @@
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
         <key>xopq</key>
-        <real>391.0</real>
+        <real>3.0</real>
         <key>xtra</key>
-        <real>1.0</real>
+        <real>972.25</real>
         <key>yopq</key>
-        <real>560.0</real>
+        <real>4.5</real>
       </dict>
       <key>com.letterror.skateboard.previewText</key>
-      <string>OO/? OO</string>
+      <string>ASSIMILATION WXO</string>
     </dict>
   </lib>
 </designspace>

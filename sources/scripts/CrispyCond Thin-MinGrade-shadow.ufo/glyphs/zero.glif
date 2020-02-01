@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero" format="2">
+  <advance width="24"/>
+  <unicode hex="0030"/>
+  <outline>
+    <contour>
+      <point x="165" y="1602" type="line"/>
+      <point x="32" y="1602" type="line"/>
+      <point x="-119" y="1451" type="line"/>
+      <point x="-119" y="-152" type="line"/>
+      <point x="14" y="-152" type="line"/>
+      <point x="165" y="-1" type="line"/>
+    </contour>
+    <contour>
+      <point x="-115" y="-148" type="line"/>
+      <point x="-115" y="1449" type="line"/>
+      <point x="34" y="1598" type="line"/>
+      <point x="161" y="1598" type="line"/>
+      <point x="161" y="1" type="line"/>
+      <point x="12" y="-148" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 06:00:43 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>4KX3b3mGg4</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>NaxGoenf3y</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>V2j8wYP0nr</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>rx6fJSLiri</key>
+        <array>
+          <string>leftside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

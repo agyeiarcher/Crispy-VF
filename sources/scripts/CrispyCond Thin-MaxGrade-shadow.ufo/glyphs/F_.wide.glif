@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F.wide" format="2">
+  <advance width="-12"/>
+  <outline>
+    <contour>
+      <point x="-98" y="-152" type="line"/>
+      <point x="53" y="-1" type="line"/>
+      <point x="53" y="707" type="line"/>
+      <point x="130" y="784" type="line"/>
+      <point x="130" y="802" type="line"/>
+      <point x="53" y="802" type="line"/>
+      <point x="53" y="1504" type="line"/>
+      <point x="133" y="1584" type="line"/>
+      <point x="133" y="1602" type="line"/>
+      <point x="33" y="1602" type="line"/>
+      <point x="-118" y="1451" type="line"/>
+      <point x="-118" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="49" y="1506" type="line"/>
+      <point x="49" y="798" type="line"/>
+      <point x="126" y="798" type="line"/>
+      <point x="126" y="786" type="line"/>
+      <point x="49" y="709" type="line"/>
+      <point x="49" y="1" type="line"/>
+      <point x="-100" y="-148" type="line"/>
+      <point x="-114" y="-148" type="line"/>
+      <point x="-114" y="1449" type="line"/>
+      <point x="35" y="1598" type="line"/>
+      <point x="129" y="1598" type="line"/>
+      <point x="129" y="1586" type="line"/>
+    </contour>
+  </outline>
+</glyph>

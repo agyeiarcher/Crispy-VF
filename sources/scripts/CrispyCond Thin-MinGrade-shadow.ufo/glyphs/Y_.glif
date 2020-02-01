@@ -1,0 +1,114 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y" format="2">
+  <advance width="25"/>
+  <unicode hex="0059"/>
+  <outline>
+    <contour>
+      <point x="11" y="-152" type="line"/>
+      <point x="162" y="-1" type="line"/>
+      <point x="162" y="1602" type="line"/>
+      <point x="157" y="1602" type="line"/>
+      <point x="37" y="1482" type="line"/>
+      <point x="37" y="1602" type="line"/>
+      <point x="32" y="1602" type="line"/>
+      <point x="-119" y="1451" type="line"/>
+      <point x="-119" y="647" type="line"/>
+      <point x="6" y="647" type="line"/>
+      <point x="6" y="323" type="line"/>
+      <point x="-123" y="194" type="line"/>
+      <point x="-123" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="321" type="line"/>
+      <point x="10" y="651" type="line"/>
+      <point x="-115" y="651" type="line"/>
+      <point x="-115" y="1449" type="line"/>
+      <point x="33" y="1597" type="line"/>
+      <point x="33" y="1472" type="line"/>
+      <point x="158" y="1597" type="line"/>
+      <point x="158" y="1" type="line"/>
+      <point x="9" y="-148" type="line"/>
+      <point x="-119" y="-148" type="line"/>
+      <point x="-119" y="192" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 12:46:06 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>3Kveia3O9h</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>9ncbEH2hEb</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>Jw55i2s2Mm</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>YbKEFhFR3q</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>k3vH9oxqcN</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>oy8ifCCtGL</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>rvzWMWl6O1</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>u7HFbTQwMo</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>uMA7EQCwXc</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

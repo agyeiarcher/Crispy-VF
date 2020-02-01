@@ -201,26 +201,6 @@ def makeShadowGlyph(p, g, offsetValue):
     outlinePen.drawSettings(drawInner=True, drawOuter=True)
     outlinePen.drawPoints(insetPen)
 
-# ufoProcessor.build("/Users/aamacbook/Work Interim/Krspy-VF/sources/designspaces/SOURCE PARAMETRIC MASTERS/CRISPY-PARAMETRIC AXES.designspace", useVarlib=True, roundGeometry=True)
-# print("Instance builds completed.")
-
-# source_dir = '/Users/aamacbook/Work Interim/Krspy-VF/sources/designspaces/WEIGHTWIDTH/'
-# listOfFiles = os.listdir(source_dir)
-# fontList = []
-# pattern = "*.ufo"
-# for entry in listOfFiles:
-#     if fnmatch.fnmatch(entry, pattern):
-#         fontList.append(entry)
-
-# for font in fontList:
-#     p = OpenFont(source_dir+font, showInterface = False)
-#     for g in p.keys():
-#         if p[g]:
-#             extrusionX = -150
-#             extrusionY = -150
-#             makeShadowGlyph(p, p[g], 1)
-#     p.save()
-#     print("Made shadows for " + styleName + "")
 
 f = CurrentFont()
 for g in f.keys():

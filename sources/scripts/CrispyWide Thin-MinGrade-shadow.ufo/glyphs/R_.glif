@@ -1,0 +1,190 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R" format="2">
+  <advance width="3796"/>
+  <unicode hex="0052"/>
+  <outline>
+    <contour>
+      <point x="230" y="-152" type="line"/>
+      <point x="381" y="-1" type="line"/>
+      <point x="381" y="595" type="line"/>
+      <point x="3011" y="595" type="line"/>
+      <point x="3507" y="370" type="line"/>
+      <point x="3507" y="-152" type="line"/>
+      <point x="3514" y="-152" type="line"/>
+      <point x="3665" y="-1" type="line"/>
+      <point x="3665" y="523" type="line"/>
+      <point x="3506" y="595" type="line"/>
+      <point x="3588" y="595" type="line"/>
+      <point x="3739" y="746" type="line"/>
+      <point x="3739" y="1602" type="line"/>
+      <point x="374" y="1602" type="line"/>
+      <point x="223" y="1451" type="line"/>
+      <point x="223" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="3488" y="599" type="line"/>
+      <point x="3661" y="521" type="line"/>
+      <point x="3661" y="1" type="line"/>
+      <point x="3512" y="-148" type="line"/>
+      <point x="3511" y="-148" type="line"/>
+      <point x="3511" y="372" type="line"/>
+      <point x="3011" y="599" type="line"/>
+      <point x="377" y="599" type="line"/>
+      <point x="377" y="1" type="line"/>
+      <point x="228" y="-148" type="line"/>
+      <point x="227" y="-148" type="line"/>
+      <point x="227" y="1449" type="line"/>
+      <point x="376" y="1598" type="line"/>
+      <point x="3735" y="1598" type="line"/>
+      <point x="3735" y="748" type="line"/>
+      <point x="3586" y="599" type="line"/>
+    </contour>
+    <contour>
+      <point x="3585" y="749" type="line"/>
+      <point x="3585" y="1448" type="line"/>
+      <point x="377" y="1448" type="line"/>
+      <point x="377" y="749" type="line"/>
+    </contour>
+    <contour>
+      <point x="381" y="753" type="line"/>
+      <point x="381" y="1444" type="line"/>
+      <point x="3581" y="1444" type="line"/>
+      <point x="3581" y="753" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>2AKhSOaavW</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+        <key>7iGA9EjrJP</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+        <key>9fBpwr0c5A</key>
+        <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+        </array>
+        <key>CHVOARGKU2</key>
+        <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+        </array>
+        <key>FKSRxBbMyE</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+        <key>JkNiARIXMp</key>
+        <array>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+        </array>
+        <key>V9Ywxgiq2G</key>
+        <array>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>rightside</string>
+        </array>
+        <key>gNqIOGc9HF</key>
+        <array>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>rightside</string>
+        </array>
+        <key>itimCqoufa</key>
+        <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+        </array>
+        <key>j4s86nnkOj</key>
+        <array>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+        </array>
+        <key>jqqb8BKfoQ</key>
+        <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+        </array>
+        <key>nPfCo47fuL</key>
+        <array>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>rightside</string>
+        </array>
+        <key>pOaU6sS7pE</key>
+        <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+        </array>
+        <key>s4rDE72DYf</key>
+        <array>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>leftside</string>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>shiftdown</string>
+        </array>
+        <key>xAUivuY8OU</key>
+        <array>
+          <string>crossbar</string>
+          <string>crossbar</string>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

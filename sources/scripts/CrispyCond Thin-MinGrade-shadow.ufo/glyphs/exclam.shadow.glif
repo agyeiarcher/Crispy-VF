@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam.shadow" format="2">
+  <advance width="-267"/>
+  <outline>
+    <contour>
+      <point x="35" y="22" type="line"/>
+      <point x="35" y="1605" type="line"/>
+      <point x="-269" y="1301" type="line"/>
+      <point x="-269" y="-282" type="line"/>
+      <point x="-264" y="-282" type="line"/>
+      <point x="40" y="22" type="line"/>
+    </contour>
+    <contour>
+      <point x="-265" y="1299" type="line"/>
+      <point x="31" y="1595" type="line"/>
+      <point x="31" y="19" type="line"/>
+      <point x="-265" y="-277" type="line"/>
+    </contour>
+    <contour>
+      <point x="37" y="10" type="line"/>
+      <point x="-115" y="-142" type="line"/>
+      <point x="-115" y="-145" type="line"/>
+      <point x="-263" y="-293" type="line"/>
+      <point x="-263" y="-302" type="line"/>
+      <point x="-254" y="-302" type="line"/>
+      <point x="-106" y="-154" type="line"/>
+      <point x="-103" y="-154" type="line"/>
+      <point x="49" y="-2" type="line"/>
+      <point x="49" y="10" type="line"/>
+    </contour>
+    <contour>
+      <point x="-107" y="-146" type="line"/>
+      <point x="-107" y="-146" type="line"/>
+      <point x="-107" y="-146" type="line"/>
+      <point x="41" y="2" type="line"/>
+      <point x="41" y="2" type="line"/>
+      <point x="41" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="-115" y="-154" type="line"/>
+      <point x="-112" y="-154" type="line"/>
+      <point x="-256" y="-298" type="line"/>
+      <point x="-259" y="-298" type="line"/>
+      <point x="-259" y="-295" type="line"/>
+      <point x="-115" y="-151" type="line"/>
+    </contour>
+    <component base="period" xOffset="5"/>
+    <component base="period" xOffset="5"/>
+    <component base="period" xOffset="5"/>
+    <component base="period" xOffset="5"/>
+  </outline>
+</glyph>

@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine.wide" format="2">
+  <advance width="-16"/>
+  <outline>
+    <contour>
+      <point x="-9" y="-152" type="line"/>
+      <point x="142" y="-1" type="line"/>
+      <point x="142" y="1602" type="line"/>
+      <point x="14" y="1602" type="line"/>
+      <point x="-137" y="1451" type="line"/>
+      <point x="-137" y="640" type="line"/>
+      <point x="-29" y="640" type="line"/>
+      <point x="-29" y="-26" type="line"/>
+      <point x="-137" y="-134" type="line"/>
+      <point x="-137" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="-25" y="-28" type="line"/>
+      <point x="-25" y="644" type="line"/>
+      <point x="-133" y="644" type="line"/>
+      <point x="-133" y="1449" type="line"/>
+      <point x="16" y="1598" type="line"/>
+      <point x="138" y="1598" type="line"/>
+      <point x="138" y="1" type="line"/>
+      <point x="-11" y="-148" type="line"/>
+      <point x="-133" y="-148" type="line"/>
+      <point x="-133" y="-136" type="line"/>
+    </contour>
+  </outline>
+</glyph>

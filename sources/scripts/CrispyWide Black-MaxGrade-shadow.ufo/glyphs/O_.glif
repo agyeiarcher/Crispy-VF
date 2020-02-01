@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O" format="2">
+  <advance width="5193"/>
+  <unicode hex="004F"/>
+  <outline>
+    <contour>
+      <point x="489" y="1451" type="line"/>
+      <point x="489" y="1451" type="line"/>
+      <point x="489" y="1451" type="line"/>
+      <point x="6" y="918" type="line"/>
+      <point x="6" y="-152" type="line"/>
+      <point x="4573" y="-152" type="line"/>
+      <point x="4723" y="-1" type="line"/>
+      <point x="4723" y="-1" type="line"/>
+      <point x="4723" y="-1" type="line"/>
+      <point x="5207" y="534" type="line"/>
+      <point x="5207" y="1602" type="line"/>
+      <point x="639" y="1602" type="line"/>
+    </contour>
+    <contour>
+      <point x="10" y="-148" type="line"/>
+      <point x="10" y="916" type="line"/>
+      <point x="491" y="1449" type="line"/>
+      <point x="641" y="1598" type="line"/>
+      <point x="5203" y="1598" type="line"/>
+      <point x="5203" y="536" type="line"/>
+      <point x="4721" y="1" type="line"/>
+      <point x="4571" y="-148" type="line"/>
+    </contour>
+    <contour>
+      <point x="4074" y="534" type="line"/>
+      <point x="4111" y="572" type="line"/>
+      <point x="4111" y="916" type="line"/>
+      <point x="1137" y="916" type="line"/>
+      <point x="1101" y="877" type="line"/>
+      <point x="1101" y="534" type="line"/>
+    </contour>
+    <contour>
+      <point x="1105" y="538" type="line"/>
+      <point x="1105" y="875" type="line"/>
+      <point x="1139" y="912" type="line"/>
+      <point x="4107" y="912" type="line"/>
+      <point x="4107" y="574" type="line"/>
+      <point x="4072" y="538" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-08-12 16:07:16 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>SnrsQD5TLy</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>c9brEFyXXA</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>dfgNHTgBfR</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>g70r2r6DwY</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>jjd5iRDXWT</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>ob8US3C311</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

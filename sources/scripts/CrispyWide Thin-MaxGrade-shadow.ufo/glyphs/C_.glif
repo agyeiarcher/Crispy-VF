@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C" format="2">
+  <advance width="3591"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="3584" y="1602" type="line"/>
+      <point x="712" y="1602" type="line"/>
+      <point x="562" y="1451" type="line"/>
+      <point x="562" y="1451" type="line"/>
+      <point x="562" y="1451" type="line"/>
+      <point x="80" y="966" type="line"/>
+      <point x="80" y="-152" type="line"/>
+      <point x="3437" y="-152" type="line"/>
+      <point x="3588" y="-1" type="line"/>
+      <point x="3588" y="333" type="line"/>
+      <point x="3571" y="333" type="line"/>
+      <point x="3420" y="182" type="line"/>
+      <point x="3420" y="16" type="line"/>
+      <point x="248" y="16" type="line"/>
+      <point x="248" y="1109" type="line"/>
+      <point x="572" y="1434" type="line"/>
+      <point x="3416" y="1434" type="line"/>
+      <point x="3416" y="819" type="line"/>
+      <point x="3433" y="819" type="line"/>
+      <point x="3584" y="970" type="line"/>
+    </contour>
+    <contour>
+      <point x="244" y="1111" type="line"/>
+      <point x="244" y="12" type="line"/>
+      <point x="3424" y="12" type="line"/>
+      <point x="3424" y="180" type="line"/>
+      <point x="3573" y="329" type="line"/>
+      <point x="3584" y="329" type="line"/>
+      <point x="3584" y="1" type="line"/>
+      <point x="3435" y="-148" type="line"/>
+      <point x="84" y="-148" type="line"/>
+      <point x="84" y="964" type="line"/>
+      <point x="564" y="1449" type="line"/>
+      <point x="714" y="1598" type="line"/>
+      <point x="3580" y="1598" type="line"/>
+      <point x="3580" y="972" type="line"/>
+      <point x="3431" y="823" type="line"/>
+      <point x="3420" y="823" type="line"/>
+      <point x="3420" y="1438" type="line"/>
+      <point x="570" y="1438" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 11:49:41 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>QjTd5GXXER</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>o9Cec4GtsE</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

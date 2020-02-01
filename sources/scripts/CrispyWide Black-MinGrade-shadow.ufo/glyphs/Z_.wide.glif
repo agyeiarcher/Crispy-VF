@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z.wide" format="2">
+  <advance width="5185"/>
+  <outline>
+    <contour>
+      <point x="5162" y="-1" type="line"/>
+      <point x="5162" y="491" type="line"/>
+      <point x="3640" y="491" type="line"/>
+      <point x="5019" y="594" type="line"/>
+      <point x="5170" y="745" type="line"/>
+      <point x="5170" y="1602" type="line"/>
+      <point x="216" y="1602" type="line"/>
+      <point x="65" y="1451" type="line"/>
+      <point x="65" y="958" type="line"/>
+      <point x="1153" y="958" type="line"/>
+      <point x="180" y="886" type="line"/>
+      <point x="29" y="735" type="line"/>
+      <point x="29" y="-152" type="line"/>
+      <point x="5011" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="1217" y="959" type="line"/>
+      <point x="1217" y="962" type="line"/>
+      <point x="69" y="962" type="line"/>
+      <point x="69" y="1449" type="line"/>
+      <point x="218" y="1598" type="line"/>
+      <point x="5166" y="1598" type="line"/>
+      <point x="5166" y="747" type="line"/>
+      <point x="5017" y="598" type="line"/>
+      <point x="3576" y="490" type="line"/>
+      <point x="3576" y="487" type="line"/>
+      <point x="5158" y="487" type="line"/>
+      <point x="5158" y="1" type="line"/>
+      <point x="5009" y="-148" type="line"/>
+      <point x="33" y="-148" type="line"/>
+      <point x="33" y="733" type="line"/>
+      <point x="182" y="882" type="line"/>
+    </contour>
+  </outline>
+</glyph>

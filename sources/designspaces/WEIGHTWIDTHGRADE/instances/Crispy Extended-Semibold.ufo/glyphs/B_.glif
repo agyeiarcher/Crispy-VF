@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B" format="2">
+  <advance width="4490"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="308" y="0" type="line" identifier="hvY9r8RmLr"/>
+      <point x="3877" y="0" type="line" identifier="9QFpw7nfq7"/>
+      <point x="4319" y="489" type="line"/>
+      <point x="4319" y="941" type="line" identifier="543PerILpr"/>
+      <point x="3944" y="941" type="line" identifier="zhomauHW30"/>
+      <point x="3944" y="1600" type="line" identifier="FaP204GrdB"/>
+      <point x="308" y="1600" type="line" identifier="JEev70GAj6"/>
+    </contour>
+    <contour>
+      <point x="832" y="289" type="line" identifier="jaMSiLrCua"/>
+      <point x="832" y="662" type="line" identifier="XSrxNd2axx"/>
+      <point x="3795" y="662" type="line" identifier="lsRGatjQja"/>
+      <point x="3795" y="593" type="line"/>
+      <point x="3502" y="289" type="line" identifier="xhlDJ3CjD5"/>
+    </contour>
+    <contour>
+      <point x="832" y="937" type="line" identifier="By7dfMihfe"/>
+      <point x="832" y="1311" type="line" identifier="1p5hKrurVy"/>
+      <point x="3424" y="1311" type="line" identifier="Qby8aMtF2X"/>
+      <point x="3424" y="937" type="line" identifier="xpxyvIzPoc"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

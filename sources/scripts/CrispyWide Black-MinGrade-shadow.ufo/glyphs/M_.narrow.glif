@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.narrow" format="2">
+  <advance width="7169"/>
+  <outline>
+    <contour>
+      <point x="1084" y="-152" type="line"/>
+      <point x="1235" y="-1" type="line"/>
+      <point x="1235" y="801" type="line"/>
+      <point x="1359" y="918" type="line"/>
+      <point x="3124" y="918" type="line"/>
+      <point x="3124" y="-61" type="line"/>
+      <point x="4037" y="-61" type="line"/>
+      <point x="4188" y="90" type="line"/>
+      <point x="4188" y="918" type="line"/>
+      <point x="6108" y="918" type="line"/>
+      <point x="6108" y="-152" type="line"/>
+      <point x="7021" y="-152" type="line"/>
+      <point x="7172" y="-1" type="line"/>
+      <point x="7172" y="1601" type="line"/>
+      <point x="819" y="1601" type="line"/>
+      <point x="669" y="1450" type="line"/>
+      <point x="667" y="1449" type="line"/>
+      <point x="171" y="951" type="line"/>
+      <point x="171" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="671" y="1448" type="line"/>
+      <point x="821" y="1597" type="line"/>
+      <point x="7168" y="1597" type="line"/>
+      <point x="7168" y="1" type="line"/>
+      <point x="7019" y="-148" type="line"/>
+      <point x="6112" y="-148" type="line"/>
+      <point x="6112" y="922" type="line"/>
+      <point x="4184" y="922" type="line"/>
+      <point x="4184" y="92" type="line"/>
+      <point x="4035" y="-57" type="line"/>
+      <point x="3128" y="-57" type="line"/>
+      <point x="3128" y="922" type="line"/>
+      <point x="1357" y="922" type="line"/>
+      <point x="1231" y="803" type="line"/>
+      <point x="1231" y="1" type="line"/>
+      <point x="1082" y="-148" type="line"/>
+      <point x="175" y="-148" type="line"/>
+      <point x="175" y="949" type="line"/>
+    </contour>
+  </outline>
+</glyph>

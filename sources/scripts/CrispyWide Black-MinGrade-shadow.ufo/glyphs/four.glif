@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="4966"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="4944" y="1012" type="line"/>
+      <point x="4676" y="1012" type="line"/>
+      <point x="4676" y="1602" type="line"/>
+      <point x="3764" y="1602" type="line"/>
+      <point x="3613" y="1451" type="line"/>
+      <point x="3613" y="1012" type="line"/>
+      <point x="1103" y="1012" type="line"/>
+      <point x="1103" y="1076" type="line"/>
+      <point x="1105" y="1537" type="line"/>
+      <point x="193" y="1537" type="line"/>
+      <point x="42" y="1386" type="line"/>
+      <point x="42" y="329" type="line"/>
+      <point x="3613" y="329" type="line"/>
+      <point x="3613" y="-152" type="line"/>
+      <point x="4525" y="-152" type="line"/>
+      <point x="4676" y="-1" type="line"/>
+      <point x="4676" y="329" type="line"/>
+      <point x="4793" y="329" type="line"/>
+      <point x="4944" y="480" type="line"/>
+    </contour>
+    <contour>
+      <point x="1099" y="1076" type="line"/>
+      <point x="1099" y="1008" type="line"/>
+      <point x="3617" y="1008" type="line"/>
+      <point x="3617" y="1449" type="line"/>
+      <point x="3766" y="1598" type="line"/>
+      <point x="4672" y="1598" type="line"/>
+      <point x="4672" y="1008" type="line"/>
+      <point x="4940" y="1008" type="line"/>
+      <point x="4940" y="482" type="line"/>
+      <point x="4791" y="333" type="line"/>
+      <point x="4672" y="333" type="line"/>
+      <point x="4672" y="1" type="line"/>
+      <point x="4523" y="-148" type="line"/>
+      <point x="3617" y="-148" type="line"/>
+      <point x="3617" y="333" type="line"/>
+      <point x="46" y="333" type="line"/>
+      <point x="46" y="1384" type="line"/>
+      <point x="195" y="1533" type="line"/>
+      <point x="1101" y="1533" type="line"/>
+      <point x="1099" y="1076" type="line"/>
+      <point x="1099" y="1076" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:20:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>
