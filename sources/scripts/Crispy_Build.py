@@ -10,7 +10,7 @@ baseStyles = ['Wide Thin', 'Wide Black', 'Cond Thin', 'Cond Black']
 maxFonts = []
 minFonts = []
 allTheFonts = []
-finalFont = fontmake.font_project.FontProject()
+# finalFont = fontmake.font_project.FontProject()
 
 def listFonts(path):
     for (dirpath, dirnames, filenames) in os.walk(path):
@@ -48,7 +48,7 @@ def makeDefaults(sourceFolderPath, styles, maxQuery, minQuery, midFactor, saveFo
     else:
         for stylename in styles:
             allTheFonts.append((makePairs(sourceFolderPath, stylename, maxQuery, minQuery)))
-        print(allTheFonts)
+        # print(allTheFonts)
         i=0
         for pairs in allTheFonts:
             font3 = NewFont(showInterface = False)
@@ -99,8 +99,8 @@ def bash_command(cmd):
 # MAKE GRADED MASTERS
           
 generateMasters(parametricDesignSpacePath)
-makeDefaults(mastersFolderPath, baseStyles, "MaxGrade", "MinGrade", 0.5, defaultsFolderPath)
 matchWidths(mastersFolderPath)
+makeDefaults(mastersFolderPath, baseStyles, "MaxGrade", "MinGrade", 0.5, defaultsFolderPath)
 setUnicodes(mastersFolderPath)
 generateMasters(mastersDesignSpacePath)
-finalFont.build_variable_font(mastersDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=None, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)
+# build_variable_font(mastersDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=None, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)

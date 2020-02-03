@@ -1,17 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="U" format="2">
-  <advance width="4193"/>
+  <advance width="4576"/>
   <unicode hex="0055"/>
   <outline>
     <contour>
-      <point x="232" y="0" type="line" smooth="yes"/>
-      <point x="3816" y="0" type="line" smooth="yes"/>
-      <point x="3816" y="1600" type="line" smooth="yes"/>
-      <point x="3802" y="1600" type="line" smooth="yes"/>
-      <point x="3802" y="14" type="line"/>
-      <point x="246" y="14" type="line" smooth="yes"/>
-      <point x="246" y="1600" type="line"/>
-      <point x="232" y="1600" type="line" smooth="yes"/>
+      <point x="424" y="0" type="line" smooth="yes"/>
+      <point x="4008" y="0" type="line" smooth="yes"/>
+      <point x="4008" y="1600" type="line" smooth="yes"/>
+      <point x="3994" y="1600" type="line" smooth="yes"/>
+      <point x="3994" y="14" type="line"/>
+      <point x="438" y="14" type="line" smooth="yes"/>
+      <point x="438" y="1600" type="line"/>
+      <point x="424" y="1600" type="line" smooth="yes"/>
     </contour>
   </outline>
   <lib>

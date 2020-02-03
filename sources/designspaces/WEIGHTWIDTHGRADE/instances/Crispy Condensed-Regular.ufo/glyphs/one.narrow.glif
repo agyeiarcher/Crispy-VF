@@ -1,18 +1,18 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.narrow" format="2">
-  <advance width="704"/>
+  <advance width="746"/>
   <outline>
     <contour>
-      <point x="37" y="0" type="line"/>
-      <point x="670" y="0" type="line" identifier="CURJAw79Zl"/>
-      <point x="670" y="117" type="line" identifier="0DUCJo8xIi"/>
-      <point x="434" y="117" type="line" identifier="5nmxQXofSG"/>
-      <point x="434" y="1600" type="line" identifier="4rjIeWbSbx"/>
-      <point x="40" y="1600" type="line"/>
-      <point x="40" y="1483" type="line"/>
-      <point x="276" y="1483" type="line"/>
-      <point x="276" y="117" type="line"/>
-      <point x="37" y="117" type="line"/>
+      <point x="57" y="0" type="line"/>
+      <point x="691" y="0" type="line" identifier="CURJAw79Zl"/>
+      <point x="691" y="117" type="line" identifier="0DUCJo8xIi"/>
+      <point x="455" y="117" type="line" identifier="5nmxQXofSG"/>
+      <point x="455" y="1600" type="line" identifier="4rjIeWbSbx"/>
+      <point x="60" y="1600" type="line"/>
+      <point x="60" y="1483" type="line"/>
+      <point x="297" y="1483" type="line"/>
+      <point x="297" y="117" type="line"/>
+      <point x="57" y="117" type="line"/>
     </contour>
   </outline>
 </glyph>

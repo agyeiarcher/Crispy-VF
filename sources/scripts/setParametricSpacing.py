@@ -6,13 +6,13 @@ styleName = f.info.styleName
 
 #making batches of letter groups below, to check for different things. The xCheckGroup lists are flattened to check if any characters are duplicated, so spacing isn't applied more than once to any one character. If they are, they're skipped over and reported
 
-rightSideNotch = ["O", "B", "K", "D", "R", "W", "V", "X", "three", "eight", "M.narrow"]
-leftSideNotch = ["A", "U", "X","O", "G.wide", "G", "C", "eight", "six", "nine", "Q"]
+rightSideNotch = ["O", "B", "K", "D", "R", "W", "V", "X", "three", "eight","L"]
+leftSideNotch = ["A", "U", "X","O", "G.wide", "G", "C", "eight", "six", "nine", "Q","M.narrow"]
 
-rightSideFlat = ["J", "Q", "M", "N", "U", "H", "A", "I.narrow", "three.wide", "Y", "zero", "one.narrow", "U.narrow", "N.narrow"]
-leftSideFlat = ["R.wide", "D", "M", "N", "K", "B", "E", "F", "P", "R", "W", "V", "L", "H", "E.wide", "F.wide", "I.narrow", "zero", "K.narrow", "U.narrow", "M.narrow","B.narrow", "N.narrow", "Y"]
+rightSideFlat = ["J", "Q", "M", "N", "U", "H", "A", "I.narrow", "three.wide","E.wide", "E", "F", "F.wide", "Y","Y.wide", "zero", "one.narrow", "U.narrow", "N.narrow","M.narrow"]
+leftSideFlat = ["R.wide", "D", "M", "N", "K", "B", "E", "F", "P", "R", "W", "V", "L","L.wide", "H","Y.wide", "E.wide", "F.wide", "I.narrow", "zero", "K.narrow", "U.narrow","B.narrow", "N.narrow", "Y"]
 
-rightSideSpecial = ["Z", "P", "T", "L", "Z.wide", "C.wide", "S.wide", "E.wide", "E", "F", "F.wide", "S", "I", "C", "G", "L.wide", "one", "five", "five.wide", "four", "seven", "six", "nine", "two"]
+rightSideSpecial = ["Z", "P", "T", "Z.wide", "C.wide", "S.wide", "S", "I", "C", "G", "L.wide", "one", "five", "five.wide", "four", "seven", "six", "nine", "two"]
 leftSideSpecial = ["J", "Z", "Z.wide", "S", "T", "I", "five.wide", "three.wide", "S.wide", "one", "three", "five", "four", "seven", "one.narrow", "two"]
 
 rightPunct=["comma", "period"]
@@ -52,30 +52,30 @@ def setSpacing(f):
         #this group of conditionals is very...bad
         
         if styleName == "x0y0t1000":
-            rightSideNotchValue = 240 
-            leftSideNotchValue = 240         
-            rightSideFlatValue = 390
-            leftSideFlatValue = 390
-            rightSideSpecialValue = 180
-            leftSideSpecialValue  = 180
+            rightSideNotchValue = 440 
+            leftSideNotchValue = 440         
+            rightSideFlatValue = 590
+            leftSideFlatValue = 590
+            rightSideSpecialValue = 440 
+            leftSideSpecialValue = 440 
             rightPunctValue = 100
             leftPunctValue =100
         if styleName == "x0y1000t1000":
-            rightSideNotchValue = 240 
-            leftSideNotchValue = 240         
-            rightSideFlatValue = 390
-            leftSideFlatValue = 390
-            rightSideSpecialValue = 180
-            leftSideSpecialValue  = 180
+            rightSideNotchValue = 440 
+            leftSideNotchValue = 440         
+            rightSideFlatValue = 590
+            leftSideFlatValue = 590
+            rightSideSpecialValue = 440 
+            leftSideSpecialValue = 440 
             rightPunctValue = 100
             leftPunctValue =100
         if styleName == "x1000y0t1000":
-            rightSideNotchValue = 160 
-            leftSideNotchValue = 160         
-            rightSideFlatValue = 320
-            leftSideFlatValue = 320
-            rightSideSpecialValue = 200
-            leftSideSpecialValue  = 200
+            rightSideNotchValue = 260 
+            leftSideNotchValue = 260         
+            rightSideFlatValue = 380
+            leftSideFlatValue = 380
+            rightSideSpecialValue = 260 
+            leftSideSpecialValue = 260   
             rightPunctValue = 150
             leftPunctValue = 150
         if styleName == "x0y0t0":
@@ -83,28 +83,28 @@ def setSpacing(f):
             leftSideNotchValue = 29        
             rightSideFlatValue = 34
             leftSideFlatValue = 34
-            rightSideSpecialValue = 27
-            leftSideSpecialValue  = 27
+            rightSideSpecialValue = 29
+            leftSideSpecialValue = 29       
             rightPunctValue = 21
             leftPunctValue = 21
         if styleName ==  "x0y1000t0":
-            rightSideNotchValue = 29
-            leftSideNotchValue = 29        
-            rightSideFlatValue = 34
-            leftSideFlatValue = 34
-            rightSideSpecialValue = 27
-            leftSideSpecialValue  = 27
+            rightSideNotchValue = 34
+            leftSideNotchValue = 34        
+            rightSideFlatValue = 38
+            leftSideFlatValue = 38
+            rightSideSpecialValue = 34
+            leftSideSpecialValue = 34 
             rightPunctValue = 21
             leftPunctValue = 21
         if styleName == "x1000y0t0":
-            rightSideNotchValue = 45-25
-            leftSideNotchValue = 45-25        
-            rightSideFlatValue = 66-25
-            leftSideFlatValue = 66-25
-            rightSideSpecialValue = 30-25
-            leftSideSpecialValue  = 30-25
-            rightPunctValue = 25-15
-            leftPunctValue = 25-15
+            rightSideNotchValue = 10
+            leftSideNotchValue = 10   
+            rightSideFlatValue = 22
+            leftSideFlatValue = 22
+            rightSideSpecialValue = 10
+            leftSideSpecialValue = 10
+            rightPunctValue = 25
+            leftPunctValue = 25
 
         for g in f.keys():
             #set right margins

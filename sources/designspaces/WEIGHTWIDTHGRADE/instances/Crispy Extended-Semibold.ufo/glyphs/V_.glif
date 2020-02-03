@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="V" format="2">
-  <advance width="4282"/>
+  <advance width="4509"/>
   <unicode hex="0056"/>
   <outline>
     <contour>
-      <point x="306" y="0" type="line" smooth="yes"/>
-      <point x="306" y="1600" type="line" smooth="yes"/>
-      <point x="830" y="1600" type="line" smooth="yes"/>
-      <point x="830" y="306" type="line"/>
-      <point x="3316" y="306" type="line" smooth="yes"/>
-      <point x="3589" y="592" type="line"/>
-      <point x="3589" y="1600" type="line"/>
-      <point x="4112" y="1600" type="line" smooth="yes"/>
-      <point x="4112" y="488" type="line"/>
-      <point x="3672" y="0" type="line" smooth="yes"/>
+      <point x="410" y="0" type="line" smooth="yes"/>
+      <point x="410" y="1600" type="line" smooth="yes"/>
+      <point x="934" y="1600" type="line" smooth="yes"/>
+      <point x="934" y="306" type="line"/>
+      <point x="3419" y="306" type="line" smooth="yes"/>
+      <point x="3692" y="592" type="line"/>
+      <point x="3692" y="1600" type="line"/>
+      <point x="4216" y="1600" type="line" smooth="yes"/>
+      <point x="4216" y="488" type="line"/>
+      <point x="3775" y="0" type="line" smooth="yes"/>
     </contour>
   </outline>
   <lib>

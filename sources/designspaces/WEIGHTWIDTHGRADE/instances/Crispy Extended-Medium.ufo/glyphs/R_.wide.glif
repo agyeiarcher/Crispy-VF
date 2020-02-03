@@ -1,28 +1,28 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="R.wide" format="2">
-  <advance width="4069"/>
+  <advance width="4316"/>
   <outline>
     <contour>
-      <point x="3387" y="0" type="line"/>
-      <point x="3825" y="0" type="line"/>
-      <point x="3825" y="403" type="line"/>
-      <point x="3406" y="538" type="line"/>
-      <point x="2948" y="522" type="line"/>
-      <point x="3387" y="357" type="line"/>
+      <point x="3502" y="0" type="line"/>
+      <point x="3940" y="0" type="line"/>
+      <point x="3940" y="403" type="line"/>
+      <point x="3522" y="538" type="line"/>
+      <point x="3063" y="522" type="line"/>
+      <point x="3502" y="357" type="line"/>
     </contour>
     <contour>
-      <point x="313" y="-1" type="line" identifier="EG08jqU5fb"/>
-      <point x="751" y="-1" type="line" identifier="osRzIFK2Cu"/>
-      <point x="751" y="516" type="line" identifier="hIFVovVRwe"/>
-      <point x="3891" y="516" type="line" identifier="Tt6D8zYZmU"/>
-      <point x="3891" y="1599" type="line" identifier="6xW04auDFu"/>
-      <point x="313" y="1599" type="line" identifier="eETO5GBD5v"/>
+      <point x="429" y="-1" type="line" identifier="EG08jqU5fb"/>
+      <point x="866" y="-1" type="line" identifier="osRzIFK2Cu"/>
+      <point x="866" y="516" type="line" identifier="hIFVovVRwe"/>
+      <point x="4007" y="516" type="line" identifier="Tt6D8zYZmU"/>
+      <point x="4007" y="1599" type="line" identifier="6xW04auDFu"/>
+      <point x="429" y="1599" type="line" identifier="eETO5GBD5v"/>
     </contour>
     <contour>
-      <point x="751" y="772" type="line" identifier="PIBVN1PGv1"/>
-      <point x="751" y="1343" type="line" identifier="IZIZQr2gYJ"/>
-      <point x="3454" y="1343" type="line" identifier="2c4LCF1E1R"/>
-      <point x="3454" y="772" type="line" identifier="1WCnzth1GX"/>
+      <point x="866" y="772" type="line" identifier="PIBVN1PGv1"/>
+      <point x="866" y="1343" type="line" identifier="IZIZQr2gYJ"/>
+      <point x="3569" y="1343" type="line" identifier="2c4LCF1E1R"/>
+      <point x="3569" y="772" type="line" identifier="1WCnzth1GX"/>
     </contour>
   </outline>
 </glyph>
