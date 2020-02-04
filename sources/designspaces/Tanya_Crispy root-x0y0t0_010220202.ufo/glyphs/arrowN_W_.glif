@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="/arrowNW" format="2">
+	<advance width="150"/>
+	<outline>
+		<contour>
+			<point x="48" y="848" type="line"/>
+			<point x="98" y="848" type="line"/>
+			<point x="98" y="850" type="line"/>
+			<point x="48" y="850" type="line"/>
+		</contour>
+		<contour>
+			<point x="15" y="814" type="line"/>
+			<point x="50" y="849" type="line"/>
+			<point x="48" y="850" type="line"/>
+			<point x="13" y="815" type="line"/>
+		</contour>
+		<contour>
+			<point x="47" y="849" type="line"/>
+			<point x="86" y="757" type="line"/>
+			<point x="88" y="758" type="line"/>
+			<point x="49" y="850" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-03 16:15:44 +0000</string>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>
