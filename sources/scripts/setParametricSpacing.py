@@ -70,12 +70,12 @@ def setSpacing(f):
             rightPunctValue = 100
             leftPunctValue =100
         if styleName == "x1000y0t1000":
-            rightSideNotchValue = 260 
-            leftSideNotchValue = 260         
-            rightSideFlatValue = 380
-            leftSideFlatValue = 380
-            rightSideSpecialValue = 260 
-            leftSideSpecialValue = 260   
+            rightSideNotchValue = 160 
+            leftSideNotchValue = 160         
+            rightSideFlatValue = 280
+            leftSideFlatValue = 280
+            rightSideSpecialValue = 160 
+            leftSideSpecialValue = 160   
             rightPunctValue = 150
             leftPunctValue = 150
         if styleName == "x0y0t0":
