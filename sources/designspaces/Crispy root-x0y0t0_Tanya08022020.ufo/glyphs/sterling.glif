@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="sterling" format="2">
+	<advance width="200"/>
+	<unicode hex="00A3"/>
+	<outline>
+		<contour>
+			<point x="34" y="0" type="line"/>
+			<point x="143" y="0" type="line"/>
+			<point x="143" y="342" type="line"/>
+			<point x="141" y="342" type="line"/>
+			<point x="141" y="2" type="line"/>
+			<point x="36" y="2" type="line"/>
+			<point x="115" y="799" type="line"/>
+			<point x="115" y="801" type="line"/>
+			<point x="36" y="1598" type="line"/>
+			<point x="143" y="1598" type="line"/>
+			<point x="143" y="1600" type="line"/>
+			<point x="34" y="1600" type="line"/>
+			<point x="113" y="800" type="line"/>
+		</contour>
+		<contour>
+			<point x="66" y="801" type="line"/>
+			<point x="66" y="799" type="line"/>
+			<point x="162" y="799" type="line"/>
+			<point x="162" y="801" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-03 09:14:31 +0000</string>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

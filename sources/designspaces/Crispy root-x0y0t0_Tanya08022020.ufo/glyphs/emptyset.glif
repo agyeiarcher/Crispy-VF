@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="emptyset" format="2">
+	<advance width="150"/>
+	<unicode hex="2205"/>
+	<outline>
+		<contour>
+			<point x="34" y="340" type="line"/>
+			<point x="132" y="340" type="line"/>
+			<point x="132" y="1160" type="line"/>
+			<point x="34" y="1160" type="line"/>
+		</contour>
+		<contour>
+			<point x="36" y="342" type="line"/>
+			<point x="36" y="1158" type="line"/>
+			<point x="130" y="1158" type="line"/>
+			<point x="130" y="342" type="line"/>
+		</contour>
+		<contour>
+			<point x="122" y="1380" type="line"/>
+			<point x="42" y="120" type="line"/>
+			<point x="44" y="120" type="line"/>
+			<point x="124" y="1380" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-02 09:50:08 +0000</string>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

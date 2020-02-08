@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Omega" format="2">
+	<advance width="200"/>
+	<unicode hex="03A9"/>
+	<outline>
+		<contour>
+			<point x="111" y="2" type="line"/>
+			<point x="113" y="0" type="line"/>
+			<point x="147" y="163" type="line"/>
+			<point x="147" y="1600" type="line"/>
+			<point x="83" y="1600" type="line"/>
+			<point x="49" y="1438" type="line"/>
+			<point x="49" y="0" type="line"/>
+			<point x="51" y="2" type="line"/>
+			<point x="51" y="1437" type="line"/>
+			<point x="85" y="1598" type="line"/>
+			<point x="145" y="1598" type="line"/>
+			<point x="145" y="163" type="line"/>
+		</contour>
+		<contour>
+			<point x="51" y="0" type="line"/>
+			<point x="51" y="2" type="line"/>
+			<point x="6" y="2" type="line"/>
+			<point x="6" y="0" type="line"/>
+		</contour>
+		<contour>
+			<point x="156" y="0" type="line"/>
+			<point x="156" y="2" type="line"/>
+			<point x="111" y="2" type="line"/>
+			<point x="111" y="0" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-03 16:23:14 +0000</string>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>
