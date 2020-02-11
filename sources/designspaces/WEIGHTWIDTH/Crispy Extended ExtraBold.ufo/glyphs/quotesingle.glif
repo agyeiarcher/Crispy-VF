@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesingle" format="2">
+  <advance width="77"/>
+  <unicode hex="0027"/>
+  <outline>
+    <component base="comma" xScale="0.8344505186459148" yScale="0.8" xOffset="-477" yOffset="1293"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>
