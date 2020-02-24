@@ -1,33 +1,33 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="X" format="2">
-  <advance width="4446"/>
+  <advance width="4259"/>
   <unicode hex="0058"/>
   <outline>
     <contour>
-      <point x="3638" y="793" type="line"/>
-      <point x="4008" y="516" type="line"/>
-      <point x="4009" y="0" type="line"/>
-      <point x="4023" y="0" type="line"/>
-      <point x="4023" y="522" type="line"/>
-      <point x="3652" y="798" type="line"/>
-      <point x="3652" y="798" type="line"/>
-      <point x="4020" y="798" type="line"/>
-      <point x="4020" y="1600" type="line"/>
-      <point x="4006" y="1600" type="line"/>
-      <point x="4006" y="806" type="line"/>
-      <point x="3641" y="806" type="line"/>
-      <point x="806" y="806" type="line"/>
-      <point x="440" y="1067" type="line"/>
+      <point x="3259" y="793" type="line"/>
+      <point x="3822" y="612" type="line"/>
+      <point x="3823" y="0" type="line"/>
+      <point x="3837" y="0" type="line"/>
+      <point x="3837" y="618" type="line"/>
+      <point x="3278" y="798" type="line"/>
+      <point x="3278" y="798" type="line"/>
+      <point x="3834" y="798" type="line"/>
+      <point x="3834" y="1600" type="line"/>
+      <point x="3819" y="1600" type="line"/>
+      <point x="3819" y="806" type="line"/>
+      <point x="3267" y="806" type="line"/>
+      <point x="997" y="806" type="line"/>
+      <point x="440" y="971" type="line"/>
       <point x="440" y="1600" type="line"/>
       <point x="426" y="1600" type="line"/>
-      <point x="426" y="1061" type="line"/>
-      <point x="793" y="800" type="line"/>
-      <point x="793" y="800" type="line"/>
+      <point x="426" y="965" type="line"/>
+      <point x="980" y="800" type="line"/>
+      <point x="980" y="800" type="line"/>
       <point x="423" y="801" type="line"/>
       <point x="423" y="0" type="line"/>
       <point x="437" y="0" type="line"/>
       <point x="437" y="793" type="line"/>
-      <point x="808" y="793" type="line"/>
+      <point x="994" y="793" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,9 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="W" format="2">
-  <advance width="5495"/>
+  <advance width="5380"/>
   <unicode hex="0057"/>
   <outline>
-    <component base="M.narrow" xScale="-1.0" yScale="-1.0" xOffset="5496" yOffset="1600"/>
+    <contour>
+      <point x="2916" y="1133" type="line" identifier="0Dn4Xpf57M"/>
+      <point x="4292" y="14" type="line"/>
+      <point x="4798" y="14" type="line"/>
+      <point x="4798" y="1600" type="line"/>
+      <point x="4812" y="1600" type="line"/>
+      <point x="4812" y="0" type="line"/>
+      <point x="4281" y="0" type="line"/>
+      <point x="2908" y="1117" type="line"/>
+      <point x="2471" y="1117" type="line" identifier="9aKZPM0HPh"/>
+      <point x="1102" y="0" type="line"/>
+      <point x="567" y="0" type="line"/>
+      <point x="567" y="1600" type="line"/>
+      <point x="581" y="1600" type="line"/>
+      <point x="581" y="14" type="line"/>
+      <point x="1091" y="14" type="line"/>
+      <point x="2463" y="1133" type="line" identifier="spdoeeCFft"/>
+    </contour>
   </outline>
   <lib>
     <dict>
