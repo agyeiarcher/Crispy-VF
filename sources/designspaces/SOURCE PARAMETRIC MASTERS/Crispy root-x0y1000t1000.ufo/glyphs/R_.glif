@@ -6,24 +6,22 @@
     <contour>
       <point x="3966" y="0" type="line"/>
       <point x="3968" y="0" type="line"/>
-      <point x="3968" y="288" type="line"/>
-      <point x="3619" y="417" type="line"/>
-      <point x="3494" y="377" type="line"/>
-      <point x="3966" y="200" type="line"/>
+      <point x="3497" y="389" type="line"/>
+      <point x="3495" y="389" type="line"/>
     </contour>
     <contour>
       <point x="590" y="0" type="line"/>
       <point x="592" y="0" type="line"/>
-      <point x="592" y="367" type="line"/>
-      <point x="4041" y="367" type="line"/>
+      <point x="593" y="379" type="line"/>
+      <point x="4042" y="379" type="line"/>
       <point x="4041" y="1600" type="line"/>
       <point x="590" y="1600" type="line"/>
     </contour>
     <contour>
-      <point x="592" y="935" type="line"/>
+      <point x="593" y="947" type="line"/>
       <point x="592" y="1032" type="line"/>
       <point x="4039" y="1032" type="line"/>
-      <point x="4039" y="935" type="line"/>
+      <point x="4040" y="947" type="line"/>
     </contour>
   </outline>
   <lib>
