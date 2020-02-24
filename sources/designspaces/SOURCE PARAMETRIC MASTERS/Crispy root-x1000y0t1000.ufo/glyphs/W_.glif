@@ -1,9 +1,26 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="W" format="2">
-  <advance width="7296"/>
+  <advance width="7131"/>
   <unicode hex="0057"/>
   <outline>
-    <component base="M.narrow" xScale="-1" yScale="-1" xOffset="7396" yOffset="1600"/>
+    <contour>
+      <point x="4121" y="1200" type="line" identifier="0Dn4Xpf57M"/>
+      <point x="5020" y="2" type="line" identifier="CJVLt8sVMC"/>
+      <point x="5837" y="2" type="line" identifier="7QVDtlPkQc"/>
+      <point x="5837" y="1600" type="line" identifier="p8hbL8GrGg"/>
+      <point x="6852" y="1600" type="line" identifier="qUWDYyJjap"/>
+      <point x="6852" y="0" type="line" identifier="TAkvX15kAp"/>
+      <point x="4650" y="0" type="line" identifier="iZIUH9tAuB"/>
+      <point x="3760" y="1198" type="line" identifier="o4xE2q83Uw"/>
+      <point x="3367" y="1198" type="line" identifier="9aKZPM0HPh"/>
+      <point x="2485" y="0" type="line" identifier="VmXAkqgoAb"/>
+      <point x="281" y="0" type="line" identifier="oia0jNa8Lt"/>
+      <point x="281" y="1600" type="line" identifier="WSb4wQic0D"/>
+      <point x="1297" y="1600" type="line" identifier="Nn5O7e1cYK"/>
+      <point x="1297" y="2" type="line" identifier="fp73ruFk9e"/>
+      <point x="2114" y="2" type="line" identifier="iN3awwbkSp"/>
+      <point x="3003" y="1200" type="line" identifier="spdoeeCFft"/>
+    </contour>
   </outline>
   <lib>
     <dict>
