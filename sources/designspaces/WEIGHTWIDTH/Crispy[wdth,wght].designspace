@@ -28,7 +28,7 @@
     </rule>
     <rule name="narrowsubs">
       <conditionset>
-        <condition name="width" minimum="20" maximum="100"/>
+        <condition name="width" minimum="20" maximum="70"/>
       </conditionset>
       <sub name="N" with="N.narrow"/>
       <sub name="one" with="one.narrow"/>
