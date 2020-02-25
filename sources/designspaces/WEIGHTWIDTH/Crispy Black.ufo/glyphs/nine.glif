@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nine" format="2">
+  <advance width="1656"/>
+  <unicode hex="0039"/>
+  <outline>
+    <contour>
+      <point x="1588" y="1600" type="line" identifier="uiw6aBUf4P"/>
+      <point x="68" y="1600" type="line" identifier="jtYkxiUX6G"/>
+      <point x="68" y="659" type="line" identifier="2G5L37c87I"/>
+      <point x="1174" y="659" type="line"/>
+      <point x="1174" y="345" type="line"/>
+      <point x="483" y="345" type="line"/>
+      <point x="483" y="541" type="line"/>
+      <point x="69" y="541" type="line" identifier="Wuidbv6mUe"/>
+      <point x="69" y="0" type="line" identifier="oGvEEuxnYv"/>
+      <point x="1588" y="0" type="line" identifier="xR3pEHbMJx"/>
+    </contour>
+    <contour>
+      <point x="482" y="1000" type="line"/>
+      <point x="482" y="1256" type="line"/>
+      <point x="1174" y="1256" type="line"/>
+      <point x="1174" y="1000" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 12:47:08 +0000</string>
+    </dict>
+  </lib>
+</glyph>

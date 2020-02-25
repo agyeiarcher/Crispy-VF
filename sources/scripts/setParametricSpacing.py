@@ -52,23 +52,23 @@ def setSpacing(f):
         #this group of conditionals is very...bad
         
         if styleName == "x0y0t1000":
-            rightSideNotchValue = 440 
-            leftSideNotchValue = 440         
-            rightSideFlatValue = 590
-            leftSideFlatValue = 590
-            rightSideSpecialValue = 440 
-            leftSideSpecialValue = 440 
-            rightPunctValue = 100
-            leftPunctValue =100
+            rightSideNotchValue = 640 
+            leftSideNotchValue = 640         
+            rightSideFlatValue = 790
+            leftSideFlatValue = 790
+            rightSideSpecialValue = 640 
+            leftSideSpecialValue = 640 
+            rightPunctValue = 300
+            leftPunctValue =300
         if styleName == "x0y1000t1000":
-            rightSideNotchValue = 440 
-            leftSideNotchValue = 440         
-            rightSideFlatValue = 590
-            leftSideFlatValue = 590
-            rightSideSpecialValue = 440 
-            leftSideSpecialValue = 440 
-            rightPunctValue = 100
-            leftPunctValue =100
+            rightSideNotchValue = 640 
+            leftSideNotchValue = 640         
+            rightSideFlatValue = 790
+            leftSideFlatValue = 790
+            rightSideSpecialValue = 640 
+            leftSideSpecialValue = 640 
+            rightPunctValue = 300
+            leftPunctValue =300
         if styleName == "x1000y0t1000":
             rightSideNotchValue = 160 
             leftSideNotchValue = 160         
