@@ -10,7 +10,7 @@
     <rule name="subwidth">
       <conditionset>
         <condition name="weight" minimum="100" maximum="900"/>
-        <condition name="width" minimum="551" maximum="900"/>
+        <condition name="width" minimum="650" maximum="799"/>
       </conditionset>
       <sub name="S" with="S.wide"/>
       <sub name="three" with="three.wide"/>
@@ -23,7 +23,6 @@
       <sub name="Y" with="Y.wide"/>
       <sub name="L" with="L.wide"/>
       <sub name="C" with="C.wide"/>
-      <sub name="Z" with="Z.wide"/>
       <sub name="five" with="five.wide"/>
     </rule>
     <rule name="narrowsubs">
@@ -33,6 +32,21 @@
       <sub name="N" with="N.narrow"/>
       <sub name="one" with="one.narrow"/>
       <sub name="I" with="I.narrow"/>
+    </rule>
+    <rule name="subBlacks">
+      <conditionset>
+        <condition name="weight" minimum="800" maximum="900"/>
+        <condition name="width" minimum="800" maximum="900"/>
+      </conditionset>
+      <sub name="S" with="S.wideskinny"/>
+      <sub name="B" with="B.skinnymiddle"/>
+      <sub name="E" with="E.wideskinny"/>
+      <sub name="G" with="G.wideskinny"/>
+      <sub name="Y" with="Y.wideskinny"/>
+      <sub name="eight" with="eight.skinnymiddle"/>
+      <sub name="F" with="F.wide"/>
+      <sub name="Z" with="Z.wide"/>
+      <sub name="C" with="C.wide"/>
     </rule>
   </rules>
   <sources>
