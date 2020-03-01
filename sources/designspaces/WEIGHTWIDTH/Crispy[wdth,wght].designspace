@@ -10,7 +10,11 @@
     <rule name="subwidth">
       <conditionset>
         <condition name="weight" minimum="100" maximum="900"/>
-        <condition name="width" minimum="650" maximum="799"/>
+        <condition name="width" minimum="450" maximum="799"/>
+      </conditionset>
+      <conditionset>
+        <condition name="weight" minimum="200" maximum="900"/>
+        <condition name="width" minimum="799" maximum="900"/>
       </conditionset>
       <sub name="S" with="S.wide"/>
       <sub name="three" with="three.wide"/>
@@ -35,7 +39,7 @@
     </rule>
     <rule name="subBlacks">
       <conditionset>
-        <condition name="weight" minimum="800" maximum="900"/>
+        <condition name="weight" minimum="300" maximum="900"/>
         <condition name="width" minimum="800" maximum="900"/>
       </conditionset>
       <sub name="S" with="S.wideskinny"/>
@@ -47,6 +51,7 @@
       <sub name="F" with="F.wide"/>
       <sub name="Z" with="Z.wide"/>
       <sub name="C" with="C.wide"/>
+      <sub name="L" with="L.wide"/>
     </rule>
   </rules>
   <sources>

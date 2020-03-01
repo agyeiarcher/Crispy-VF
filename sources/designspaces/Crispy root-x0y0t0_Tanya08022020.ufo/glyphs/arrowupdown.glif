@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="/arrowupdown" format="2">
+	<advance width="150"/>
+	<outline>
+		<contour>
+			<point x="110" y="830" type="line"/>
+			<point x="63" y="850" type="line"/>
+			<point x="63" y="848" type="line"/>
+			<point x="110" y="828" type="line"/>
+		</contour>
+		<contour>
+			<point x="62" y="848" type="line"/>
+			<point x="62" y="750" type="line"/>
+			<point x="64" y="750" type="line"/>
+			<point x="64" y="848" type="line"/>
+		</contour>
+		<contour>
+			<point x="63" y="850" type="line"/>
+			<point x="18" y="830" type="line"/>
+			<point x="18" y="828" type="line"/>
+			<point x="63" y="848" type="line"/>
+		</contour>
+		<contour>
+			<point x="64" y="750" type="line"/>
+			<point x="64" y="848" type="line"/>
+			<point x="62" y="848" type="line"/>
+			<point x="62" y="750" type="line"/>
+			<point x="18" y="770" type="line"/>
+			<point x="18" y="768" type="line"/>
+			<point x="63" y="748" type="line"/>
+			<point x="110" y="768" type="line"/>
+			<point x="110" y="770" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-03 16:16:21 +0000</string>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

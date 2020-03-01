@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="/arrowSW" format="2">
+	<advance width="150"/>
+	<outline>
+		<contour>
+			<point x="97" y="749" type="line"/>
+			<point x="97" y="751" type="line"/>
+			<point x="47" y="750" type="line"/>
+			<point x="47" y="749" type="line"/>
+		</contour>
+		<contour>
+			<point x="47" y="750" type="line"/>
+			<point x="48" y="749" type="line"/>
+			<point x="87" y="841" type="line"/>
+			<point x="85" y="842" type="line"/>
+		</contour>
+		<contour>
+			<point x="47" y="749" type="line"/>
+			<point x="48" y="750" type="line"/>
+			<point x="16" y="786" type="line"/>
+			<point x="14" y="785" type="line"/>
+		</contour>
+	</outline>
+</glyph>

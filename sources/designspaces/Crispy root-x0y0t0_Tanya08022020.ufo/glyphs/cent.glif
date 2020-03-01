@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="cent" format="2">
+	<advance width="150"/>
+	<unicode hex="00A2"/>
+	<outline>
+		<contour>
+			<point x="79" y="0" type="line"/>
+			<point x="81" y="0" type="line"/>
+			<point x="81" y="1600" type="line"/>
+			<point x="79" y="1600" type="line"/>
+		</contour>
+		<contour>
+			<point x="124" y="883" type="line"/>
+			<point x="124" y="1390" type="line"/>
+			<point x="63" y="1390" type="line"/>
+			<point x="29" y="1227" type="line"/>
+			<point x="29" y="373" type="line"/>
+			<point x="63" y="210" type="line"/>
+			<point x="124" y="210" type="line"/>
+			<point x="124" y="717" type="line"/>
+			<point x="122" y="717" type="line"/>
+			<point x="122" y="212" type="line"/>
+			<point x="65" y="212" type="line"/>
+			<point x="31" y="373" type="line"/>
+			<point x="31" y="1227" type="line"/>
+			<point x="65" y="1388" type="line"/>
+			<point x="122" y="1388" type="line"/>
+			<point x="122" y="883" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-03 08:45:06 +0000</string>
+			<key>public.markColor</key>
+			<string>1,1,0,1</string>
+		</dict>
+	</lib>
+</glyph>

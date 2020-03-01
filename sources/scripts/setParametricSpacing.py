@@ -6,14 +6,13 @@ styleName = f.info.styleName
 
 #making batches of letter groups below, to check for different things. The xCheckGroup lists are flattened to check if any characters are duplicated, so spacing isn't applied more than once to any one character. If they are, they're skipped over and reported
 
-rightSideNotch = ["O", "B", "K", "D", "R", "W", "V", "X", "three", "eight","L"]
-leftSideNotch = ["A", "U", "X","O", "G.wide", "G", "C", "eight", "six", "nine", "Q","M.narrow"]
+rightSideNotch = ["O", "B","B.skinnymiddle", "K", "D", "R", "W", "V", "X", "three", "eight",  "S.wide", "S", "S.wideskinny", "T", "C.wide"]
+leftSideNotch = ["A", "X","O", "G.wideskinny","G.wide", "G", "C", "eight", "six", "nine", "Q","M.narrow", "S.wide", "S", "S.wideskinny", "T"]
+rightSideFlat = ["J", "Q", "M", "N", "U", "H", "A", "I.narrow", "three.wide", "E", "E.wide", "E.wideskinny", "F", "F.wide", "Y","Y.wide","Y.wideskinny", "zero", "one.narrow", "U.narrow", "N.narrow","M.narrow", "L", "I","P", "C"]
+leftSideFlat = ["R.wide", "D", "M", "U","N", "K", "B", "B.skinnymiddle", "E", "F", "P", "R", "W", "V", "L","L.wide", "H", "E.wide", "F.wide", "I.narrow", "zero", "K.narrow", "U.narrow", "N.narrow", "Y","Y.wide","Y.wideskinny", "I"]
 
-rightSideFlat = ["J", "Q", "M", "N", "U", "H", "A", "I.narrow", "three.wide","E.wide", "E", "F", "F.wide", "Y","Y.wide", "zero", "one.narrow", "U.narrow", "N.narrow","M.narrow"]
-leftSideFlat = ["R.wide", "D", "M", "N", "K", "B", "E", "F", "P", "R", "W", "V", "L","L.wide", "H","Y.wide", "E.wide", "F.wide", "I.narrow", "zero", "K.narrow", "U.narrow","B.narrow", "N.narrow", "Y"]
-
-rightSideSpecial = ["Z", "P", "T", "Z.wide", "C.wide", "S.wide", "S", "I", "C", "G", "L.wide", "one", "five", "five.wide", "four", "seven", "six", "nine", "two"]
-leftSideSpecial = ["J", "Z", "Z.wide", "S", "T", "I", "five.wide", "three.wide", "S.wide", "one", "three", "five", "four", "seven", "one.narrow", "two"]
+rightSideSpecial = ["Z", "Z.wide","G", "one", "five", "five.wide", "four", "seven", "six", "nine", "two"]
+leftSideSpecial = ["J", "Z", "Z.wide", "five.wide", "three.wide", "one", "three", "five", "four", "seven", "one.narrow", "two"]
 
 rightPunct=["comma", "period"]
 leftPunct=["comma", "period"]
@@ -52,23 +51,24 @@ def setSpacing(f):
         #this group of conditionals is very...bad
         
         if styleName == "x0y0t1000":
-            rightSideNotchValue = 640 
-            leftSideNotchValue = 640         
-            rightSideFlatValue = 790
-            leftSideFlatValue = 790
-            rightSideSpecialValue = 640 
-            leftSideSpecialValue = 640 
-            rightPunctValue = 300
-            leftPunctValue =300
+            rightSideNotchValue = 440 
+            leftSideNotchValue = 440         
+            rightSideFlatValue = 590
+            leftSideFlatValue = 590
+            rightSideSpecialValue = 440 
+            leftSideSpecialValue = 440 
+            rightPunctValue = 100
+            leftPunctValue =100
         if styleName == "x0y1000t1000":
-            rightSideNotchValue = 640 
-            leftSideNotchValue = 640         
-            rightSideFlatValue = 790
-            leftSideFlatValue = 790
-            rightSideSpecialValue = 640 
-            leftSideSpecialValue = 640 
-            rightPunctValue = 300
-            leftPunctValue =300
+            rightSideNotchValue = 440 
+            rightSideNotchValue = 440 
+            leftSideNotchValue = 440         
+            rightSideFlatValue = 590
+            leftSideFlatValue = 590
+            rightSideSpecialValue = 440 
+            leftSideSpecialValue = 440 
+            rightPunctValue = 100
+            leftPunctValue =100
         if styleName == "x1000y0t1000":
             rightSideNotchValue = 160 
             leftSideNotchValue = 160         
@@ -88,12 +88,12 @@ def setSpacing(f):
             rightPunctValue = 21
             leftPunctValue = 21
         if styleName ==  "x0y1000t0":
-            rightSideNotchValue = 34
-            leftSideNotchValue = 34        
-            rightSideFlatValue = 38
-            leftSideFlatValue = 38
-            rightSideSpecialValue = 34
-            leftSideSpecialValue = 34 
+            rightSideNotchValue = 29
+            leftSideNotchValue = 29        
+            rightSideFlatValue = 34
+            leftSideFlatValue = 34
+            rightSideSpecialValue = 29
+            leftSideSpecialValue = 29       
             rightPunctValue = 21
             leftPunctValue = 21
         if styleName == "x1000y0t0":
@@ -132,4 +132,6 @@ def setSpacing(f):
             f[g].changed()
             f[g].performUndo()
 
+# for font in af:
 setSpacing(f)
+print(f"edited spacing for {f.info.familyName} {f.info.styleName}")
