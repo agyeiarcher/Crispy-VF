@@ -1,0 +1,83 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P" format="2">
+  <advance width="4631"/>
+  <unicode hex="0050"/>
+  <outline>
+    <contour>
+      <point x="590" y="0" type="line"/>
+      <point x="592" y="0" type="line"/>
+      <point x="592" y="377" type="line"/>
+      <point x="4041" y="377" type="line"/>
+      <point x="4041" y="1600" type="line"/>
+      <point x="590" y="1600" type="line"/>
+    </contour>
+    <contour>
+      <point x="592" y="945" type="line"/>
+      <point x="592" y="1032" type="line"/>
+      <point x="4039" y="1032" type="line"/>
+      <point x="4039" y="945" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>1WCnzth1GX</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBARTOP</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>2c4LCF1E1R</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPINSIDE</string>
+        </array>
+        <key>6xW04auDFu</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>IZIZQr2gYJ</key>
+        <array>
+          <string>TOPINSIDE</string>
+        </array>
+        <key>PIBVN1PGv1</key>
+        <array>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTILT</string>
+        </array>
+        <key>Tt6D8zYZmU</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBARBOTTOM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>hIFVovVRwe</key>
+        <array>
+          <string>CROSSBARTILT</string>
+          <string>CROSSBARBOTTOM</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

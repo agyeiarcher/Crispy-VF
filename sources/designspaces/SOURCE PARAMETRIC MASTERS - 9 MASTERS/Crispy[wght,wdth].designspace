@@ -1,0 +1,145 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="weight" minimum="400" maximum="900" default="400"/>
+    <axis tag="wdth" name="width" minimum="10" maximum="900" default="400"/>
+  </axes>
+  <rules>
+    <rule name="subwidth">
+      <conditionset>
+        <condition name="weight" minimum="400" maximum="700"/>
+        <condition name="width" minimum="450" maximum="900"/>
+      </conditionset>
+      <conditionset>
+        <condition name="weight" minimum="200" maximum="900"/>
+        <condition name="width" minimum="799" maximum="900"/>
+      </conditionset>
+      <sub name="S" with="S.wide"/>
+      <sub name="three" with="three.wide"/>
+      <sub name="six" with="six.wide"/>
+      <sub name="E" with="E.wide"/>
+      <sub name="nine" with="nine.wide"/>
+      <sub name="F" with="F.wide"/>
+      <sub name="G" with="G.wide"/>
+      <sub name="two" with="two.wide"/>
+      <sub name="Y" with="Y.wide"/>
+      <sub name="L" with="L.wide"/>
+      <sub name="C" with="C.wide"/>
+      <sub name="five" with="five.wide"/>
+    </rule>
+    <rule name="narrowsubs">
+      <conditionset>
+        <condition name="width" minimum="10" maximum="99"/>
+      </conditionset>
+      <sub name="N" with="N.narrow"/>
+      <sub name="one" with="one.narrow"/>
+      <sub name="I" with="I.narrow"/>
+    </rule>
+    <rule name="subBlacks">
+      <conditionset>
+        <condition name="weight" minimum="400" maximum="900"/>
+        <condition name="width" minimum="800" maximum="900"/>
+      </conditionset>
+      <sub name="S" with="S.wideskinny"/>
+      <sub name="B" with="B.skinnymiddle"/>
+      <sub name="E" with="E.wideskinny"/>
+      <sub name="G" with="G.wideskinny"/>
+      <sub name="Y" with="Y.wideskinny"/>
+      <sub name="eight" with="eight.skinnymiddle"/>
+      <sub name="F" with="F.wide"/>
+      <sub name="Z" with="Z.wide"/>
+      <sub name="C" with="C.wide"/>
+      <sub name="L" with="L.wide"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="instances/Crispy Regular-Condensed.ufo" familyname="Crispy" stylename="Regular Condensed">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Regular-Extended.ufo" familyname="Crispy" stylename="Regular Extended">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="width" xvalue="650"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Regular-Narrow.ufo" familyname="Crispy" stylename="Regular Narrow">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="width" xvalue="10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Regular-Wide.ufo" familyname="Crispy" stylename="Regular Wide">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="width" xvalue="900"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Regular.ufo" familyname="Crispy" stylename="Regular">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="width" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="instances/new Crispy Bold-Condensed.ufo" familyname="Crispy" stylename="Bold Condensed">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="instances/new Crispy Bold-Extended.ufo" familyname="Crispy" stylename="Bold Extended">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+        <dimension name="width" xvalue="650"/>
+      </location>
+    </source>
+    <source filename="instances/new Crispy Bold-Narrow.ufo" familyname="Crispy" stylename="Bold Narrow">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+        <dimension name="width" xvalue="10"/>
+      </location>
+    </source>
+    <source filename="instances/new Crispy Bold-Regular.ufo" familyname="Crispy" stylename="Bold">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+        <dimension name="width" xvalue="400"/>
+      </location>
+    </source>
+    <source filename="instances/new Crispy Bold-Wide.ufo" familyname="Crispy" stylename="Bold Wide">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+        <dimension name="width" xvalue="900"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Crispy" stylename="Regular" filename="instances/Crispy-Regular.ufo">
+      <location>
+        <dimension name="weight" xvalue="400"/>
+        <dimension name="width" xvalue="400"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Bold" filename="Crispy-Bold">
+      <location>
+        <dimension name="weight" xvalue="700"/>
+        <dimension name="width" xvalue="400"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+    </dict>
+  </lib>
+</designspace>

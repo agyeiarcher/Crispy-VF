@@ -1,0 +1,110 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B" format="2">
+  <advance width="4717"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="590" y="0" type="line" identifier="hvY9r8RmLr"/>
+      <point x="3781" y="0" type="line" identifier="9QFpw7nfq7"/>
+      <point x="4277" y="487" type="line"/>
+      <point x="4277" y="801" type="line" identifier="543PerILpr"/>
+      <point x="3577" y="801" type="line" identifier="zhomauHW30"/>
+      <point x="3906" y="1075" type="line"/>
+      <point x="3906" y="1600" type="line" identifier="FaP204GrdB"/>
+      <point x="590" y="1600" type="line" identifier="JEev70GAj6"/>
+    </contour>
+    <contour>
+      <point x="592" y="2" type="line" identifier="jaMSiLrCua"/>
+      <point x="592" y="799" type="line" identifier="XSrxNd2axx"/>
+      <point x="4275" y="799" type="line" identifier="lsRGatjQja"/>
+      <point x="4275" y="488" type="line"/>
+      <point x="3780" y="2" type="line" identifier="xhlDJ3CjD5"/>
+    </contour>
+    <contour>
+      <point x="592" y="801" type="line" identifier="By7dfMihfe"/>
+      <point x="592" y="1598" type="line" identifier="1p5hKrurVy"/>
+      <point x="3904" y="1598" type="line" identifier="Qby8aMtF2X"/>
+      <point x="3904" y="1076" type="line"/>
+      <point x="3574" y="801" type="line" identifier="xpxyvIzPoc"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>543PerILpr</key>
+        <array>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+        </array>
+        <key>870ZhtaozS</key>
+        <array>
+          <string>INSIDENOTCH</string>
+          <string>INSIDENOTCH</string>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>9QFpw7nfq7</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>9lW01gQyU2</key>
+        <array>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+        </array>
+        <key>FaP204GrdB</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>Qby8aMtF2X</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>VyYlzRh5nq</key>
+        <array>
+          <string>INSIDENOTCH</string>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>eGKH52Jgnk</key>
+        <array>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+        </array>
+        <key>lsRGatjQja</key>
+        <array>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+        </array>
+        <key>xhlDJ3CjD5</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>xpxyvIzPoc</key>
+        <array>
+          <string>INSIDENOTCH</string>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>zhomauHW30</key>
+        <array>
+          <string>INSIDENOTCH</string>
+          <string>INSIDENOTCH</string>
+          <string>RIGHTSTEM</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
