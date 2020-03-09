@@ -1,25 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
-  <advance width="4676"/>
+  <advance width="4475"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="440" y="0" type="line" smooth="yes" identifier="jFq8ta4UUc"/>
-      <point x="441" y="0" type="line" smooth="yes" identifier="dQz4RxYhG4"/>
-      <point x="441" y="337" type="line" smooth="yes" identifier="viYRWe5UN7"/>
-      <point x="4084" y="337" type="line" smooth="yes" identifier="QVexAlbAcl"/>
-      <point x="4084" y="0" type="line" smooth="yes" identifier="ZgsCdxNJRW"/>
-      <point x="4086" y="0" type="line" smooth="yes" identifier="kpn4Kw9J0C"/>
-      <point x="4086" y="1600" type="line" smooth="yes" identifier="OBZ5Ayed7M"/>
-      <point x="948" y="1600" type="line" smooth="yes" identifier="iDT0uyhKrn"/>
-      <point x="440" y="1102" type="line" identifier="dqVr87m3uJ"/>
+      <point x="3825" y="1600" type="line" smooth="yes" identifier="TtJBDxLtac"/>
+      <point x="650" y="1600" type="line" smooth="yes" identifier="v8mYloy7Gu"/>
+      <point x="450" y="0" type="line" smooth="yes" identifier="eQnUhxJAi8"/>
+      <point x="452" y="0" type="line" smooth="yes" identifier="sHbJc0ABCr"/>
+      <point x="583" y="1032" type="line" identifier="rl1GTsia1n"/>
+      <point x="3892" y="1032" type="line" identifier="UzF1yMyYbs"/>
+      <point x="4023" y="0" type="line"/>
+      <point x="4025" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="441" y="905" type="line" smooth="yes" identifier="IIRC9Wy7kQ"/>
-      <point x="441" y="920" type="line" smooth="yes" identifier="VufvPdJ075"/>
-      <point x="563" y="1032" type="line" smooth="yes" identifier="FsYtJ2vFnp"/>
-      <point x="4084" y="1032" type="line" smooth="yes" identifier="tUsW8L7b0y"/>
-      <point x="4084" y="905" type="line" smooth="yes" identifier="eTe9B4y76W"/>
+      <point x="506" y="433" type="line"/>
+      <point x="3970" y="433" type="line"/>
+      <point x="3901" y="980" type="line"/>
+      <point x="574" y="980" type="line"/>
     </contour>
   </outline>
   <lib>
