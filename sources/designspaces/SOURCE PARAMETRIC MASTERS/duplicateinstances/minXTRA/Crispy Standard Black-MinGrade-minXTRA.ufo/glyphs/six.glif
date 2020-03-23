@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six" format="2">
+  <advance width="1262"/>
+  <unicode hex="0036"/>
+  <outline>
+    <contour>
+      <point x="18" y="0" type="line" identifier="uiw6aBUf4P"/>
+      <point x="1243" y="0" type="line" identifier="jtYkxiUX6G"/>
+      <point x="1243" y="941" type="line" identifier="2G5L37c87I"/>
+      <point x="607" y="941" type="line"/>
+      <point x="607" y="1121" type="line"/>
+      <point x="641" y="1239" type="line"/>
+      <point x="653" y="1239" type="line"/>
+      <point x="653" y="1041" type="line"/>
+      <point x="1242" y="1041" type="line" identifier="Wuidbv6mUe"/>
+      <point x="1242" y="1600" type="line" identifier="oGvEEuxnYv"/>
+      <point x="212" y="1600" type="line" identifier="xR3pEHbMJx"/>
+      <point x="18" y="1141" type="line" identifier="KnMArb0tv8"/>
+    </contour>
+    <contour>
+      <point x="654" y="581" type="line"/>
+      <point x="654" y="361" type="line"/>
+      <point x="607" y="361" type="line"/>
+      <point x="607" y="581" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 04:43:13 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>2G5L37c87I</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>KnMArb0tv8</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>Wuidbv6mUe</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>jtYkxiUX6G</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>oGvEEuxnYv</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>uiw6aBUf4P</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>xR3pEHbMJx</key>
+        <array>
+          <string>leftside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

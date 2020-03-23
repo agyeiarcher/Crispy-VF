@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quoteright.copy_1" format="2">
+  <advance width="150"/>
+  <outline>
+    <contour>
+      <point x="66" y="1600" type="line"/>
+      <point x="63" y="1600" type="line"/>
+      <point x="29" y="1438" type="line"/>
+      <point x="31" y="1438" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-02-02 07:04:11 +0000</string>
+      <key>public.markColor</key>
+      <string>1,1,0,1</string>
+    </dict>
+  </lib>
+</glyph>

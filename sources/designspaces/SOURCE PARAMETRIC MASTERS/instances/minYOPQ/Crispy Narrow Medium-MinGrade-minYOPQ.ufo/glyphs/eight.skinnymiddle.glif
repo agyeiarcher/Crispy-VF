@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight.skinnymiddle" format="2">
+  <advance width="474"/>
+  <outline>
+    <contour>
+      <point x="265" y="799" type="line"/>
+      <point x="303" y="751" type="line"/>
+      <point x="303" y="2" type="line"/>
+      <point x="170" y="2" type="line"/>
+      <point x="170" y="751" type="line"/>
+      <point x="209" y="799" type="line"/>
+    </contour>
+    <contour>
+      <point x="385" y="797" type="line"/>
+      <point x="385" y="803" type="line"/>
+      <point x="440" y="876" type="line"/>
+      <point x="440" y="1600" type="line"/>
+      <point x="34" y="1600" type="line"/>
+      <point x="34" y="876" type="line"/>
+      <point x="88" y="803" type="line"/>
+      <point x="88" y="797" type="line"/>
+      <point x="31" y="720" type="line"/>
+      <point x="31" y="0" type="line"/>
+      <point x="443" y="0" type="line"/>
+      <point x="443" y="720" type="line"/>
+    </contour>
+    <contour>
+      <point x="209" y="801" type="line"/>
+      <point x="173" y="846" type="line"/>
+      <point x="173" y="1598" type="line"/>
+      <point x="300" y="1598" type="line"/>
+      <point x="300" y="846" type="line"/>
+      <point x="265" y="801" type="line"/>
+    </contour>
+  </outline>
+</glyph>

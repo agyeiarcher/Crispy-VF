@@ -1,0 +1,1711 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="weight" minimum="1" maximum="1000" default="500">
+      <labelname xml:lang="en">-</labelname>
+    </axis>
+    <axis tag="wdth" name="width" minimum="1" maximum="200" default="100">
+      <labelname xml:lang="en">-</labelname>
+    </axis>
+    <axis tag="GRAD" name="Grade" minimum="-10" maximum="10" default="10">
+      <labelname xml:lang="en">Grade</labelname>
+    </axis>
+    <axis tag="XOPQ" name="xOPQ" minimum="1" maximum="100" default="100">
+      <labelname xml:lang="en">XOPQ</labelname>
+    </axis>
+    <axis tag="XTRA" name="xTRA" minimum="1" maximum="100" default="100">
+      <labelname xml:lang="en">XTRA</labelname>
+    </axis>
+    <axis tag="YOPQ" name="yOPQ" minimum="1" maximum="100" default="100">
+      <labelname xml:lang="en">YOPQ</labelname>
+    </axis>
+    <axis tag="SRIF" name="Serif" minimum="0" maximum="1" default="1">
+      <labelname xml:lang="en">Serif</labelname>
+    </axis>
+  </axes>
+  <rules>
+    <rule name="subSerifs">
+      <conditionset>
+        <condition name="weight" minimum="1" maximum="1000"/>
+        <condition name="width" minimum="1" maximum="200"/>
+        <condition name="Grade" minimum="-10" maximum="10"/>
+        <condition name="xOPQ" minimum="1" maximum="100"/>
+        <condition name="xTRA" minimum="1" maximum="100"/>
+        <condition name="yOPQ" minimum="1" maximum="100"/>
+        <condition name="Serif" minimum="0" maximum="0"/>
+      </conditionset>
+      <sub name="E" with="E.wide"/>
+      <sub name="F" with="F.wide"/>
+      <sub name="G" with="G.wide"/>
+      <sub name="C" with="C.wide"/>
+      <sub name="S" with="S.wide"/>
+      <sub name="five" with="five.wide"/>
+      <sub name="nine" with="nine.wide"/>
+      <sub name="three" with="three.wide"/>
+      <sub name="two" with="two.wide"/>
+      <sub name="six" with="six.wide"/>
+      <sub name="Z" with="Z.wide"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="instances/Crispy Standard Black-MaxGrade.ufo" familyname="Crispy" stylename="Standard Black-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Standard Black-MinGrade.ufo" familyname="Crispy" stylename="Standard Black-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Standard Medium-MaxGrade.ufo" familyname="Crispy" stylename="Standard Medium-MaxGrade">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Standard Medium-MinGrade.ufo" familyname="Crispy" stylename="Standard Medium-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Narrow Black-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Black-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Narrow Black-MinGrade.ufo" familyname="Crispy" stylename="Narrow Black-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Narrow Medium-MinGrade.ufo" familyname="Crispy" stylename="Narrow Medium-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Narrow Thin-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Thin-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Narrow Thin-MinGrade.ufo" familyname="Crispy" stylename="Narrow Thin-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Standard Thin-MaxGrade.ufo" familyname="Crispy" stylename="Standard Thin-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Standard Thin-MinGrade.ufo" familyname="Crispy" stylename="Standard Thin-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Wide Black-MaxGrade.ufo" familyname="Crispy" stylename="Wide Black-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Wide Black-MinGrade.ufo" familyname="Crispy" stylename="Wide Black-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Wide Medium-MaxGrade.ufo" familyname="Crispy" stylename="Wide Medium-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Wide Medium-MinGrade.ufo" familyname="Crispy" stylename="Wide Medium-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Wide Thin-MaxGrade.ufo" familyname="Crispy" stylename="Wide Thin-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Wide Thin-MinGrade.ufo" familyname="Crispy" stylename="Wide Thin-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Narrow Medium-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Medium-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Narrow Black-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Narrow Black-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Narrow Black-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Narrow Black-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Narrow Medium-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Narrow Medium-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Narrow Medium-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Narrow Medium-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Narrow Thin-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Narrow Thin-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Narrow Thin-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Narrow Thin-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Standard Black-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Standard Black-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Standard Black-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Standard Black-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Standard Medium-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Standard Medium-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Standard Medium-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Standard Medium-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Standard Thin-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Standard Thin-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Standard Thin-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Standard Thin-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Wide Black-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Wide Black-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Wide Black-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Wide Black-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Wide Medium-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Wide Medium-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Wide Medium-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Wide Medium-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Wide Thin-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Wide Thin-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXOPQ/Crispy Wide Thin-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Wide Thin-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Narrow Black-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Narrow Black-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Narrow Black-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Narrow Black-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Narrow Medium-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Narrow Medium-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Narrow Medium-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Narrow Medium-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Narrow Thin-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Narrow Thin-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Narrow Thin-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Narrow Thin-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Standard Black-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Standard Black-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Standard Black-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Standard Black-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Standard Medium-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Standard Medium-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Standard Medium-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Standard Medium-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Standard Thin-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Standard Thin-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Standard Thin-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Standard Thin-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Wide Black-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Wide Black-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Wide Black-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Wide Black-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Wide Medium-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Wide Medium-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Wide Medium-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Wide Medium-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Wide Thin-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Wide Thin-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minXTRA/Crispy Wide Thin-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Wide Thin-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Narrow Black-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Narrow Black-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Narrow Black-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Narrow Black-MinGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Narrow Medium-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Narrow Medium-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Narrow Medium-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Narrow Medium-MinGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Narrow Thin-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Narrow Thin-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Narrow Thin-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Narrow Thin-MinGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Standard Black-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Standard Black-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Standard Black-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Standard Black-MinGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Standard Medium-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Standard Medium-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Standard Medium-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Standard Medium-MinGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Standard Thin-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Standard Thin-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Standard Thin-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Standard Thin-MinGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Wide Black-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Wide Black-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Wide Black-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Wide Black-MinGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Wide Medium-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Wide Medium-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Wide Medium-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Wide Medium-MinGrade-minYOPQ-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Wide Thin-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Wide Thin-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="instances/minYOPQ/Crispy Wide Thin-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Wide Thin-MinGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Standard Black-MaxGrade.ufo" familyname="Crispy" stylename="Standard Black-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Standard Black-MinGrade.ufo" familyname="Crispy" stylename="Standard Black-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Standard Medium-MaxGrade.ufo" familyname="Crispy" stylename="Standard Medium-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Standard Medium-MinGrade.ufo" familyname="Crispy" stylename="Standard Medium-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Narrow Black-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Black-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Narrow Black-MinGrade.ufo" familyname="Crispy" stylename="Narrow Black-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Narrow Medium-MinGrade.ufo" familyname="Crispy" stylename="Narrow Medium-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Narrow Thin-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Thin-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Narrow Thin-MinGrade.ufo" familyname="Crispy" stylename="Narrow Thin-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Standard Thin-MaxGrade.ufo" familyname="Crispy" stylename="Standard Thin-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Standard Thin-MinGrade.ufo" familyname="Crispy" stylename="Standard Thin-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Wide Black-MaxGrade.ufo" familyname="Crispy" stylename="Wide Black-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Wide Black-MinGrade.ufo" familyname="Crispy" stylename="Wide Black-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Wide Medium-MaxGrade.ufo" familyname="Crispy" stylename="Wide Medium-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Wide Medium-MinGrade.ufo" familyname="Crispy" stylename="Wide Medium-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Wide Thin-MaxGrade.ufo" familyname="Crispy" stylename="Wide Thin-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Wide Thin-MinGrade.ufo" familyname="Crispy" stylename="Wide Thin-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/Crispy Narrow Medium-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Medium-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Narrow Black-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Narrow Black-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Narrow Black-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Narrow Black-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Narrow Medium-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Narrow Medium-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Narrow Medium-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Narrow Medium-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Narrow Thin-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Narrow Thin-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Narrow Thin-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Narrow Thin-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Standard Black-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Standard Black-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Standard Black-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Standard Black-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Standard Medium-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Standard Medium-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Standard Medium-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Standard Medium-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Standard Thin-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Standard Thin-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Standard Thin-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Standard Thin-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Wide Black-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Wide Black-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Wide Black-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Wide Black-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Wide Medium-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Wide Medium-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Wide Medium-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Wide Medium-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Wide Thin-MaxGrade-minXOPQ.ufo" familyname="Crispy" stylename="Wide Thin-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXOPQ/Crispy Wide Thin-MinGrade-minXOPQ.ufo" familyname="Crispy" stylename="Wide Thin-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="1"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Narrow Black-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Narrow Black-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Narrow Black-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Narrow Black-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Narrow Medium-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Narrow Medium-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Narrow Medium-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Narrow Medium-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Narrow Thin-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Narrow Thin-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Narrow Thin-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Narrow Thin-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Standard Black-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Standard Black-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Standard Black-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Standard Black-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Standard Medium-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Standard Medium-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Standard Medium-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Standard Medium-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Standard Thin-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Standard Thin-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Standard Thin-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Standard Thin-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Wide Black-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Wide Black-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Wide Black-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Wide Black-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Wide Medium-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Wide Medium-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Wide Medium-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Wide Medium-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Wide Thin-MaxGrade-minXTRA.ufo" familyname="Crispy" stylename="Wide Thin-MaxGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minXTRA/Crispy Wide Thin-MinGrade-minXTRA.ufo" familyname="Crispy" stylename="Wide Thin-MinGrade-minXTRA">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="1"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Narrow Black-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Narrow Black-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Narrow Black-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Narrow Black-MinGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Narrow Medium-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Narrow Medium-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Narrow Medium-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Narrow Medium-MinGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Narrow Thin-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Narrow Thin-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Narrow Thin-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Narrow Thin-MinGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Standard Black-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Standard Black-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Standard Black-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Standard Black-MinGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Standard Medium-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Standard Medium-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Standard Medium-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Standard Medium-MinGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Standard Thin-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Standard Thin-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Standard Thin-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Standard Thin-MinGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Wide Black-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Wide Black-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Wide Black-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Wide Black-MinGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Wide Medium-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Wide Medium-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Wide Medium-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Wide Medium-MinGrade-minYOPQ-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Wide Thin-MaxGrade-minYOPQ.ufo" familyname="Crispy" stylename="Wide Thin-MaxGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+    <source filename="duplicateinstances/minYOPQ/Crispy Wide Thin-MinGrade-minYOPQ.ufo" familyname="Crispy" stylename="Wide Thin-MinGrade-minYOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="1"/>
+        <dimension name="Serif" xvalue="0"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Crispy" stylename="Thin" filename="defaultinstances/Crispy Thin.ufo">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="0"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Medium" filename="defaultinstances/Crispy Medium.ufo">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="0"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Black" filename="defaultinstances/Crispy Black.ufo">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="0"/>
+        <dimension name="xOPQ" xvalue="100"/>
+        <dimension name="xTRA" xvalue="100"/>
+        <dimension name="yOPQ" xvalue="100"/>
+        <dimension name="Serif" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>horizontal</key>
+        <array>
+          <string>width</string>
+        </array>
+        <key>ignore</key>
+        <array>
+          <string>weight</string>
+        </array>
+        <key>vertical</key>
+        <array/>
+      </dict>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>grade</key>
+        <real>10.0</real>
+        <key>weight</key>
+        <real>1000.0</real>
+        <key>width</key>
+        <real>200.0</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>HENNY UVULA</string>
+    </dict>
+  </lib>
+</designspace>

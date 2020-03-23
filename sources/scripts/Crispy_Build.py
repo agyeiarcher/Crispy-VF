@@ -1,9 +1,20 @@
 import ufoProcessor, os, fontmake, subprocess
 from fontmake import font_project
 
-parametricDesignSpacePath = "../designspaces/SOURCE PARAMETRIC MASTERS/CRISPY-PARAMETRIC AXES.designspace"
+parametricDesignSpacePath = "../designspaces/SOURCE PARAMETRIC MASTERS/CRISPY-PARAMETRIC AXES-mutedaxes.designspace"
 mastersDesignSpacePath = "../designspaces/SOURCE PARAMETRIC MASTERS/Crispy[wdth,wght].designspace"
-mastersFolderPath = "../designspaces/SOURCE PARAMETRIC MASTERS/instances/"
+
+primary_mastersFolderPath = "../designspaces/SOURCE PARAMETRIC MASTERS/instances/"
+primary_xopqParametricsPath = "../designspaces/SOURCE PARAMETRIC MASTERS/instances/minXOPQ/"
+primary_xtraParametricsPath = "../designspaces/SOURCE PARAMETRIC MASTERS/instances/minXTRA/"
+primary_yopqParametricsPath = "../designspaces/SOURCE PARAMETRIC MASTERS/instances/minYOPQ/"
+
+sub_mastersFolderPath = "../designspaces/SOURCE PARAMETRIC MASTERS/duplicateinstances/"
+sub_xopqParametricsPath = "../designspaces/SOURCE PARAMETRIC MASTERS/duplicateinstances/minXOPQ/"
+sub_xtraParametricsPath = "../designspaces/SOURCE PARAMETRIC MASTERS/duplicateinstances/minXTRA/"
+sub_yopqParametricsPath = "../designspaces/SOURCE PARAMETRIC MASTERS/duplicateinstances/minYOPQ/"
+
+
 defaultsFolderPath = "../designspaces/WEIGHTWIDTHGRADE/Defaults/"
 variableFontFolderPath = "../../font/variable_ttf/"
 buildScript = '/Users/aamacbook/Work\ Interim/Crispy-VF/build.sh'
@@ -21,7 +32,7 @@ def listFonts(path):
 def generateMasters(designSpacePath):
     ufoProcessor.build(designSpacePath, useVarlib=True, roundGeometry=True)
     print("Instance builds completed")
-    return listFonts(mastersFolderPath)
+    return listFonts(primary_mastersFolderPath)
 
 def separatemasters(path, maxVal, minVal):
     fontList = os.listdir(path)
@@ -88,12 +99,10 @@ def matchWidths(folderPath):
                 minMaster[glyph].rightMargin+=int(widthDiff/2)
                 if minMaster[glyph].width > maxMaster[glyph].width:
                      minMaster[glyph].rightMargin += -1
-                     minMaster[glyph].changed()
                 if maxMaster[glyph].width > minMaster[glyph].width:
                      maxMaster[glyph].rightMargin += -1
-                     minMaster[glyph].changed()
-                print(f"Min Master ---> {minMaster.info.styleName} left margin: {minMaster[glyph].leftMargin} | right margin: {minMaster[glyph].rightMargin} | width: {minMaster[glyph].width}")
-                print(f"Max Master ---> {maxMaster.info.styleName} left margin: {maxMaster[glyph].leftMargin} | right margin: {maxMaster[glyph].rightMargin} | width: {maxMaster[glyph].width}")
+                # print(f"Min Master ---> {minMaster.info.styleName} left margin: {minMaster[glyph].leftMargin} | right margin: {minMaster[glyph].rightMargin} | width: {minMaster[glyph].width}")
+                # print(f"Max Master ---> {maxMaster.info.styleName} left margin: {maxMaster[glyph].leftMargin} | right margin: {maxMaster[glyph].rightMargin} | width: {maxMaster[glyph].width}")
         maxMaster.save(folderPath + maxMaster.info.familyName + " " + maxMaster.info.styleName + ".ufo")
         minMaster.save(folderPath + minMaster.info.familyName + " " + minMaster.info.styleName + ".ufo")
        
@@ -102,7 +111,8 @@ def bash_command(cmd):
     
 # MAKE GRADED MASTERS
 generateMasters(parametricDesignSpacePath)
-matchWidths(mastersFolderPath)
+# matchWidths(mastersFolderPath)
+# matchWidths(yopqParametricsPath)
 # setUnicodes(mastersFolderPath)
 # generateMasters(mastersDesignSpacePath) #this is just so there are some static font files for reference in the instances
-finalFont.build_variable_font(mastersDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=None, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)
+# finalFont.build_variable_font(mastersDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=None, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)

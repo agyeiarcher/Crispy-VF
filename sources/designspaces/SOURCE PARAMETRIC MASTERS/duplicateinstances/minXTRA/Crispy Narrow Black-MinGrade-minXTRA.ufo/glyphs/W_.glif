@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="W" format="2">
+  <advance width="961"/>
+  <unicode hex="0057"/>
+  <outline>
+    <contour>
+      <point x="296" y="1600" type="line" identifier="0Dn4Xpf57M"/>
+      <point x="257" y="58" type="line"/>
+      <point x="270" y="58" type="line"/>
+      <point x="207" y="1600" type="line"/>
+      <point x="3" y="1587" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="450" y="0" type="line"/>
+      <point x="478" y="1451" type="line"/>
+      <point x="480" y="1451" type="line" identifier="9aKZPM0HPh"/>
+      <point x="511" y="0" type="line"/>
+      <point x="890" y="0" type="line"/>
+      <point x="958" y="1587" type="line"/>
+      <point x="754" y="1600" type="line"/>
+      <point x="685" y="58" type="line"/>
+      <point x="703" y="58" type="line"/>
+      <point x="662" y="1600" type="line" identifier="spdoeeCFft"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 11:47:40 +0000</string>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>JvYTBAOPZP</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>l7kU354nQi</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>lwgAcRFjz3</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>tG1gTEtDdI</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>vmHDiIUK3k</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>vyhN9GCvPW</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

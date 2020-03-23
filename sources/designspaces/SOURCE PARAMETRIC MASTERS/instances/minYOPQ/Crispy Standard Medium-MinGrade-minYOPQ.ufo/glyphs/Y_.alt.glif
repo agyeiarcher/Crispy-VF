@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y.alt" format="2">
+  <advance width="2632"/>
+  <outline>
+    <contour>
+      <point x="541" y="0" type="line" smooth="yes"/>
+      <point x="2091" y="0" type="line" smooth="yes"/>
+      <point x="2553" y="1570" type="line" smooth="yes"/>
+      <point x="2210" y="1616" type="line" smooth="yes"/>
+      <point x="1749" y="2" type="line"/>
+      <point x="874" y="2" type="line" smooth="yes"/>
+      <point x="412" y="1616" type="line"/>
+      <point x="79" y="1570" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1777" y="127" type="line"/>
+      <point x="1634" y="-399" type="line"/>
+      <point x="1940" y="-483" type="line"/>
+      <point x="2112" y="106" type="line"/>
+    </contour>
+  </outline>
+</glyph>
