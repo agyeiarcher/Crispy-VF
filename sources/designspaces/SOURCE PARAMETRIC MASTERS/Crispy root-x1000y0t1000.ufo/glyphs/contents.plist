@@ -40,8 +40,6 @@
     <string>A_tilde.glif</string>
     <key>B</key>
     <string>B_.glif</string>
-    <key>B.skinnymiddle</key>
-    <string>B_.skinnymiddle.glif</string>
     <key>C</key>
     <string>C_.glif</string>
     <key>C.wide</key>
@@ -62,8 +60,6 @@
     <string>E_.glif</string>
     <key>E.wide</key>
     <string>E_.wide.glif</string>
-    <key>E.wideskinny</key>
-    <string>E_.wideskinny.glif</string>
     <key>Eacute</key>
     <string>E_acute.glif</string>
     <key>Ecedillabreve</key>
@@ -88,8 +84,6 @@
     <string>G_.glif</string>
     <key>G.wide</key>
     <string>G_.wide.glif</string>
-    <key>G.wideskinny</key>
-    <string>G_.wideskinny.glif</string>
     <key>Gmacron</key>
     <string>G_macron.glif</string>
     <key>H</key>
@@ -100,8 +94,6 @@
     <string>H_dotbelow.glif</string>
     <key>I</key>
     <string>I_.glif</string>
-    <key>I.narrow</key>
-    <string>I_.narrow.glif</string>
     <key>Iacute</key>
     <string>I_acute.glif</string>
     <key>Icircumflex</key>
@@ -126,16 +118,10 @@
     <string>L_linebelow.glif</string>
     <key>M</key>
     <string>M_.glif</string>
-    <key>M.narrow</key>
-    <string>M_.narrow.glif</string>
     <key>Mdotbelow</key>
     <string>M_dotbelow.glif</string>
     <key>N</key>
     <string>N_.glif</string>
-    <key>N.narrow</key>
-    <string>N_.narrow.glif</string>
-    <key>N.wide</key>
-    <string>N_.wide.glif</string>
     <key>NULL</key>
     <string>N_U_L_L_.glif</string>
     <key>Ndotaccent</key>
@@ -174,14 +160,10 @@
     <string>O_tildedieresis.glif</string>
     <key>P</key>
     <string>P_.glif</string>
-    <key>P.wide</key>
-    <string>P_.wide.glif</string>
     <key>Q</key>
     <string>Q_.glif</string>
     <key>R</key>
     <string>R_.glif</string>
-    <key>R.wide</key>
-    <string>R_.wide.glif</string>
     <key>Rdotbelow</key>
     <string>R_dotbelow.glif</string>
     <key>Rlinebelow</key>
@@ -190,8 +172,6 @@
     <string>S_.glif</string>
     <key>S.wide</key>
     <string>S_.wide.glif</string>
-    <key>S.wideskinny</key>
-    <string>S_.wideskinny.glif</string>
     <key>Sacutedotaccent</key>
     <string>S_acutedotaccent.glif</string>
     <key>Scarondotaccent</key>
@@ -212,8 +192,6 @@
     <string>T_linebelow.glif</string>
     <key>U</key>
     <string>U_.glif</string>
-    <key>U.alt</key>
-    <string>U_.alt.glif</string>
     <key>Uacute</key>
     <string>U_acute.glif</string>
     <key>Ucircumflex</key>
@@ -230,16 +208,14 @@
     <string>V_.glif</string>
     <key>W</key>
     <string>W_.glif</string>
-    <key>W.narrow</key>
-    <string>W_.narrow.glif</string>
     <key>X</key>
     <string>X_.glif</string>
     <key>Y</key>
     <string>Y_.glif</string>
+    <key>Y.alt</key>
+    <string>Y_.alt.glif</string>
     <key>Y.wide</key>
     <string>Y_.wide.glif</string>
-    <key>Y.wideskinny</key>
-    <string>Y_.wideskinny.glif</string>
     <key>Yacute</key>
     <string>Y_acute.glif</string>
     <key>Ydotaccent</key>
@@ -362,8 +338,6 @@
     <string>eight.dnom.glif</string>
     <key>eight.numr</key>
     <string>eight.numr.glif</string>
-    <key>eight.skinnymiddle</key>
-    <string>eight.skinnymiddle.glif</string>
     <key>eight.subs</key>
     <string>eight.subs.glif</string>
     <key>eightinferior</key>
@@ -412,8 +386,6 @@
     <string>five.subs.glif</string>
     <key>five.wide</key>
     <string>five.wide.glif</string>
-    <key>five.wideskinny</key>
-    <string>five.wideskinny.glif</string>
     <key>fiveinferior</key>
     <string>fiveinferior.glif</string>
     <key>fivesuperior</key>
@@ -572,8 +544,6 @@
     <string>one.glif</string>
     <key>one.dnom</key>
     <string>one.dnom.glif</string>
-    <key>one.narrow</key>
-    <string>one.narrow.glif</string>
     <key>one.numr</key>
     <string>one.numr.glif</string>
     <key>one.subs</key>
@@ -686,8 +656,6 @@
     <string>semicolon.glif</string>
     <key>seven</key>
     <string>seven.glif</string>
-    <key>seven.alt</key>
-    <string>seven.alt.glif</string>
     <key>seven.dnom</key>
     <string>seven.dnom.glif</string>
     <key>seven.numr</key>
@@ -762,8 +730,6 @@
     <string>two.subs.glif</string>
     <key>two.wide</key>
     <string>two.wide.glif</string>
-    <key>two.wideskinny</key>
-    <string>two.wideskinny.glif</string>
     <key>twoinferior</key>
     <string>twoinferior.glif</string>
     <key>twosuperior</key>

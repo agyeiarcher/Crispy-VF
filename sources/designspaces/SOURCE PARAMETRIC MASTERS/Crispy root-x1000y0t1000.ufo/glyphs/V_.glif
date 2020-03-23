@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="V" format="2">
-  <advance width="5216"/>
+  <advance width="4528"/>
   <unicode hex="0056"/>
+  <anchor x="3660" y="1667" identifier="QaYCNv4kbn"/>
+  <anchor x="4637" y="1484" identifier="bKsJFeAmDP"/>
   <outline>
     <contour>
-      <point x="280" y="0" type="line" smooth="yes" identifier="v8mYloy7Gu"/>
-      <point x="280" y="1600" type="line" smooth="yes" identifier="eQnUhxJAi8"/>
-      <point x="1296" y="1600" type="line" smooth="yes" identifier="sHbJc0ABCr"/>
-      <point x="1296" y="2" type="line" identifier="rl1GTsia1n"/>
-      <point x="3610" y="2" type="line" identifier="UzF1yMyYbs"/>
-      <point x="4041" y="454" type="line"/>
-      <point x="4041" y="1600" type="line"/>
-      <point x="5056" y="1600" type="line"/>
-      <point x="5056" y="494" type="line"/>
-      <point x="4561" y="0" type="line" smooth="yes" identifier="TtJBDxLtac"/>
+      <point x="648" y="0" type="line" smooth="yes" identifier="TtJBDxLtac"/>
+      <point x="3880" y="0" type="line" smooth="yes" identifier="v8mYloy7Gu"/>
+      <point x="4598" y="1485" type="line" smooth="yes" identifier="eQnUhxJAi8"/>
+      <point x="3656" y="1667" type="line" smooth="yes" identifier="sHbJc0ABCr"/>
+      <point x="2858" y="2" type="line" identifier="rl1GTsia1n"/>
+      <point x="1615" y="2" type="line" identifier="UzF1yMyYbs"/>
+      <point x="817" y="1667" type="line"/>
+      <point x="-70" y="1484" type="line"/>
     </contour>
   </outline>
   <lib>

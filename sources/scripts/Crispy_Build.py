@@ -2,16 +2,15 @@ import ufoProcessor, os, fontmake, subprocess
 from fontmake import font_project
 
 parametricDesignSpacePath = "../designspaces/SOURCE PARAMETRIC MASTERS/CRISPY-PARAMETRIC AXES.designspace"
-mastersDesignSpacePath = "../designspaces/WEIGHTWIDTH/Crispy[wdth,wght].designspace"
-mastersFolderPath = "../designspaces/WEIGHTWIDTH/"
+mastersDesignSpacePath = "../designspaces/SOURCE PARAMETRIC MASTERS/Crispy[wdth,wght].designspace"
+mastersFolderPath = "../designspaces/SOURCE PARAMETRIC MASTERS/instances/"
 defaultsFolderPath = "../designspaces/WEIGHTWIDTHGRADE/Defaults/"
 variableFontFolderPath = "../../font/variable_ttf/"
 buildScript = '/Users/aamacbook/Work\ Interim/Crispy-VF/build.sh'
-baseStyles = ['Wide Thin', 'Wide Black', 'Cond Thin', 'Cond Black']
+baseStyles = ['Wide Thin', 'Wide Medium', 'Wide Black', 'Standard Thin', 'Standard Medium', 'Standard Black', 'Narrow Thin', 'Narrow Medium', 'Narrow Black']
 maxFonts = []
 minFonts = []
 allTheFonts = []
-print(help(fontmake))
 finalFont = fontmake.font_project.FontProject()
 
 def listFonts(path):
@@ -77,6 +76,7 @@ def setUnicodes(folderPath):
 def matchWidths(folderPath):
     for style in baseStyles:
         thisPair = (makePairs(folderPath, style, "MaxGrade", "MinGrade"))
+        print(thisPair)
         maxMaster = OpenFont(thisPair[0], showInterface = False)
         minMaster = OpenFont(thisPair[1], showInterface = False)
         for glyph in maxMaster.keys():
@@ -88,19 +88,21 @@ def matchWidths(folderPath):
                 minMaster[glyph].rightMargin+=int(widthDiff/2)
                 if minMaster[glyph].width > maxMaster[glyph].width:
                      minMaster[glyph].rightMargin += -1
+                     minMaster[glyph].changed()
                 if maxMaster[glyph].width > minMaster[glyph].width:
                      maxMaster[glyph].rightMargin += -1
+                     minMaster[glyph].changed()
+                print(f"Min Master ---> {minMaster.info.styleName} left margin: {minMaster[glyph].leftMargin} | right margin: {minMaster[glyph].rightMargin} | width: {minMaster[glyph].width}")
+                print(f"Max Master ---> {maxMaster.info.styleName} left margin: {maxMaster[glyph].leftMargin} | right margin: {maxMaster[glyph].rightMargin} | width: {maxMaster[glyph].width}")
         maxMaster.save(folderPath + maxMaster.info.familyName + " " + maxMaster.info.styleName + ".ufo")
         minMaster.save(folderPath + minMaster.info.familyName + " " + minMaster.info.styleName + ".ufo")
-            # print(f"Min Master ---> left margin: {minMaster[glyph].leftMargin} | right margin: {minMaster[glyph].rightMargin} | width: {minMaster[glyph].width}")
-            # print(f"Max Master ---> left margin: {maxMaster[glyph].leftMargin} | right margin: {maxMaster[glyph].rightMargin} | width: {maxMaster[glyph].width}")
-
+       
 def bash_command(cmd):
     subprocess.Popen(cmd, shell=True, executable='/bin/bash')
     
 # MAKE GRADED MASTERS
 generateMasters(parametricDesignSpacePath)
-# matchWidths(mastersFolderPath)
+matchWidths(mastersFolderPath)
 # setUnicodes(mastersFolderPath)
 # generateMasters(mastersDesignSpacePath) #this is just so there are some static font files for reference in the instances
 finalFont.build_variable_font(mastersDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=None, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)

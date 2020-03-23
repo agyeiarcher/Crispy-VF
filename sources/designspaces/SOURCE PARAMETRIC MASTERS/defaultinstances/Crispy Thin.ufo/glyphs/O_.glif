@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="O" format="2">
+  <advance width="2586"/>
+  <unicode hex="004F"/>
+  <outline>
+    <contour>
+      <point x="2302" y="342" type="line" identifier="ob8US3C311"/>
+      <point x="2302" y="1600" type="line" identifier="c9brEFyXXA"/>
+      <point x="573" y="1600" type="line" identifier="a4Ql951bxG"/>
+      <point x="284" y="1254" type="line" identifier="kbL68Qh2zr"/>
+      <point x="284" y="0" type="line" identifier="U6WibAQAUl"/>
+      <point x="2014" y="0" type="line" identifier="dfgNHTgBfR"/>
+    </contour>
+    <contour>
+      <point x="2296" y="344" type="line" identifier="SnrsQD5TLy"/>
+      <point x="2009" y="6" type="line" identifier="jjd5iRDXWT"/>
+      <point x="291" y="6" type="line" identifier="YbQKHpAtYn"/>
+      <point x="291" y="1252" type="line" identifier="vdfGLkskOQ"/>
+      <point x="578" y="1594" type="line" identifier="qXlVxK5ShE"/>
+      <point x="2296" y="1594" type="line" identifier="g70r2r6DwY"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-08-12 16:07:16 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>SnrsQD5TLy</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>c9brEFyXXA</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>dfgNHTgBfR</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>g70r2r6DwY</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>jjd5iRDXWT</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>ob8US3C311</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

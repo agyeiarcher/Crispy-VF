@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <advance width="4674"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="607.9348217085955" y="0.0" type="line" identifier="IF8msvcgce"/>
+      <point x="3736.0930249568887" y="0.0" type="line" identifier="ydeACnPZN4"/>
+      <point x="4209.20080741402" y="575.9341774206639" type="line" identifier="wIy2omw5Da"/>
+      <point x="4209.20080741402" y="1600.0" type="line" identifier="gh4oopoKIn"/>
+      <point x="607.9348217085955" y="1600.0" type="line" identifier="hTYdJwlqIh"/>
+    </contour>
+    <contour>
+      <point x="616.9806653500348" y="7.042745448150854" type="line" identifier="YShvMHvurg"/>
+      <point x="616.9806653500348" y="1592.948696444192" type="line" identifier="OGdfzPVlic"/>
+      <point x="4200.155314473633" y="1592.948696444192" type="line" identifier="4w8cXO1HlF"/>
+      <point x="4200.155314473633" y="579.0320751181613" type="line" identifier="5OFemp6E2Y"/>
+      <point x="3730.322319316314" y="7.042745448150854" type="line" identifier="DiLdvAK6bW"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>DhFNkdKcfj</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>yunTqSzRcA</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

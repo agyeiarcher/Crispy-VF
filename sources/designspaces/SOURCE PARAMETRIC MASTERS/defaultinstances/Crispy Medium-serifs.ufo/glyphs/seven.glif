@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven" format="2">
+  <advance width="2811"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="1188" y="0" type="line"/>
+      <point x="1565" y="0" type="line" identifier="PiPrv7Kcoy"/>
+      <point x="2682" y="1169" type="line" identifier="PkvwNC9Tx1"/>
+      <point x="2682" y="1600" type="line" identifier="tgqM27bPOm"/>
+      <point x="215" y="1600" type="line" identifier="36ml4xRICt"/>
+      <point x="215" y="969" type="line" identifier="aaDZsh5Mah"/>
+      <point x="573" y="969" type="line"/>
+      <point x="573" y="1342" type="line"/>
+      <point x="2268" y="1342" type="line"/>
+      <point x="2268" y="1189" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 04:57:05 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>36ml4xRICt</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>PiPrv7Kcoy</key>
+        <array>
+          <string>rigtside</string>
+        </array>
+        <key>PkvwNC9Tx1</key>
+        <array>
+          <string>rigtside</string>
+        </array>
+        <key>aaDZsh5Mah</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>tgqM27bPOm</key>
+        <array>
+          <string>rigtside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

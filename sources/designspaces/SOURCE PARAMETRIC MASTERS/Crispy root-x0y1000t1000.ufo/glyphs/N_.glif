@@ -1,21 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N" format="2">
-  <advance width="4802"/>
+  <advance width="4603"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="590" y="0" type="line" identifier="CkwYPPvJLv"/>
-      <point x="592" y="0" type="line" identifier="oHTJsN7drZ"/>
-      <point x="592" y="1032" type="line" identifier="wfBbYd10Pm"/>
-      <point x="1011" y="1032" type="line" identifier="MEnBDHq6zU"/>
-      <point x="3787" y="0" type="line" identifier="3Nbopwznvn"/>
-      <point x="4212" y="0" type="line" identifier="uKfuudIUvA"/>
-      <point x="4212" y="1600" type="line" identifier="XRdLFXiM4t"/>
-      <point x="4210" y="1600" type="line" identifier="MUSJPjCIXg"/>
-      <point x="4210" y="568" type="line" identifier="VILP20cFmq"/>
-      <point x="3887" y="568" type="line" identifier="z5b04GDwRN"/>
-      <point x="1011" y="1600" type="line" identifier="LL64NQ6WBE"/>
-      <point x="590" y="1600" type="line" identifier="dzUaaP1sjt"/>
+      <point x="3903" y="0" type="line"/>
+      <point x="3903" y="1600" type="line"/>
+      <point x="3901" y="1600" type="line"/>
+      <point x="3901" y="782" type="line"/>
+      <point x="3680" y="782" type="line"/>
+      <point x="1023" y="1600" type="line"/>
+      <point x="700" y="1600" type="line"/>
+      <point x="700" y="0" type="line"/>
+      <point x="702" y="0" type="line"/>
+      <point x="702" y="1007" type="line"/>
+      <point x="1025" y="1007" type="line"/>
+      <point x="3901" y="180" type="line"/>
+      <point x="3901" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

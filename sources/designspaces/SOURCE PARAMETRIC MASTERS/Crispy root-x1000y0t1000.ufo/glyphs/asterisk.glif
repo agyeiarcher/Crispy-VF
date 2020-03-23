@@ -1,8 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="asterisk" format="2">
-  <advance width="480"/>
+  <advance width="1049"/>
   <unicode hex="002A"/>
   <outline>
+    <contour>
+      <point x="241" y="771" type="line"/>
+      <point x="519" y="1191" type="line"/>
+      <point x="807" y="765" type="line"/>
+      <point x="1049" y="888" type="line"/>
+      <point x="850" y="1201" type="line"/>
+      <point x="1023" y="1201" type="line"/>
+      <point x="1024" y="1203" type="line"/>
+      <point x="849" y="1203" type="line"/>
+      <point x="849" y="1600" type="line"/>
+      <point x="181" y="1600" type="line"/>
+      <point x="181" y="1203" type="line"/>
+      <point x="14" y="1203" type="line"/>
+      <point x="15" y="1201" type="line"/>
+      <point x="179" y="1201" type="line"/>
+      <point x="0" y="889" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>

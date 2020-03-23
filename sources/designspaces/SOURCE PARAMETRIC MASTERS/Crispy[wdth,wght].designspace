@@ -1,0 +1,205 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="weight" minimum="1" maximum="1000" default="500">
+      <labelname xml:lang="en">-</labelname>
+    </axis>
+    <axis tag="wdth" name="width" minimum="1" maximum="200" default="100">
+      <labelname xml:lang="en">-</labelname>
+    </axis>
+    <axis tag="GRAD" name="Grade" minimum="-10" maximum="10" default="10">
+      <labelname xml:lang="en">Grade</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="instances/Crispy Standard Black-MaxGrade.ufo" familyname="Crispy" stylename="Standard Black-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Standard Black-MinGrade.ufo" familyname="Crispy" stylename="Standard Black-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Standard Medium-MaxGrade.ufo" familyname="Crispy" stylename="Standard Medium-MaxGrade">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Standard Medium-MinGrade.ufo" familyname="Crispy" stylename="Standard Medium-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Narrow Black-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Black-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Narrow Black-MinGrade.ufo" familyname="Crispy" stylename="Narrow Black-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Narrow Medium-MinGrade.ufo" familyname="Crispy" stylename="Narrow Medium-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Narrow Thin-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Thin-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Narrow Thin-MinGrade.ufo" familyname="Crispy" stylename="Narrow Thin-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="-10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Standard Thin-MaxGrade.ufo" familyname="Crispy" stylename="Standard Thin-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Standard Thin-MinGrade.ufo" familyname="Crispy" stylename="Standard Thin-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="-10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Wide Black-MaxGrade.ufo" familyname="Crispy" stylename="Wide Black-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Wide Black-MinGrade.ufo" familyname="Crispy" stylename="Wide Black-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Wide Medium-MaxGrade.ufo" familyname="Crispy" stylename="Wide Medium-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Wide Medium-MinGrade.ufo" familyname="Crispy" stylename="Wide Medium-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Wide Thin-MaxGrade.ufo" familyname="Crispy" stylename="Wide Thin-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Wide Thin-MinGrade.ufo" familyname="Crispy" stylename="Wide Thin-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="200"/>
+        <dimension name="Grade" xvalue="-10"/>
+      </location>
+    </source>
+    <source filename="instances/Crispy Narrow Medium-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Medium-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="1"/>
+        <dimension name="Grade" xvalue="10"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Crispy" stylename="Thin" filename="defaultinstances/Crispy Thin-serifs.ufo">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Medium" filename="defaultinstances/Crispy Medium-serifs.ufo">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Black" filename="defaultinstances/Crispy Black-serifs.ufo">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="Grade" xvalue="0"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>horizontal</key>
+        <array>
+          <string>width</string>
+        </array>
+        <key>ignore</key>
+        <array>
+          <string>weight</string>
+        </array>
+        <key>vertical</key>
+        <array/>
+      </dict>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>grade</key>
+        <real>10.0</real>
+        <key>weight</key>
+        <real>1000.0</real>
+        <key>width</key>
+        <real>200.0</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>HENNY UVULA</string>
+    </dict>
+  </lib>
+</designspace>
