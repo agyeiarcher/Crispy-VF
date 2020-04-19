@@ -19,7 +19,7 @@
     <axis tag="YOPQ" name="yOPQ" minimum="1" maximum="100" default="100">
       <labelname xml:lang="en">YOPQ</labelname>
     </axis>
-    <axis tag="SRIF" name="Serif" minimum="0" maximum="1" default="1">
+    <axis tag="SRIF" name="Serif" minimum="-1" maximum="1" default="1">
       <labelname xml:lang="en">Serif</labelname>
     </axis>
   </axes>
@@ -32,7 +32,7 @@
         <condition name="xOPQ" minimum="1" maximum="100"/>
         <condition name="xTRA" minimum="1" maximum="100"/>
         <condition name="yOPQ" minimum="1" maximum="100"/>
-        <condition name="Serif" minimum="0" maximum="0"/>
+        <condition name="Serif" minimum="-1" maximum="0"/>
       </conditionset>
       <sub name="E" with="E.wide"/>
       <sub name="F" with="F.wide"/>
