@@ -1,8 +1,8 @@
 import ufoProcessor, os, fontmake, subprocess
 from fontmake import font_project
 
-parametricDesignSpacePath = "../designspaces/SOURCE PARAMETRIC MASTERS/CRISPY-PARAMETRIC AXES-mutedaxes.designspace"
-mastersDesignSpacePath = "../designspaces/SOURCE PARAMETRIC MASTERS/Crispy[wdth,wght].designspace"
+parametricDesignSpacePath = "../designspaces/SOURCE PARAMETRIC MASTERS/CRISPY-PARAMETRIC AXES.designspace"
+mastersDesignSpacePath = "../designspaces/WEIGHTWIDTHSERIF/Crispy[SRIF,wdth,wght].designspace"
 
 primary_mastersFolderPath = "../designspaces/SOURCE PARAMETRIC MASTERS/instances/"
 primary_xopqParametricsPath = "../designspaces/SOURCE PARAMETRIC MASTERS/instances/minXOPQ/"
@@ -31,8 +31,8 @@ def listFonts(path):
                 
 def generateMasters(designSpacePath):
     ufoProcessor.build(designSpacePath, useVarlib=True, roundGeometry=True)
-    print("Instance builds completed")
-    return listFonts(primary_mastersFolderPath)
+    # print("Instance builds completed")
+    # return listFonts(primary_mastersFolderPath)
 
 def separatemasters(path, maxVal, minVal):
     fontList = os.listdir(path)
@@ -115,4 +115,4 @@ generateMasters(parametricDesignSpacePath)
 # matchWidths(yopqParametricsPath)
 # setUnicodes(mastersFolderPath)
 # generateMasters(mastersDesignSpacePath) #this is just so there are some static font files for reference in the instances
-# finalFont.build_variable_font(mastersDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=None, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)
+finalFont.build_variable_font(mastersDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=None, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)

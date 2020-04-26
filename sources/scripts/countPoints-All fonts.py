@@ -16,7 +16,7 @@ def getReport(fontsList):
                 for contour in glyph:
                     for p in contour.points:
                         i+=1 #add 1 to i every time you encounter a point, done for each counter in the specified glyph
-        report+= f"{glyph.name} in {fonts.info.styleName} has {i} points \n"
+                report+= f"{glyph.name} in {fonts.info.styleName} has {i} points \n"
     return report
 
 class PointCounter(object):

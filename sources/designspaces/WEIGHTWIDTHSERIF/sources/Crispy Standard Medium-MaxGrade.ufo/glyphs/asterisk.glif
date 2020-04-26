@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asterisk" format="2">
+  <advance width="574"/>
+  <unicode hex="002A"/>
+  <outline>
+    <contour>
+      <point x="95" y="1016" type="line"/>
+      <point x="285" y="1218" type="line"/>
+      <point x="479" y="1014" type="line"/>
+      <point x="623" y="1150" type="line"/>
+      <point x="387" y="1352" type="line"/>
+      <point x="611" y="1401" type="line"/>
+      <point x="565" y="1533" type="line"/>
+      <point x="377" y="1484" type="line"/>
+      <point x="377" y="1705" type="line"/>
+      <point x="192" y="1705" type="line"/>
+      <point x="192" y="1484" type="line"/>
+      <point x="4" y="1533" type="line"/>
+      <point x="-42" y="1402" type="line"/>
+      <point x="181" y="1352" type="line"/>
+      <point x="-45" y="1152" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-07 02:43:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

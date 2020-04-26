@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Y.alt" format="2">
-  <advance width="4520"/>
+  <advance width="3767"/>
   <outline>
     <contour>
-      <point x="1206" y="0" type="line" smooth="yes" identifier="TtJBDxLtac"/>
-      <point x="3314" y="0" type="line" smooth="yes" identifier="v8mYloy7Gu"/>
-      <point x="4214" y="1599" type="line" smooth="yes" identifier="eQnUhxJAi8"/>
-      <point x="4212" y="1600" type="line" smooth="yes" identifier="sHbJc0ABCr"/>
-      <point x="3630" y="568" type="line" identifier="rl1GTsia1n"/>
-      <point x="891" y="568" type="line" identifier="UzF1yMyYbs"/>
-      <point x="308" y="1600" type="line"/>
-      <point x="306" y="1598" type="line"/>
+      <point x="749" y="476" type="line" smooth="yes"/>
+      <point x="3147" y="476" type="line" smooth="yes"/>
+      <point x="3777" y="1599" type="line" smooth="yes"/>
+      <point x="3775" y="1600" type="line" smooth="yes"/>
+      <point x="3462" y="1044" type="line"/>
+      <point x="434" y="1044" type="line"/>
+      <point x="122" y="1600" type="line"/>
+      <point x="120" y="1598" type="line"/>
     </contour>
     <contour>
-      <point x="3325" y="25" type="line"/>
-      <point x="3095" y="-398" type="line"/>
-      <point x="3097" y="-400" type="line"/>
-      <point x="3324" y="18" type="line"/>
+      <point x="3158" y="501" type="line"/>
+      <point x="2829" y="-78" type="line"/>
+      <point x="2831" y="-80" type="line"/>
+      <point x="3157" y="494" type="line"/>
     </contour>
   </outline>
 </glyph>

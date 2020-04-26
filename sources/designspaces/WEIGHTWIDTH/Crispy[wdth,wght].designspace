@@ -1,10 +1,10 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.1">
   <axes>
-    <axis tag="wght" name="weight" minimum="100" maximum="900" default="400">
+    <axis tag="wght" name="weight" minimum="1" maximum="1000" default="500">
       <labelname xml:lang="en">Weight</labelname>
     </axis>
-    <axis tag="wdth" name="width" minimum="20" maximum="900" default="100"/>
+    <axis tag="wdth" name="width" minimum="15" maximum="170" default="100"/>
   </axes>
   <rules>
     <rule name="subwidth">
@@ -55,151 +55,69 @@
     </rule>
   </rules>
   <sources>
-    <source filename="Crispy Extended Black.ufo" familyname="Crispy Extended" stylename="Black">
+    <source filename="sources/Crispy Narrow Black-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Black-MaxGrade">
       <location>
-        <dimension name="weight" xvalue="900"/>
-        <dimension name="width" xvalue="600"/>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="15"/>
       </location>
     </source>
-    <source filename="Crispy Extended Medium.ufo" familyname="Crispy Extended" stylename="Regular">
+    <source filename="sources/Crispy Narrow Medium-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Medium-MaxGrade">
       <location>
-        <dimension name="weight" xvalue="400"/>
-        <dimension name="width" xvalue="600"/>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="15"/>
       </location>
     </source>
-    <source filename="Crispy Extended Thin.ufo" familyname="Crispy Extended" stylename="Thin">
+    <source filename="sources/Crispy Narrow Thin-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Thin-MaxGrade">
       <location>
-        <dimension name="weight" xvalue="100"/>
-        <dimension name="width" xvalue="600"/>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="15"/>
       </location>
     </source>
-    <source filename="Crispy Black.ufo" familyname="Crispy" stylename="Black">
+    <source filename="sources/Crispy Standard Black-MaxGrade.ufo" familyname="Crispy" stylename="Standard Black-MaxGrade">
       <location>
-        <dimension name="weight" xvalue="900"/>
+        <dimension name="weight" xvalue="1000"/>
         <dimension name="width" xvalue="100"/>
       </location>
     </source>
-    <source filename="Crispy Medium.ufo" familyname="Crispy" stylename="Regular">
+    <source filename="sources/Crispy Standard Medium-MaxGrade.ufo" familyname="Crispy" stylename="Standard Medium-MaxGrade">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
       <info copy="1"/>
       <location>
-        <dimension name="weight" xvalue="400"/>
+        <dimension name="weight" xvalue="500"/>
         <dimension name="width" xvalue="100"/>
       </location>
     </source>
-    <source filename="Crispy Narrow Black.ufo" familyname="Crispy Narrow" stylename="Black">
+    <source filename="sources/Crispy Standard Thin-MaxGrade.ufo" familyname="Crispy" stylename="Standard Thin-MaxGrade">
       <location>
-        <dimension name="weight" xvalue="900"/>
-        <dimension name="width" xvalue="20"/>
-      </location>
-    </source>
-    <source filename="Crispy Narrow Medium.ufo" familyname="Crispy Narrow" stylename="Regular">
-      <location>
-        <dimension name="weight" xvalue="400"/>
-        <dimension name="width" xvalue="20"/>
-      </location>
-    </source>
-    <source filename="Crispy Narrow Thin.ufo" familyname="Crispy Narrow" stylename="Thin">
-      <location>
-        <dimension name="weight" xvalue="100"/>
-        <dimension name="width" xvalue="20"/>
-      </location>
-    </source>
-    <source filename="Crispy Thin.ufo" familyname="Crispy" stylename="Thin">
-      <location>
-        <dimension name="weight" xvalue="100"/>
+        <dimension name="weight" xvalue="1"/>
         <dimension name="width" xvalue="100"/>
       </location>
     </source>
-    <source filename="Crispy Wide Black.ufo" familyname="Crispy Wide" stylename="Black">
+    <source filename="sources/Crispy Wide Black-MaxGrade.ufo" familyname="Crispy" stylename="Wide Black-MaxGrade">
       <location>
-        <dimension name="weight" xvalue="900"/>
-        <dimension name="width" xvalue="900"/>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="170"/>
       </location>
     </source>
-    <source filename="Crispy Wide Medium.ufo" familyname="Crispy Wide" stylename="Regular">
+    <source filename="sources/Crispy Wide Medium-MaxGrade.ufo" familyname="Crispy" stylename="Wide Medium-MaxGrade">
       <location>
-        <dimension name="weight" xvalue="400"/>
-        <dimension name="width" xvalue="900"/>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="170"/>
       </location>
     </source>
-    <source filename="Crispy Wide Thin.ufo" familyname="Crispy Wide" stylename="Thin">
+    <source filename="sources/Crispy Wide Thin-MaxGrade.ufo" familyname="Crispy" stylename="Wide Thin-MaxGrade">
       <location>
-        <dimension name="weight" xvalue="100"/>
-        <dimension name="width" xvalue="900"/>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="170"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance familyname="Crispy" stylename="Regular" filename="instances/Crispy-Regular.ufo">
-      <location>
-        <dimension name="weight" xvalue="400"/>
-        <dimension name="width" xvalue="100"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Thin" filename="instances/Crispy-Thin.ufo">
-      <location>
-        <dimension name="weight" xvalue="100"/>
-        <dimension name="width" xvalue="100"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="ExtraLight" filename="instances/Crispy-ExtraLight.ufo">
-      <location>
-        <dimension name="weight" xvalue="200"/>
-        <dimension name="width" xvalue="100"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Light" filename="instances/Crispy-Light.ufo">
-      <location>
-        <dimension name="weight" xvalue="300"/>
-        <dimension name="width" xvalue="100"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Medium" filename="instances/Crispy-Medium.ufo">
+    <instance familyname="Crispy" stylename="Medium" filename="instances/Crispy Medium.ufo">
       <location>
         <dimension name="weight" xvalue="500"/>
-        <dimension name="width" xvalue="100"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Semibold" filename="instances/Crispy-Semibold.ufo">
-      <location>
-        <dimension name="weight" xvalue="600"/>
-        <dimension name="width" xvalue="100"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Bold" filename="instances/Crispy-Bold.ufo">
-      <location>
-        <dimension name="weight" xvalue="700"/>
-        <dimension name="width" xvalue="100"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="ExtraBold" filename="instances/Crispy-Extrabold.ufo">
-      <location>
-        <dimension name="weight" xvalue="800"/>
-        <dimension name="width" xvalue="100"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Black" filename="instances/Crispy-Black.ufo">
-      <location>
-        <dimension name="weight" xvalue="900"/>
         <dimension name="width" xvalue="100"/>
       </location>
       <kerning/>
