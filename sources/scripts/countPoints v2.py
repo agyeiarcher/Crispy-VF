@@ -22,9 +22,10 @@ for i in range(len(fontsList)):
                 for segment in contour.segments:
                     for points in segment:
                         pointCount += 1
-        for refFonts in fontslist:
-            compatible = glyph.isCompatible(refFont[glyph.name])
-            if compatible:
+            for refFonts in fontsList:
+                print(refFonts)
+                # compatible = glyph.isCompatible(refFont[glyph.name])
+                # if compatible:
                 compatibilityCounter+=1
         print(compatibilityCounter)
             
