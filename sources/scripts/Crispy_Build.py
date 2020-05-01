@@ -115,4 +115,4 @@ generateMasters(parametricDesignSpacePath)
 # matchWidths(yopqParametricsPath)
 # setUnicodes(mastersFolderPath)
 # generateMasters(mastersDesignSpacePath) #this is just so there are some static font files for reference in the instances
-finalFont.build_variable_font(mastersDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=None, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)
+# finalFont.build_variable_font(mastersDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=None, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)

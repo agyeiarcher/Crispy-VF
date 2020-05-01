@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Y.alt" format="2">
-  <advance width="2321"/>
+  <advance width="2284"/>
   <outline>
     <contour>
-      <point x="292" y="510" type="line" smooth="yes"/>
-      <point x="2061" y="510" type="line" smooth="yes"/>
-      <point x="2344" y="1563" type="line" smooth="yes"/>
-      <point x="1907" y="1620" type="line" smooth="yes"/>
-      <point x="1707" y="791" type="line"/>
-      <point x="633" y="791" type="line" smooth="yes"/>
-      <point x="434" y="1621" type="line"/>
-      <point x="6" y="1563" type="line" smooth="yes"/>
+      <point x="295" y="503" type="line" smooth="yes"/>
+      <point x="2024" y="503" type="line" smooth="yes"/>
+      <point x="2309" y="1564" type="line" smooth="yes"/>
+      <point x="1883" y="1620" type="line" smooth="yes"/>
+      <point x="1686" y="803" type="line"/>
+      <point x="620" y="803" type="line" smooth="yes"/>
+      <point x="425" y="1620" type="line"/>
+      <point x="8" y="1564" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="1674" y="673" type="line"/>
-      <point x="1478" y="-36" type="line"/>
-      <point x="1867" y="-130" type="line"/>
-      <point x="2090" y="614" type="line"/>
+      <point x="1647" y="662" type="line"/>
+      <point x="1447" y="-14" type="line"/>
+      <point x="1835" y="-90" type="line"/>
+      <point x="2051" y="604" type="line"/>
     </contour>
   </outline>
 </glyph>

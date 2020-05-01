@@ -4,24 +4,24 @@
   <unicode hex="0052"/>
   <outline>
     <contour>
-      <point x="1108" y="-40" type="line"/>
-      <point x="1867" y="186" type="line"/>
-      <point x="1573" y="700" type="line"/>
-      <point x="737" y="700" type="line"/>
+      <point x="1108.0" y="-40.0" type="line"/>
+      <point x="1851.0" y="126.0" type="line"/>
+      <point x="1573.0" y="700.0" type="line"/>
+      <point x="810.0" y="703.0" type="line"/>
     </contour>
     <contour>
-      <point x="22" y="0" type="line" identifier="EG08jqU5fb"/>
-      <point x="888" y="0" type="line" identifier="osRzIFK2Cu"/>
-      <point x="888" y="699" type="line" identifier="hIFVovVRwe"/>
-      <point x="1789" y="699" type="line"/>
-      <point x="1789" y="1600" type="line" identifier="6xW04auDFu"/>
-      <point x="22" y="1600" type="line" identifier="eETO5GBD5v"/>
+      <point x="22.0" y="0.0" type="line" identifier="EG08jqU5fb"/>
+      <point x="888.0" y="0.0" type="line" identifier="osRzIFK2Cu"/>
+      <point x="888.0" y="699.0" type="line" identifier="hIFVovVRwe"/>
+      <point x="1789.0" y="699.0" type="line"/>
+      <point x="1789.0" y="1600.0" type="line" identifier="6xW04auDFu"/>
+      <point x="22.0" y="1600.0" type="line" identifier="eETO5GBD5v"/>
     </contour>
     <contour>
-      <point x="888" y="701" type="line" identifier="PIBVN1PGv1"/>
-      <point x="888" y="1598" type="line" identifier="IZIZQr2gYJ"/>
-      <point x="923" y="1598" type="line" identifier="2c4LCF1E1R"/>
-      <point x="923" y="701" type="line" identifier="1WCnzth1GX"/>
+      <point x="888.0" y="701.0" type="line" identifier="PIBVN1PGv1"/>
+      <point x="888.0" y="1598.0" type="line" identifier="IZIZQr2gYJ"/>
+      <point x="923.0" y="1598.0" type="line" identifier="2c4LCF1E1R"/>
+      <point x="923.0" y="701.0" type="line" identifier="1WCnzth1GX"/>
     </contour>
   </outline>
   <lib>

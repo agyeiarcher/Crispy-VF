@@ -58,6 +58,20 @@
         <dimension name="xtra" xvalue="1000"/>
       </location>
     </source>
+    <source filename="Crispy root-x1000y0t1000.ufo" name="skateboard.support.Zwideblackmaxgrade" layer="Zwideblackmaxgrade">
+      <location>
+        <dimension name="xopq" xvalue="743.200000"/>
+        <dimension name="yopq" xvalue="810"/>
+        <dimension name="xtra" xvalue="420"/>
+      </location>
+    </source>
+    <source filename="Crispy root-x1000y0t1000.ufo" name="skateboard.support.Zwidemediummaxgrade" layer="Zwidemediummaxgrade">
+      <location>
+        <dimension name="xopq" xvalue="590"/>
+        <dimension name="yopq" xvalue="695"/>
+        <dimension name="xtra" xvalue="900"/>
+      </location>
+    </source>
   </sources>
   <instances>
     <instance familyname="Crispy" stylename="Narrow Thin-MaxGrade" filename="../WEIGHTWIDTHSERIF/sources/Crispy Narrow Thin-MaxGrade.ufo">
@@ -107,8 +121,8 @@
     </instance>
     <instance familyname="Crispy" stylename="Standard Medium-MaxGrade" filename="../WEIGHTWIDTHSERIF/sources/Crispy Standard Medium-MaxGrade.ufo">
       <location>
-        <dimension name="xopq" xvalue="487.200000"/>
-        <dimension name="yopq" xvalue="550"/>
+        <dimension name="xopq" xvalue="475"/>
+        <dimension name="yopq" xvalue="588"/>
         <dimension name="xtra" xvalue="450"/>
       </location>
       <kerning/>
@@ -125,7 +139,7 @@
     </instance>
     <instance familyname="Crispy" stylename="Wide Medium-MaxGrade" filename="../WEIGHTWIDTHSERIF/sources/Crispy Wide Medium-MaxGrade.ufo">
       <location>
-        <dimension name="xopq" xvalue="554"/>
+        <dimension name="xopq" xvalue="590"/>
         <dimension name="yopq" xvalue="695"/>
         <dimension name="xtra" xvalue="900"/>
       </location>
@@ -176,14 +190,14 @@
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
         <key>xopq</key>
-        <real>487.2</real>
+        <real>590.0</real>
         <key>xtra</key>
-        <real>450.0</real>
+        <real>900.0</real>
         <key>yopq</key>
-        <real>550.0</real>
+        <real>695.0</real>
       </dict>
       <key>com.letterror.skateboard.previewText</key>
-      <string>VETTING CRISP/Y.alt BRUTAL HHPHHPHHPHPHPHHSHH OOSOO</string>
+      <string>ZHU</string>
     </dict>
   </lib>
 </designspace>

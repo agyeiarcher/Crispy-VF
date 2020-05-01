@@ -1,24 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Y" format="2">
-  <advance width="2736"/>
+  <advance width="2208"/>
   <unicode hex="0059"/>
   <outline>
-    <contour>
-      <point x="355" y="0" type="line"/>
-      <point x="2343" y="0" type="line" identifier="oOtn61SmRY"/>
-      <point x="2343" y="1600" type="line" identifier="8OglXgblhr"/>
-      <point x="2335" y="1600" type="line" identifier="db0bPhBdaU"/>
-      <point x="2335" y="803" type="line" identifier="MTAeavIVWY"/>
-      <point x="375" y="803" type="line" identifier="lggLiivmLt"/>
-      <point x="361" y="1600" type="line" identifier="UPaHY3UudR"/>
-      <point x="355" y="1600" type="line" identifier="ZnCDQVdtyD"/>
-      <point x="368" y="798" type="line" identifier="uqAJBjDIOT"/>
-      <point x="2335" y="798" type="line" identifier="7JgTtdb0jg"/>
-      <point x="2335" y="5" type="line"/>
-      <point x="361" y="5" type="line"/>
-      <point x="361" y="438" type="line"/>
-      <point x="355" y="438" type="line"/>
-    </contour>
+    <component base="Y.alt"/>
   </outline>
   <lib>
     <dict>

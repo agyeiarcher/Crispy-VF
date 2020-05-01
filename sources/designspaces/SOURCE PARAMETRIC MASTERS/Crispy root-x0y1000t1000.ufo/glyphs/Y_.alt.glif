@@ -3,20 +3,20 @@
   <advance width="3767"/>
   <outline>
     <contour>
-      <point x="749" y="476" type="line" smooth="yes"/>
-      <point x="3147" y="476" type="line" smooth="yes"/>
-      <point x="3777" y="1599" type="line" smooth="yes"/>
-      <point x="3775" y="1600" type="line" smooth="yes"/>
-      <point x="3462" y="1044" type="line"/>
-      <point x="434" y="1044" type="line"/>
-      <point x="122" y="1600" type="line"/>
-      <point x="120" y="1598" type="line"/>
+      <point x="749.0" y="476.0" type="line" smooth="yes"/>
+      <point x="3147.0" y="476.0" type="line" smooth="yes"/>
+      <point x="3777.0" y="1599.0" type="line" smooth="yes"/>
+      <point x="3775.0" y="1600.0" type="line" smooth="yes"/>
+      <point x="3462.0" y="1044.0" type="line"/>
+      <point x="434.0" y="1044.0" type="line"/>
+      <point x="122.0" y="1600.0" type="line"/>
+      <point x="120.0" y="1598.0" type="line"/>
     </contour>
     <contour>
-      <point x="3158" y="501" type="line"/>
-      <point x="2829" y="-78" type="line"/>
-      <point x="2831" y="-80" type="line"/>
-      <point x="3157" y="494" type="line"/>
+      <point x="3158.0" y="501.0" type="line"/>
+      <point x="2829.0" y="-78.0" type="line"/>
+      <point x="2831.0" y="-80.0" type="line"/>
+      <point x="3157.0" y="494.0" type="line"/>
     </contour>
   </outline>
 </glyph>
