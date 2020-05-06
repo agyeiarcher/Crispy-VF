@@ -72,6 +72,13 @@
         <dimension name="xtra" xvalue="900"/>
       </location>
     </source>
+    <source filename="Crispy root-x1000y0t1000.ufo" name="skateboard.support.Zstandardmedium" layer="Zstandardmedium">
+      <location>
+        <dimension name="xopq" xvalue="475"/>
+        <dimension name="yopq" xvalue="588"/>
+        <dimension name="xtra" xvalue="450"/>
+      </location>
+    </source>
   </sources>
   <instances>
     <instance familyname="Crispy" stylename="Narrow Thin-MaxGrade" filename="../WEIGHTWIDTHSERIF/sources/Crispy Narrow Thin-MaxGrade.ufo">
@@ -190,14 +197,14 @@
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
         <key>xopq</key>
-        <real>590.0</real>
+        <real>475.0</real>
         <key>xtra</key>
-        <real>900.0</real>
+        <real>450.0</real>
         <key>yopq</key>
-        <real>695.0</real>
+        <real>588.0</real>
       </dict>
       <key>com.letterror.skateboard.previewText</key>
-      <string>ZHU</string>
+      <string>HH/? HH HHHEHH</string>
     </dict>
   </lib>
 </designspace>
