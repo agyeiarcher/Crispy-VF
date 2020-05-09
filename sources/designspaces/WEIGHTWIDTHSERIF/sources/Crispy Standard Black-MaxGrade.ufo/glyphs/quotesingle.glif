@@ -1,9 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotesingle" format="2">
-  <advance width="93"/>
+  <advance width="887"/>
   <unicode hex="0027"/>
   <outline>
-    <component base="comma" xScale="0.8862676490304119" yScale="0.8" xOffset="-405" yOffset="1275"/>
+    <contour>
+      <point x="165" y="895" type="line" identifier="1m237t4hyw"/>
+      <point x="722" y="895" type="line" identifier="S4rO5KuHiL"/>
+      <point x="775" y="1600" type="line" identifier="zfocDyDTCM"/>
+      <point x="112" y="1600" type="line" identifier="v7N4yg5XNk"/>
+    </contour>
+    <component base="comma" xScale="0.8862676490304119" yScale="0.8" xOffset="-439" yOffset="1275"/>
   </outline>
   <lib>
     <dict>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quoteleft" format="2">
-  <advance width="268"/>
+  <advance width="582"/>
   <unicode hex="2018"/>
   <outline>
     <contour>
-      <point x="205.0" y="1600.0" type="line"/>
-      <point x="203.0" y="1600.0" type="line"/>
-      <point x="63.0" y="838.0" type="line"/>
-      <point x="65.0" y="838.0" type="line"/>
+      <point x="362" y="1600" type="line"/>
+      <point x="360" y="1600" type="line"/>
+      <point x="220" y="838" type="line"/>
+      <point x="222" y="838" type="line"/>
     </contour>
   </outline>
 </glyph>

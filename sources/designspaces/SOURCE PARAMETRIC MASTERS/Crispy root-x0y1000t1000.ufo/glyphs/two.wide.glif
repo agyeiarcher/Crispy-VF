@@ -1,24 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="two.wide" format="2">
-  <advance width="4467"/>
-  <guideline x="-77.0" y="1065" angle="0" identifier="K1MY48wPKb"/>
-  <guideline x="-321.0" y="1050" angle="0" identifier="16PBpGkHkr"/>
-  <guideline x="-361.0" y="550" angle="0" identifier="NNn9aV6w2u"/>
-  <guideline x="-381.0" y="534" angle="0" identifier="hXlDGwFKKh"/>
+  <advance width="4574"/>
   <outline>
     <contour>
-      <point x="530.0" y="0.0" type="line"/>
-      <point x="3957.0" y="0.0" type="line" identifier="gv0FCpnndI"/>
-      <point x="3957.0" y="534.0" type="line"/>
-      <point x="532.0" y="534.0" type="line" identifier="iVaCX1qNyg"/>
-      <point x="532.0" y="550.0" type="line" identifier="txehcYf1Qb"/>
-      <point x="3956.0" y="550.0" type="line" identifier="JgNsFS8mOF"/>
-      <point x="3956.0" y="1600.0" type="line" identifier="LqPsxcQ396"/>
-      <point x="533.0" y="1600.0" type="line"/>
-      <point x="533.0" y="1066.0" type="line" identifier="6SWWF8hE5m"/>
-      <point x="3954.0" y="1066.0" type="line" identifier="autDcvqQ3x"/>
-      <point x="3954.0" y="1050.0" type="line" identifier="lgD2xZ4fKC"/>
-      <point x="530.0" y="1050.0" type="line" identifier="Y1sa85OIFF"/>
+      <point x="530" y="0" type="line"/>
+      <point x="4097" y="0" type="line" identifier="gv0FCpnndI"/>
+      <point x="4096" y="474" type="line"/>
+      <point x="532" y="474" type="line" identifier="iVaCX1qNyg"/>
+      <point x="532" y="525" type="line" identifier="txehcYf1Qb"/>
+      <point x="4096" y="525" type="line" identifier="JgNsFS8mOF"/>
+      <point x="4096" y="1600" type="line" identifier="LqPsxcQ396"/>
+      <point x="533" y="1600" type="line"/>
+      <point x="533" y="1126" type="line" identifier="6SWWF8hE5m"/>
+      <point x="4094" y="1126" type="line" identifier="autDcvqQ3x"/>
+      <point x="4094" y="1001" type="line" identifier="lgD2xZ4fKC"/>
+      <point x="530" y="1001" type="line" identifier="Y1sa85OIFF"/>
     </contour>
   </outline>
 </glyph>

@@ -79,6 +79,20 @@
         <dimension name="xtra" xvalue="450"/>
       </location>
     </source>
+    <source filename="Crispy root-x1000y0t1000.ufo" name="skateboard.support.Sstandardmediummaxgrade" layer="Sstandardmediummaxgrade">
+      <location>
+        <dimension name="xopq" xvalue="475"/>
+        <dimension name="yopq" xvalue="588"/>
+        <dimension name="xtra" xvalue="450"/>
+      </location>
+    </source>
+    <source filename="Crispy root-x1000y0t1000.ufo" name="skateboard.support.Swidemediummaxgrade" layer="Swidemediummaxgrade">
+      <location>
+        <dimension name="xopq" xvalue="590"/>
+        <dimension name="yopq" xvalue="695"/>
+        <dimension name="xtra" xvalue="900"/>
+      </location>
+    </source>
   </sources>
   <instances>
     <instance familyname="Crispy" stylename="Narrow Thin-MaxGrade" filename="../WEIGHTWIDTHSERIF/sources/Crispy Narrow Thin-MaxGrade.ufo">
@@ -119,7 +133,7 @@
     </instance>
     <instance familyname="Crispy" stylename="Narrow Black-MaxGrade" filename="../WEIGHTWIDTHSERIF/sources/Crispy Narrow Black-MaxGrade.ufo">
       <location>
-        <dimension name="xopq" xvalue="286.200000"/>
+        <dimension name="xopq" xvalue="380"/>
         <dimension name="yopq" xvalue="470"/>
         <dimension name="xtra" xvalue="1"/>
       </location>
@@ -162,6 +176,15 @@
       <kerning/>
       <info/>
     </instance>
+    <instance familyname="Crispy" stylename="mid" filename="instances/support.ufo">
+      <location>
+        <dimension name="xopq" xvalue="410"/>
+        <dimension name="yopq" xvalue="475"/>
+        <dimension name="xtra" xvalue="450"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
   </instances>
   <lib>
     <dict>
@@ -169,16 +192,12 @@
       <string>previewVarLib</string>
       <key>com.letterror.skateboard.interactionSources</key>
       <dict>
-        <key>horizontal</key>
-        <array/>
         <key>ignore</key>
         <array>
           <string>xopq</string>
           <string>yopq</string>
           <string>xtra</string>
         </array>
-        <key>vertical</key>
-        <array/>
       </dict>
       <key>com.letterror.skateboard.interestingLocation</key>
       <array>
@@ -197,14 +216,14 @@
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
         <key>xopq</key>
-        <real>475.0</real>
+        <real>820.0</real>
         <key>xtra</key>
-        <real>450.0</real>
+        <real>900.0</real>
         <key>yopq</key>
-        <real>588.0</real>
+        <real>950.0</real>
       </dict>
       <key>com.letterror.skateboard.previewText</key>
-      <string>HH/? HH HHHEHH</string>
+      <string>H&gt;H CRISPY TESTING HASSAN</string>
     </dict>
   </lib>
 </designspace>

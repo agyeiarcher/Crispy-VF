@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="three" format="2">
-  <advance width="4527"/>
+  <advance width="4727"/>
   <unicode hex="0033"/>
   <outline>
     <contour>
-      <point x="462.0" y="0.0" type="line"/>
-      <point x="4157.0" y="0.0" type="line"/>
-      <point x="4157.0" y="992.0" type="line"/>
-      <point x="3728.0" y="992.0" type="line"/>
-      <point x="3799.0" y="1066.0" type="line"/>
-      <point x="3799.0" y="1600.0" type="line"/>
-      <point x="624.0" y="1600.0" type="line"/>
-      <point x="624.0" y="952.0" type="line"/>
-      <point x="626.0" y="952.0" type="line"/>
-      <point x="626.0" y="1076.0" type="line"/>
-      <point x="3797.0" y="1076.0" type="line"/>
-      <point x="3797.0" y="1067.0" type="line"/>
-      <point x="3725.0" y="992.0" type="line"/>
-      <point x="1432.0" y="992.0" type="line"/>
-      <point x="1432.0" y="608.0" type="line"/>
-      <point x="4155.0" y="608.0" type="line"/>
-      <point x="4155.0" y="524.0" type="line"/>
-      <point x="464.0" y="524.0" type="line"/>
-      <point x="464.0" y="648.0" type="line"/>
-      <point x="462.0" y="648.0" type="line"/>
+      <point x="562" y="0" type="line"/>
+      <point x="4227" y="0" type="line"/>
+      <point x="4227" y="992" type="line"/>
+      <point x="3798" y="992" type="line"/>
+      <point x="3869" y="1066" type="line"/>
+      <point x="3869" y="1600" type="line"/>
+      <point x="724" y="1600" type="line"/>
+      <point x="724" y="952" type="line"/>
+      <point x="726" y="952" type="line"/>
+      <point x="726" y="1076" type="line"/>
+      <point x="3867" y="1076" type="line"/>
+      <point x="3867" y="1067" type="line"/>
+      <point x="3795" y="992" type="line"/>
+      <point x="1604" y="992" type="line"/>
+      <point x="1604" y="608" type="line"/>
+      <point x="4225" y="608" type="line"/>
+      <point x="4225" y="524" type="line"/>
+      <point x="564" y="524" type="line"/>
+      <point x="564" y="648" type="line"/>
+      <point x="562" y="648" type="line"/>
     </contour>
   </outline>
   <lib>

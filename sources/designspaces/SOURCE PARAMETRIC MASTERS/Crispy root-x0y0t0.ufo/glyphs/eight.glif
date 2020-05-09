@@ -8,19 +8,18 @@
       <point x="135.0" y="753.0" type="line"/>
       <point x="135.0" y="2.0" type="line"/>
       <point x="31.0" y="2.0" type="line"/>
-      <point x="31.0" y="753.0" type="line"/>
-      <point x="67.0" y="799.0" type="line"/>
+      <point x="31.0" y="799.0" type="line"/>
     </contour>
     <contour>
       <point x="101.0" y="799.0" type="line"/>
-      <point x="101.0" y="801.0" type="line"/>
-      <point x="134.0" y="843.0" type="line"/>
+      <point x="101.0" y="799.0" type="line"/>
+      <point x="134.0" y="799.0" type="line"/>
       <point x="134.0" y="1600.0" type="line"/>
       <point x="32.0" y="1600.0" type="line"/>
       <point x="32.0" y="843.0" type="line"/>
       <point x="65.0" y="801.0" type="line"/>
-      <point x="65.0" y="799.0" type="line"/>
-      <point x="29.0" y="754.0" type="line"/>
+      <point x="65.0" y="801.0" type="line"/>
+      <point x="29.0" y="801.0" type="line"/>
       <point x="29.0" y="0.0" type="line"/>
       <point x="137.0" y="0.0" type="line"/>
       <point x="137.0" y="754.0" type="line"/>
@@ -30,8 +29,7 @@
       <point x="34.0" y="844.0" type="line"/>
       <point x="34.0" y="1598.0" type="line"/>
       <point x="132.0" y="1598.0" type="line"/>
-      <point x="132.0" y="844.0" type="line"/>
-      <point x="99.0" y="801.0" type="line"/>
+      <point x="132.0" y="801.0" type="line"/>
     </contour>
   </outline>
   <lib>
