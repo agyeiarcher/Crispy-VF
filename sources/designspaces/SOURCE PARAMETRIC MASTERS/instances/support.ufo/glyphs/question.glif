@@ -1,7 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="question" format="2">
-  <advance width="527"/>
+  <advance width="1647"/>
   <unicode hex="003F"/>
   <outline>
+    <contour>
+      <point x="389" y="452" type="line"/>
+      <point x="1552" y="687" type="line" identifier="yHYqkMd7LI"/>
+      <point x="1553" y="1599" type="line" identifier="TBAYuCfUFX"/>
+      <point x="-65" y="1599" type="line" identifier="NUrIjqOB7J"/>
+      <point x="-65" y="950" type="line" identifier="0tk7G4orz6"/>
+      <point x="318" y="950" type="line" identifier="vZkeT9KrKR"/>
+      <point x="318" y="1356" type="line" identifier="4E754ovOIe"/>
+      <point x="1170" y="1356" type="line" identifier="ZvzwyrcwpS"/>
+      <point x="1169" y="907" type="line"/>
+      <point x="323" y="734" type="line"/>
+    </contour>
+    <contour>
+      <point x="567" y="0" type="line" identifier="S4rO5KuHiL"/>
+      <point x="953" y="0" type="line" identifier="1m237t4hyw"/>
+      <point x="953" y="332" type="line"/>
+      <point x="567" y="332" type="line" identifier="zfocDyDTCM"/>
+    </contour>
   </outline>
 </glyph>

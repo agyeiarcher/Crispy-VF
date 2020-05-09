@@ -6,9 +6,9 @@
     <contour>
       <point x="2663" y="1600" type="line" identifier="c9brEFyXXA"/>
       <point x="473" y="1600" type="line" identifier="a4Ql951bxG"/>
-      <point x="169" y="1158" type="line" identifier="kbL68Qh2zr"/>
-      <point x="169" y="1" type="line" identifier="U6WibAQAUl"/>
-      <point x="2663" y="1" type="line" identifier="dfgNHTgBfR"/>
+      <point x="169" y="1159" type="line" identifier="kbL68Qh2zr"/>
+      <point x="169" y="0" type="line" identifier="U6WibAQAUl"/>
+      <point x="2663" y="0" type="line" identifier="dfgNHTgBfR"/>
     </contour>
     <contour>
       <point x="2219" y="301" type="line" identifier="jjd5iRDXWT"/>
@@ -20,8 +20,8 @@
     <contour>
       <point x="1259" y="-368" type="line"/>
       <point x="1614" y="-368" type="line"/>
-      <point x="1614" y="2" type="line"/>
-      <point x="1259" y="2" type="line"/>
+      <point x="1614" y="1" type="line"/>
+      <point x="1259" y="1" type="line"/>
     </contour>
   </outline>
   <lib>

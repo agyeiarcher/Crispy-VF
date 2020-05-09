@@ -58,39 +58,11 @@
         <dimension name="xtra" xvalue="1000"/>
       </location>
     </source>
-    <source filename="Crispy root-x1000y0t1000.ufo" name="skateboard.support.Zwideblackmaxgrade" layer="Zwideblackmaxgrade">
+    <source filename="instances/support.ufo" familyname="Crispy" stylename="support">
       <location>
-        <dimension name="xopq" xvalue="743.200000"/>
-        <dimension name="yopq" xvalue="810"/>
-        <dimension name="xtra" xvalue="420"/>
-      </location>
-    </source>
-    <source filename="Crispy root-x1000y0t1000.ufo" name="skateboard.support.Zwidemediummaxgrade" layer="Zwidemediummaxgrade">
-      <location>
-        <dimension name="xopq" xvalue="590"/>
-        <dimension name="yopq" xvalue="695"/>
-        <dimension name="xtra" xvalue="900"/>
-      </location>
-    </source>
-    <source filename="Crispy root-x1000y0t1000.ufo" name="skateboard.support.Zstandardmedium" layer="Zstandardmedium">
-      <location>
-        <dimension name="xopq" xvalue="475"/>
-        <dimension name="yopq" xvalue="588"/>
+        <dimension name="xopq" xvalue="410"/>
+        <dimension name="yopq" xvalue="475"/>
         <dimension name="xtra" xvalue="450"/>
-      </location>
-    </source>
-    <source filename="Crispy root-x1000y0t1000.ufo" name="skateboard.support.Sstandardmediummaxgrade" layer="Sstandardmediummaxgrade">
-      <location>
-        <dimension name="xopq" xvalue="475"/>
-        <dimension name="yopq" xvalue="588"/>
-        <dimension name="xtra" xvalue="450"/>
-      </location>
-    </source>
-    <source filename="Crispy root-x1000y0t1000.ufo" name="skateboard.support.Swidemediummaxgrade" layer="Swidemediummaxgrade">
-      <location>
-        <dimension name="xopq" xvalue="590"/>
-        <dimension name="yopq" xvalue="695"/>
-        <dimension name="xtra" xvalue="900"/>
       </location>
     </source>
   </sources>
@@ -176,15 +148,6 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Crispy" stylename="mid" filename="instances/support.ufo">
-      <location>
-        <dimension name="xopq" xvalue="410"/>
-        <dimension name="yopq" xvalue="475"/>
-        <dimension name="xtra" xvalue="450"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
   </instances>
   <lib>
     <dict>
@@ -192,12 +155,16 @@
       <string>previewVarLib</string>
       <key>com.letterror.skateboard.interactionSources</key>
       <dict>
+        <key>horizontal</key>
+        <array/>
         <key>ignore</key>
         <array>
           <string>xopq</string>
           <string>yopq</string>
           <string>xtra</string>
         </array>
+        <key>vertical</key>
+        <array/>
       </dict>
       <key>com.letterror.skateboard.interestingLocation</key>
       <array>
@@ -216,11 +183,11 @@
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
         <key>xopq</key>
-        <real>820.0</real>
+        <real>743.2</real>
         <key>xtra</key>
-        <real>900.0</real>
+        <real>420.0</real>
         <key>yopq</key>
-        <real>950.0</real>
+        <real>810.0</real>
       </dict>
       <key>com.letterror.skateboard.previewText</key>
       <string>H&gt;H CRISPY TESTING HASSAN</string>

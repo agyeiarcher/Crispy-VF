@@ -1,22 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nine.wide" format="2">
-  <advance width="2909"/>
+  <advance width="2766"/>
   <outline>
     <contour>
-      <point x="223" y="0" type="line" identifier="oGvEEuxnYv"/>
-      <point x="2584" y="0" type="line" identifier="xR3pEHbMJx"/>
-      <point x="2584" y="1600" type="line" identifier="uiw6aBUf4P"/>
-      <point x="222" y="1600" type="line" identifier="jtYkxiUX6G"/>
-      <point x="222" y="658" type="line" identifier="2G5L37c87I"/>
-      <point x="2140" y="658" type="line"/>
-      <point x="2140" y="291" type="line"/>
-      <point x="223" y="291" type="line"/>
+      <point x="2597" y="1600" type="line" identifier="uiw6aBUf4P"/>
+      <point x="235" y="1600" type="line" identifier="jtYkxiUX6G"/>
+      <point x="235" y="684" type="line" identifier="2G5L37c87I"/>
+      <point x="2154" y="684" type="line"/>
+      <point x="2154" y="493" type="line"/>
+      <point x="1987" y="289" type="line"/>
+      <point x="272" y="289" type="line"/>
+      <point x="272" y="0" type="line" identifier="oGvEEuxnYv"/>
+      <point x="2291" y="0" type="line" identifier="xR3pEHbMJx"/>
+      <point x="2597" y="444" type="line" identifier="KnMArb0tv8"/>
     </contour>
     <contour>
-      <point x="666" y="942" type="line"/>
-      <point x="666" y="1309" type="line"/>
-      <point x="2140" y="1309" type="line"/>
-      <point x="2140" y="942" type="line"/>
+      <point x="679" y="971" type="line"/>
+      <point x="679" y="1311" type="line"/>
+      <point x="2154" y="1311" type="line"/>
+      <point x="2154" y="971" type="line"/>
     </contour>
   </outline>
 </glyph>
