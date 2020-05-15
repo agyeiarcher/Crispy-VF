@@ -4,26 +4,26 @@
   <unicode hex="00AA"/>
   <outline>
     <contour>
-      <point x="793" y="1263" type="line" smooth="yes"/>
+      <point x="751" y="1263" type="line" smooth="yes"/>
       <point x="73" y="1263" type="line"/>
       <point x="73" y="842" type="line" smooth="yes"/>
-      <point x="245" y="842" type="line" smooth="yes"/>
-      <point x="245" y="1152" type="line" smooth="yes"/>
-      <point x="793" y="1152" type="line" smooth="yes"/>
-      <point x="793" y="842" type="line" smooth="yes"/>
+      <point x="287" y="842" type="line" smooth="yes"/>
+      <point x="287" y="1124" type="line" smooth="yes"/>
+      <point x="751" y="1124" type="line" smooth="yes"/>
+      <point x="751" y="842" type="line" smooth="yes"/>
       <point x="966" y="842" type="line" smooth="yes"/>
       <point x="966" y="1600" type="line" smooth="yes"/>
       <point x="73" y="1600" type="line" smooth="yes"/>
       <point x="73" y="1340" type="line"/>
-      <point x="245" y="1340" type="line"/>
-      <point x="245" y="1489" type="line" smooth="yes"/>
-      <point x="793" y="1489" type="line" smooth="yes"/>
+      <point x="287" y="1340" type="line"/>
+      <point x="287" y="1461" type="line" smooth="yes"/>
+      <point x="751" y="1461" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="243" y="953" type="line"/>
-      <point x="243" y="842" type="line"/>
-      <point x="793" y="842" type="line"/>
-      <point x="793" y="953" type="line"/>
+      <point x="285" y="981" type="line"/>
+      <point x="285" y="842" type="line"/>
+      <point x="751" y="842" type="line"/>
+      <point x="751" y="981" type="line"/>
     </contour>
   </outline>
 </glyph>

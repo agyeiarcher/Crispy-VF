@@ -1,9 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Y" format="2">
-  <advance width="1741"/>
+  <advance width="1611"/>
   <unicode hex="0059"/>
   <outline>
-    <component base="Y.alt"/>
+    <component base="Y.alt" xOffset="-90"/>
   </outline>
   <lib>
     <dict>

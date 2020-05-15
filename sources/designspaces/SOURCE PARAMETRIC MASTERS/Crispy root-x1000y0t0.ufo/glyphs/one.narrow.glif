@@ -1,14 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="one.narrow" format="2">
-  <advance width="1098"/>
+  <advance width="1082"/>
   <outline>
     <contour>
-      <point x="1076.0" y="0.0" type="line" identifier="5nmxQXofSG"/>
-      <point x="1076.0" y="1600.0" type="line" identifier="4rjIeWbSbx"/>
-      <point x="10.0" y="1600.0" type="line"/>
-      <point x="10.0" y="1598.0" type="line"/>
-      <point x="210.0" y="1598.0" type="line"/>
-      <point x="210.0" y="0.0" type="line"/>
+      <point x="1066" y="0" type="line" identifier="5nmxQXofSG"/>
+      <point x="1066" y="1600" type="line" identifier="4rjIeWbSbx"/>
+      <point x="0" y="1600" type="line"/>
+      <point x="0" y="1598" type="line"/>
+      <point x="200" y="1598" type="line"/>
+      <point x="200" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
