@@ -1,6 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="euro" format="2">
-  <advance width="424"/>
+  <advance width="3958"/>
   <outline>
+    <contour>
+      <point x="2645" y="669" type="line"/>
+      <point x="2645" y="671" type="line"/>
+      <point x="-60" y="671" type="line"/>
+      <point x="-60" y="669" type="line"/>
+    </contour>
+    <contour>
+      <point x="2645" y="904" type="line"/>
+      <point x="2645" y="906" type="line"/>
+      <point x="-60" y="906" type="line"/>
+      <point x="-60" y="904" type="line"/>
+    </contour>
+    <contour>
+      <point x="783" y="1600" type="line"/>
+      <point x="422" y="1230" type="line"/>
+      <point x="422" y="333" type="line"/>
+      <point x="816" y="0" type="line"/>
+      <point x="3469" y="0" type="line"/>
+      <point x="3469" y="525" type="line"/>
+      <point x="3467" y="525" type="line"/>
+      <point x="3467" y="2" type="line"/>
+      <point x="818" y="2" type="line"/>
+      <point x="424" y="333" type="line"/>
+      <point x="424" y="1230" type="line"/>
+      <point x="785" y="1598" type="line"/>
+      <point x="3468" y="1598" type="line"/>
+      <point x="3468" y="1094" type="line"/>
+      <point x="3470" y="1094" type="line"/>
+      <point x="3470" y="1600" type="line"/>
+    </contour>
   </outline>
 </glyph>

@@ -1,29 +1,29 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="S" format="2">
-  <advance width="4505"/>
+  <advance width="4472"/>
   <unicode hex="0053"/>
   <outline>
     <contour>
-      <point x="284" y="0" type="line" identifier="09VlJ0BjUX"/>
-      <point x="3759" y="0" type="line" identifier="EagWihqFM8"/>
-      <point x="4222" y="507" type="line"/>
-      <point x="4222" y="933" type="line" identifier="KfNuQA7eZe"/>
-      <point x="748" y="933" type="line" identifier="At364YZFEy"/>
-      <point x="748" y="996" type="line"/>
-      <point x="1019" y="1283" type="line"/>
-      <point x="3582" y="1283" type="line" identifier="3ZUkG35meB"/>
-      <point x="3582" y="1053" type="line" identifier="DTOJhFIl15"/>
-      <point x="4172" y="1053" type="line" identifier="9KDcrfQ5Ui"/>
-      <point x="4172" y="1600" type="line" identifier="SaF9ojRFrW"/>
-      <point x="750" y="1600" type="line"/>
-      <point x="286" y="1085" type="line"/>
-      <point x="286" y="656" type="line" identifier="3sQ8t8BZ6b"/>
-      <point x="3758" y="656" type="line" identifier="yiV6OCBLHg"/>
-      <point x="3758" y="597" type="line"/>
-      <point x="3478" y="317" type="line" identifier="9kdl9SYsn8"/>
-      <point x="874" y="317" type="line" identifier="yZDWuX8LLe"/>
-      <point x="875" y="537" type="line" identifier="jYb9001DTm"/>
-      <point x="284" y="537" type="line" identifier="ho4DrS0rdW"/>
+      <point x="295" y="0" type="line" identifier="09VlJ0BjUX"/>
+      <point x="3689" y="0" type="line" identifier="EagWihqFM8"/>
+      <point x="4178" y="507" type="line"/>
+      <point x="4178" y="959" type="line" identifier="KfNuQA7eZe"/>
+      <point x="728" y="959" type="line" identifier="At364YZFEy"/>
+      <point x="765" y="936" type="line"/>
+      <point x="1039" y="1224" type="line"/>
+      <point x="3580" y="1224" type="line" identifier="3ZUkG35meB"/>
+      <point x="3580" y="1028" type="line" identifier="DTOJhFIl15"/>
+      <point x="4130" y="1028" type="line" identifier="9KDcrfQ5Ui"/>
+      <point x="4130" y="1600" type="line" identifier="SaF9ojRFrW"/>
+      <point x="787" y="1600" type="line"/>
+      <point x="297" y="1085" type="line"/>
+      <point x="297" y="620" type="line" identifier="3sQ8t8BZ6b"/>
+      <point x="3746" y="620" type="line" identifier="yiV6OCBLHg"/>
+      <point x="3708" y="657" type="line"/>
+      <point x="3426" y="376" type="line" identifier="9kdl9SYsn8"/>
+      <point x="846" y="376" type="line" identifier="yZDWuX8LLe"/>
+      <point x="846" y="553" type="line" identifier="jYb9001DTm"/>
+      <point x="295" y="553" type="line" identifier="ho4DrS0rdW"/>
     </contour>
   </outline>
 </glyph>

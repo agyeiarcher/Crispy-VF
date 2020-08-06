@@ -1,27 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="R" format="2">
-  <advance width="4682"/>
+  <advance width="4647"/>
   <unicode hex="0052"/>
   <outline>
     <contour>
-      <point x="3700" y="-70" type="line"/>
-      <point x="4220" y="115" type="line"/>
-      <point x="3763" y="518" type="line"/>
-      <point x="3059" y="519" type="line"/>
+      <point x="3715" y="-65" type="line"/>
+      <point x="4171" y="105" type="line"/>
+      <point x="3725" y="486" type="line"/>
+      <point x="3068" y="486" type="line"/>
     </contour>
     <contour>
-      <point x="463" y="-1" type="line" identifier="EG08jqU5fb"/>
-      <point x="1053" y="-1" type="line" identifier="osRzIFK2Cu"/>
-      <point x="1053" y="510" type="line" identifier="hIFVovVRwe"/>
-      <point x="4352" y="510" type="line" identifier="Tt6D8zYZmU"/>
-      <point x="4352" y="1599" type="line" identifier="6xW04auDFu"/>
-      <point x="463" y="1599" type="line" identifier="eETO5GBD5v"/>
+      <point x="475" y="-1" type="line" identifier="EG08jqU5fb"/>
+      <point x="1025" y="-1" type="line" identifier="osRzIFK2Cu"/>
+      <point x="1025" y="477" type="line" identifier="hIFVovVRwe"/>
+      <point x="4304" y="477" type="line" identifier="Tt6D8zYZmU"/>
+      <point x="4304" y="1599" type="line" identifier="6xW04auDFu"/>
+      <point x="475" y="1599" type="line" identifier="eETO5GBD5v"/>
     </contour>
     <contour>
-      <point x="1053" y="865" type="line" identifier="PIBVN1PGv1"/>
-      <point x="1053" y="1211" type="line" identifier="IZIZQr2gYJ"/>
-      <point x="3761" y="1211" type="line" identifier="2c4LCF1E1R"/>
-      <point x="3761" y="865" type="line" identifier="1WCnzth1GX"/>
+      <point x="1025" y="863" type="line" identifier="PIBVN1PGv1"/>
+      <point x="1025" y="1211" type="line" identifier="IZIZQr2gYJ"/>
+      <point x="3753" y="1211" type="line" identifier="2c4LCF1E1R"/>
+      <point x="3753" y="863" type="line" identifier="1WCnzth1GX"/>
     </contour>
   </outline>
   <lib>

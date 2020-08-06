@@ -99,6 +99,8 @@
     <string>curve</string>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
     <integer>1</integer>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4624206096</string>
     <key>public.glyphOrder</key>
     <array>
       <string>space</string>
@@ -485,8 +487,6 @@
       <string>F.wide</string>
       <string>G.wide</string>
       <string>L.wide</string>
-      <string>N.wide</string>
-      <string>P.wide</string>
       <string>S.wide</string>
       <string>Z.wide</string>
       <string>two.wide</string>

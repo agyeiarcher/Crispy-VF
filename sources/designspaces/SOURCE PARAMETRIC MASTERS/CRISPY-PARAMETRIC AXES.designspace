@@ -7,7 +7,7 @@
     <axis tag="YOPQ" name="yopq" minimum="1" maximum="1000" default="1">
       <labelname xml:lang="en">yopq</labelname>
     </axis>
-    <axis tag="XTRA" name="xtra" minimum="1" maximum="1000" default="1">
+    <axis tag="XTRA" name="xtra" minimum="1" maximum="1000" default="20">
       <labelname xml:lang="en">xtra</labelname>
     </axis>
   </axes>
@@ -20,7 +20,7 @@
       <location>
         <dimension name="xopq" xvalue="1"/>
         <dimension name="yopq" xvalue="1"/>
-        <dimension name="xtra" xvalue="1"/>
+        <dimension name="xtra" xvalue="20"/>
       </location>
     </source>
     <source filename="Crispy root-x0y0t1000.ufo" familyname="Crispy" stylename="x0y0t1000">
@@ -34,7 +34,7 @@
       <location>
         <dimension name="xopq" xvalue="1"/>
         <dimension name="yopq" xvalue="1000"/>
-        <dimension name="xtra" xvalue="1"/>
+        <dimension name="xtra" xvalue="20"/>
       </location>
     </source>
     <source filename="Crispy root-x0y1000t1000.ufo" familyname="Crispy" stylename="x0y1000t1000">
@@ -48,7 +48,7 @@
       <location>
         <dimension name="xopq" xvalue="1000"/>
         <dimension name="yopq" xvalue="1"/>
-        <dimension name="xtra" xvalue="1"/>
+        <dimension name="xtra" xvalue="20"/>
       </location>
     </source>
     <source filename="Crispy root-x1000y0t1000.ufo" familyname="Crispy" stylename="x1000y0t1000">
@@ -58,11 +58,25 @@
         <dimension name="xtra" xvalue="1000"/>
       </location>
     </source>
-    <source filename="instances/support.ufo" familyname="Crispy" stylename="support">
+    <source filename="supports/Crispy Standard Medium.ufo" familyname="Crispy" stylename="support-standard">
       <location>
         <dimension name="xopq" xvalue="410"/>
         <dimension name="yopq" xvalue="475"/>
         <dimension name="xtra" xvalue="450"/>
+      </location>
+    </source>
+    <source filename="supports/Crispy Wide Medium.ufo" familyname="Crispy" stylename="support-wide">
+      <location>
+        <dimension name="xopq" xvalue="590"/>
+        <dimension name="yopq" xvalue="695"/>
+        <dimension name="xtra" xvalue="900"/>
+      </location>
+    </source>
+    <source filename="../WEIGHTWIDTHSERIF/sources/Crispy Narrow Medium-MaxGrade.ufo" familyname="Crispy" stylename="support-narrow">
+      <location>
+        <dimension name="xopq" xvalue="174.500000"/>
+        <dimension name="yopq" xvalue="320"/>
+        <dimension name="xtra" xvalue="1"/>
       </location>
     </source>
   </sources>
@@ -71,7 +85,7 @@
       <location>
         <dimension name="xopq" xvalue="4"/>
         <dimension name="yopq" xvalue="4"/>
-        <dimension name="xtra" xvalue="4"/>
+        <dimension name="xtra" xvalue="0"/>
       </location>
       <kerning/>
       <info/>
@@ -115,7 +129,7 @@
     <instance familyname="Crispy" stylename="Standard Medium-MaxGrade" filename="../WEIGHTWIDTHSERIF/sources/Crispy Standard Medium-MaxGrade.ufo">
       <location>
         <dimension name="xopq" xvalue="475"/>
-        <dimension name="yopq" xvalue="588"/>
+        <dimension name="yopq" xvalue="612"/>
         <dimension name="xtra" xvalue="450"/>
       </location>
       <kerning/>
@@ -132,7 +146,7 @@
     </instance>
     <instance familyname="Crispy" stylename="Wide Medium-MaxGrade" filename="../WEIGHTWIDTHSERIF/sources/Crispy Wide Medium-MaxGrade.ufo">
       <location>
-        <dimension name="xopq" xvalue="590"/>
+        <dimension name="xopq" xvalue="550"/>
         <dimension name="yopq" xvalue="695"/>
         <dimension name="xtra" xvalue="900"/>
       </location>
@@ -180,14 +194,21 @@
           <string>B.medium</string>
         </array>
       </array>
+      <key>com.letterror.skateboard.mutedSources</key>
+      <array>
+        <array>
+          <string>Crispy Wide Medium.ufo</string>
+          <string>foreground</string>
+        </array>
+      </array>
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
         <key>xopq</key>
-        <real>743.2</real>
+        <real>550.0</real>
         <key>xtra</key>
-        <real>420.0</real>
+        <real>900.0</real>
         <key>yopq</key>
-        <real>810.0</real>
+        <real>695.0</real>
       </dict>
       <key>com.letterror.skateboard.previewText</key>
       <string>H&gt;H CRISPY TESTING HASSAN</string>

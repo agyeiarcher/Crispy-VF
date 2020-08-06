@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="U" format="2">
-  <advance width="2795"/>
+  <advance width="2794"/>
   <unicode hex="0055"/>
   <outline>
     <contour>
@@ -8,8 +8,8 @@
       <point x="2533" y="0" type="line" smooth="yes"/>
       <point x="2533" y="1600" type="line" smooth="yes"/>
       <point x="2089" y="1600" type="line" smooth="yes"/>
-      <point x="2089" y="300" type="line"/>
-      <point x="705" y="300" type="line" smooth="yes"/>
+      <point x="2089" y="313" type="line"/>
+      <point x="705" y="313" type="line" smooth="yes"/>
       <point x="705" y="1600" type="line"/>
       <point x="262" y="1600" type="line" smooth="yes"/>
     </contour>
