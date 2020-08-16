@@ -3,20 +3,16 @@
   <advance width="136"/>
   <outline>
     <contour>
-      <point x="53.0" y="713.0" type="line" smooth="yes"/>
-      <point x="91.0" y="713.0" type="line" smooth="yes"/>
-      <point x="121.0" y="1599.0" type="line" smooth="yes"/>
-      <point x="119.0" y="1600.0" type="line" smooth="yes"/>
-      <point x="89.0" y="715.0" type="line"/>
-      <point x="55.0" y="715.0" type="line" smooth="yes"/>
-      <point x="17.0" y="1600.0" type="line"/>
-      <point x="15.0" y="1598.0" type="line" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="91.0" y="762.0" type="line"/>
-      <point x="69.0" y="-26.0" type="line"/>
-      <point x="71.0" y="-27.0" type="line"/>
-      <point x="93.0" y="770.0" type="line"/>
+      <point x="53" y="713" type="line" smooth="yes"/>
+      <point x="90" y="713" type="line"/>
+      <point x="69" y="-26" type="line"/>
+      <point x="71" y="-27" type="line"/>
+      <point x="121" y="1599" type="line" smooth="yes"/>
+      <point x="121" y="1600" type="line" smooth="yes"/>
+      <point x="91" y="715" type="line"/>
+      <point x="55" y="715" type="line" smooth="yes"/>
+      <point x="17" y="1600" type="line"/>
+      <point x="15" y="1598" type="line" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

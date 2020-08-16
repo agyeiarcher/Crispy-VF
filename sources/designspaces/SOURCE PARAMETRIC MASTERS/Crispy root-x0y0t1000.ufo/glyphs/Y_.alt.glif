@@ -3,20 +3,16 @@
   <advance width="3898"/>
   <outline>
     <contour>
-      <point x="587.0" y="733.0" type="line" smooth="yes" identifier="TtJBDxLtac"/>
-      <point x="3262.0" y="733.0" type="line" smooth="yes" identifier="v8mYloy7Gu"/>
-      <point x="3752.0" y="1599.0" type="line" smooth="yes" identifier="eQnUhxJAi8"/>
-      <point x="3750.0" y="1600.0" type="line" smooth="yes" identifier="sHbJc0ABCr"/>
-      <point x="3260.0" y="735.0" type="line" identifier="rl1GTsia1n"/>
-      <point x="589.0" y="735.0" type="line" identifier="UzF1yMyYbs"/>
-      <point x="90.0" y="1600.0" type="line"/>
-      <point x="88.0" y="1598.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="3273.0" y="758.0" type="line"/>
-      <point x="2784.0" y="-138.0" type="line"/>
-      <point x="2786.0" y="-140.0" type="line"/>
-      <point x="3272.0" y="751.0" type="line"/>
+      <point x="587" y="733" type="line" smooth="yes" identifier="TtJBDxLtac"/>
+      <point x="3269" y="733" type="line"/>
+      <point x="2784" y="-138" type="line"/>
+      <point x="2786" y="-140" type="line"/>
+      <point x="3752" y="1599" type="line" smooth="yes" identifier="eQnUhxJAi8"/>
+      <point x="3750" y="1600" type="line" identifier="sHbJc0ABCr"/>
+      <point x="3270" y="735" type="line" identifier="rl1GTsia1n"/>
+      <point x="589" y="735" type="line" identifier="UzF1yMyYbs"/>
+      <point x="90" y="1600" type="line"/>
+      <point x="88" y="1598" type="line"/>
     </contour>
   </outline>
 </glyph>
