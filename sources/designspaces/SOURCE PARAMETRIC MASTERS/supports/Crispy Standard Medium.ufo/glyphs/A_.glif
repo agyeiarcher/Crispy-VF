@@ -6,8 +6,8 @@
     <contour>
       <point x="64" y="23" type="line" smooth="yes"/>
       <point x="424" y="-21" type="line"/>
-      <point x="750" y="1357" type="line" smooth="yes"/>
-      <point x="1766" y="1357" type="line"/>
+      <point x="750" y="1327" type="line" smooth="yes"/>
+      <point x="1766" y="1327" type="line"/>
       <point x="2092" y="-21" type="line" smooth="yes"/>
       <point x="2461" y="22" type="line" smooth="yes"/>
       <point x="2035" y="1600" type="line" smooth="yes"/>
@@ -16,8 +16,8 @@
     <contour>
       <point x="509" y="517" type="line"/>
       <point x="2003" y="517" type="line"/>
-      <point x="1932" y="760" type="line"/>
-      <point x="580" y="760" type="line"/>
+      <point x="1932" y="790" type="line"/>
+      <point x="580" y="790" type="line"/>
     </contour>
   </outline>
   <lib>

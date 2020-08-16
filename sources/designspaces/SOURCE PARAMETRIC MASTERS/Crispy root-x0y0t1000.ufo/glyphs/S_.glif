@@ -6,87 +6,30 @@
     <contour>
       <point x="492.0" y="0.0" type="line" identifier="09VlJ0BjUX"/>
       <point x="3470.0" y="0.0" type="line" identifier="EagWihqFM8"/>
-      <point x="3966.0" y="487.0" type="line"/>
+      <point x="3966.0" y="487.0" type="line" identifier="nbP7ficpH5"/>
       <point x="3966.0" y="801.0" type="line" identifier="KfNuQA7eZe"/>
       <point x="492.0" y="801.0" type="line" identifier="At364YZFEy"/>
-      <point x="492.0" y="1105.0" type="line"/>
-      <point x="987.0" y="1598.0" type="line"/>
-      <point x="3882.0" y="1598.0" type="line" identifier="3ZUkG35meB"/>
-      <point x="3882.0" y="1160.0" type="line" identifier="DTOJhFIl15"/>
-      <point x="3884.0" y="1160.0" type="line" identifier="9KDcrfQ5Ui"/>
-      <point x="3884.0" y="1600.0" type="line" identifier="SaF9ojRFrW"/>
-      <point x="987.0" y="1600.0" type="line"/>
-      <point x="490.0" y="1105.0" type="line"/>
+      <point x="492.0" y="1105.0" type="line" identifier="it6nVGHWQw"/>
+      <point x="987.0" y="1598.0" type="line" identifier="MX2aczLyot"/>
+      <point x="3912.0" y="1598.0" type="line" identifier="3ZUkG35meB"/>
+      <point x="3912.0" y="1067.0" type="line" identifier="DTOJhFIl15"/>
+      <point x="3914.0" y="1067.0" type="line" identifier="9KDcrfQ5Ui"/>
+      <point x="3914.0" y="1600.0" type="line" identifier="SaF9ojRFrW"/>
+      <point x="987.0" y="1600.0" type="line" identifier="65YBYmkFWr"/>
+      <point x="490.0" y="1105.0" type="line" identifier="mcFhuHO49j"/>
       <point x="490.0" y="799.0" type="line" identifier="3sQ8t8BZ6b"/>
       <point x="3964.0" y="799.0" type="line" identifier="yiV6OCBLHg"/>
-      <point x="3964.0" y="487.0" type="line"/>
+      <point x="3964.0" y="487.0" type="line" identifier="9SjpFKXp0s"/>
       <point x="3470.0" y="2.0" type="line" identifier="9kdl9SYsn8"/>
       <point x="494.0" y="2.0" type="line" identifier="yZDWuX8LLe"/>
-      <point x="494.0" y="441.0" type="line" identifier="jYb9001DTm"/>
-      <point x="492.0" y="441.0" type="line" identifier="ho4DrS0rdW"/>
+      <point x="494.0" y="535.0" type="line" identifier="jYb9001DTm"/>
+      <point x="492.0" y="535.0" type="line" identifier="ho4DrS0rdW"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.pointLabels</key>
-      <dict>
-        <key>3ZUkG35meB</key>
-        <array>
-          <string>RIGHTSTEM</string>
-        </array>
-        <key>3sQ8t8BZ6b</key>
-        <array>
-          <string>CROSSBAR</string>
-        </array>
-        <key>9KDcrfQ5Ui</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>TOPSERIF</string>
-        </array>
-        <key>9kdl9SYsn8</key>
-        <array>
-          <string>RIGHTSTEM</string>
-        </array>
-        <key>At364YZFEy</key>
-        <array>
-          <string>CROSSBAR</string>
-        </array>
-        <key>DTOJhFIl15</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>TOPSERIF</string>
-        </array>
-        <key>EagWihqFM8</key>
-        <array>
-          <string>RIGHTSTEM</string>
-        </array>
-        <key>KfNuQA7eZe</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
-        </array>
-        <key>SaF9ojRFrW</key>
-        <array>
-          <string>RIGHTSTEM</string>
-        </array>
-        <key>ho4DrS0rdW</key>
-        <array>
-          <string>BOTTOMSERIF</string>
-        </array>
-        <key>jYb9001DTm</key>
-        <array>
-          <string>BOTTOMSERIF</string>
-        </array>
-        <key>yiV6OCBLHg</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
-        </array>
-      </dict>
+      <dict/>
     </dict>
   </lib>
 </glyph>
