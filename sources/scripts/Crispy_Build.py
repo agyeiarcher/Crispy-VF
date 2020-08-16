@@ -3,6 +3,7 @@ from fontmake import font_project
 
 parametricDesignSpacePath = "../designspaces/SOURCE PARAMETRIC MASTERS/CRISPY-PARAMETRIC AXES.designspace"
 mastersDesignSpacePath = "../designspaces/WEIGHTWIDTHSERIF/Crispy[SRIF,wdth,wght].designspace"
+mastersFolderPath = "../designspaces/WEIGHTWIDTHSERIF/sources/"
 
 primary_mastersFolderPath = "../designspaces/SOURCE PARAMETRIC MASTERS/instances/"
 primary_xopqParametricsPath = "../designspaces/SOURCE PARAMETRIC MASTERS/instances/minXOPQ/"
@@ -113,6 +114,6 @@ def bash_command(cmd):
 generateMasters(parametricDesignSpacePath)
 # matchWidths(mastersFolderPath)
 # matchWidths(yopqParametricsPath)
-# setUnicodes(mastersFolderPath)
-# generateMasters(mastersDesignSpacePath) #this is just so there are some static font files for reference in the instances
-# finalFont.build_variable_font(mastersDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=None, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)
+setUnicodes(mastersFolderPath)
+generateMasters(mastersDesignSpacePath) #this is just so there are some static font files for reference in the instances
+finalFont.build_variable_font(mastersDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=None, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)

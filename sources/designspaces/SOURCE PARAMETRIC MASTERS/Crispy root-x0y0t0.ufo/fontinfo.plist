@@ -28,31 +28,11 @@
         <key>angle</key>
         <integer>0</integer>
         <key>identifier</key>
-        <string>f8pkuFMswG</string>
-        <key>x</key>
-        <integer>136</integer>
-        <key>y</key>
-        <integer>442</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
-        <string>MnhpnCF3JP</string>
-        <key>x</key>
-        <integer>-700</integer>
-        <key>y</key>
-        <integer>1159</integer>
-      </dict>
-      <dict>
-        <key>angle</key>
-        <integer>0</integer>
-        <key>identifier</key>
         <string>DT8O7LRXK8</string>
         <key>x</key>
-        <integer>125</integer>
+        <integer>138</integer>
         <key>y</key>
-        <integer>1093</integer>
+        <integer>1090</integer>
       </dict>
       <dict>
         <key>angle</key>
@@ -109,6 +89,16 @@
         <integer>0</integer>
         <key>y</key>
         <integer>1600</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>f8pkuFMswG</string>
+        <key>x</key>
+        <integer>129</integer>
+        <key>y</key>
+        <integer>512</integer>
       </dict>
     </array>
     <key>openTypeHeadCreated</key>

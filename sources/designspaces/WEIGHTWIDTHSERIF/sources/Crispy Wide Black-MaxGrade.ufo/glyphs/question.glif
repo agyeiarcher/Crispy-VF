@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="question" format="2">
-  <advance width="4381"/>
+  <advance width="4375"/>
   <unicode hex="003F"/>
   <outline>
     <contour>
-      <point x="2009" y="558" type="line"/>
-      <point x="4107" y="705" type="line"/>
-      <point x="4107" y="1600" type="line" identifier="TBAYuCfUFX"/>
+      <point x="2006" y="557" type="line"/>
+      <point x="4101" y="705" type="line"/>
+      <point x="4101" y="1600" type="line" identifier="TBAYuCfUFX"/>
       <point x="173" y="1600" type="line" identifier="NUrIjqOB7J"/>
       <point x="173" y="793" type="line" identifier="0tk7G4orz6"/>
-      <point x="989" y="793" type="line" identifier="vZkeT9KrKR"/>
-      <point x="989" y="1177" type="line" identifier="4E754ovOIe"/>
-      <point x="3301" y="1177" type="line" identifier="ZvzwyrcwpS"/>
-      <point x="3301" y="1070" type="line"/>
-      <point x="1928" y="1010" type="line"/>
+      <point x="988" y="793" type="line" identifier="vZkeT9KrKR"/>
+      <point x="988" y="1177" type="line" identifier="4E754ovOIe"/>
+      <point x="3296" y="1177" type="line" identifier="ZvzwyrcwpS"/>
+      <point x="3296" y="1070" type="line"/>
+      <point x="1924" y="1010" type="line"/>
     </contour>
     <contour>
-      <point x="1736" y="0" type="line" identifier="S4rO5KuHiL"/>
-      <point x="2552" y="0" type="line" identifier="1m237t4hyw"/>
-      <point x="2551" y="538" type="line"/>
-      <point x="1735" y="538" type="line" identifier="zfocDyDTCM"/>
+      <point x="1733" y="0" type="line" identifier="S4rO5KuHiL"/>
+      <point x="2549" y="0" type="line" identifier="1m237t4hyw"/>
+      <point x="2548" y="538" type="line"/>
+      <point x="1732" y="538" type="line" identifier="zfocDyDTCM"/>
     </contour>
   </outline>
 </glyph>

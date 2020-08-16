@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U.alt" format="2">
+  <advance width="4295"/>
+  <outline>
+    <contour>
+      <point x="3993" y="1600" type="line" smooth="yes" identifier="sHbJc0ABCr"/>
+      <point x="3993" y="2" type="line" identifier="rl1GTsia1n"/>
+      <point x="302" y="2" type="line" identifier="UzF1yMyYbs"/>
+      <point x="302" y="1600" type="line"/>
+      <point x="300" y="1600" type="line"/>
+      <point x="300" y="0" type="line" smooth="yes" identifier="TtJBDxLtac"/>
+      <point x="3995" y="0" type="line" smooth="yes" identifier="v8mYloy7Gu"/>
+      <point x="3995" y="1600" type="line" smooth="yes" identifier="eQnUhxJAi8"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>public.markColor</key>
+      <string>1,0,0,1</string>
+    </dict>
+  </lib>
+</glyph>

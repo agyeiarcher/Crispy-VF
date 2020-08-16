@@ -1,0 +1,203 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="xopq" name="xopq" minimum="1" maximum="1000" default="1">
+      <labelname xml:lang="en">xopq</labelname>
+    </axis>
+    <axis tag="yopq" name="yopq" minimum="1" maximum="1000" default="1">
+      <labelname xml:lang="en">yopq</labelname>
+    </axis>
+    <axis tag="xtra" name="xtra" minimum="1" maximum="1000" default="1">
+      <labelname xml:lang="en">xtra</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Crispy root-x0y0t0.ufo" familyname="Crispy" stylename="x0y0t0">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Crispy root-x0y0t1000.ufo" familyname="Crispy" stylename="x0y0t1000">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="Crispy root-x0y1000t0.ufo" familyname="Crispy" stylename="x0y1000t0">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1000"/>
+        <dimension name="xtra" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Crispy root-x0y1000t1000.ufo" familyname="Crispy" stylename="x0y1000t1000">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1000"/>
+        <dimension name="xtra" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="Crispy root-x1000y0t0.ufo" familyname="Crispy" stylename="x1000y0t0">
+      <location>
+        <dimension name="xopq" xvalue="1000"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Crispy root-x1000y0t1000.ufo" familyname="Crispy" stylename="x1000y0t1000">
+      <location>
+        <dimension name="xopq" xvalue="1000"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1000"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Crispy Narrow" stylename="Black" filename="../WEIGHTWIDTH/Crispy Narrow Black.ufo">
+      <location>
+        <dimension name="xopq" xvalue="361.751000"/>
+        <dimension name="yopq" xvalue="648.456000"/>
+        <dimension name="xtra" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy Narrow" stylename="Thin" filename="../WEIGHTWIDTH/Crispy Narrow Thin.ufo">
+      <location>
+        <dimension name="xopq" xvalue="17.700000"/>
+        <dimension name="yopq" xvalue="30"/>
+        <dimension name="xtra" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy Wide" stylename="Thin" filename="../WEIGHTWIDTH/Crispy Wide Thin.ufo">
+      <location>
+        <dimension name="xopq" xvalue="13"/>
+        <dimension name="yopq" xvalue="22"/>
+        <dimension name="xtra" xvalue="965.850000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy Wide" stylename="Black" filename="../WEIGHTWIDTH/Crispy Wide Black.ufo">
+      <location>
+        <dimension name="xopq" xvalue="737.868000"/>
+        <dimension name="yopq" xvalue="952"/>
+        <dimension name="xtra" xvalue="952"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Black" filename="../WEIGHTWIDTH/Crispy Black.ufo">
+      <location>
+        <dimension name="xopq" xvalue="463.094000"/>
+        <dimension name="yopq" xvalue="725.047000"/>
+        <dimension name="xtra" xvalue="178.677000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Thin" filename="../WEIGHTWIDTH/Crispy Thin.ufo">
+      <location>
+        <dimension name="xopq" xvalue="12"/>
+        <dimension name="yopq" xvalue="20.500000"/>
+        <dimension name="xtra" xvalue="188.345000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy Extended" stylename="Black" filename="../WEIGHTWIDTH/Crispy Extended Black.ufo">
+      <location>
+        <dimension name="xopq" xvalue="445.922486"/>
+        <dimension name="yopq" xvalue="725.047000"/>
+        <dimension name="xtra" xvalue="613.622000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy Extended" stylename="Thin" filename="../WEIGHTWIDTH/Crispy Extended Thin.ufo">
+      <location>
+        <dimension name="xopq" xvalue="12"/>
+        <dimension name="yopq" xvalue="20.500000"/>
+        <dimension name="xtra" xvalue="639.706000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy Narrow" stylename="Regular" filename="../WEIGHTWIDTH/Crispy Narrow Medium.ufo">
+      <location>
+        <dimension name="xopq" xvalue="195.500000"/>
+        <dimension name="yopq" xvalue="375.675000"/>
+        <dimension name="xtra" xvalue="1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Regular" filename="../WEIGHTWIDTH/Crispy Medium.ufo">
+      <location>
+        <dimension name="xopq" xvalue="231"/>
+        <dimension name="yopq" xvalue="384.994000"/>
+        <dimension name="xtra" xvalue="124.215000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy Extended" stylename="Regular" filename="../WEIGHTWIDTH/Crispy Extended Medium.ufo">
+      <location>
+        <dimension name="xopq" xvalue="223"/>
+        <dimension name="yopq" xvalue="362"/>
+        <dimension name="xtra" xvalue="621.439000"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy Wide" stylename="Regular" filename="../WEIGHTWIDTH/Crispy Wide Medium.ufo">
+      <location>
+        <dimension name="xopq" xvalue="368"/>
+        <dimension name="yopq" xvalue="542.595000"/>
+        <dimension name="xtra" xvalue="958"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>horizontal</key>
+        <array>
+          <string>yopq</string>
+        </array>
+        <key>ignore</key>
+        <array>
+          <string>xopq</string>
+          <string>xtra</string>
+        </array>
+        <key>vertical</key>
+        <array/>
+      </dict>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>xopq</key>
+        <real>737.868</real>
+        <key>xtra</key>
+        <real>952.0</real>
+        <key>yopq</key>
+        <real>952.0</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>ASS /S.wide OMAW</string>
+    </dict>
+  </lib>
+</designspace>

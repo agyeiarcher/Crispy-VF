@@ -11,7 +11,28 @@
     <key>familyName</key>
     <string>Crispy</string>
     <key>guidelines</key>
-    <array/>
+    <array>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>fg3xK4rkGV</string>
+        <key>x</key>
+        <integer>2177</integer>
+        <key>y</key>
+        <integer>1003</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>identifier</key>
+        <string>KfpfCIXh6O</string>
+        <key>x</key>
+        <integer>2476</integer>
+        <key>y</key>
+        <integer>596</integer>
+      </dict>
+    </array>
     <key>openTypeHeadCreated</key>
     <string>2018/06/12 21:37:59</string>
     <key>openTypeNameLicenseURL</key>

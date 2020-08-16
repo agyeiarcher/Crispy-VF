@@ -72,11 +72,11 @@
         <dimension name="xtra" xvalue="900"/>
       </location>
     </source>
-    <source filename="../WEIGHTWIDTHSERIF/sources/Crispy Narrow Medium-MaxGrade.ufo" familyname="Crispy" stylename="support-narrow">
+    <source filename="supports/Crispy Narrow Medium.ufo" familyname="Crispy" stylename="support-narrow">
       <location>
         <dimension name="xopq" xvalue="174.500000"/>
         <dimension name="yopq" xvalue="320"/>
-        <dimension name="xtra" xvalue="1"/>
+        <dimension name="xtra" xvalue="20"/>
       </location>
     </source>
   </sources>
@@ -85,7 +85,7 @@
       <location>
         <dimension name="xopq" xvalue="4"/>
         <dimension name="yopq" xvalue="4"/>
-        <dimension name="xtra" xvalue="0"/>
+        <dimension name="xtra" xvalue="1"/>
       </location>
       <kerning/>
       <info/>
@@ -204,11 +204,11 @@
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
         <key>xopq</key>
-        <real>550.0</real>
+        <real>380.0</real>
         <key>xtra</key>
-        <real>900.0</real>
+        <real>500.0</real>
         <key>yopq</key>
-        <real>695.0</real>
+        <real>500.0</real>
       </dict>
       <key>com.letterror.skateboard.previewText</key>
       <string>H&gt;H CRISPY TESTING HASSAN</string>

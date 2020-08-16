@@ -110,6 +110,8 @@
     <string>curve</string>
     <key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
     <integer>1</integer>
+    <key>com.typemytype.robofont.smartSets.uniqueKey</key>
+    <string>4641310288</string>
     <key>designspace.location</key>
     <array>
       <array>
@@ -122,7 +124,7 @@
       </array>
       <array>
         <string>xtra</string>
-        <real>4.0</real>
+        <real>0.0</real>
       </array>
     </array>
     <key>public.glyphOrder</key>
