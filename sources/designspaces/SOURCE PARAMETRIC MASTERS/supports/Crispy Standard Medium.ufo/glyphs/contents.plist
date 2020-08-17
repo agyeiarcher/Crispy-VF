@@ -250,8 +250,6 @@
     <string>asciitilde.glif</string>
     <key>asterisk</key>
     <string>asterisk.glif</string>
-    <key>asterisk.copy_1</key>
-    <string>asterisk.copy_1.glif</string>
     <key>at</key>
     <string>at.glif</string>
     <key>atilde</key>
@@ -264,16 +262,10 @@
     <string>bar.glif</string>
     <key>braceleft</key>
     <string>braceleft.glif</string>
-    <key>braceleft.copy_1</key>
-    <string>braceleft.copy_1.glif</string>
     <key>braceright</key>
     <string>braceright.glif</string>
-    <key>braceright.copy_1</key>
-    <string>braceright.copy_1.glif</string>
     <key>bracketleft</key>
     <string>bracketleft.glif</string>
-    <key>bracketleft.copy_1</key>
-    <string>bracketleft.copy_1.glif</string>
     <key>bracketright</key>
     <string>bracketright.glif</string>
     <key>breve</key>
@@ -622,12 +614,8 @@
     <string>quotedblright.glif</string>
     <key>quoteleft</key>
     <string>quoteleft.glif</string>
-    <key>quoteleft.copy_1</key>
-    <string>quoteleft.copy_1.glif</string>
     <key>quoteright</key>
     <string>quoteright.glif</string>
-    <key>quoteright.copy_1</key>
-    <string>quoteright.copy_1.glif</string>
     <key>quotesinglbase</key>
     <string>quotesinglbase.glif</string>
     <key>quotesingle</key>
@@ -670,8 +658,6 @@
     <string>semicolon.glif</string>
     <key>seven</key>
     <string>seven.glif</string>
-    <key>seven.alt</key>
-    <string>seven.alt.glif</string>
     <key>seven.dnom</key>
     <string>seven.dnom.glif</string>
     <key>seven.numr</key>
