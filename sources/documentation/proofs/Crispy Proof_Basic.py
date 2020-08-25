@@ -1,8 +1,15 @@
+from pyNewsApi import PYNEWS
+
 variableFontPath = "../../../font/variable_ttf/Crispy[srif,wdth,wght]-VF.ttf"
 
 allCapSpacingString = "HHOHHOOHOO HHAHHOOAOO HHBHHOOBOO HHCHHOOCOO HHDHHOODOO HHEHHOOEOO HHFHHOOFOO HHGHHOOGOO HHIHHOOIOO HHJHHOOJOO HHKHHOOKOO HHLHHOOLOO HHMHHOOMOO HHNHHOONOO HHPHHOOPOO HHQHHOOQOO HHRHHOOROO HHSHHOOSOO HHTHHOOTOO HHUHHOOUOO HHVHHOOVOO HHWHHOOWOO HHXHHOOXOO HHYHHOOYOO HHZHHOOZOO"
 
-spacingStringBox = (40, 50, 690, 480)
+spacingStringBox = (40, 20, 690, 500)
+
+def randomHeadline():
+    news = PYNEWS()
+    data = news.get_headline_by_source(source='google-news')
+    return data[randint(0, len(data)-1)]["title"]
 
 def calcTextSizeForBox(txt, box, minSize, maxSize, tolerance):
     #calcTextSizeForBox function written originally by Just Van Rossum (thanks Just!)
@@ -26,7 +33,6 @@ def calcTextSizeForBox(txt, box, minSize, maxSize, tolerance):
         # Yes, this is potentially an endless loop, but
         # we (try to) guarantee that it always terminates
         fontSize(fs)
-        lineHeight(fs*1.3)
         overflow = textOverflow(txt, box)
         if overflow:
             maxSize = fs
@@ -45,24 +51,37 @@ def calcTextSizeForBox(txt, box, minSize, maxSize, tolerance):
 
 def pageLabel(instanceName):
     font("")
-    text(str(instanceName), (40, height()-40))
+    text(str(instanceName), (40, height() - 40))
+
 
 for instanceName, setupMatrix in listNamedInstances(variableFontPath).items():
+    duplicatecheck = []
     print(instanceName, setupMatrix)
     newPage("LetterLandscape")
-    with savedState():
-        stroke(0)
-        fill()
-        rect(40, 40, width()-100, height()-130)    
+    # with savedState():
+    #     stroke(0)
+    #     fill()
+    #     rect(40, 40, width() - 100, height() - 130)
+    pageLabel(instanceName)    
     fontVariations(wght= setupMatrix['wght'])
     fontVariations(wdth = setupMatrix['wdth'])
     fontVariations(SRIF = setupMatrix['SRIF'])
-    pageLabel(instanceName)
     font(variableFontPath)
     fs = calcTextSizeForBox(allCapSpacingString, spacingStringBox, minSize=5, maxSize=100, tolerance=0.1)
     print(fs)
     fontSize(fs)
-    lineHeight(fs*1.2)
+    lineHeight(fs * 1.2)
     spacingText = textBox(allCapSpacingString, spacingStringBox, align="left")
-    # newPage("LetterLandscape")
+    
+    newPage("LetterLandscape")
+    pageLabel(instanceName) 
+    fontVariations(wght= setupMatrix['wght'])
+    fontVariations(wdth = setupMatrix['wdth'])
+    fontVariations(SRIF = setupMatrix['SRIF'])
+    font(variableFontPath)
+    textHeadline = randomHeadline().upper()
+    fs = calcTextSizeForBox(textHeadline, spacingStringBox, minSize=5, maxSize=400, tolerance=0.1)
+    fontSize(fs*0.8)
+    lineHeight(fs*0.9)
+    sampleWords = textBox(textHeadline, spacingStringBox, align="left")
     # print(fs)
