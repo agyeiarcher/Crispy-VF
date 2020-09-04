@@ -245,6 +245,87 @@
       <kerning/>
       <info/>
     </instance>
+    <instance familyname="Crispy" stylename="Narrow Hairline-noserif" filename="instances/Crispy Terminal Narrow Hairline-noserif.ufo">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="15"/>
+        <dimension name="serif" xvalue="-1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Extended Medium-noserif" filename="instances/Crispy Terminal Extended Medium-noserif.ufo">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="170"/>
+        <dimension name="serif" xvalue="-1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Narrow Black-noserif" filename="instances/Crispy Terminal Narrow Black-noserif.ufo">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="15"/>
+        <dimension name="serif" xvalue="-1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Hairline-noserif" filename="instances/Crispy Terminal Hairline-noserif.ufo">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="serif" xvalue="-1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Medium-noserif" filename="instances/Crispy Terminal Medium-noserif.ufo">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="serif" xvalue="-1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Extended Black-noserif" filename="instances/Crispy Terminal Extended Black-noserif.ufo">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="170"/>
+        <dimension name="serif" xvalue="-1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Narrow Medium-noserif" filename="instances/Crispy Terminal Narrow Medium-noserif.ufo">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="15"/>
+        <dimension name="serif" xvalue="-1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Extended Hairline-noserif" filename="instances/Crispy Terminal Extended Hairline-noserif.ufo">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="170"/>
+        <dimension name="serif" xvalue="-1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy" stylename="Black-noserif" filename="instances/Crispy Terminal Black-noserif.ufo">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+        <dimension name="serif" xvalue="-1"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
   </instances>
   <lib>
     <dict>

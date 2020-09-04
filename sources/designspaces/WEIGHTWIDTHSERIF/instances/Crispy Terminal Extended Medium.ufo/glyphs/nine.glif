@@ -1,5 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nine" format="2">
+  <advance width="4658"/>
+  <unicode hex="0039"/>
   <outline>
+    <contour>
+      <point x="4364" y="1600" type="line" identifier="uiw6aBUf4P"/>
+      <point x="425" y="1600" type="line" identifier="jtYkxiUX6G"/>
+      <point x="425" y="651" type="line" identifier="2G5L37c87I"/>
+      <point x="3814" y="651" type="line"/>
+      <point x="3814" y="583" type="line"/>
+      <point x="3539" y="330" type="line"/>
+      <point x="1056" y="330" type="line"/>
+      <point x="1056" y="544" type="line"/>
+      <point x="505" y="544" type="line" identifier="Wuidbv6mUe"/>
+      <point x="505" y="0" type="line" identifier="oGvEEuxnYv"/>
+      <point x="3895" y="0" type="line" identifier="xR3pEHbMJx"/>
+      <point x="4364" y="512" type="line" identifier="KnMArb0tv8"/>
+    </contour>
+    <contour>
+      <point x="976" y="975" type="line"/>
+      <point x="976" y="1270" type="line"/>
+      <point x="3814" y="1270" type="line"/>
+      <point x="3814" y="975" type="line"/>
+    </contour>
   </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 12:47:08 +0000</string>
+    </dict>
+  </lib>
 </glyph>

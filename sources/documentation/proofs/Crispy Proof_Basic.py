@@ -1,87 +1,66 @@
 from pyNewsApi import PYNEWS
 
-variableFontPath = "../../../font/variable_ttf/Crispy[srif,wdth,wght]-VF.ttf"
+variableFontPath = '/Users/aamacbook/Work Interim/Crispy-VF/font/variable_ttf/Crispy[SRIF,wdth,wght]-VF.ttf'
 
-allCapSpacingString = "HHOHHOOHOO HHAHHOOAOO HHBHHOOBOO HHCHHOOCOO HHDHHOODOO HHEHHOOEOO HHFHHOOFOO HHGHHOOGOO HHIHHOOIOO HHJHHOOJOO HHKHHOOKOO HHLHHOOLOO HHMHHOOMOO HHNHHOONOO HHPHHOOPOO HHQHHOOQOO HHRHHOOROO HHSHHOOSOO HHTHHOOTOO HHUHHOOUOO HHVHHOOVOO HHWHHOOWOO HHXHHOOXOO HHYHHOOYOO HHZHHOOZOO"
+allCapSpacingString = "HAHBHCHDHEHFHGHHHIHJHKHLHMHNHOHHHPHQHRHSHTHUHVHWHXHYHZH \n OAOBOCODOEOFOGOHOIOJOKOLOMONOOOOOPOQOROSOTOUOVOWOXOYOZO"
 
-spacingStringBox = (40, 20, 690, 500)
+randomWordsString = "AARDVARK ABLUTION ACRIMONIOUS ADVENTURES AEOLIAN AFRICA AGAMEMNON AHOY AILERON AJAX AKIMBO ALTRUISM AMERICA ANECDOTE AORTA APTITUDE AQUARIUM ARCADE ASPARTAME ATTRITION AURELIUS AVUNCULAR AWNING AXMINSTER AYERS AZURE BANISHMENT BENIGHTED BHAGAVAD BIBLICAL BJORN BLANCMANGE BOLTON BRUSQUE BURNISH BWANA BYZANTIUM CABBALA CETACEAN CHARLEMAGNE CICERO CLAMOROUS CNIDARIAN CONIFER CRUSTACEAN CTENOID CULLED CYNOSURE CZARINA DALMATIAN DELPHI DHURRIE DINNER DJINN DOCUMENT DRILL DUNLEARY DVORAK DWINDLE DYNAMO EAMES EBULLIENT ECHO EDIFY EELS EFTSOONS EGRESS EHRLICH EINDHOVEN EJECT EKISTICS ELZEVIR EMINENCE ENNOBLE EOCENE EPHEMERAL EQUATOR ERSTWHILE ESTIENNE ETIQUETTE EUCALYPTUS EVERYMAN EWEN EXETER EYELET EZEKIEL FANFARE FEROCIOUS FFESTINIOG FINICKY FJORD FLANDERS FORESTRY FRILLS FURNITURE FYLFOT GARRULOUS GENEROUS GHASTLY GIMLET GLORIOUS GNOMON GOLFER GRIZZLED GUMPTION GWENDOLYN GYMKHANA HARROW HEIFER HINDEMITH HORACE HSI HUBRIS HYBRID IAMBIC IBARRA ICHTHYOLOGY IDENTITY IEVGENY IFRIT IGNITE IHRE IKON ILIAD IMMINENT INNOVATION IOLANTHE IPANEMA IRASCIBLE ISLAND ITALIC IVORY IWIS IXTAPA IYAR IZZARD JANACEK JENSON JITTER JOINERY JR. JUNGIAN KAISER KENILWORTH KHAKI KINDRED KLONDIKE KNOWLEDGE KOHLRABI KRAKEN KUDZU KVETCH KWACHA KYRIE LABRADOR LENT LHASA LINIMENT LLAMA LONGBOAT LUDDITE LYCEUM MANDARIN MBANDAKA MCINTYRE MDINA MENDACIOUS MFG. MG MILLINERY MLLE. MME. MNEMONIC MORIBUND MR. MS. MTN. MUNITIONS MYRA NARRAGANSETT NEFARIOUS NGUYEN NILE NKOSO NNENNA NONSENSE NR. NUNNERY NYACK OARSMAN OBLATE OCULAR ODESSA OEDIPUS OFTEN OGRE OHMS OILERS OKRA OLFACTORY OMINOUS ONEROUS OOGAMOUS OPINE ORNATE OSSIFIED OTHELLO OUBLIETTE OVENS OWLISH OXEN OYSTER OZYMANDIAS PARISIAN PB PD. PENROSE PFENNIG PG. PHARMACY PIROUETTE PLEISTOCENE PNEUMATIC PORRIDGE PP. PRINCIPLE PSALTERY PTARMIGAN PUNDIT PYRRHIC QAID QED QIBRIS QOM QUILL RANSOM RB. RD. RENFIELD RHEUMATIC RINGLET RM. RONSARD RP. RTE. RUNCIBLE RWANDA RYE SALACIOUS SBEITLA SCHERZO SERPENTINE SFORZA SHACKLES SINFUL SJOERD SKULL SLALOM SMELTING SNIPE SORBONNE SPARTAN SQUIRE SRI STULTIFIED SUMMONER SVELTE SWARTHY SYKES SZENTENDRE TARRAGON TBLISI TCHERNY TENNYSON THAUMATURGE TINCTURE TLALOC TOREADOR TREACHEROUS TSUNAMI TURKEY TWINE TYROLEAN TZARA UBIQUITOUS UCELLO UDDER UFOLOGY UGRIC UHLAN UITLANDER UKULELE ULSTER UMBER UNGUENT UOMO UPLIFT URSINE USURIOUS UTRECHT UVULA UXORIOUS UZBEK VANISHED VD. VENOMOUS VINDICATE VORACIOUS VRILLIER VS. VT. VULNERABLE VYING WASHINGTON WENDELL WHARF WINDOW WM. WORTH WRUNG WT. WUNDERMAN WYES XANTHAN XENON XIAO XMAS XRAY XUXA XYLEM YARROW YBARRA YCAIR YDS. YELLOWSTONE YGGDRASIL YIN YLANG YOURS YPSILANTI YQUEM YRS. YS. YTTERBIUM YUNNAN YVONNE ZANZIBAR ZERO ZHORA ZINFANDEL ZONE ZUNI ZWIEBACK ZYGOTE"
+
+spacingStringBox = (40, 0, 690, 500)
+
 
 def randomHeadline():
     news = PYNEWS()
     data = news.get_headline_by_source(source='google-news')
     return data[randint(0, len(data)-1)]["title"]
 
-def calcTextSizeForBox(txt, box, minSize, maxSize, tolerance):
-    #calcTextSizeForBox function written originally by Just Van Rossum (thanks Just!)
-    # font needs to already have been set
-    #
-    # We're implementing a so called binary search here. We have a minimum value,
-    # a maximum value, and an initial value that we set right in the middle of
-    # min and max. The approach is then to see "is this value too high (there's
-    # an overflow)" or too low or maybe correct enough (no overflow).
-    # If there's an overflow, the maxValue will be set to the current value,
-    # and the value itsels is again placed right between min and max.
-    # If there's no overflow, the minValue is set to the current value.
-    # Soon, the value will be very close to the minSize value, and then
-    # we're done.
-    #
-    # This kind of algorithm is more efficient than just trying a lot of values
-    # in sequence, and can scale quite well.
-    #
+def calcTextSizeForBox(txt, box, minSize=5, maxSize=300, tolerance=0.1):
+    #this should get refactored for a binary search
     fs = (minSize + maxSize) / 2
-    while True:
-        # Yes, this is potentially an endless loop, but
-        # we (try to) guarantee that it always terminates
-        fontSize(fs)
-        overflow = textOverflow(txt, box)
-        if overflow:
-            maxSize = fs
-            fs = (minSize + maxSize) / 2
-            if fs - minSize < tolerance:
-                fs = minSize
-                # giving up, there will be overflow
-                break
-        else:
-            if fs - minSize < tolerance:
-                # close enough, done
-                break
-            minSize = fs
-            fs = (minSize + maxSize) / 2
+    
+    fontSize(fs)
+    lineHeight(fs)
+    overflow = textOverflow(txt, box)
+    if overflow:
+        while overflow:
+            fs += -0.5
+            fontSize(fs)
+            lineHeight(fs)
+            overflow = textOverflow(txt, box)
+    else:
+        while not overflow:
+            fs += 0.5
+            fontSize(fs)
+            lineHeight(fs)
+            overflow = textOverflow(txt, box)
     return fs
+
 
 def pageLabel(instanceName):
     font("")
     text(str(instanceName), (40, height() - 40))
 
-
-for instanceName, setupMatrix in listNamedInstances(variableFontPath).items():
-    duplicatecheck = []
-    print(instanceName, setupMatrix)
-    newPage("LetterLandscape")
-    # with savedState():
-    #     stroke(0)
-    #     fill()
-    #     rect(40, 40, width() - 100, height() - 130)
-    pageLabel(instanceName)    
-    fontVariations(wght= setupMatrix['wght'])
-    fontVariations(wdth = setupMatrix['wdth'])
-    fontVariations(SRIF = setupMatrix['SRIF'])
-    font(variableFontPath)
-    fs = calcTextSizeForBox(allCapSpacingString, spacingStringBox, minSize=5, maxSize=100, tolerance=0.1)
-    print(fs)
-    fontSize(fs)
-    lineHeight(fs * 1.2)
-    spacingText = textBox(allCapSpacingString, spacingStringBox, align="left")
-    
-    newPage("LetterLandscape")
-    pageLabel(instanceName) 
-    fontVariations(wght= setupMatrix['wght'])
-    fontVariations(wdth = setupMatrix['wdth'])
-    fontVariations(SRIF = setupMatrix['SRIF'])
-    font(variableFontPath)
-    textHeadline = randomHeadline().upper()
-    fs = calcTextSizeForBox(textHeadline, spacingStringBox, minSize=5, maxSize=400, tolerance=0.1)
-    fontSize(fs*0.8)
-    lineHeight(fs*0.9)
-    sampleWords = textBox(textHeadline, spacingStringBox, align="left")
-    # print(fs)
+def makeProof():
+    for instanceName, setupMatrix in listNamedInstances(variableFontPath).items():
+        newPage("LetterLandscape")
+        print(instanceName, setupMatrix)
+        pageLabel(instanceName)
+        font(variableFontPath)
+        fontVariations(wght= setupMatrix['wght'], wdth = setupMatrix['wdth'], SRIF = setupMatrix['SRIF'])
+        fs = calcTextSizeForBox(allCapSpacingString, spacingStringBox)
+        print(fs)
+        fontSize(fs*0.7)
+        lineHeight(fs*0.8)
+        spacingText = textBox(allCapSpacingString, spacingStringBox, align="left")
+        newPage("LetterLandscape")
+        pageLabel(instanceName)
+        font(variableFontPath)
+        fontVariations(wght= setupMatrix['wght'], wdth = setupMatrix['wdth'], SRIF = setupMatrix['SRIF'])
+        fs = calcTextSizeForBox(randomHeadline().upper(), spacingStringBox)
+        print(fs)
+        fontSize(fs*0.7)
+        lineHeight(fs*0.8)
+        spacingText = textBox(randomHeadline().upper(), spacingStringBox, align="left")
+        
+makeProof()
+# saveImage("Crispy Proof.pdf")

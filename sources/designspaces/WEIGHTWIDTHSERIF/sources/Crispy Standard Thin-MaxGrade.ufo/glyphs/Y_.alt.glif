@@ -4,19 +4,15 @@
   <outline>
     <contour>
       <point x="342" y="721" type="line" smooth="yes"/>
-      <point x="1811" y="721" type="line" smooth="yes"/>
-      <point x="2090" y="1599" type="line" smooth="yes"/>
-      <point x="2084" y="1600" type="line" smooth="yes"/>
-      <point x="1805" y="727" type="line"/>
-      <point x="347" y="727" type="line" smooth="yes"/>
-      <point x="60" y="1600" type="line"/>
-      <point x="54" y="1598" type="line" smooth="yes"/>
-    </contour>
-    <contour>
-      <point x="1813" y="759" type="line"/>
+      <point x="1809" y="721" type="line"/>
       <point x="1538" y="-86" type="line"/>
       <point x="1545" y="-88" type="line"/>
-      <point x="1817" y="758" type="line"/>
+      <point x="2090" y="1599" type="line" smooth="yes"/>
+      <point x="2085" y="1600" type="line" smooth="yes"/>
+      <point x="1812" y="728" type="line"/>
+      <point x="347" y="728" type="line" smooth="yes"/>
+      <point x="60" y="1600" type="line"/>
+      <point x="54" y="1598" type="line" smooth="yes"/>
     </contour>
   </outline>
 </glyph>

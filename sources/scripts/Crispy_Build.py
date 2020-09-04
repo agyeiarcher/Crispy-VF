@@ -114,6 +114,6 @@ def bash_command(cmd):
 generateMasters(parametricDesignSpacePath)
 # matchWidths(mastersFolderPath)
 # matchWidths(yopqParametricsPath)
-setUnicodes(mastersFolderPath)
+# setUnicodes(mastersFolderPath)
 generateMasters(mastersDesignSpacePath) #this is just so there are some static font files for reference in the instances
-finalFont.build_variable_font(mastersDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=None, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)
+finalFont.build_variable_font(mastersDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=True, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)
