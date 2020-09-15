@@ -3,21 +3,21 @@ import io, os, glob
 
 variableFontPath = '/Users/aamacbook/Work Interim/Crispy-VF/font/variable_ttf/Crispy[SRIF,wdth,wght]-VF.ttf'
 
-# print(os.getcwd())
+filetype = "*.txt"
+
+spacingStringBox = (40, 0, 690, 500)
 
 texts = []
 
 for filename in os.listdir("texts"):
-    textFilePath = os.getcwd()+"/texts/"+filename
-    with open(textFilePath, "r", encoding="utf-8") as f:
-        textString = f.read()
-    texts.append(textString)
-    
-for proofStrings in texts:
+    if not filename.startswith('.'): #bypass .DS_STORE files in case
+        textFilePath = os.getcwd()+"/texts/"+filename
+        with open(textFilePath, "r", encoding="utf-8") as f:
+            print(textFilePath)
+            textString = f.read()
+        texts.append(textString)
     
 allCapSpacingString = "HAHBHCHDHEHFHGHHHIHJHKHLHMHNHOHHHPHQHRHSHTHUHVHWHXHYHZH \n OAOBOCODOEOFOGOHOIOJOKOLOMONOOOOOPOQOROSOTOUOVOWOXOYOZO"
-
-spacingStringBox = (40, 0, 690, 500)
 
 def randomHeadline():
     news = PYNEWS()
@@ -45,34 +45,23 @@ def calcTextSizeForBox(txt, box, minSize=5, maxSize=300, tolerance=0.1):
             overflow = textOverflow(txt, box)
     return fs
 
-
 def pageLabel(instanceName):
     font("")
     text(str(instanceName), (40, height() - 40))
 
-def makeProof():
+def makeProof(proofString):
     for instanceName, setupMatrix in listNamedInstances(variableFontPath).items():
         newPage("LetterLandscape")
         print(instanceName, setupMatrix)
         pageLabel(instanceName)
         font(variableFontPath)
         fontVariations(wght= setupMatrix['wght'], wdth = setupMatrix['wdth'], SRIF = setupMatrix['SRIF'])
-        fs = calcTextSizeForBox(allCapSpacingString, spacingStringBox)
+        fs = calcTextSizeForBox(proofString, spacingStringBox)
         print(fs)
         fontSize(fs*0.7)
         lineHeight(fs*0.8)
-        spacingText = textBox(allCapSpacingString, spacingStringBox, align="left")
-        newPage("LetterLandscape")
-        pageLabel(instanceName)
-        font(variableFontPath)
-        fontVariations(wght= setupMatrix['wght'], wdth = setupMatrix['wdth'], SRIF = setupMatrix['SRIF'])
-        fs = calcTextSizeForBox(randomHeadline().upper(), spacingStringBox)
-        print(fs)
-        fontSize(fs*0.7)
-        lineHeight(fs*0.8)
-        spacingText = textBox(randomHeadline().upper(), spacingStringBox, align="left")
-        
-# print(data)
-        
-# makeProof()
+        spacingText = textBox(proofString, spacingStringBox, align="left")
+
+for proofStrings in texts:       
+    makeProof(proofStrings)
 # saveImage("Crispy Proof.pdf")
