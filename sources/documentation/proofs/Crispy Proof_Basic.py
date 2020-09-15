@@ -1,17 +1,23 @@
 from pyNewsApi import PYNEWS
-import io
-import glob
+import io, os, glob
 
 variableFontPath = '/Users/aamacbook/Work Interim/Crispy-VF/font/variable_ttf/Crispy[SRIF,wdth,wght]-VF.ttf'
 
-for filename in os.listdir(os.getcwd()):
-    with open("texts/text1.txt", "r", encoding="utf-8") as f: 
-        data = f.read() 
+# print(os.getcwd())
 
+texts = []
+
+for filename in os.listdir("texts"):
+    textFilePath = os.getcwd()+"/texts/"+filename
+    with open(textFilePath, "r", encoding="utf-8") as f:
+        textString = f.read()
+    texts.append(textString)
+    
+for proofStrings in texts:
+    
 allCapSpacingString = "HAHBHCHDHEHFHGHHHIHJHKHLHMHNHOHHHPHQHRHSHTHUHVHWHXHYHZH \n OAOBOCODOEOFOGOHOIOJOKOLOMONOOOOOPOQOROSOTOUOVOWOXOYOZO"
 
 spacingStringBox = (40, 0, 690, 500)
-
 
 def randomHeadline():
     news = PYNEWS()
@@ -66,7 +72,7 @@ def makeProof():
         lineHeight(fs*0.8)
         spacingText = textBox(randomHeadline().upper(), spacingStringBox, align="left")
         
-print(data)
+# print(data)
         
 # makeProof()
 # saveImage("Crispy Proof.pdf")
