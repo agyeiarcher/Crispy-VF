@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="braceleft" format="2">
+	<advance width="292"/>
+	<unicode hex="007B"/>
+	<outline>
+		<contour>
+			<point x="201" y="860" type="line"/>
+			<point x="201" y="1526" type="line"/>
+			<point x="285" y="1526" type="line"/>
+			<point x="285" y="1675" type="line"/>
+			<point x="60" y="1675" type="line"/>
+			<point x="60" y="861" type="line"/>
+			<point x="12" y="801" type="line"/>
+			<point x="12" y="799" type="line"/>
+			<point x="60" y="739" type="line"/>
+			<point x="60" y="-75" type="line"/>
+			<point x="280" y="-75" type="line"/>
+			<point x="280" y="74" type="line"/>
+			<point x="201" y="74" type="line"/>
+			<point x="201" y="740" type="line"/>
+			<point x="153" y="799" type="line"/>
+			<point x="153" y="801" type="line"/>
+		</contour>
+	</outline>
+</glyph>

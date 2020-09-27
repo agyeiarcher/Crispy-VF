@@ -16,15 +16,13 @@
         <key>angle</key>
         <integer>0</integer>
         <key>identifier</key>
-        <string>28KhCi69Rg</string>
+        <string>EgqhpeFV1t</string>
         <key>x</key>
         <integer>1444</integer>
         <key>y</key>
         <integer>1459</integer>
       </dict>
     </array>
-    <key>italicAngle</key>
-    <integer>0</integer>
     <key>openTypeHeadCreated</key>
     <string>2018/06/12 21:37:59</string>
     <key>openTypeHeadLowestRecPPEM</key>
@@ -73,10 +71,6 @@
     <integer>0</integer>
     <key>openTypeOS2VendorID</key>
     <string>!666</string>
-    <key>openTypeOS2WeightClass</key>
-    <integer>400</integer>
-    <key>openTypeOS2WidthClass</key>
-    <integer>5</integer>
     <key>openTypeOS2WinAscent</key>
     <integer>0</integer>
     <key>openTypeOS2WinDescent</key>
@@ -87,20 +81,16 @@
     <array/>
     <key>postscriptFamilyOtherBlues</key>
     <array/>
+    <key>postscriptFontName</key>
+    <string>Crispy-Test-Regular</string>
     <key>postscriptOtherBlues</key>
     <array/>
     <key>postscriptStemSnapH</key>
     <array/>
     <key>postscriptStemSnapV</key>
     <array/>
-    <key>postscriptUnderlinePosition</key>
-    <integer>0</integer>
-    <key>postscriptUnderlineThickness</key>
-    <integer>0</integer>
-    <key>postscriptWeightName</key>
-    <string>Normal</string>
     <key>styleName</key>
-    <string>Medium</string>
+    <string>Regular</string>
     <key>unitsPerEm</key>
     <integer>2000</integer>
     <key>versionMajor</key>

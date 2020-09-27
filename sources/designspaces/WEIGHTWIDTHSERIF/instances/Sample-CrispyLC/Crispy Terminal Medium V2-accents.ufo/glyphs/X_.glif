@@ -1,35 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="X" format="2">
-  <advance width="2670"/>
+  <advance width="2112"/>
   <unicode hex="0058"/>
+  <guideline x="1019" y="1440" angle="0" identifier="QqJrsRkusU"/>
   <outline>
     <contour>
-      <point x="181" y="0" type="line"/>
-      <point x="625" y="0" type="line"/>
-      <point x="624" y="639" type="line"/>
-      <point x="2044" y="639" type="line"/>
-      <point x="2043" y="0" type="line"/>
-      <point x="2488" y="0" type="line"/>
-      <point x="2489" y="878" type="line"/>
-      <point x="2047" y="878" type="line"/>
-      <point x="2124" y="842" type="line"/>
-      <point x="2435" y="1508" type="line"/>
-      <point x="2030" y="1609" type="line"/>
-      <point x="1727" y="971" type="line"/>
-      <point x="920" y="971" type="line"/>
-      <point x="616" y="1610" type="line"/>
-      <point x="198" y="1508" type="line"/>
-      <point x="525" y="844" type="line"/>
-      <point x="602" y="879" type="line"/>
-      <point x="180" y="879" type="line"/>
+      <point x="1659" y="0" type="line"/>
+      <point x="2064" y="0" type="line"/>
+      <point x="2064" y="349" type="line"/>
+      <point x="1848" y="349" type="line"/>
+      <point x="504" y="1600" type="line"/>
+      <point x="-24" y="1600" type="line"/>
+      <point x="-24" y="1251" type="line"/>
+      <point x="298" y="1251" type="line"/>
+    </contour>
+    <contour>
+      <point x="1623" y="893" type="line"/>
+      <point x="2094" y="1386" type="line"/>
+      <point x="1781" y="1657" type="line"/>
+      <point x="1059" y="893" type="line"/>
+    </contour>
+    <contour>
+      <point x="461" y="755" type="line"/>
+      <point x="-59" y="192" type="line"/>
+      <point x="275" y="-57" type="line"/>
+      <point x="1025" y="755" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-28 05:35:59 +0000</string>
+      <string>2020-09-19 16:29:04 +0000</string>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>2AoyMNBDus</key>

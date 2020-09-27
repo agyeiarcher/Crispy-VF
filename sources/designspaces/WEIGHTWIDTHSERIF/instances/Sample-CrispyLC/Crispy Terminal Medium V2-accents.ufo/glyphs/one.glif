@@ -1,47 +1,28 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="one" format="2">
-  <advance width="2251"/>
-  <unicode hex="0031"/>
-  <outline>
-    <contour>
-      <point x="99" y="0" type="line"/>
-      <point x="2149" y="0" type="line" identifier="CURJAw79Zl"/>
-      <point x="2149" y="332" type="line" identifier="0DUCJo8xIi"/>
-      <point x="1369" y="332" type="line" identifier="5nmxQXofSG"/>
-      <point x="1369" y="1600" type="line" identifier="4rjIeWbSbx"/>
-      <point x="936" y="1600" type="line"/>
-      <point x="159" y="1200" type="line"/>
-      <point x="298" y="867" type="line"/>
-      <point x="925" y="1172" type="line"/>
-      <point x="925" y="332" type="line"/>
-      <point x="99" y="332" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-28 05:24:39 +0000</string>
-      <key>com.typemytype.robofont.pointLabels</key>
-      <dict>
-        <key>0DUCJo8xIi</key>
-        <array>
-          <string>rightside</string>
-        </array>
-        <key>4rjIeWbSbx</key>
-        <array>
-          <string>rightside</string>
-        </array>
-        <key>5nmxQXofSG</key>
-        <array>
-          <string>rightside</string>
-        </array>
-        <key>CURJAw79Zl</key>
-        <array>
-          <string>rightside</string>
-        </array>
-      </dict>
-    </dict>
-  </lib>
+	<advance width="2251"/>
+	<unicode hex="0031"/>
+	<outline>
+		<contour>
+			<point x="99" y="0" type="line"/>
+			<point x="2149" y="0" type="line"/>
+			<point x="2149" y="332" type="line"/>
+			<point x="1369" y="332" type="line"/>
+			<point x="1369" y="1600" type="line"/>
+			<point x="936" y="1600" type="line"/>
+			<point x="159" y="1200" type="line"/>
+			<point x="298" y="867" type="line"/>
+			<point x="925" y="1172" type="line"/>
+			<point x="925" y="332" type="line"/>
+			<point x="99" y="332" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-09-19 16:28:55 +0000</string>
+			<key>com.typemytype.robofont.pointLabels</key>
+			<dict/>
+		</dict>
+	</lib>
 </glyph>

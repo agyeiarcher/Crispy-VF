@@ -1,0 +1,81 @@
+Web Fonts:
+**********
+
+Crispy Terminal Medium V2-accents.ufo
+-------------------------------------
+source: /Users/aamacbook/Work Interim/Crispy-VF/sources/designspaces/WEIGHTWIDTHSERIF/instances/Sample-CrispyLC/Crispy Terminal Medium V2-accents.ufo
+
+Build OTF
+'''''''''
+    path: /Users/aamacbook/Work Interim/Crispy-VF/sources/designspaces/WEIGHTWIDTHSERIF/instances/Sample-CrispyLC/Crispy-Test-Medium_web.otf
+    Source is a UFO file. Generate OTF.
+        --------------------
+        
+        makeotf Report
+        
+        makeotf [Note] setting the USE_TYPO_METRICS OS/2 fsSelection bit 7 from fontinfo keyword.
+        makeotf [Note] setting the WEIGHT_WIDTH_SLOPE_ONLY OS/2 fsSelection bit 8 from fontinfo keyword.
+        makeotf [Note] setting the OBLIQUE OS/2 fsSelection bit 9 from fontinfo keyword.
+        makeotfexe [WARNING] syntax error [../../../../../../..glyphOrder:298] (record skipped)(gnameError)
+        makeotfexe [WARNING] syntax error [../../../../../../..glyphOrder:299] (record skipped)(gnameError)
+        makeotfexe [WARNING] syntax error [../../../../../../..glyphOrder:300] (record skipped)(gnameError)
+        makeotfexe [WARNING] syntax error [../../../../../../..glyphOrder:301] (record skipped)(gnameError)
+        makeotfexe [WARNING] syntax error [../../../../../../..glyphOrder:302] (record skipped)(gnameError)
+        makeotfexe [WARNING] syntax error [../../../../../../..glyphOrder:303] (record skipped)(gnameError)
+        makeotfexe [WARNING] syntax error [../../../../../../..glyphOrder:304] (record skipped)(gnameError)
+        makeotfexe [WARNING] syntax error [../../../../../../..glyphOrder:305] (record skipped)(gnameError)
+        makeotfexe [WARNING] syntax error [../../../../../../..glyphOrder:306] (record skipped)(gnameError)
+        makeotfexe [WARNING] syntax error [../../../../../../..glyphOrder:307] (record skipped)(gnameError)
+        makeotfexe [FATAL] bad CharString format
+        makeotf [Error] Failed to build output font file 'tmpqrguely_.otf'.
+        None
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/fontCompiler/tools/compileTools.py", line 281, in _executeCommand
+          File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/fontCompiler/tools/compileTools.py", line 322, in embedded_makeotf
+          File "makeotf.py", line 2604, in runMakeOTF
+        externalFrameworks.fdkTools.makeotf.MakeOTFRunError
+        
+        --------------------
+        Traceback (most recent call last):
+          File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/externalFrameworks/fdkTools/autohint.py", line 1034, in hintFile
+          File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/externalFrameworks/fdkTools/autohint.py", line 929, in openFile
+          File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/externalFrameworks/fdkTools/autohint.py", line 997, in openOpenTypeFile
+        externalFrameworks.fdkTools.autohint.ACFontError: Failed to convert PS font /var/folders/rd/7r_1xhg16ydb1mv24hklvlhc0000gn/T/tmpqrguely_.otf to a temp CFF font.
+        
+        During handling of the above exception, another exception occurred:
+        
+        Traceback (most recent call last):
+          File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/fontCompiler/tools/compileTools.py", line 281, in _executeCommand
+          File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/fontCompiler/tools/compileTools.py", line 327, in embedded_autohint
+          File "/Applications/RoboFont.app/Contents/Resources/lib/python3.7/externalFrameworks/fdkTools/autohint.py", line 1043, in hintFile
+        externalFrameworks.fdkTools.autohint.ACFontError: Error parsing font file <tmpqrguely_.otf>.
+        
+        Hinting font /var/folders/rd/7r_1xhg16ydb1mv24hklvlhc0000gn/T/tmpqrguely_.otf. Start time: Sat Sep 19 10:33:41 2020.
+        Converting Type1 font to temp CFF font file...
+        Attempted to convert font /var/folders/rd/7r_1xhg16ydb1mv24hklvlhc0000gn/T/tmpqrguely_.otf  from PS to a temporary CFF data file.
+        tx: --- /var/folders/rd/7r_1xhg16ydb1mv24hklvlhc0000gn/T/tmpqrguely_.otf
+        tx: end of file [/var/folders/rd/7r_1xhg16ydb1mv24hklvlhc0000gn/T/tmpqrguely_.otf]
+        tx: fatal error
+        externalFrameworks.fdkTools.autohint.ACFontError: Failed to convert PS font /var/folders/rd/7r_1xhg16ydb1mv24hklvlhc0000gn/T/tmpqrguely_.otf to a temp CFF font.
+        None
+        
+
+
+
+TTFAutohint options:
+********************
+addTTFAutoHintInfo     = False
+dwClearType            = False
+fallbackScript         = False
+gdiClearType           = True
+grayScale              = False
+hintRangeMaximum       = 50
+hintRangeMinimum       = 8
+hintingLimit           = 200
+noHintingLimit         = False
+noXHeightIncreaseLimit = False
+overRideFontLicense    = False
+preHinting             = False
+symbolFont             = False
+xHeightIncreaseLimit   = 14

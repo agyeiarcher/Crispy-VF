@@ -1,7 +1,7 @@
-from pyNewsApi import PYNEWS
+# from pyNewsApi import PYNEWS
 import io, os, glob
 
-variableFontPath = '/Users/aamacbook/Work Interim/Crispy-VF/font/variable_ttf/Crispy[SRIF,wdth,wght]-VF.ttf'
+# variableFontPath = '/Users/aamacbook/Work Interim/Crispy-VF/font/variable_ttf/Crispy[SRIF,wdth,wght]-VF.ttf'
 
 filetype = "*.txt"
 
@@ -50,17 +50,17 @@ def pageLabel(instanceName):
     text(str(instanceName), (40, height() - 40))
 
 def makeProof(proofString):
-    for instanceName, setupMatrix in listNamedInstances(variableFontPath).items():
-        newPage("LetterLandscape")
-        print(instanceName, setupMatrix)
-        pageLabel(instanceName)
-        font(variableFontPath)
-        fontVariations(wght= setupMatrix['wght'], wdth = setupMatrix['wdth'], SRIF = setupMatrix['SRIF'])
-        fs = calcTextSizeForBox(proofString, spacingStringBox)
-        print(fs)
-        fontSize(fs*0.7)
-        lineHeight(fs*0.8)
-        spacingText = textBox(proofString, spacingStringBox, align="left")
+    # for instanceName, setupMatrix in listNamedInstances(variableFontPath).items():
+    newPage("LetterLandscape")
+    # print(instanceName, setupMatrix)
+    # pageLabel(instanceName)
+    installFont()
+    # fontVariations(wght= setupMatrix['wght'], wdth = setupMatrix['wdth'], SRIF = setupMatrix['SRIF'])
+    fs = calcTextSizeForBox(proofString, spacingStringBox)
+    print(fs)
+    fontSize(fs*0.7)
+    lineHeight(fs*0.8)
+    spacingText = textBox(proofString, spacingStringBox, align="left")
 
 for proofStrings in texts:       
     makeProof(proofStrings)
