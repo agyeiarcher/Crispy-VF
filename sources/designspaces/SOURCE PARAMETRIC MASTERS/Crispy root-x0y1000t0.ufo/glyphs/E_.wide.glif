@@ -1,20 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="E.wide" format="2">
-  <advance width="132"/>
-  <outline>
-    <contour>
-      <point x="47.0" y="0.0" type="line" identifier="fZynkQ4XHB"/>
-      <point x="106.0" y="0.0" type="line" identifier="FAQNpgUPxV"/>
-      <point x="106.0" y="462.0" type="line" identifier="5cgTYOhATF"/>
-      <point x="49.0" y="462.0" type="line" identifier="bWs42DaCgU"/>
-      <point x="49.0" y="570.0" type="line" identifier="VtD2aADJmn"/>
-      <point x="95.0" y="570.0" type="line" identifier="PpbsFdHAnS"/>
-      <point x="95.0" y="1032.0" type="line" identifier="8WuC5p8Ax5"/>
-      <point x="49.0" y="1032.0" type="line" identifier="m39IWn9ntA"/>
-      <point x="49.0" y="1138.0" type="line" identifier="gQ21I4SHQg"/>
-      <point x="105.0" y="1138.0" type="line" identifier="eqNb2VTwYs"/>
-      <point x="105.0" y="1600.0" type="line" identifier="qYRmo14Il5"/>
-      <point x="47.0" y="1600.0" type="line" identifier="HmJIcnLWfC"/>
-    </contour>
-  </outline>
+	<advance width="132"/>
+	<outline>
+		<contour>
+			<point x="47" y="0" type="line"/>
+			<point x="106" y="0" type="line"/>
+			<point x="106" y="462" type="line"/>
+			<point x="49" y="462" type="line"/>
+			<point x="49" y="570" type="line"/>
+			<point x="95" y="570" type="line"/>
+			<point x="95" y="1032" type="line"/>
+			<point x="49" y="1032" type="line"/>
+			<point x="49" y="1138" type="line"/>
+			<point x="105" y="1138" type="line"/>
+			<point x="105" y="1600" type="line"/>
+			<point x="47" y="1600" type="line"/>
+		</contour>
+	</outline>
 </glyph>

@@ -1,32 +1,32 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asterisk" format="2">
-  <advance width="1564"/>
-  <unicode hex="002A"/>
-  <outline>
-    <contour>
-      <point x="380.0" y="530.0" type="line"/>
-      <point x="785.0" y="917.0" type="line"/>
-      <point x="1217.0" y="527.0" type="line"/>
-      <point x="1357.0" y="673.0" type="line"/>
-      <point x="787.0" y="993.0" type="line"/>
-      <point x="1350.0" y="894.0" type="line"/>
-      <point x="1241.0" y="1437.0" type="line"/>
-      <point x="786.0" y="1140.0" type="line"/>
-      <point x="786.0" y="1600.0" type="line"/>
-      <point x="783.0" y="1600.0" type="line"/>
-      <point x="783.0" y="1140.0" type="line"/>
-      <point x="337.0" y="1425.0" type="line"/>
-      <point x="218.0" y="907.0" type="line"/>
-      <point x="782.0" y="993.0" type="line"/>
-      <point x="210.0" y="669.0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-09-07 02:43:36 +0000</string>
-    </dict>
-  </lib>
+	<advance width="1564"/>
+	<unicode hex="002A"/>
+	<outline>
+		<contour>
+			<point x="380" y="530" type="line"/>
+			<point x="785" y="917" type="line"/>
+			<point x="1217" y="527" type="line"/>
+			<point x="1357" y="673" type="line"/>
+			<point x="787" y="993" type="line"/>
+			<point x="1350" y="894" type="line"/>
+			<point x="1241" y="1437" type="line"/>
+			<point x="786" y="1140" type="line"/>
+			<point x="786" y="1600" type="line"/>
+			<point x="783" y="1600" type="line"/>
+			<point x="783" y="1140" type="line"/>
+			<point x="337" y="1425" type="line"/>
+			<point x="218" y="907" type="line"/>
+			<point x="782" y="993" type="line"/>
+			<point x="210" y="669" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-07 02:43:36 +0000</string>
+		</dict>
+	</lib>
 </glyph>

@@ -1,35 +1,35 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="S" format="2">
-  <advance width="5184"/>
-  <unicode hex="0053"/>
-  <outline>
-    <contour>
-      <point x="192.0" y="0.0" type="line" identifier="09VlJ0BjUX"/>
-      <point x="4502.0" y="0.0" type="line" identifier="EagWihqFM8"/>
-      <point x="4994.0" y="489.0" type="line" identifier="obegs45WH6"/>
-      <point x="4994.0" y="801.0" type="line" identifier="KfNuQA7eZe"/>
-      <point x="975.0" y="801.0" type="line" identifier="At364YZFEy"/>
-      <point x="975.0" y="1142.0" type="line" identifier="oqKUsy2FBT"/>
-      <point x="1410.0" y="1598.0" type="line" identifier="89ajCgrRfr"/>
-      <point x="3909.0" y="1598.0" type="line" identifier="3ZUkG35meB"/>
-      <point x="3909.0" y="1100.0" type="line" identifier="DTOJhFIl15"/>
-      <point x="4924.0" y="1100.0" type="line" identifier="9KDcrfQ5Ui"/>
-      <point x="4924.0" y="1600.0" type="line" identifier="SaF9ojRFrW"/>
-      <point x="695.0" y="1600.0" type="line" identifier="ueQ0SJhv3l"/>
-      <point x="200.0" y="1104.0" type="line" identifier="t2QyB8XnZq"/>
-      <point x="200.0" y="799.0" type="line" identifier="3sQ8t8BZ6b"/>
-      <point x="4219.0" y="799.0" type="line" identifier="yiV6OCBLHg"/>
-      <point x="4219.0" y="456.0" type="line" identifier="7J37trxRzO"/>
-      <point x="3781.0" y="2.0" type="line" identifier="9kdl9SYsn8"/>
-      <point x="1207.0" y="2.0" type="line" identifier="yZDWuX8LLe"/>
-      <point x="1207.0" y="503.0" type="line" identifier="jYb9001DTm"/>
-      <point x="192.0" y="503.0" type="line" identifier="ho4DrS0rdW"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.typemytype.robofont.pointLabels</key>
-      <dict/>
-    </dict>
-  </lib>
+	<advance width="5184"/>
+	<unicode hex="0053"/>
+	<outline>
+		<contour>
+			<point x="192" y="0" type="line"/>
+			<point x="4502" y="0" type="line"/>
+			<point x="4994" y="489" type="line"/>
+			<point x="4994" y="801" type="line"/>
+			<point x="975" y="801" type="line"/>
+			<point x="975" y="1142" type="line"/>
+			<point x="1410" y="1598" type="line"/>
+			<point x="3909" y="1598" type="line"/>
+			<point x="3909" y="1100" type="line"/>
+			<point x="4924" y="1100" type="line"/>
+			<point x="4924" y="1600" type="line"/>
+			<point x="695" y="1600" type="line"/>
+			<point x="200" y="1104" type="line"/>
+			<point x="200" y="799" type="line"/>
+			<point x="4219" y="799" type="line"/>
+			<point x="4219" y="456" type="line"/>
+			<point x="3781" y="2" type="line"/>
+			<point x="1207" y="2" type="line"/>
+			<point x="1207" y="503" type="line"/>
+			<point x="192" y="503" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.typemytype.robofont.pointLabels</key>
+			<dict/>
+		</dict>
+	</lib>
 </glyph>

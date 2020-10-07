@@ -1,32 +1,32 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="asterisk" format="2">
-  <advance width="2196"/>
-  <unicode hex="002A"/>
-  <outline>
-    <contour>
-      <point x="923.0" y="455.0" type="line"/>
-      <point x="1083.0" y="1002.0" type="line"/>
-      <point x="1286.0" y="458.0" type="line"/>
-      <point x="1758.0" y="683.0" type="line"/>
-      <point x="1216.0" y="1073.0" type="line"/>
-      <point x="1964.0" y="1243.0" type="line"/>
-      <point x="1966.0" y="1246.0" type="line"/>
-      <point x="1214.0" y="1075.0" type="line"/>
-      <point x="1471.0" y="1600.0" type="line"/>
-      <point x="693.0" y="1600.0" type="line"/>
-      <point x="947.0" y="1071.0" type="line"/>
-      <point x="230.0" y="1246.0" type="line"/>
-      <point x="231.0" y="1243.0" type="line"/>
-      <point x="944.0" y="1068.0" type="line"/>
-      <point x="451.0" y="688.0" type="line"/>
-    </contour>
-  </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2018-09-07 02:43:36 +0000</string>
-    </dict>
-  </lib>
+	<advance width="2196"/>
+	<unicode hex="002A"/>
+	<outline>
+		<contour>
+			<point x="923" y="455" type="line"/>
+			<point x="1083" y="1002" type="line"/>
+			<point x="1286" y="458" type="line"/>
+			<point x="1758" y="683" type="line"/>
+			<point x="1216" y="1073" type="line"/>
+			<point x="1964" y="1243" type="line"/>
+			<point x="1966" y="1246" type="line"/>
+			<point x="1214" y="1075" type="line"/>
+			<point x="1471" y="1600" type="line"/>
+			<point x="693" y="1600" type="line"/>
+			<point x="947" y="1071" type="line"/>
+			<point x="230" y="1246" type="line"/>
+			<point x="231" y="1243" type="line"/>
+			<point x="944" y="1068" type="line"/>
+			<point x="451" y="688" type="line"/>
+		</contour>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.Export</key>
+			<false/>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2018-09-07 02:43:36 +0000</string>
+		</dict>
+	</lib>
 </glyph>
