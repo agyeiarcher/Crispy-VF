@@ -1,35 +1,35 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nine" format="2">
-	<advance width="1777"/>
-	<unicode hex="0039"/>
-	<outline>
-		<contour>
-			<point x="1767" y="1600" type="line"/>
-			<point x="10" y="1600" type="line"/>
-			<point x="10" y="799" type="line"/>
-			<point x="901" y="799" type="line"/>
-			<point x="901" y="233" type="line"/>
-			<point x="789" y="2" type="line"/>
-			<point x="877" y="2" type="line"/>
-			<point x="877" y="420" type="line"/>
-			<point x="11" y="420" type="line"/>
-			<point x="11" y="0" type="line"/>
-			<point x="1495" y="0" type="line"/>
-			<point x="1767" y="203" type="line"/>
-		</contour>
-		<contour>
-			<point x="876" y="801" type="line"/>
-			<point x="876" y="1598" type="line"/>
-			<point x="901" y="1598" type="line"/>
-			<point x="901" y="801" type="line"/>
-		</contour>
-	</outline>
-	<lib>
-		<dict>
-			<key>com.schriftgestaltung.Glyphs.Export</key>
-			<false/>
-			<key>com.schriftgestaltung.Glyphs.lastChange</key>
-			<string>2019-04-28 12:47:08 +0000</string>
-		</dict>
-	</lib>
+  <advance width="1777"/>
+  <unicode hex="0039"/>
+  <outline>
+    <contour>
+      <point x="1767" y="1600" type="line"/>
+      <point x="10" y="1600" type="line"/>
+      <point x="10" y="799" type="line"/>
+      <point x="901" y="799" type="line"/>
+      <point x="901" y="233" type="line"/>
+      <point x="789" y="2" type="line"/>
+      <point x="877" y="2" type="line"/>
+      <point x="877" y="420" type="line"/>
+      <point x="11" y="420" type="line"/>
+      <point x="11" y="0" type="line"/>
+      <point x="1495" y="0" type="line"/>
+      <point x="1767" y="203" type="line"/>
+    </contour>
+    <contour>
+      <point x="876" y="801" type="line"/>
+      <point x="876" y="1598" type="line"/>
+      <point x="901" y="1598" type="line"/>
+      <point x="901" y="801" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 12:47:08 +0000</string>
+    </dict>
+  </lib>
 </glyph>

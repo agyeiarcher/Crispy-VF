@@ -1,6 +1,13 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="fiveinferior" format="2">
-  <advance width="443"/>
-  <outline>
-  </outline>
+	<advance width="443"/>
+	<unicode hex="2085"/>
+	<outline>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-10-11 02:24:14 +0000</string>
+		</dict>
+	</lib>
 </glyph>

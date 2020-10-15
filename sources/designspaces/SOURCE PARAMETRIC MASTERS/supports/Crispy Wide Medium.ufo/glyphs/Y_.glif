@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Y" format="2">
-  <advance width="3760"/>
+  <advance width="3715"/>
   <unicode hex="0059"/>
   <outline>
-    <component base="Y.alt" xOffset="-5"/>
+    <component base="Y.alt"/>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-28 12:46:06 +0000</string>
+      <string>2020-10-11 02:24:00 +0000</string>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>3Kveia3O9h</key>

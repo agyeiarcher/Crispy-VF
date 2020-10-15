@@ -3,25 +3,25 @@
 <plist version="1.0">
   <dict>
     <key>/arrowNE</key>
-    <string>_arrowN_E_.glif</string>
+    <string>/arrowN_E_.glif</string>
     <key>/arrowNW</key>
-    <string>_arrowN_W_.glif</string>
+    <string>/arrowN_W_.glif</string>
     <key>/arrowSE</key>
-    <string>_arrowS_E_.glif</string>
+    <string>/arrowS_E_.glif</string>
     <key>/arrowSW</key>
-    <string>_arrowS_W_.glif</string>
+    <string>/arrowS_W_.glif</string>
     <key>/arrowdown</key>
-    <string>_arrowdown.glif</string>
+    <string>/arrowdown.glif</string>
     <key>/arrowleft</key>
-    <string>_arrowleft.glif</string>
+    <string>/arrowleft.glif</string>
     <key>/arrowleftright</key>
-    <string>_arrowleftright.glif</string>
+    <string>/arrowleftright.glif</string>
     <key>/arrowright</key>
-    <string>_arrowright.glif</string>
+    <string>/arrowright.glif</string>
     <key>/arrowup</key>
-    <string>_arrowup.glif</string>
+    <string>/arrowup.glif</string>
     <key>/arrowupdown</key>
-    <string>_arrowupdown.glif</string>
+    <string>/arrowupdown.glif</string>
     <key>A</key>
     <string>A_.glif</string>
     <key>AE</key>
@@ -146,12 +146,12 @@
     <string>O_dieresis.glif</string>
     <key>Ograve</key>
     <string>O_grave.glif</string>
-    <key>Ohm</key>
-    <string>O_hm.glif</string>
     <key>Omacronacute</key>
     <string>O_macronacute.glif</string>
     <key>Omacrongrave</key>
     <string>O_macrongrave.glif</string>
+    <key>Omega</key>
+    <string>O_mega.glif</string>
     <key>Oslash</key>
     <string>O_slash.glif</string>
     <key>Otilde</key>
@@ -316,8 +316,6 @@
     <string>dollar.glif</string>
     <key>dotaccent</key>
     <string>dotaccent.glif</string>
-    <key>dotlessi</key>
-    <string>dotlessi.glif</string>
     <key>doubleprimemod</key>
     <string>doubleprimemod.glif</string>
     <key>e</key>

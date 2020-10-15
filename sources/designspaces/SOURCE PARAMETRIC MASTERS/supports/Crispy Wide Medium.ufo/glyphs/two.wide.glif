@@ -1,20 +1,20 @@
-<?xml version='1.0' encoding='UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <glyph name="two.wide" format="2">
-  <advance width="4681"/>
-  <outline>
-    <contour>
-      <point x="399" y="0" type="line"/>
-      <point x="4299" y="0" type="line" identifier="pzdvPTirLJ"/>
-      <point x="4298" y="329" type="line"/>
-      <point x="992" y="329" type="line"/>
-      <point x="992" y="611" type="line"/>
-      <point x="4306" y="611" type="line" identifier="yyb1NCCI5w"/>
-      <point x="4306" y="1600" type="line" identifier="5FogYRSgkk"/>
-      <point x="403" y="1600" type="line" identifier="svlFvrau4c"/>
-      <point x="403" y="1271" type="line"/>
-      <point x="3715" y="1271" type="line"/>
-      <point x="3715" y="941" type="line"/>
-      <point x="399" y="941" type="line" identifier="teVKnpBcVb"/>
-    </contour>
-  </outline>
+	<advance width="4681"/>
+	<outline>
+		<contour>
+			<point x="399" y="0" type="line"/>
+			<point x="4299" y="0" type="line"/>
+			<point x="4298" y="329" type="line"/>
+			<point x="992" y="329" type="line"/>
+			<point x="992" y="611" type="line"/>
+			<point x="4306" y="611" type="line"/>
+			<point x="4306" y="1600" type="line"/>
+			<point x="403" y="1600" type="line"/>
+			<point x="403" y="1271" type="line"/>
+			<point x="3715" y="1271" type="line"/>
+			<point x="3715" y="941" type="line"/>
+			<point x="399" y="941" type="line"/>
+		</contour>
+	</outline>
 </glyph>

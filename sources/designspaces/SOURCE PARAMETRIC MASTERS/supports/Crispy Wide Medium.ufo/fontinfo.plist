@@ -3,11 +3,11 @@
 <plist version="1.0">
   <dict>
     <key>ascender</key>
-    <integer>1600</integer>
+    <integer>1700</integer>
     <key>capHeight</key>
     <integer>1600</integer>
     <key>descender</key>
-    <integer>-400</integer>
+    <integer>-300</integer>
     <key>familyName</key>
     <string>Crispy</string>
     <key>guidelines</key>
@@ -16,7 +16,7 @@
         <key>angle</key>
         <integer>0</integer>
         <key>identifier</key>
-        <string>0NNcSLiiEY</string>
+        <string>wvUk7AA1dQ</string>
         <key>x</key>
         <integer>4366</integer>
         <key>y</key>
@@ -26,7 +26,7 @@
         <key>angle</key>
         <integer>0</integer>
         <key>identifier</key>
-        <string>eMlx6N2HHl</string>
+        <string>QOwxYOT8ao</string>
         <key>x</key>
         <integer>4337</integer>
         <key>y</key>
@@ -41,26 +41,22 @@
     <array/>
     <key>openTypeOS2VendorID</key>
     <string>!666</string>
-    <key>openTypeOS2WeightClass</key>
-    <integer>400</integer>
-    <key>openTypeOS2WidthClass</key>
-    <integer>5</integer>
     <key>postscriptBlueValues</key>
     <array/>
     <key>postscriptFamilyBlues</key>
     <array/>
     <key>postscriptFamilyOtherBlues</key>
     <array/>
+    <key>postscriptFontName</key>
+    <string>Crispy-Regular</string>
     <key>postscriptOtherBlues</key>
     <array/>
     <key>postscriptStemSnapH</key>
     <array/>
     <key>postscriptStemSnapV</key>
     <array/>
-    <key>postscriptWeightName</key>
-    <string>Normal</string>
     <key>styleName</key>
-    <string>Wide Medium-Support</string>
+    <string>Wide Medium</string>
     <key>unitsPerEm</key>
     <integer>2000</integer>
     <key>versionMajor</key>
@@ -68,6 +64,6 @@
     <key>versionMinor</key>
     <integer>0</integer>
     <key>xHeight</key>
-    <integer>800</integer>
+    <integer>1400</integer>
   </dict>
 </plist>
