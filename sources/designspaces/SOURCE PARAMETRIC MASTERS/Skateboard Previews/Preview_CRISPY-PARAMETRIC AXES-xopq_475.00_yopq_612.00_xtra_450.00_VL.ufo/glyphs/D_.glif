@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="D" format="2">
+  <advance width="2851"/>
+  <unicode hex="0044"/>
+  <outline>
+    <contour>
+      <point x="257.94837400527473" y="0.0" type="line"/>
+      <point x="2378.8654907068953" y="0.0" type="line"/>
+      <point x="2691.559109784291" y="473.1306018921031" type="line"/>
+      <point x="2691.559109784291" y="1600.0" type="line"/>
+      <point x="257.94837400527473" y="1600.0" type="line"/>
+    </contour>
+    <contour>
+      <point x="740.7034266712233" y="370.75946932750804" type="line"/>
+      <point x="740.7034266712233" y="1229.2405306724918" type="line"/>
+      <point x="2208.919240444179" y="1229.2405306724918" type="line"/>
+      <point x="2208.919240444179" y="571.4162182590753" type="line"/>
+      <point x="2040.249353989064" y="370.75946932750804" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>DhFNkdKcfj</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>yunTqSzRcA</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

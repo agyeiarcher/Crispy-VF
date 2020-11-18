@@ -1,21 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="2934"/>
+  <advance width="2935"/>
   <unicode hex="0048"/>
   <outline>
     <contour>
-      <point x="263" y="0" type="line" identifier="uqAJBjDIOT"/>
-      <point x="706" y="0" type="line" identifier="WUaPOcaxKT"/>
-      <point x="706" y="643" type="line" identifier="QjywsYY2yB"/>
-      <point x="2228" y="643" type="line" identifier="7JgTtdb0jg"/>
-      <point x="2228" y="0" type="line" identifier="njzlIRBsoY"/>
-      <point x="2672" y="0" type="line" identifier="oOtn61SmRY"/>
-      <point x="2672" y="1600" type="line" identifier="8OglXgblhr"/>
-      <point x="2228" y="1600" type="line" identifier="db0bPhBdaU"/>
-      <point x="2228" y="975" type="line" identifier="MTAeavIVWY"/>
-      <point x="706" y="975" type="line" identifier="lggLiivmLt"/>
-      <point x="706" y="1600" type="line" identifier="UPaHY3UudR"/>
-      <point x="263" y="1600" type="line" identifier="ZnCDQVdtyD"/>
+      <point x="233" y="0" type="line"/>
+      <point x="715" y="0" type="line"/>
+      <point x="715" y="626" type="line"/>
+      <point x="2219" y="626" type="line"/>
+      <point x="2219" y="0" type="line"/>
+      <point x="2702" y="0" type="line"/>
+      <point x="2702" y="1600" type="line"/>
+      <point x="2219" y="1600" type="line"/>
+      <point x="2219" y="1006" type="line"/>
+      <point x="715" y="1006" type="line"/>
+      <point x="715" y="1600" type="line"/>
+      <point x="233" y="1600" type="line"/>
     </contour>
   </outline>
   <lib>

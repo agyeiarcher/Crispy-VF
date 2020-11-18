@@ -1,7 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="e" format="2">
-  <advance width="494"/>
+  <advance width="2995"/>
   <unicode hex="0065"/>
   <outline>
+    <contour>
+      <point x="2709" y="532" type="line"/>
+      <point x="2709" y="1390" type="line"/>
+      <point x="729" y="1390" type="line"/>
+      <point x="315" y="968" type="line"/>
+      <point x="315" y="0" type="line"/>
+      <point x="2719" y="0" type="line"/>
+      <point x="2719" y="2" type="line"/>
+      <point x="317" y="2" type="line"/>
+      <point x="317" y="967" type="line"/>
+      <point x="731" y="1388" type="line"/>
+      <point x="2707" y="1388" type="line"/>
+      <point x="2707" y="534" type="line"/>
+      <point x="316" y="534" type="line"/>
+      <point x="316" y="532" type="line"/>
+    </contour>
   </outline>
 </glyph>

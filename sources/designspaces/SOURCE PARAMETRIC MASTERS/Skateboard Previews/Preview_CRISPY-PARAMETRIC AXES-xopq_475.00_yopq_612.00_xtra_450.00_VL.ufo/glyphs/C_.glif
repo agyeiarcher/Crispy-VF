@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C" format="2">
+  <advance width="2766"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="160.92139836134996" y="0.0" type="line"/>
+      <point x="2560.8834155843842" y="0.0" type="line"/>
+      <point x="2560.8834155843842" y="664.0818118706738" type="line"/>
+      <point x="2077.38068338141" y="664.0818118706738" type="line"/>
+      <point x="2077.38068338141" y="370.75946932750804" type="line"/>
+      <point x="644.4241305643243" y="370.75946932750804" type="line"/>
+      <point x="644.4241305643243" y="1009.844726739884" type="line"/>
+      <point x="785.5466429071756" y="1232.1331881172073" type="line"/>
+      <point x="2076.91936440072" y="1232.1331881172073" type="line"/>
+      <point x="2076.91936440072" y="937.5974353807283" type="line"/>
+      <point x="2559.7644694850505" y="937.5974353807283" type="line"/>
+      <point x="2559.7644694850505" y="1600.0" type="line"/>
+      <point x="470.4138589644643" y="1600.0" type="line"/>
+      <point x="160.92139836134996" y="1132.670700655688" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 11:49:41 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>QjTd5GXXER</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>o9Cec4GtsE</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

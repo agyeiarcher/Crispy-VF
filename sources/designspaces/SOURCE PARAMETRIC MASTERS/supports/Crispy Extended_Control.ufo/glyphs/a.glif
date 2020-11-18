@@ -9,19 +9,17 @@
       <point x="1523" y="247" type="line"/>
       <point x="1623" y="0" type="line"/>
       <point x="1966" y="0" type="line"/>
-      <point x="1966" y="1400" type="line"/>
-      <point x="624" y="1400" type="line"/>
-      <point x="106" y="772" type="line"/>
+      <point x="1966" y="1300" type="line"/>
+      <point x="624" y="1300" type="line"/>
+      <point x="106" y="672" type="line"/>
     </contour>
     <contour>
       <point x="549" y="307" type="line"/>
-      <point x="549" y="692" type="line"/>
-      <point x="872" y="1093" type="line"/>
-      <point x="1523" y="1093" type="line"/>
-      <point x="1523" y="307" type="line"/>
-    </contour>
-    <contour>
-      <point x="1324" y="0" type="move"/>
+      <point x="549" y="592" type="line"/>
+      <point x="872" y="993" type="line"/>
+      <point x="1523" y="993" type="line"/>
+      <point x="1523" y="455" type="line"/>
+      <point x="1407" y="307" type="line"/>
     </contour>
   </outline>
 </glyph>

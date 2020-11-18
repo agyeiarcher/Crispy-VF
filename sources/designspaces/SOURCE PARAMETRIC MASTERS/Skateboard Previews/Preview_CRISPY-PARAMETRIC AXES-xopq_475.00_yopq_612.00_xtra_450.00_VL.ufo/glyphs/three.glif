@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three" format="2">
+  <advance width="2786"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="191.31251095439956" y="0.0" type="line"/>
+      <point x="2616.4805349451835" y="0.0" type="line"/>
+      <point x="2616.4092570952134" y="961.265978742492" type="line"/>
+      <point x="2278.2061970306518" y="961.265978742492" type="line"/>
+      <point x="2454.0229540851815" y="1181.7293851097722" type="line"/>
+      <point x="2454.0229540851815" y="1600.0" type="line"/>
+      <point x="283.47563377974996" y="1600.0" type="line"/>
+      <point x="283.47563377974996" y="997.3659033644506" type="line"/>
+      <point x="766.9783659827244" y="997.3659033644506" type="line"/>
+      <point x="766.9783659827244" y="1238.9701051449233" type="line"/>
+      <point x="1971.1778490008514" y="1238.9701051449233" type="line"/>
+      <point x="1971.1778490008514" y="1174.0912315290038" type="line"/>
+      <point x="1815.5256480278272" y="974.4185211153734" type="line"/>
+      <point x="1031.6387708358652" y="974.2503870525662" type="line"/>
+      <point x="1031.6387708358652" y="643.4608177530696" type="line"/>
+      <point x="2132.906524892239" y="643.6289518158768" type="line"/>
+      <point x="2132.9778027422094" y="361.0298948550764" type="line"/>
+      <point x="674.1576160387299" y="361.0298948550764" type="line"/>
+      <point x="674.1576160387299" y="639.5457872954241" type="line"/>
+      <point x="191.31251095439956" y="639.5457872954241" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:20:01 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

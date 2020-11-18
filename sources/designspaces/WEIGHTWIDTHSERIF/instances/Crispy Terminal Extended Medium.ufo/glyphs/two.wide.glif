@@ -1,20 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="two.wide" format="2">
-  <advance width="4643"/>
+  <advance width="4644"/>
   <outline>
     <contour>
-      <point x="405" y="0" type="line"/>
-      <point x="4258" y="0" type="line" identifier="pzdvPTirLJ"/>
-      <point x="4257" y="330" type="line"/>
-      <point x="957" y="330" type="line"/>
-      <point x="957" y="611" type="line"/>
-      <point x="4263" y="611" type="line" identifier="yyb1NCCI5w"/>
-      <point x="4263" y="1600" type="line" identifier="5FogYRSgkk"/>
-      <point x="408" y="1600" type="line" identifier="svlFvrau4c"/>
+      <point x="404" y="0" type="line"/>
+      <point x="4258" y="0" type="line"/>
+      <point x="4258" y="330" type="line"/>
+      <point x="958" y="330" type="line"/>
+      <point x="958" y="611" type="line"/>
+      <point x="4264" y="611" type="line"/>
+      <point x="4264" y="1600" type="line"/>
+      <point x="408" y="1600" type="line"/>
       <point x="408" y="1270" type="line"/>
-      <point x="3712" y="1270" type="line"/>
-      <point x="3712" y="942" type="line"/>
-      <point x="405" y="942" type="line" identifier="teVKnpBcVb"/>
+      <point x="3713" y="1270" type="line"/>
+      <point x="3713" y="942" type="line"/>
+      <point x="404" y="942" type="line"/>
     </contour>
   </outline>
 </glyph>

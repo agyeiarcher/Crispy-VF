@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon" format="2">
+  <advance width="704"/>
+  <unicode hex="003B"/>
+  <outline>
+    <component base="commaturnedmod" xOffset="117.81977349192846"/>
+    <component base="period" xOffset="25.056808797728877" yOffset="828.8798872895726"/>
+    <component base="comma" xOffset="25.30525842341823" yOffset="-7.9843073789805"/>
+  </outline>
+</glyph>

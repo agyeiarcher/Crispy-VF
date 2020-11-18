@@ -1,29 +1,31 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="A" format="2">
-  <advance width="4434"/>
+  <advance width="5019"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="-5" y="86" type="line" smooth="yes"/>
-      <point x="721" y="-53" type="line"/>
-      <point x="1116" y="1071" type="line" smooth="yes"/>
-      <point x="3279" y="1071" type="line"/>
-      <point x="3673" y="-53" type="line" smooth="yes"/>
-      <point x="4439" y="85" type="line" smooth="yes"/>
-      <point x="3748" y="1600" type="line" smooth="yes"/>
-      <point x="686" y="1600" type="line" smooth="yes"/>
+      <point x="221" y="0" type="line"/>
+      <point x="1041" y="0" type="line"/>
+      <point x="1041" y="883" type="line"/>
+      <point x="1214" y="1071" type="line"/>
+      <point x="3978" y="1071" type="line"/>
+      <point x="3978" y="0" type="line"/>
+      <point x="4798" y="0" type="line"/>
+      <point x="4798" y="1600" type="line"/>
+      <point x="693" y="1600" type="line"/>
+      <point x="221" y="1068" type="line"/>
     </contour>
     <contour>
-      <point x="764" y="418" type="line"/>
-      <point x="3617" y="418" type="line"/>
-      <point x="3342" y="947" type="line"/>
-      <point x="1041" y="947" type="line"/>
+      <point x="901" y="316" type="line"/>
+      <point x="4109" y="316" type="line"/>
+      <point x="4109" y="845" type="line"/>
+      <point x="901" y="845" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-28 05:35:59 +0000</string>
+      <string>2020-10-07 01:13:46 +0000</string>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict/>
     </dict>
