@@ -1,7 +1,17 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="r" format="2">
-  <advance width="500"/>
+  <advance width="2329"/>
   <unicode hex="0072"/>
   <outline>
+    <contour>
+      <point x="2309" y="888" type="line"/>
+      <point x="765" y="888" type="line"/>
+      <point x="332" y="453" type="line"/>
+      <point x="332" y="0" type="line"/>
+      <point x="330" y="0" type="line"/>
+      <point x="330" y="964" type="line"/>
+      <point x="764" y="1400" type="line"/>
+      <point x="2309" y="1400" type="line"/>
+    </contour>
   </outline>
 </glyph>
