@@ -6,43 +6,52 @@ import defcon
 f = CurrentFont()
 thisGlyph = CurrentGlyph()
 doc = DesignSpaceDocument()
-doc.read("Crispy[SRIF,wdth,wght].designspace")
-referenceFileName = doc.sources[0].familyName #this assumed a well-made designspace file with correctly named font masters.
+doc.read("CRISPY-PARAMETRIC AXES.designspace")
 coordinateslist = []
+problemsList = []
+for k in doc.sources:
+    print(k.path)
 
-fontsList =  doc.loadSourceFonts(defcon.Font)
+for k in doc.sources:
+    b = OpenFont((k.path), showInterface=False)
+    for glyph in b:
+        if glyph.name == "greater":
+             # print(glyph.font.info.familyName + " " + glyph.font.info.styleName)
+             pointCount = 0
+             for contour in glyph:
+                 for segment in contour.segments:
+                     for points in segment:
+                         pointCount += 1          
+             errorCount = 0
+             for refFonts in doc.sources:
+                temp = OpenFont((refFonts.path), showInterface=False)
+                compatible, report = glyph.isCompatible(temp[glyph.name])
+                if compatible:
+                    errorCount+=0
+                else:
+                    errorCount+=1
+                    # print("no!", temp.info.styleName)
+                    # print('\n    ')
+                if errorCount>len(doc.sources)/2:
+                    errorFlag =  "\U0001F494"
+                else:
+                    errorFlag = "\U0001F49A"
+                tableString = {"Style Name":b.info.styleName, "Number of Points":pointCount, "Compatibility":errorFlag}
+                temp.close()
+             coordinateslist.append(tableString)
+    b.close()
 
-for i in range(len(fontsList)):
-    nameTag = str(fontsList[i].info.styleName)
-    for glyph in fontsList[i]:
-        compatibilityCounter=0
-        if glyph.name == thisGlyph.name:
-            pointCount = 0
-            for contour in glyph:
-                for segment in contour.segments:
-                    for points in segment:
-                        pointCount += 1
-            for refFonts in fontsList:
-                print(refFonts)
-                # compatible = glyph.isCompatible(refFont[glyph.name])
-                # if compatible:
-                compatibilityCounter+=1
-        print(compatibilityCounter)
-            
-    tableString = {"Style Name":nameTag, "Number of Points":pointCount}
-    coordinateslist.append(tableString)
-
-class ListDemo(object):
+class ShowCompatibility(object):
 
     def __init__(self):
         self.w = FloatingWindow((400, 400))
         self.w.myList = List((0, 0, -0, -0),
                      coordinateslist,
-                     columnDescriptions=[{"title": "Style Name"}, {"title": "Number of Points"}],
+                     columnDescriptions=[{"title": "Style Name"}, {"title": "Number of Points"}, {"title": "Compatibility"}],
                      selectionCallback=self.selectionCallback)
         self.w.open()
 
     def selectionCallback(self, sender):
         print("testing")
 
-ListDemo()
+ShowCompatibility()
