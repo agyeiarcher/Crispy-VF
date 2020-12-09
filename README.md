@@ -12,16 +12,16 @@ Development and design for this typeface project is bankrolled by Google Fonts, 
 
 ### Planned Axes:
 
-| Axis Name   | Axis Label | Axis Type     | Min Value  | Max Value |
-| :------------- | :---------- | ----------- | -----------: | -----------: | -----------: |
-|  X-Opacity | XTRA   | Parametric    | 1 | 1000  |
-|  Y-Opacity | YTRA   | Parametric    | 1 | 1000  |
-|  X-Transparency | YTRA   | Parametric    | 1 | 1000  |
-|  Weight | wght   | Stylistic    | 1 | 1000 |
-|  Width | wdth   | Stylistic    | 1 | 1000  |
-|  Grade | wdth   | Stylistic    | -0.5 | 0.5  |
-|  Slant¹ | slnt   | Stylistic   | -1 | 1 |
-|  Shadow² | shdw   | Stylistic   | 0 | 1 |
+| Axis Name       | Axis Label | Axis Type     | Min Value    | Max Value |
+| :-------------  | :--------- | :-----------  | -----------: | --------: |
+|  X-Opacity      | XTRA       | Parametric    | 1            | 1000      |
+|  Y-Opacity      | YTRA       | Parametric    | 1            | 1000      |
+|  X-Transparency | YTRA       | Parametric    | 1            | 1000      |
+|  Weight         | wght       | Stylistic     | 1            | 1000      |
+|  Width          | wdth       | Stylistic     | 1            | 1000      |
+|  Grade          | GRAD       | Stylistic     | -0.5         | 0.5       |
+|  Slant¹         | slnt       | Stylistic     | -1           | 1         |
+|  Shadow²        | shdw       | Stylistic     | 0            | 1         |
 
 ¹Dependent on automation using [UFOStretch](https://ufostretch.typemytype.com/)
 
