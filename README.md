@@ -65,12 +65,12 @@ Crispy is a variable font that supports [Google Latin Pro](https://github.com/go
 | :------------- | :---------- | ----------- | -----------: |
 |  x0y0t0 | 1   | 1    | 1 |
 |  x0y0t1000 | 1   | 1    | 1000 |
-|  x1000y0t0 | 1000   | 0    | 0 |
-|  x0y1000t0 | 1   | 1000    | 0 |
+|  x1000y0t0 | 1000   | 1    | 1 |
+|  x0y1000t0 | 1   | 1000    | 1 |
 |  x1000y0t1000 | 1000   | 1000    | 1000 |
-|  x0y1000t1000 | 0   | 1000    | 1000 |
-|  Crispy Support: Medium Condensed³ | 0   | 1000    | 1000 |
-|  Crispy Support: Medium Extended³ | 0   | 1000    | 1000  |
+|  x0y1000t1000 | 1   | 1000    | 1000 |
+|  Crispy Support: Medium Condensed³ | 174.5   | 320    | 20 |
+|  Crispy Support: Medium Extended³ | 410   | 475    | 450 |
 
 *³ Support files were added to have more control over certain font features such as diagonals and areas where weight management needed more nuanced control. Because of the nature of the font files used, it's also easier to use these files to preview and design test cases for more complicated glyphs.*
 
