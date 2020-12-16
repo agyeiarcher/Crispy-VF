@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z" format="2">
+  <advance width="2643"/>
+  <unicode hex="005A"/>
+  <outline>
+    <contour>
+      <point x="181" y="0" type="line"/>
+      <point x="2460" y="0" type="line"/>
+      <point x="2460" y="690" type="line"/>
+      <point x="2056" y="690" type="line"/>
+      <point x="2056" y="302" type="line"/>
+      <point x="598" y="302" type="line"/>
+      <point x="598" y="376" type="line"/>
+      <point x="2452" y="1102" type="line"/>
+      <point x="2452" y="1600" type="line"/>
+      <point x="202" y="1600" type="line"/>
+      <point x="202" y="970" type="line"/>
+      <point x="604" y="970" type="line"/>
+      <point x="604" y="1298" type="line"/>
+      <point x="2033" y="1298" type="line"/>
+      <point x="2033" y="1248" type="line"/>
+      <point x="181" y="534" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-12-13 15:32:10 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>5FogYRSgkk</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>91SxUS0iwG</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>LQ9fBsTy9K</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>cqhYFAJo1M</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>pzdvPTirLJ</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>svlFvrau4c</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>teVKnpBcVb</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>yyb1NCCI5w</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

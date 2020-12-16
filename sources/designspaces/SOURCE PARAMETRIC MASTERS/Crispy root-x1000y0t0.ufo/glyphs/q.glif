@@ -1,25 +1,24 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="q" format="2">
-  <advance width="1582"/>
+  <advance width="1537"/>
   <unicode hex="0071"/>
   <outline>
     <contour>
-      <point x="8" y="0" type="line"/>
-      <point x="774" y="0" type="line"/>
-      <point x="833" y="199" type="line"/>
-      <point x="833" y="-300" type="line"/>
-      <point x="1565" y="-300" type="line"/>
-      <point x="1565" y="1200" type="line"/>
-      <point x="78" y="1200" type="line"/>
-      <point x="8" y="826" type="line"/>
+      <point x="3" y="0" type="line"/>
+      <point x="776" y="0" type="line"/>
+      <point x="788" y="0" type="line"/>
+      <point x="788" y="-300" type="line"/>
+      <point x="1520" y="-300" type="line"/>
+      <point x="1520" y="1200" type="line"/>
+      <point x="173" y="1200" type="line"/>
+      <point x="3" y="826" type="line"/>
     </contour>
     <contour>
-      <point x="740" y="2" type="line"/>
-      <point x="740" y="825" type="line"/>
-      <point x="810" y="1198" type="line"/>
-      <point x="833" y="1198" type="line"/>
-      <point x="833" y="205" type="line"/>
-      <point x="773" y="2" type="line"/>
+      <point x="735" y="2" type="line"/>
+      <point x="735" y="825" type="line"/>
+      <point x="805" y="1198" type="line"/>
+      <point x="788" y="1198" type="line"/>
+      <point x="788" y="2" type="line"/>
     </contour>
   </outline>
 </glyph>

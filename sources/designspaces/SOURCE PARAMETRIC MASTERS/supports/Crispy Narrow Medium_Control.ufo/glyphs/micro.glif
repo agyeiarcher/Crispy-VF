@@ -1,6 +1,20 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version='1.0' encoding='UTF-8'?>
 <glyph name="micro" format="2">
-	<advance width="417"/>
-	<outline>
-	</outline>
+  <advance width="394"/>
+  <outline>
+    <contour>
+      <point x="21" y="-270" type="line"/>
+      <point x="174" y="-270" type="line"/>
+      <point x="174" y="41" type="line"/>
+      <point x="231" y="111" type="line"/>
+      <point x="276" y="0" type="line"/>
+      <point x="373" y="0" type="line"/>
+      <point x="373" y="1200" type="line"/>
+      <point x="225" y="1200" type="line"/>
+      <point x="225" y="137" type="line"/>
+      <point x="169" y="137" type="line"/>
+      <point x="169" y="1200" type="line"/>
+      <point x="21" y="1200" type="line"/>
+    </contour>
+  </outline>
 </glyph>

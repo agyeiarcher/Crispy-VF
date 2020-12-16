@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="F" format="2">
+  <advance width="2891"/>
+  <unicode hex="0046"/>
+  <outline>
+    <contour>
+      <point x="210" y="0" type="line"/>
+      <point x="902" y="0" type="line"/>
+      <point x="902" y="362" type="line"/>
+      <point x="2071" y="362" type="line"/>
+      <point x="2071" y="775" type="line"/>
+      <point x="902" y="775" type="line"/>
+      <point x="902" y="1186" type="line"/>
+      <point x="2094" y="1186" type="line"/>
+      <point x="2094" y="924" type="line"/>
+      <point x="2787" y="924" type="line"/>
+      <point x="2787" y="1600" type="line"/>
+      <point x="210" y="1600" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>F6QQD702pX</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>bL0wwzlx16</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

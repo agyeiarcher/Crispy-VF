@@ -1,345 +1,230 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <designspace format="4.1">
   <axes>
-    <axis tag="wght" name="weight" minimum="1" maximum="1000" default="1">
+    <axis tag="wght" name="weight" minimum="1" maximum="1000" default="500">
       <labelname xml:lang="en">Weight</labelname>
     </axis>
-    <axis tag="wdth" name="width" minimum="1" maximum="1000" default="1"/>
+    <axis tag="wdth" name="width" minimum="20" maximum="130" default="20"/>
     <axis tag="GRAD" name="Grade" minimum="-25" maximum="25" default="25">
       <labelname xml:lang="en">Grade</labelname>
     </axis>
+    <axis tag="XOPQ" name="X-Opacity" minimum="1" maximum="100" default="100"/>
   </axes>
   <rules>
     <rule name="subwidth">
       <conditionset>
         <condition name="weight" minimum="1" maximum="1000"/>
-        <condition name="width" minimum="550" maximum="1000"/>
+        <condition name="width" minimum="1" maximum="130"/>
       </conditionset>
-      <sub name="S" with="S.wide"/>
-      <sub name="three" with="three.wide"/>
-      <sub name="six" with="six.wide"/>
       <sub name="E" with="E.wide"/>
-      <sub name="nine" with="nine.wide"/>
       <sub name="F" with="F.wide"/>
-      <sub name="G" with="G.wide"/>
-      <sub name="two" with="two.wide"/>
-      <sub name="Y" with="Y.wide"/>
-      <sub name="L" with="L.wide"/>
-      <sub name="C" with="C.wide"/>
-      <sub name="R" with="R.wide"/>
-    </rule>
-    <rule name="narrowsubs">
-      <conditionset>
-        <condition name="width" minimum="1" maximum="299"/>
-      </conditionset>
-      <sub name="M" with="M.narrow"/>
-      <sub name="N" with="N.narrow"/>
-      <sub name="one" with="one.narrow"/>
-      <sub name="I" with="I.narrow"/>
     </rule>
   </rules>
   <sources>
-    <source filename="MASTERS/Crispy Cond Black-MaxGrade.ufo" familyname="Crispy" stylename="Cond Black-MaxGrade">
+    <source filename="../production/Crispy Extended Black-MaxGrade.ufo" familyname="Crispy" stylename="Extended Black-MaxGrade">
       <location>
         <dimension name="weight" xvalue="1000"/>
-        <dimension name="width" xvalue="1"/>
+        <dimension name="width" xvalue="130"/>
         <dimension name="Grade" xvalue="25"/>
+        <dimension name="X-Opacity" xvalue="100"/>
       </location>
     </source>
-    <source filename="MASTERS/Crispy Cond Black-MinGrade.ufo" familyname="Crispy" stylename="Cond Black-MinGrade">
+    <source filename="../production/Crispy Extended Medium-MaxGrade.ufo" familyname="Crispy" stylename="Extended Medium-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="130"/>
+        <dimension name="Grade" xvalue="25"/>
+        <dimension name="X-Opacity" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="../production/Crispy Extended Thin-MaxGrade.ufo" familyname="Crispy" stylename="Extended Thin-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="130"/>
+        <dimension name="Grade" xvalue="25"/>
+        <dimension name="X-Opacity" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="../production/Crispy Narrow Black-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Black-MaxGrade">
       <location>
         <dimension name="weight" xvalue="1000"/>
-        <dimension name="width" xvalue="1"/>
-        <dimension name="Grade" xvalue="-25"/>
+        <dimension name="width" xvalue="20"/>
+        <dimension name="Grade" xvalue="25"/>
+        <dimension name="X-Opacity" xvalue="100"/>
       </location>
     </source>
-    <source filename="MASTERS/Crispy Cond Thin-MaxGrade.ufo" familyname="Crispy" stylename="Cond Thin-MaxGrade">
+    <source filename="../production/Crispy Narrow Medium-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Medium-MaxGrade">
       <lib copy="1"/>
       <groups copy="1"/>
       <features copy="1"/>
       <info copy="1"/>
       <location>
-        <dimension name="weight" xvalue="1"/>
-        <dimension name="width" xvalue="1"/>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="20"/>
         <dimension name="Grade" xvalue="25"/>
+        <dimension name="X-Opacity" xvalue="100"/>
       </location>
     </source>
-    <source filename="MASTERS/Crispy Cond Thin-MinGrade.ufo" familyname="Crispy" stylename="Cond Thin-MinGrade">
+    <source filename="../production/Crispy Narrow Thin-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Thin-MaxGrade">
       <location>
         <dimension name="weight" xvalue="1"/>
-        <dimension name="width" xvalue="1"/>
-        <dimension name="Grade" xvalue="-25"/>
+        <dimension name="width" xvalue="20"/>
+        <dimension name="Grade" xvalue="25"/>
+        <dimension name="X-Opacity" xvalue="100"/>
       </location>
     </source>
-    <source filename="MASTERS/Crispy Wide Black-MaxGrade.ufo" familyname="Crispy" stylename="Wide Black-MaxGrade">
+    <source filename="../production/Crispy Extended Black-MinGrade.ufo" familyname="Crispy" stylename="Extended Black-MinGrade">
       <location>
         <dimension name="weight" xvalue="1000"/>
-        <dimension name="width" xvalue="1000"/>
-        <dimension name="Grade" xvalue="25"/>
+        <dimension name="width" xvalue="130"/>
+        <dimension name="Grade" xvalue="-25"/>
+        <dimension name="X-Opacity" xvalue="100"/>
       </location>
     </source>
-    <source filename="MASTERS/Crispy Wide Black-MinGrade.ufo" familyname="Crispy" stylename="Wide Black-MinGrade">
+    <source filename="../production/Crispy Extended Medium-MinGrade.ufo" familyname="Crispy" stylename="Extended Medium-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="130"/>
+        <dimension name="Grade" xvalue="-25"/>
+        <dimension name="X-Opacity" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="../production/Crispy Extended Thin-MinGrade.ufo" familyname="Crispy" stylename="Extended Thin-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="130"/>
+        <dimension name="Grade" xvalue="-25"/>
+        <dimension name="X-Opacity" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="../production/Crispy Narrow Black-MinGrade.ufo" familyname="Crispy" stylename="Narrow Black-MinGrade">
       <location>
         <dimension name="weight" xvalue="1000"/>
-        <dimension name="width" xvalue="1000"/>
+        <dimension name="width" xvalue="20"/>
         <dimension name="Grade" xvalue="-25"/>
+        <dimension name="X-Opacity" xvalue="100"/>
       </location>
     </source>
-    <source filename="MASTERS/Crispy Wide Thin-MaxGrade.ufo" familyname="Crispy" stylename="Wide Thin-MaxGrade">
+    <source filename="../production/Crispy Narrow Medium-MinGrade.ufo" familyname="Crispy" stylename="Narrow Medium-MinGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="20"/>
+        <dimension name="Grade" xvalue="-25"/>
+        <dimension name="X-Opacity" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="../production/Crispy Narrow Thin-MinGrade.ufo" familyname="Crispy" stylename="Narrow Thin-MinGrade">
       <location>
         <dimension name="weight" xvalue="1"/>
-        <dimension name="width" xvalue="1000"/>
+        <dimension name="width" xvalue="20"/>
+        <dimension name="Grade" xvalue="-25"/>
+        <dimension name="X-Opacity" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="MASTERS/XOPQ/Crispy Extended Black-MaxGrade.ufo" familyname="Crispy" stylename="Extended Black-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="130"/>
         <dimension name="Grade" xvalue="25"/>
+        <dimension name="X-Opacity" xvalue="1"/>
       </location>
     </source>
-    <source filename="MASTERS/Crispy Wide Thin-MinGrade.ufo" familyname="Crispy" stylename="Wide Thin-MinGrade">
+    <source filename="MASTERS/XOPQ/Crispy Extended Black-MinGrade.ufo" familyname="Crispy" stylename="Extended Black-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="130"/>
+        <dimension name="Grade" xvalue="-25"/>
+        <dimension name="X-Opacity" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="MASTERS/XOPQ/Crispy Extended Medium-MaxGrade.ufo" familyname="Crispy" stylename="Extended Medium-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="130"/>
+        <dimension name="Grade" xvalue="25"/>
+        <dimension name="X-Opacity" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="MASTERS/XOPQ/Crispy Extended Medium-MinGrade.ufo" familyname="Crispy" stylename="Extended Medium-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="130"/>
+        <dimension name="Grade" xvalue="-25"/>
+        <dimension name="X-Opacity" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="MASTERS/XOPQ/Crispy Extended Thin-MaxGrade.ufo" familyname="Crispy" stylename="Extended Thin-MaxGrade-minXOPQ">
       <location>
         <dimension name="weight" xvalue="1"/>
-        <dimension name="width" xvalue="1000"/>
+        <dimension name="width" xvalue="130"/>
+        <dimension name="Grade" xvalue="25"/>
+        <dimension name="X-Opacity" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="MASTERS/XOPQ/Crispy Extended Thin-MinGrade.ufo" familyname="Crispy" stylename="Extended Thin-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="130"/>
         <dimension name="Grade" xvalue="-25"/>
+        <dimension name="X-Opacity" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="MASTERS/XOPQ/Crispy Narrow Black-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Black-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="20"/>
+        <dimension name="Grade" xvalue="25"/>
+        <dimension name="X-Opacity" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="MASTERS/XOPQ/Crispy Narrow Black-MinGrade.ufo" familyname="Crispy" stylename="Narrow Black-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="20"/>
+        <dimension name="Grade" xvalue="-25"/>
+        <dimension name="X-Opacity" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="MASTERS/XOPQ/Crispy Narrow Medium-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Medium-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="20"/>
+        <dimension name="Grade" xvalue="25"/>
+        <dimension name="X-Opacity" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="MASTERS/XOPQ/Crispy Narrow Medium-MinGrade.ufo" familyname="Crispy" stylename="Narrow Medium-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="20"/>
+        <dimension name="Grade" xvalue="-25"/>
+        <dimension name="X-Opacity" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="MASTERS/XOPQ/Crispy Narrow Thin-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Thin-MaxGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="20"/>
+        <dimension name="Grade" xvalue="25"/>
+        <dimension name="X-Opacity" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="MASTERS/XOPQ/Crispy Narrow Thin-MinGrade.ufo" familyname="Crispy" stylename="Narrow Thin-MinGrade-minXOPQ">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="20"/>
+        <dimension name="Grade" xvalue="-25"/>
+        <dimension name="X-Opacity" xvalue="1"/>
       </location>
     </source>
   </sources>
   <instances>
-    <instance familyname="Crispy" stylename="Condensed Thin" filename="instances/Crispy Condensed-Thin.ufo">
-      <location>
-        <dimension name="weight" xvalue="100"/>
-        <dimension name="width" xvalue="100"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Condensed ExtraLight" filename="instances/Crispy Condensed-ExtraLight.ufo">
-      <location>
-        <dimension name="weight" xvalue="200"/>
-        <dimension name="width" xvalue="100"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Condensed Light" filename="instances/Crispy Condensed-Light.ufo">
-      <location>
-        <dimension name="weight" xvalue="300"/>
-        <dimension name="width" xvalue="100"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Condensed Regular" filename="instances/Crispy Condensed-Regular.ufo">
-      <location>
-        <dimension name="weight" xvalue="400"/>
-        <dimension name="width" xvalue="100"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Condensed Medium" filename="instances/Crispy Condensed-Medium.ufo">
+    <instance familyname="Crispy Regular" stylename="Medium" filename="instances/Crispy-Regular.ufo">
       <location>
         <dimension name="weight" xvalue="500"/>
         <dimension name="width" xvalue="100"/>
         <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Condensed Semibold" filename="instances/Crispy Condensed-Semibold.ufo">
-      <location>
-        <dimension name="weight" xvalue="600"/>
-        <dimension name="width" xvalue="100"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Condensed Bold" filename="instances/Crispy Condensed-Bold.ufo">
-      <location>
-        <dimension name="weight" xvalue="700"/>
-        <dimension name="width" xvalue="100"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Condensed ExtraBold" filename="instances/Crispy Condensed-ExtraBold.ufo">
-      <location>
-        <dimension name="weight" xvalue="800"/>
-        <dimension name="width" xvalue="100"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Condensed Black" filename="instances/Crispy Condensed-Black.ufo">
-      <location>
-        <dimension name="weight" xvalue="900"/>
-        <dimension name="width" xvalue="100"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Thin" filename="instances/Crispy-Regular.ufo">
-      <location>
-        <dimension name="weight" xvalue="100"/>
-        <dimension name="width" xvalue="300"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="ExtraLight" filename="instances/Crispy-ExtraLight.ufo">
-      <location>
-        <dimension name="weight" xvalue="200"/>
-        <dimension name="width" xvalue="300"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Light" filename="instances/Crispy-Light.ufo">
-      <location>
-        <dimension name="weight" xvalue="300"/>
-        <dimension name="width" xvalue="300"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Regular" filename="instances/Crispy-Regular.ufo">
-      <location>
-        <dimension name="weight" xvalue="400"/>
-        <dimension name="width" xvalue="300"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Medium" filename="instances/Crispy-Medium.ufo">
-      <location>
-        <dimension name="weight" xvalue="500"/>
-        <dimension name="width" xvalue="300"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="SemiBold" filename="instances/Crispy-Semibold.ufo">
-      <location>
-        <dimension name="weight" xvalue="600"/>
-        <dimension name="width" xvalue="300"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Bold" filename="instances/Crispy-Bold.ufo">
-      <location>
-        <dimension name="weight" xvalue="700"/>
-        <dimension name="width" xvalue="300"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="ExtraBold" filename="instances/Crispy-Extrabold.ufo">
-      <location>
-        <dimension name="weight" xvalue="800"/>
-        <dimension name="width" xvalue="300"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Black" filename="instances/Crispy-Black.ufo">
-      <location>
-        <dimension name="weight" xvalue="900"/>
-        <dimension name="width" xvalue="300"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Thin" filename="instances/Crispy Extended-Thin.ufo">
-      <location>
-        <dimension name="weight" xvalue="100"/>
-        <dimension name="width" xvalue="900"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended ExtraLight" filename="instances/Crispy Extended-ExtraLight.ufo">
-      <location>
-        <dimension name="weight" xvalue="200"/>
-        <dimension name="width" xvalue="900"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Light" filename="instances/Crispy Extended-Light.ufo">
-      <location>
-        <dimension name="weight" xvalue="300"/>
-        <dimension name="width" xvalue="900"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Regular" filename="instances/Crispy Extended-Regular.ufo">
-      <location>
-        <dimension name="weight" xvalue="400"/>
-        <dimension name="width" xvalue="900"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Medium" filename="instances/Crispy Extended-Medium.ufo">
-      <location>
-        <dimension name="weight" xvalue="500"/>
-        <dimension name="width" xvalue="900"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended SemiBold" filename="instances/Crispy Extended-Semibold.ufo">
-      <location>
-        <dimension name="weight" xvalue="600"/>
-        <dimension name="width" xvalue="900"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Bold" filename="instances/Crispy Extended-Bold.ufo">
-      <location>
-        <dimension name="weight" xvalue="700"/>
-        <dimension name="width" xvalue="900"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended ExtraBold" filename="instances/Crispy Extended-Extrabold.ufo">
-      <location>
-        <dimension name="weight" xvalue="800"/>
-        <dimension name="width" xvalue="900"/>
-        <dimension name="Grade" xvalue="0"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Black" filename="instances/Crispy Extended-Black.ufo">
-      <location>
-        <dimension name="weight" xvalue="900"/>
-        <dimension name="width" xvalue="900"/>
-        <dimension name="Grade" xvalue="0"/>
+        <dimension name="X-Opacity" xvalue="100"/>
       </location>
       <kerning/>
       <info/>

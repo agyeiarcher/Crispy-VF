@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ampersand" format="2">
+  <advance width="2587"/>
+  <unicode hex="0026"/>
+  <outline>
+    <contour>
+      <point x="147" y="734" type="line"/>
+      <point x="147" y="0" type="line"/>
+      <point x="1285" y="0" type="line"/>
+      <point x="1824" y="587" type="line"/>
+      <point x="1856" y="587" type="line"/>
+      <point x="2555" y="-29" type="line"/>
+      <point x="2557" y="-28" type="line"/>
+      <point x="1858" y="589" type="line"/>
+      <point x="1822" y="589" type="line"/>
+      <point x="1283" y="2" type="line"/>
+      <point x="150" y="2" type="line"/>
+      <point x="150" y="732" type="line"/>
+      <point x="783" y="732" type="line"/>
+      <point x="783" y="1187" type="line"/>
+      <point x="1149" y="1598" type="line"/>
+      <point x="2049" y="1598" type="line"/>
+      <point x="2049" y="1032" type="line"/>
+      <point x="2052" y="1032" type="line"/>
+      <point x="2052" y="1600" type="line"/>
+      <point x="1148" y="1600" type="line"/>
+      <point x="781" y="1187" type="line"/>
+      <point x="781" y="734" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -44,8 +44,6 @@
     <string>C_.glif</string>
     <key>C.wide</key>
     <string>C_.wide.glif</string>
-    <key>CR</key>
-    <string>C_R_.glif</string>
     <key>Ccedilla</key>
     <string>C_cedilla.glif</string>
     <key>Ccedillaacute</key>
@@ -58,6 +56,8 @@
     <string>D_linebelow.glif</string>
     <key>E</key>
     <string>E_.glif</string>
+    <key>E.wide</key>
+    <string>E_.wide.glif</string>
     <key>Eacute</key>
     <string>E_acute.glif</string>
     <key>Ecedillabreve</key>

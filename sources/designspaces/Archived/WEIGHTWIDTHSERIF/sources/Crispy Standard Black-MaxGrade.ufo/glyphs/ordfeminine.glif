@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ordfeminine" format="2">
+  <advance width="1203"/>
+  <unicode hex="00AA"/>
+  <outline>
+    <contour>
+      <point x="837" y="1283" type="line" smooth="yes"/>
+      <point x="99" y="1283" type="line"/>
+      <point x="99" y="864" type="line" smooth="yes"/>
+      <point x="367" y="864" type="line" smooth="yes"/>
+      <point x="367" y="1130" type="line" smooth="yes"/>
+      <point x="837" y="1130" type="line" smooth="yes"/>
+      <point x="837" y="864" type="line" smooth="yes"/>
+      <point x="1105" y="864" type="line" smooth="yes"/>
+      <point x="1105" y="1600" type="line" smooth="yes"/>
+      <point x="99" y="1600" type="line" smooth="yes"/>
+      <point x="99" y="1338" type="line"/>
+      <point x="367" y="1338" type="line"/>
+      <point x="367" y="1448" type="line" smooth="yes"/>
+      <point x="837" y="1448" type="line" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="365" y="1016" type="line"/>
+      <point x="365" y="864" type="line"/>
+      <point x="837" y="864" type="line"/>
+      <point x="837" y="1016" type="line"/>
+    </contour>
+  </outline>
+</glyph>

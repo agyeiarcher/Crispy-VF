@@ -2,8 +2,9 @@ import ufoProcessor, os, fontmake, subprocess
 from fontmake import font_project
 
 parametricDesignSpacePath = "../designspaces/SOURCE PARAMETRIC MASTERS/CRISPY-PARAMETRIC AXES copy.designspace"
-mastersDesignSpacePath = "../designspaces/WEIGHTWIDTHSERIF/Crispy[SRIF,wdth,wght].designspace"
-mastersFolderPath = "../designspaces/WEIGHTWIDTHSERIF/sources/"
+mastersDesignSpacePath = "../designspaces/WEIGHTWIDTHGRADE-PARAMETRIC/Crispy[GRAD,XOPQ,XTRA,YOPQ, wdth,wght].designspace"
+XOPQFolderPath = "../designspaces/WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/XOPQ/"
+mastersFolderPath = "../designspaces/production/"
 
 primary_mastersFolderPath = "../designspaces/SOURCE PARAMETRIC MASTERS/instances/"
 primary_xopqParametricsPath = "../designspaces/SOURCE PARAMETRIC MASTERS/instances/minXOPQ/"
@@ -16,11 +17,11 @@ sub_xtraParametricsPath = "../designspaces/SOURCE PARAMETRIC MASTERS/duplicatein
 sub_yopqParametricsPath = "../designspaces/SOURCE PARAMETRIC MASTERS/duplicateinstances/minYOPQ/"
 
 
-defaultsFolderPath = "../designspaces/WEIGHTWIDTHGRADE/Defaults/"
+# defaultsFolderPath = "../designspaces/WEIGHTWIDTHGRADE/Defaults/"
 variableFontFolderPath = "../../font/variable_ttf/"
 ParametricFontFolderPath = "../../font/variable_ttf/Parametric Version/"
 buildScript = '/Users/aamacbook/Work\ Interim/Crispy-VF/build.sh'
-baseStyles = ['Wide Thin', 'Wide Medium', 'Wide Black', 'Standard Thin', 'Standard Medium', 'Standard Black', 'Narrow Thin', 'Narrow Medium', 'Narrow Black']
+baseStyles = ['Extended Thin', 'Extended Medium', 'Extended Black', 'Narrow Thin', 'Narrow Medium', 'Narrow Black']
 maxFonts = []
 minFonts = []
 allTheFonts = []
@@ -112,9 +113,10 @@ def bash_command(cmd):
     subprocess.Popen(cmd, shell=True, executable='/bin/bash')
     
 # MAKE GRADED MASTERS
-generateMasters(parametricDesignSpacePath)
-# matchWidths(mastersFolderPath)
+# generateMasters(parametricDesignSpacePath)
+matchWidths(mastersFolderPath)
+matchWidths(XOPQFolderPath)
 # matchWidths(yopqParametricsPath)
 # setUnicodes(mastersFolderPath)
 # generateMasters(mastersDesignSpacePath) #this is just so there are some static font files for reference in the instances
-finalFont.build_variable_font(parametricDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=True, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)
+finalFont.build_variable_font(mastersDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=True, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)

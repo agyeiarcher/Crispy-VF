@@ -6,20 +6,19 @@
     <contour>
       <point x="70" y="0" type="line"/>
       <point x="2216" y="0" type="line"/>
-      <point x="2675" y="619" type="line"/>
+      <point x="2675" y="0" type="line"/>
       <point x="2675" y="0" type="line"/>
       <point x="3607" y="0" type="line"/>
-      <point x="3607" y="1400" type="line"/>
-      <point x="740" y="1400" type="line"/>
-      <point x="70" y="726" type="line"/>
+      <point x="3607" y="1200" type="line"/>
+      <point x="740" y="1200" type="line"/>
+      <point x="70" y="526" type="line"/>
     </contour>
     <contour>
       <point x="1002" y="2" type="line"/>
-      <point x="1002" y="725" type="line"/>
-      <point x="1672" y="1398" type="line"/>
-      <point x="2675" y="1398" type="line"/>
-      <point x="2675" y="622" type="line"/>
-      <point x="2215" y="2" type="line"/>
+      <point x="1002" y="525" type="line"/>
+      <point x="1672" y="1198" type="line"/>
+      <point x="2675" y="1198" type="line"/>
+      <point x="2675" y="2" type="line"/>
     </contour>
   </outline>
 </glyph>

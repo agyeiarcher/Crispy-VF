@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="j" format="2">
+  <advance width="1246"/>
+  <unicode hex="006A"/>
+  <outline>
+    <contour>
+      <point x="-185" y="-300" type="line"/>
+      <point x="791" y="-300" type="line"/>
+      <point x="1109" y="72" type="line"/>
+      <point x="1109" y="1347" type="line"/>
+      <point x="511" y="1347" type="line"/>
+      <point x="511" y="360" type="line"/>
+      <point x="272" y="67" type="line"/>
+      <point x="-185" y="67" type="line"/>
+    </contour>
+    <contour>
+      <point x="511" y="1440" type="line"/>
+      <point x="511" y="1653" type="line"/>
+      <point x="1109" y="1653" type="line"/>
+      <point x="1109" y="1440" type="line"/>
+    </contour>
+  </outline>
+</glyph>

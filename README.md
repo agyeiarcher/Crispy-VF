@@ -7,6 +7,8 @@ ___
 
 **Spiel:** Crispy is a typeface designed for applications where headline content needs to take primary importance. Its parametric design makes it applicable to a spectrum of eccentricity that makes it usable for headlines of all flav*ou*rs. Initially this focus was a good excuse to make it uppercase only, but a lowercase has since been added to increase range of future usability.
 
+![](docs/gomd-01.png)
+
 Development and design for this typeface project is bankrolled by Google Fonts, and in the future it may be available in Google Fonts. Until then, this respository is the best place to download the latest usable files.
 
 
