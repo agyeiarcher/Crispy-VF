@@ -4,13 +4,9 @@
   <unicode hex="0038"/>
   <outline>
     <contour>
-      <point x="224" y="729" type="line"/>
-      <point x="267" y="673" type="line"/>
-      <point x="267" y="149" type="line"/>
-      <point x="178" y="149" type="line"/>
-      <point x="178" y="718" type="line"/>
-    </contour>
-    <contour>
+      <point x="26" y="0" type="line"/>
+      <point x="419" y="0" type="line"/>
+      <point x="419" y="719" type="line"/>
       <point x="366" y="797" type="line"/>
       <point x="366" y="802" type="line"/>
       <point x="416" y="802" type="line"/>
@@ -20,9 +16,13 @@
       <point x="80" y="803" type="line"/>
       <point x="80" y="798" type="line"/>
       <point x="26" y="798" type="line"/>
-      <point x="26" y="0" type="line"/>
-      <point x="419" y="0" type="line"/>
-      <point x="419" y="719" type="line"/>
+    </contour>
+    <contour>
+      <point x="178" y="149" type="line"/>
+      <point x="178" y="718" type="line"/>
+      <point x="224" y="729" type="line"/>
+      <point x="267" y="673" type="line"/>
+      <point x="267" y="149" type="line"/>
     </contour>
     <contour>
       <point x="221" y="871" type="line"/>
@@ -34,10 +34,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-28 05:46:24 +0000</string>
+      <string>2020-12-13 15:35:24 +0000</string>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>2AoyMNBDus</key>

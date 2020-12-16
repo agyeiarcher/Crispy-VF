@@ -190,8 +190,11 @@
       <string>Utildeacute</string>
       <string>V</string>
       <string>W</string>
+      <string>X</string>
+      <string>Y</string>
       <string>Yacute</string>
       <string>Ydotaccent</string>
+      <string>Z</string>
       <string>Zdotbelow</string>
       <string>Y.alt</string>
       <string>I.narrow</string>
@@ -202,9 +205,6 @@
       <string>L.wide</string>
       <string>S.wide</string>
       <string>Z.wide</string>
-      <string>X</string>
-      <string>Y</string>
-      <string>Z</string>
       <string>a</string>
       <string>aacute</string>
       <string>acircumflex</string>
@@ -304,12 +304,6 @@
       <string>Omega</string>
       <string>mu</string>
       <string>pi</string>
-      <string>one.narrow</string>
-      <string>two.wide</string>
-      <string>three.wide</string>
-      <string>five.wide</string>
-      <string>six.wide</string>
-      <string>nine.wide</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -378,10 +372,10 @@
       <string>comma</string>
       <string>colon</string>
       <string>semicolon</string>
-      <string>exclam</string>
-      <string>question</string>
       <string>ellipsis</string>
+      <string>exclam</string>
       <string>exclamdown</string>
+      <string>question</string>
       <string>questiondown</string>
       <string>periodcentered</string>
       <string>bullet</string>
@@ -478,7 +472,7 @@
       <string>dieresis</string>
       <string>dotaccent</string>
       <string>grave</string>
-      <string>acute</string>
+      <string>acutecmb</string>
       <string>hungarumlaut</string>
       <string>circumflex</string>
       <string>caron</string>
@@ -488,7 +482,6 @@
       <string>macron</string>
       <string>cedilla</string>
       <string>ogonek</string>
-      <string>/arrowNE</string>
       <string>/arrowNW</string>
       <string>/arrowSE</string>
       <string>/arrowSW</string>
@@ -504,31 +497,8 @@
     <dict/>
     <key>public.skipExportGlyphs</key>
     <array>
-      <string>X</string>
-      <string>Y</string>
-      <string>Z</string>
-      <string>zero</string>
-      <string>one</string>
-      <string>two</string>
-      <string>three</string>
-      <string>four</string>
-      <string>five</string>
-      <string>six</string>
-      <string>seven</string>
-      <string>eight</string>
-      <string>nine</string>
-      <string>ellipsis</string>
-      <string>exclamdown</string>
-      <string>questiondown</string>
-      <string>periodcentered</string>
-      <string>bullet</string>
-      <string>asterisk</string>
-      <string>numbersign</string>
-      <string>slash</string>
-      <string>backslash</string>
-      <string>underscore</string>
-      <string>quotedbl</string>
-      <string>quotesingle</string>
+      <string>acutecmb</string>
+      <string>dieresis</string>
     </array>
   </dict>
 </plist>

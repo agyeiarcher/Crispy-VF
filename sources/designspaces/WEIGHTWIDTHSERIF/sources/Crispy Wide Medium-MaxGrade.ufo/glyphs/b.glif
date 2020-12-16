@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="b" format="2">
-  <advance width="3470"/>
+  <advance width="3492"/>
   <unicode hex="0062"/>
   <outline>
     <contour>
       <point x="266" y="0" type="line"/>
       <point x="266" y="1700" type="line"/>
-      <point x="768" y="1700" type="line"/>
-      <point x="768" y="348" type="line"/>
-      <point x="2421" y="348" type="line"/>
-      <point x="2752" y="716" type="line"/>
-      <point x="2752" y="990" type="line"/>
-      <point x="718" y="990" type="line"/>
-      <point x="718" y="1318" type="line"/>
-      <point x="1162" y="1339" type="line"/>
-      <point x="3255" y="1339" type="line"/>
-      <point x="3255" y="369" type="line"/>
-      <point x="2901" y="0" type="line"/>
+      <point x="781" y="1700" type="line"/>
+      <point x="781" y="359" type="line"/>
+      <point x="2437" y="359" type="line"/>
+      <point x="2763" y="716" type="line"/>
+      <point x="2763" y="969" type="line"/>
+      <point x="728" y="969" type="line"/>
+      <point x="728" y="1287" type="line"/>
+      <point x="1181" y="1327" type="line"/>
+      <point x="3278" y="1327" type="line"/>
+      <point x="3278" y="402" type="line"/>
+      <point x="2911" y="0" type="line"/>
     </contour>
   </outline>
 </glyph>

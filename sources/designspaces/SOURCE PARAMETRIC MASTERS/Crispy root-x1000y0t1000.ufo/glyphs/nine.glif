@@ -1,35 +1,14 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nine" format="2">
-  <advance width="5333"/>
+  <advance width="2749"/>
   <unicode hex="0039"/>
   <outline>
-    <contour>
-      <point x="5143" y="1600" type="line"/>
-      <point x="330" y="1600" type="line"/>
-      <point x="330" y="799" type="line"/>
-      <point x="4128" y="799" type="line"/>
-      <point x="4128" y="455" type="line"/>
-      <point x="3693" y="2" type="line"/>
-      <point x="1507" y="2" type="line"/>
-      <point x="1507" y="532" type="line"/>
-      <point x="491" y="532" type="line"/>
-      <point x="491" y="0" type="line"/>
-      <point x="4641" y="0" type="line"/>
-      <point x="5143" y="492" type="line"/>
-    </contour>
-    <contour>
-      <point x="1346" y="801" type="line"/>
-      <point x="1346" y="1598" type="line"/>
-      <point x="4128" y="1598" type="line"/>
-      <point x="4128" y="801" type="line"/>
-    </contour>
+    <component base="six" xScale="-1" yScale="-1" xOffset="2701" yOffset="1600"/>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-28 12:47:08 +0000</string>
+      <string>2020-12-13 15:34:53 +0000</string>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>8T5lIMK7eR</key>

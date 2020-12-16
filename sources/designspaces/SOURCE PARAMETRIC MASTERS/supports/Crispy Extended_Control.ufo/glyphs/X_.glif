@@ -2,7 +2,7 @@
 <glyph name="X" format="2">
   <advance width="2112"/>
   <unicode hex="0058"/>
-  <guideline x="1019" y="1440" angle="0" identifier="QqJrsRkusU"/>
+  <guideline x="1019" y="1440" angle="0" identifier="6E9fXDTo6C"/>
   <outline>
     <contour>
       <point x="1659" y="0" type="line"/>
@@ -15,16 +15,16 @@
       <point x="298" y="1251" type="line"/>
     </contour>
     <contour>
-      <point x="1623" y="893" type="line"/>
-      <point x="2094" y="1386" type="line"/>
-      <point x="1781" y="1657" type="line"/>
-      <point x="1059" y="893" type="line"/>
-    </contour>
-    <contour>
-      <point x="461" y="755" type="line"/>
       <point x="-59" y="192" type="line"/>
       <point x="275" y="-57" type="line"/>
       <point x="1025" y="755" type="line"/>
+      <point x="461" y="755" type="line"/>
+    </contour>
+    <contour>
+      <point x="1059" y="893" type="line"/>
+      <point x="1623" y="893" type="line"/>
+      <point x="2094" y="1386" type="line"/>
+      <point x="1781" y="1657" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,5 +1,27 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="question" format="2">
+  <advance width="2631"/>
+  <unicode hex="003F"/>
   <outline>
+    <contour>
+      <point x="1044" y="479" type="line"/>
+      <point x="2052" y="479" type="line"/>
+      <point x="2319" y="836" type="line"/>
+      <point x="2319" y="1600" type="line"/>
+      <point x="264" y="1600" type="line"/>
+      <point x="264" y="1055" type="line"/>
+      <point x="271" y="1055" type="line"/>
+      <point x="271" y="1595" type="line"/>
+      <point x="2313" y="1595" type="line"/>
+      <point x="2313" y="837" type="line"/>
+      <point x="2048" y="484" type="line"/>
+      <point x="1044" y="484" type="line"/>
+    </contour>
+    <contour>
+      <point x="1261" y="0" type="line"/>
+      <point x="1267" y="0" type="line"/>
+      <point x="1267" y="74" type="line"/>
+      <point x="1261" y="74" type="line"/>
+    </contour>
   </outline>
 </glyph>

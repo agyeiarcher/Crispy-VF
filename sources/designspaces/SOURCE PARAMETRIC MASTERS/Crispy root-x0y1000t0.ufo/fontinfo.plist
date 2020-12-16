@@ -16,7 +16,7 @@
         <key>angle</key>
         <integer>0</integer>
         <key>identifier</key>
-        <string>jYJvmU4a7B</string>
+        <string>V2gCgawYZb</string>
         <key>name</key>
         <string>topbar</string>
         <key>x</key>
@@ -28,7 +28,7 @@
         <key>angle</key>
         <integer>0</integer>
         <key>identifier</key>
-        <string>9zAIHjvOSb</string>
+        <string>uf30IchD9G</string>
         <key>name</key>
         <string>bottombar</string>
         <key>x</key>
@@ -40,7 +40,7 @@
         <key>angle</key>
         <integer>0</integer>
         <key>identifier</key>
-        <string>QM7Vspjdid</string>
+        <string>3Lx5s6nlnM</string>
         <key>x</key>
         <integer>96</integer>
         <key>y</key>
@@ -50,7 +50,7 @@
         <key>angle</key>
         <integer>0</integer>
         <key>identifier</key>
-        <string>NjSWj1TaAa</string>
+        <string>nxQvi77qen</string>
         <key>x</key>
         <integer>143</integer>
         <key>y</key>
@@ -82,7 +82,19 @@
     <key>postscriptStemSnapV</key>
     <array/>
     <key>styleName</key>
-    <string>x0y1000t0</string>
+    <string>x1y1000t1
+&lt;glyph name="Eth" format="2"&gt;
+  &lt;advance width="4799"/&gt;
+  &lt;outline&gt;
+    &lt;contour&gt;
+      &lt;point x="24" y="794" type="line"/&gt;
+      &lt;point x="1404" y="794" type="line"/&gt;
+      &lt;point x="1404" y="796" type="line"/&gt;
+      &lt;point x="24" y="796" type="line"/&gt;
+    &lt;/contour&gt;
+  &lt;/outline&gt;
+&lt;/glyph&gt;
+x1y1000t1</string>
     <key>unitsPerEm</key>
     <integer>2000</integer>
     <key>versionMajor</key>

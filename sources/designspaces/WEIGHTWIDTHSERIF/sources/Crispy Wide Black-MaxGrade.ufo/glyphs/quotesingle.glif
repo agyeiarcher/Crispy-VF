@@ -1,6 +1,6 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotesingle" format="2">
-  <advance width="1272"/>
+  <advance width="1273"/>
   <unicode hex="0027"/>
   <outline>
     <contour>
@@ -12,8 +12,8 @@
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-12-13 15:32:10 +0000</string>
     </dict>
   </lib>
 </glyph>

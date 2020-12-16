@@ -138,3 +138,5 @@ The masters asociated with these file are only handled on export by fontmake, an
 ](https://tanyatypes.wordpress.com/)
 
 **Agyei Archer: Designer** | hello@agyei.design | [http://agyei.design]()
+
+**David Berlow** [http://davidberlow.fontbureau.com/](http://davidberlow.fontbureau.com/)

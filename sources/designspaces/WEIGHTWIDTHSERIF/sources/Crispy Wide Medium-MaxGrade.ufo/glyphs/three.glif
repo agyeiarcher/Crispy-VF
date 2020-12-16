@@ -4,36 +4,26 @@
   <unicode hex="0033"/>
   <outline>
     <contour>
-      <point x="353" y="0" type="line"/>
-      <point x="4341" y="0" type="line"/>
+      <point x="352" y="0" type="line"/>
+      <point x="4342" y="0" type="line"/>
       <point x="4341" y="937" type="line"/>
       <point x="3824" y="937" type="line"/>
-      <point x="4016" y="1152" type="line"/>
-      <point x="4016" y="1600" type="line"/>
-      <point x="538" y="1600" type="line"/>
-      <point x="538" y="958" type="line"/>
-      <point x="1090" y="958" type="line"/>
-      <point x="1090" y="1239" type="line"/>
-      <point x="3465" y="1239" type="line"/>
-      <point x="3465" y="1143" type="line"/>
-      <point x="3280" y="937" type="line"/>
-      <point x="1700" y="937" type="line"/>
-      <point x="1700" y="663" type="line"/>
-      <point x="3789" y="663" type="line"/>
-      <point x="3789" y="361" type="line"/>
-      <point x="905" y="361" type="line"/>
-      <point x="905" y="652" type="line"/>
-      <point x="353" y="652" type="line"/>
+      <point x="4017" y="1138" type="line"/>
+      <point x="4017" y="1600" type="line"/>
+      <point x="536" y="1600" type="line"/>
+      <point x="536" y="971" type="line"/>
+      <point x="1091" y="971" type="line"/>
+      <point x="1091" y="1232" type="line"/>
+      <point x="3462" y="1232" type="line"/>
+      <point x="3462" y="1130" type="line"/>
+      <point x="3277" y="938" type="line"/>
+      <point x="1708" y="938" type="line"/>
+      <point x="1708" y="657" type="line"/>
+      <point x="3786" y="657" type="line"/>
+      <point x="3786" y="368" type="line"/>
+      <point x="908" y="368" type="line"/>
+      <point x="908" y="635" type="line"/>
+      <point x="352" y="635" type="line"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
-      <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-28 05:20:01 +0000</string>
-      <key>com.typemytype.robofont.pointLabels</key>
-      <dict/>
-    </dict>
-  </lib>
 </glyph>

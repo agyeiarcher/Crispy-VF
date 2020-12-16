@@ -1,7 +1,7 @@
 import ufoProcessor, os, fontmake, subprocess
 from fontmake import font_project
 
-parametricDesignSpacePath = "../designspaces/SOURCE PARAMETRIC MASTERS/CRISPY-PARAMETRIC AXES.designspace"
+parametricDesignSpacePath = "../designspaces/SOURCE PARAMETRIC MASTERS/CRISPY-PARAMETRIC AXES copy.designspace"
 mastersDesignSpacePath = "../designspaces/WEIGHTWIDTHSERIF/Crispy[SRIF,wdth,wght].designspace"
 mastersFolderPath = "../designspaces/WEIGHTWIDTHSERIF/sources/"
 
@@ -18,6 +18,7 @@ sub_yopqParametricsPath = "../designspaces/SOURCE PARAMETRIC MASTERS/duplicatein
 
 defaultsFolderPath = "../designspaces/WEIGHTWIDTHGRADE/Defaults/"
 variableFontFolderPath = "../../font/variable_ttf/"
+ParametricFontFolderPath = "../../font/variable_ttf/Parametric Version/"
 buildScript = '/Users/aamacbook/Work\ Interim/Crispy-VF/build.sh'
 baseStyles = ['Wide Thin', 'Wide Medium', 'Wide Black', 'Standard Thin', 'Standard Medium', 'Standard Black', 'Narrow Thin', 'Narrow Medium', 'Narrow Black']
 maxFonts = []
@@ -115,5 +116,5 @@ generateMasters(parametricDesignSpacePath)
 # matchWidths(mastersFolderPath)
 # matchWidths(yopqParametricsPath)
 # setUnicodes(mastersFolderPath)
-generateMasters(mastersDesignSpacePath) #this is just so there are some static font files for reference in the instances
-finalFont.build_variable_font(mastersDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=True, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)
+# generateMasters(mastersDesignSpacePath) #this is just so there are some static font files for reference in the instances
+finalFont.build_variable_font(parametricDesignSpacePath, output_dir = variableFontFolderPath, ttf=True, optimize_gvar=True, use_production_names=True, reverse_direction=True, conversion_error=None, feature_writers=None, cff_round_tolerance=None)

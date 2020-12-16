@@ -58,13 +58,6 @@
         <dimension name="xtra" xvalue="1000"/>
       </location>
     </source>
-    <source filename="supports/Crispy Wide Medium.ufo" familyname="Crispy" stylename="support-wide">
-      <location>
-        <dimension name="xopq" xvalue="590"/>
-        <dimension name="yopq" xvalue="695"/>
-        <dimension name="xtra" xvalue="900"/>
-      </location>
-    </source>
     <source filename="supports/Crispy Extended_Control.ufo" familyname="Crispy-Test" stylename="support-extended">
       <location>
         <dimension name="xopq" xvalue="410"/>
@@ -192,13 +185,6 @@
             <real>500.0</real>
           </dict>
           <string>B.medium</string>
-        </array>
-      </array>
-      <key>com.letterror.skateboard.mutedSources</key>
-      <array>
-        <array>
-          <string>Crispy Wide Medium.ufo</string>
-          <string>foreground</string>
         </array>
       </array>
       <key>com.letterror.skateboard.previewLocation</key>

@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>/arrowNE</key>
-    <string>/arrowN_E_.glif</string>
     <key>/arrowNW</key>
     <string>/arrowN_W_.glif</string>
     <key>/arrowSE</key>
@@ -232,8 +230,8 @@
     <string>aacute.glif</string>
     <key>acircumflex</key>
     <string>acircumflex.glif</string>
-    <key>acute</key>
-    <string>acute.glif</string>
+    <key>acutecmb</key>
+    <string>acutecmb.glif</string>
     <key>adieresis</key>
     <string>adieresis.glif</string>
     <key>ae</key>
@@ -382,8 +380,6 @@
     <string>five.numr.glif</string>
     <key>five.subs</key>
     <string>five.subs.glif</string>
-    <key>five.wide</key>
-    <string>five.wide.glif</string>
     <key>fiveinferior</key>
     <string>fiveinferior.glif</string>
     <key>fivesuperior</key>
@@ -508,8 +504,6 @@
     <string>nine.numr.glif</string>
     <key>nine.subs</key>
     <string>nine.subs.glif</string>
-    <key>nine.wide</key>
-    <string>nine.wide.glif</string>
     <key>nineinferior</key>
     <string>nineinferior.glif</string>
     <key>ninesuperior</key>
@@ -542,8 +536,6 @@
     <string>one.glif</string>
     <key>one.dnom</key>
     <string>one.dnom.glif</string>
-    <key>one.narrow</key>
-    <string>one.narrow.glif</string>
     <key>one.numr</key>
     <string>one.numr.glif</string>
     <key>one.subs</key>
@@ -674,8 +666,6 @@
     <string>six.numr.glif</string>
     <key>six.subs</key>
     <string>six.subs.glif</string>
-    <key>six.wide</key>
-    <string>six.wide.glif</string>
     <key>sixinferior</key>
     <string>sixinferior.glif</string>
     <key>sixsuperior</key>
@@ -708,8 +698,6 @@
     <string>three.numr.glif</string>
     <key>three.subs</key>
     <string>three.subs.glif</string>
-    <key>three.wide</key>
-    <string>three.wide.glif</string>
     <key>threeinferior</key>
     <string>threeinferior.glif</string>
     <key>threequarters</key>
@@ -728,8 +716,6 @@
     <string>two.numr.glif</string>
     <key>two.subs</key>
     <string>two.subs.glif</string>
-    <key>two.wide</key>
-    <string>two.wide.glif</string>
     <key>twoinferior</key>
     <string>twoinferior.glif</string>
     <key>twosuperior</key>

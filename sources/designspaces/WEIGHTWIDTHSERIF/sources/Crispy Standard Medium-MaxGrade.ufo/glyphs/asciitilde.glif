@@ -1,5 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="asciitilde" format="2">
+  <advance width="99"/>
+  <unicode hex="007E"/>
   <outline>
+    <contour>
+      <point x="-186" y="1904" type="line"/>
+      <point x="309" y="1709" type="line"/>
+      <point x="350" y="1709" type="line"/>
+      <point x="719" y="1934" type="line"/>
+      <point x="623" y="2165" type="line"/>
+      <point x="349" y="1995" type="line"/>
+      <point x="312" y="1995" type="line"/>
+      <point x="-183" y="2191" type="line"/>
+      <point x="-225" y="2191" type="line"/>
+      <point x="-617" y="1965" type="line"/>
+      <point x="-520" y="1735" type="line"/>
+      <point x="-223" y="1904" type="line"/>
+    </contour>
   </outline>
 </glyph>

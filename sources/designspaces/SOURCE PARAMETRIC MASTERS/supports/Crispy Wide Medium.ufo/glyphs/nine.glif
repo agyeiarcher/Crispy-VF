@@ -1,28 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="nine" format="2">
-  <advance width="4686"/>
+  <advance width="4681"/>
   <unicode hex="0039"/>
   <outline>
-    <contour>
-      <point x="4403" y="1600" type="line"/>
-      <point x="414" y="1600" type="line"/>
-      <point x="414" y="651" type="line"/>
-      <point x="3813" y="651" type="line"/>
-      <point x="3813" y="581" type="line"/>
-      <point x="3540" y="329" type="line"/>
-      <point x="1091" y="329" type="line"/>
-      <point x="1091" y="543" type="line"/>
-      <point x="500" y="543" type="line"/>
-      <point x="500" y="0" type="line"/>
-      <point x="3933" y="0" type="line"/>
-      <point x="4403" y="512" type="line"/>
-    </contour>
-    <contour>
-      <point x="1005" y="974" type="line"/>
-      <point x="1005" y="1271" type="line"/>
-      <point x="3813" y="1271" type="line"/>
-      <point x="3813" y="974" type="line"/>
-    </contour>
+    <component base="six" xScale="-1" yScale="-1" xOffset="4681" yOffset="1600"/>
   </outline>
   <lib>
     <dict>

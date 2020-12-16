@@ -1,35 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="X" format="2">
-  <advance width="4387"/>
+  <advance width="3711"/>
   <unicode hex="0058"/>
   <outline>
     <contour>
-      <point x="490" y="0" type="line"/>
-      <point x="492" y="0" type="line"/>
-      <point x="492" y="799" type="line"/>
-      <point x="3895" y="799" type="line"/>
-      <point x="3895" y="0" type="line"/>
-      <point x="3897" y="0" type="line"/>
-      <point x="3897" y="801" type="line"/>
-      <point x="3213" y="801" type="line"/>
-      <point x="3213" y="799" type="line"/>
-      <point x="3794" y="1600" type="line"/>
-      <point x="3792" y="1600" type="line"/>
-      <point x="3211" y="801" type="line"/>
-      <point x="1178" y="801" type="line"/>
-      <point x="595" y="1600" type="line"/>
-      <point x="593" y="1600" type="line"/>
-      <point x="1174" y="801" type="line"/>
-      <point x="1174" y="801" type="line"/>
-      <point x="490" y="801" type="line"/>
+      <point x="3244" y="0" type="line"/>
+      <point x="3682" y="0" type="line"/>
+      <point x="3682" y="2" type="line"/>
+      <point x="3245" y="2" type="line"/>
+      <point x="438" y="1600" type="line"/>
+      <point x="37" y="1600" type="line"/>
+      <point x="37" y="1598" type="line"/>
+      <point x="437" y="1598" type="line"/>
+    </contour>
+    <contour>
+      <point x="29" y="-6" type="line"/>
+      <point x="32" y="-6" type="line"/>
+      <point x="1746" y="855" type="line"/>
+      <point x="1741" y="855" type="line"/>
+    </contour>
+    <contour>
+      <point x="1822" y="810" type="line"/>
+      <point x="1826" y="810" type="line"/>
+      <point x="3439" y="1611" type="line"/>
+      <point x="3438" y="1613" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>com.schriftgestaltung.Glyphs.Export</key>
-      <false/>
       <key>com.schriftgestaltung.Glyphs.lastChange</key>
-      <string>2019-04-28 05:35:59 +0000</string>
+      <string>2020-12-13 15:32:54 +0000</string>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
         <key>0EQX86S8Fk</key>

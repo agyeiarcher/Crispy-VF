@@ -39,6 +39,7 @@ UlrikenmanpoqooSootoonntnn/space tgourfuvula</string>
 oofoo/space nnfnnvnnnvynnnooyoo/backslash 
 Chateaubriandoz</string>
       <string>XYZ</string>
+      <string>w</string>
     </array>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
     <false/>
@@ -359,15 +360,8 @@ Chateaubriandoz</string>
       <string>zdotbelow</string>
       <string>ordfeminine</string>
       <string>ordmasculine</string>
-      <string>Omega</string>
       <string>mu</string>
       <string>pi</string>
-      <string>one.narrow</string>
-      <string>two.wide</string>
-      <string>three.wide</string>
-      <string>five.wide</string>
-      <string>six.wide</string>
-      <string>nine.wide</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -535,10 +529,10 @@ Chateaubriandoz</string>
       <string>verticallinemod</string>
       <string>dieresis</string>
       <string>dotaccent</string>
-      <string>grave</string>
-      <string>acute</string>
-      <string>hungarumlaut</string>
-      <string>circumflex</string>
+      <string>gravecmb</string>
+      <string>acutecmb</string>
+      <string>hungarumlautcmb</string>
+      <string>circumflexcmb</string>
       <string>caron</string>
       <string>breve</string>
       <string>ring</string>
@@ -557,21 +551,14 @@ Chateaubriandoz</string>
       <string>/arrowup</string>
       <string>/arrowupdown</string>
       <string>NULL</string>
+      <string>hungarumlaut</string>
+      <string>circumflex</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>
     <key>public.skipExportGlyphs</key>
     <array>
-      <string>zero</string>
-      <string>one</string>
-      <string>two</string>
-      <string>three</string>
-      <string>four</string>
-      <string>five</string>
-      <string>six</string>
-      <string>seven</string>
-      <string>eight</string>
-      <string>nine</string>
+      <string>acutecmb</string>
     </array>
   </dict>
 </plist>
