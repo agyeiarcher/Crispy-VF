@@ -312,7 +312,7 @@
       <string>verticallinelowmod</string>
       <string>ordfeminine</string>
       <string>ordmasculine</string>
-      <string>acutecmb</string>
+      <string>acute</string>
       <string>zero</string>
       <string>one</string>
       <string>two</string>
@@ -341,14 +341,12 @@
       <string>twoinferior</string>
       <string>threeinferior</string>
       <string>fourinferior</string>
-      <string>fiveinferior</string>
       <string>sixinferior</string>
       <string>seveninferior</string>
       <string>eightinferior</string>
       <string>nineinferior</string>
       <string>underscore</string>
       <string>hyphen</string>
-      <string>hyphentwo</string>
       <string>figuredash</string>
       <string>endash</string>
       <string>emdash</string>
@@ -412,7 +410,6 @@
       <string>product</string>
       <string>summation</string>
       <string>micro</string>
-      <string>divisionslash</string>
       <string>radical</string>
       <string>infinity</string>
       <string>integral</string>
@@ -441,7 +438,6 @@
       <string>degree</string>
       <string>estimated</string>
       <string>lozenge</string>
-      <string>softhyphen</string>
       <string>zerowidthspace</string>
       <string>/arrowNE</string>
       <string>/arrowNW</string>
@@ -485,14 +481,21 @@
       <string>eight.subs</string>
       <string>nine.subs</string>
       <string>C.wide</string>
-      <string>E.wide</string>
-      <string>F.wide</string>
       <string>G.wide</string>
       <string>L.wide</string>
-      <string>S.wide</string>
       <string>Z.wide</string>
       <string>Y.alt</string>
       <string>I.narrow</string>
+      <string>eight.smol</string>
+      <string>five.smol</string>
+      <string>four.smol</string>
+      <string>nine.smol</string>
+      <string>one.smol</string>
+      <string>seven.smol</string>
+      <string>six.smol</string>
+      <string>three.smol</string>
+      <string>two.smol</string>
+      <string>zero.smol</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>

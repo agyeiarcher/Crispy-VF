@@ -1,24 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="E" format="2">
-  <advance width="1674"/>
+  <advance width="1175"/>
   <unicode hex="0045"/>
   <outline>
     <contour>
       <point x="22" y="0" type="line"/>
-      <point x="1652" y="0" type="line"/>
-      <point x="1652" y="578" type="line"/>
-      <point x="906" y="578" type="line"/>
-      <point x="906" y="2" type="line"/>
+      <point x="1165" y="0" type="line"/>
+      <point x="1165" y="2" type="line"/>
       <point x="888" y="2" type="line"/>
       <point x="888" y="799" type="line"/>
-      <point x="1313" y="799" type="line"/>
-      <point x="1313" y="801" type="line"/>
+      <point x="1086" y="799" type="line"/>
+      <point x="1086" y="801" type="line"/>
       <point x="888" y="801" type="line"/>
       <point x="888" y="1598" type="line"/>
-      <point x="905" y="1598" type="line"/>
-      <point x="905" y="1022" type="line"/>
-      <point x="1651" y="1022" type="line"/>
-      <point x="1651" y="1600" type="line"/>
+      <point x="1164" y="1598" type="line"/>
+      <point x="1164" y="1600" type="line"/>
       <point x="22" y="1600" type="line"/>
     </contour>
   </outline>

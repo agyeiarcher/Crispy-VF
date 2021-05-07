@@ -10,16 +10,6 @@
     </axis>
     <axis tag="XOPQ" name="X-Opacity" minimum="1" maximum="100" default="100"/>
   </axes>
-  <rules>
-    <rule name="subwidth">
-      <conditionset>
-        <condition name="weight" minimum="1" maximum="1000"/>
-        <condition name="width" minimum="1" maximum="130"/>
-      </conditionset>
-      <sub name="E" with="E.wide"/>
-      <sub name="F" with="F.wide"/>
-    </rule>
-  </rules>
   <sources>
     <source filename="../production/Crispy Extended Black-MaxGrade.ufo" familyname="Crispy" stylename="Extended Black-MaxGrade">
       <location>

@@ -617,11 +617,8 @@
       <string>Zdotbelow</string>
       <string>Y.alt</string>
       <string>C.wide</string>
-      <string>E.wide</string>
-      <string>F.wide</string>
       <string>G.wide</string>
       <string>L.wide</string>
-      <string>S.wide</string>
       <string>Z.wide</string>
       <string>a</string>
       <string>aacute</string>
@@ -808,12 +805,10 @@
       <string>bracketleft</string>
       <string>bracketright</string>
       <string>hyphen</string>
-      <string>softhyphen</string>
       <string>endash</string>
       <string>emdash</string>
       <string>figuredash</string>
       <string>horizontalbar</string>
-      <string>hyphentwo</string>
       <string>underscore</string>
       <string>quotesinglbase</string>
       <string>quotedblbase</string>
@@ -840,7 +835,6 @@
       <string>euro</string>
       <string>sterling</string>
       <string>yen</string>
-      <string>divisionslash</string>
       <string>plus</string>
       <string>minus</string>
       <string>multiply</string>
@@ -882,14 +876,13 @@
       <string>fourthtonechinese</string>
       <string>primemod</string>
       <string>ringhalfleft</string>
-      <string>ringhalfright</string>
       <string>secondtonechinese</string>
       <string>verticallinelowmod</string>
       <string>verticallinemod</string>
       <string>dieresis</string>
       <string>dotaccent</string>
       <string>grave</string>
-      <string>acutecmb</string>
+      <string>acute</string>
       <string>hungarumlaut</string>
       <string>circumflex</string>
       <string>caron</string>
@@ -910,6 +903,16 @@
       <string>/arrowNE</string>
       <string>/arrowSE</string>
       <string>/arrowSW</string>
+      <string>eight.smol</string>
+      <string>five.smol</string>
+      <string>four.smol</string>
+      <string>nine.smol</string>
+      <string>one.smol</string>
+      <string>seven.smol</string>
+      <string>six.smol</string>
+      <string>three.smol</string>
+      <string>two.smol</string>
+      <string>zero.smol</string>
     </array>
     <key>public.postscriptNames</key>
     <dict/>

@@ -78,7 +78,7 @@
       <location>
         <dimension name="xopq" xvalue="4"/>
         <dimension name="yopq" xvalue="4"/>
-        <dimension name="xtra" xvalue="1"/>
+        <dimension name="xtra" xvalue="2"/>
       </location>
       <kerning/>
       <info/>
@@ -96,7 +96,7 @@
       <location>
         <dimension name="xopq" xvalue="174.500000"/>
         <dimension name="yopq" xvalue="320"/>
-        <dimension name="xtra" xvalue="1"/>
+        <dimension name="xtra" xvalue="2"/>
       </location>
       <kerning/>
       <info/>
@@ -130,8 +130,8 @@
     </instance>
     <instance familyname="Crispy" stylename="Narrow Thin-MinGrade" filename="../production/Crispy Narrow Thin-MinGrade.ufo">
       <location>
-        <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xopq" xvalue="2"/>
+        <dimension name="yopq" xvalue="2"/>
         <dimension name="xtra" xvalue="2"/>
       </location>
       <kerning/>
@@ -186,7 +186,7 @@
       <location>
         <dimension name="xopq" xvalue="1"/>
         <dimension name="yopq" xvalue="4"/>
-        <dimension name="xtra" xvalue="1"/>
+        <dimension name="xtra" xvalue="2"/>
       </location>
       <kerning/>
       <info/>
@@ -204,7 +204,7 @@
       <location>
         <dimension name="xopq" xvalue="1"/>
         <dimension name="yopq" xvalue="320"/>
-        <dimension name="xtra" xvalue="1"/>
+        <dimension name="xtra" xvalue="2"/>
       </location>
       <kerning/>
       <info/>
@@ -239,7 +239,7 @@
     <instance familyname="Crispy" stylename="Narrow Thin-MinGrade-minXOPQ" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/XOPQ/Crispy Narrow Thin-MinGrade.ufo">
       <location>
         <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="2"/>
         <dimension name="xtra" xvalue="2"/>
       </location>
       <kerning/>

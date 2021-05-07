@@ -56,8 +56,6 @@
     <string>D_linebelow.glif</string>
     <key>E</key>
     <string>E_.glif</string>
-    <key>E.wide</key>
-    <string>E_.wide.glif</string>
     <key>Eacute</key>
     <string>E_acute.glif</string>
     <key>Ecedillabreve</key>
@@ -76,8 +74,6 @@
     <string>E_th.glif</string>
     <key>F</key>
     <string>F_.glif</string>
-    <key>F.wide</key>
-    <string>F_.wide.glif</string>
     <key>G</key>
     <string>G_.glif</string>
     <key>G.wide</key>
@@ -168,8 +164,6 @@
     <string>R_linebelow.glif</string>
     <key>S</key>
     <string>S_.glif</string>
-    <key>S.wide</key>
-    <string>S_.wide.glif</string>
     <key>Sacutedotaccent</key>
     <string>S_acutedotaccent.glif</string>
     <key>Scarondotaccent</key>
@@ -228,8 +222,8 @@
     <string>aacute.glif</string>
     <key>acircumflex</key>
     <string>acircumflex.glif</string>
-    <key>acutecmb</key>
-    <string>acutecmb.glif</string>
+    <key>acute</key>
+    <string>acute.glif</string>
     <key>adieresis</key>
     <string>adieresis.glif</string>
     <key>ae</key>
@@ -304,8 +298,6 @@
     <string>dieresis.glif</string>
     <key>divide</key>
     <string>divide.glif</string>
-    <key>divisionslash</key>
-    <string>divisionslash.glif</string>
     <key>dlinebelow</key>
     <string>dlinebelow.glif</string>
     <key>dollar</key>
@@ -332,6 +324,8 @@
     <string>eight.dnom.glif</string>
     <key>eight.numr</key>
     <string>eight.numr.glif</string>
+    <key>eight.smol</key>
+    <string>eight.smol.glif</string>
     <key>eight.subs</key>
     <string>eight.subs.glif</string>
     <key>eightinferior</key>
@@ -376,6 +370,8 @@
     <string>five.dnom.glif</string>
     <key>five.numr</key>
     <string>five.numr.glif</string>
+    <key>five.smol</key>
+    <string>five.smol.glif</string>
     <key>five.subs</key>
     <string>five.subs.glif</string>
     <key>fiveinferior</key>
@@ -388,6 +384,8 @@
     <string>four.dnom.glif</string>
     <key>four.numr</key>
     <string>four.numr.glif</string>
+    <key>four.smol</key>
+    <string>four.smol.glif</string>
     <key>four.subs</key>
     <string>four.subs.glif</string>
     <key>fourinferior</key>
@@ -430,8 +428,6 @@
     <string>hungarumlaut.glif</string>
     <key>hyphen</key>
     <string>hyphen.glif</string>
-    <key>hyphentwo</key>
-    <string>hyphentwo.glif</string>
     <key>i</key>
     <string>i.glif</string>
     <key>iacute</key>
@@ -500,6 +496,8 @@
     <string>nine.dnom.glif</string>
     <key>nine.numr</key>
     <string>nine.numr.glif</string>
+    <key>nine.smol</key>
+    <string>nine.smol.glif</string>
     <key>nine.subs</key>
     <string>nine.subs.glif</string>
     <key>nineinferior</key>
@@ -536,6 +534,8 @@
     <string>one.dnom.glif</string>
     <key>one.numr</key>
     <string>one.numr.glif</string>
+    <key>one.smol</key>
+    <string>one.smol.glif</string>
     <key>one.subs</key>
     <string>one.subs.glif</string>
     <key>onehalf</key>
@@ -620,8 +620,6 @@
     <string>ring.glif</string>
     <key>ringhalfleft</key>
     <string>ringhalfleft.glif</string>
-    <key>ringhalfright</key>
-    <string>ringhalfright.glif</string>
     <key>rlinebelow</key>
     <string>rlinebelow.glif</string>
     <key>s</key>
@@ -650,6 +648,8 @@
     <string>seven.dnom.glif</string>
     <key>seven.numr</key>
     <string>seven.numr.glif</string>
+    <key>seven.smol</key>
+    <string>seven.smol.glif</string>
     <key>seven.subs</key>
     <string>seven.subs.glif</string>
     <key>seveninferior</key>
@@ -662,6 +662,8 @@
     <string>six.dnom.glif</string>
     <key>six.numr</key>
     <string>six.numr.glif</string>
+    <key>six.smol</key>
+    <string>six.smol.glif</string>
     <key>six.subs</key>
     <string>six.subs.glif</string>
     <key>sixinferior</key>
@@ -670,8 +672,6 @@
     <string>sixsuperior.glif</string>
     <key>slash</key>
     <string>slash.glif</string>
-    <key>softhyphen</key>
-    <string>softhyphen.glif</string>
     <key>space</key>
     <string>space.glif</string>
     <key>sterling</key>
@@ -694,6 +694,8 @@
     <string>three.dnom.glif</string>
     <key>three.numr</key>
     <string>three.numr.glif</string>
+    <key>three.smol</key>
+    <string>three.smol.glif</string>
     <key>three.subs</key>
     <string>three.subs.glif</string>
     <key>threeinferior</key>
@@ -712,6 +714,8 @@
     <string>two.dnom.glif</string>
     <key>two.numr</key>
     <string>two.numr.glif</string>
+    <key>two.smol</key>
+    <string>two.smol.glif</string>
     <key>two.subs</key>
     <string>two.subs.glif</string>
     <key>twoinferior</key>
@@ -764,6 +768,8 @@
     <string>zero.dnom.glif</string>
     <key>zero.numr</key>
     <string>zero.numr.glif</string>
+    <key>zero.smol</key>
+    <string>zero.smol.glif</string>
     <key>zero.subs</key>
     <string>zero.subs.glif</string>
     <key>zeroinferior</key>

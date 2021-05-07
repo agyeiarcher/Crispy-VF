@@ -1,6 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="euro" format="2">
   <advance width="490"/>
+  <unicode hex="20AC"/>
   <outline>
     <contour>
       <point x="388" y="633" type="line"/>

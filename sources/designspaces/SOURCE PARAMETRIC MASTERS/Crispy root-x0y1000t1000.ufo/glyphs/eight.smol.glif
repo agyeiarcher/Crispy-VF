@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eight.smol" format="2">
+  <advance width="3139"/>
+  <outline>
+    <contour>
+      <point x="344" y="0" type="line"/>
+      <point x="2794" y="0" type="line"/>
+      <point x="2794" y="420" type="line"/>
+      <point x="2526" y="562" type="line"/>
+      <point x="2526" y="563" type="line"/>
+      <point x="2722" y="563" type="line"/>
+      <point x="2722" y="1124" type="line"/>
+      <point x="375" y="1124" type="line"/>
+      <point x="375" y="704" type="line"/>
+      <point x="640" y="563" type="line"/>
+      <point x="640" y="562" type="line"/>
+      <point x="344" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="346" y="340" type="line"/>
+      <point x="346" y="413" type="line"/>
+      <point x="2525" y="413" type="line"/>
+      <point x="2793" y="295" type="line"/>
+      <point x="2793" y="340" type="line"/>
+    </contour>
+    <contour>
+      <point x="642" y="711" type="line"/>
+      <point x="376" y="836" type="line"/>
+      <point x="375" y="784" type="line"/>
+      <point x="2720" y="784" type="line"/>
+      <point x="2720" y="711" type="line"/>
+    </contour>
+  </outline>
+</glyph>
