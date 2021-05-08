@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fivesuperior" format="2">
-  <advance width="417"/>
+  <advance width="307"/>
   <unicode hex="2075"/>
   <outline>
+    <component base="five.smol" yOffset="473"/>
   </outline>
   <lib>
     <dict>

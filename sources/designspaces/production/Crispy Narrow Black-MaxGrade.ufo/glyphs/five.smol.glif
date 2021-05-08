@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.smol" format="2">
+  <advance width="452"/>
+  <outline>
+    <contour>
+      <point x="17" y="0" type="line"/>
+      <point x="436" y="0" type="line"/>
+      <point x="436" y="572" type="line"/>
+      <point x="206" y="572" type="line"/>
+      <point x="206" y="908" type="line"/>
+      <point x="436" y="908" type="line"/>
+      <point x="436" y="1018" type="line"/>
+      <point x="16" y="1018" type="line"/>
+      <point x="16" y="461" type="line"/>
+      <point x="247" y="461" type="line"/>
+      <point x="247" y="111" type="line"/>
+      <point x="207" y="111" type="line"/>
+      <point x="207" y="357" type="line"/>
+      <point x="17" y="357" type="line"/>
+    </contour>
+  </outline>
+</glyph>

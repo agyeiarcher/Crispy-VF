@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="sixinferior" format="2">
-  <advance width="431"/>
+  <advance width="483"/>
   <unicode hex="2086"/>
   <outline>
+    <component base="six.smol" yOffset="-265"/>
   </outline>
   <lib>
     <dict>

@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="eightsuperior" format="2">
-  <advance width="417"/>
+  <advance width="312"/>
   <unicode hex="2078"/>
   <outline>
+    <component base="eight.smol" yOffset="472"/>
   </outline>
   <lib>
     <dict>

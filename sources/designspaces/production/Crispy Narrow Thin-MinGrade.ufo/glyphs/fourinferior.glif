@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="fourinferior" format="2">
-  <advance width="400"/>
+  <advance width="90"/>
   <unicode hex="2084"/>
   <outline>
+    <component base="four.smol" yOffset="-300"/>
   </outline>
   <lib>
     <dict>

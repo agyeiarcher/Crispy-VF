@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="twoinferior" format="2">
-  <advance width="400"/>
+  <advance width="89"/>
   <unicode hex="2082"/>
   <outline>
+    <component base="two.smol" yOffset="-300"/>
   </outline>
   <lib>
     <dict>

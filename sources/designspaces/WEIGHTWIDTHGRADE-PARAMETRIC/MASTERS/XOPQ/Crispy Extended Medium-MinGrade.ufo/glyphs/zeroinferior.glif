@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zeroinferior" format="2">
-  <advance width="450"/>
+  <advance width="2055"/>
   <unicode hex="2080"/>
   <outline>
+    <component base="zero.smol" xOffset="4" yOffset="-21"/>
   </outline>
   <lib>
     <dict>

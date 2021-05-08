@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="t" format="2">
-  <advance width="225"/>
+  <advance width="228"/>
   <unicode hex="0074"/>
   <outline>
     <contour>
-      <point x="-8" y="0" type="line" smooth="yes"/>
-      <point x="251" y="0" type="line"/>
-      <point x="251" y="145" type="line"/>
-      <point x="140" y="145" type="line" smooth="yes"/>
-      <point x="140" y="1600" type="line"/>
-      <point x="-8" y="1600" type="line" smooth="yes"/>
+      <point x="-7" y="0" type="line" smooth="yes"/>
+      <point x="252" y="0" type="line"/>
+      <point x="252" y="145" type="line"/>
+      <point x="141" y="145" type="line" smooth="yes"/>
+      <point x="141" y="1600" type="line"/>
+      <point x="-7" y="1600" type="line" smooth="yes"/>
     </contour>
     <contour>
-      <point x="66" y="998" type="line"/>
-      <point x="256" y="998" type="line"/>
-      <point x="256" y="1204" type="line"/>
-      <point x="208" y="1204" type="line"/>
-      <point x="66" y="1052" type="line"/>
+      <point x="67" y="994" type="line"/>
+      <point x="257" y="994" type="line"/>
+      <point x="257" y="1200" type="line"/>
+      <point x="209" y="1200" type="line"/>
+      <point x="67" y="1048" type="line"/>
     </contour>
   </outline>
 </glyph>

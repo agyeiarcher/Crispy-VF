@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.smol" format="2">
+  <advance width="1952"/>
+  <outline>
+    <contour>
+      <point x="283" y="0" type="line"/>
+      <point x="1670" y="0" type="line"/>
+      <point x="1670" y="1066" type="line"/>
+      <point x="283" y="1066" type="line"/>
+    </contour>
+    <contour>
+      <point x="287" y="4" type="line"/>
+      <point x="287" y="1062" type="line"/>
+      <point x="1665" y="1062" type="line"/>
+      <point x="1665" y="4" type="line"/>
+    </contour>
+  </outline>
+</glyph>

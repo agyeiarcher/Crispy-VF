@@ -1,22 +1,22 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="N" format="2">
-  <advance width="213"/>
+  <advance width="217"/>
   <unicode hex="004E"/>
   <outline>
     <contour>
-      <point x="167" y="0" type="line"/>
-      <point x="167" y="1600" type="line"/>
-      <point x="162" y="1600" type="line"/>
-      <point x="162" y="638" type="line"/>
-      <point x="164" y="638" type="line"/>
-      <point x="69" y="1600" type="line"/>
-      <point x="47" y="1600" type="line"/>
-      <point x="47" y="0" type="line"/>
-      <point x="51" y="0" type="line"/>
-      <point x="51" y="1596" type="line"/>
-      <point x="67" y="1596" type="line"/>
-      <point x="162" y="624" type="line"/>
-      <point x="162" y="0" type="line"/>
+      <point x="171" y="0" type="line"/>
+      <point x="171" y="1600" type="line"/>
+      <point x="166" y="1600" type="line"/>
+      <point x="166" y="637" type="line"/>
+      <point x="168" y="637" type="line"/>
+      <point x="71" y="1600" type="line"/>
+      <point x="48" y="1600" type="line"/>
+      <point x="48" y="0" type="line"/>
+      <point x="52" y="0" type="line"/>
+      <point x="52" y="1596" type="line"/>
+      <point x="68" y="1596" type="line"/>
+      <point x="166" y="624" type="line"/>
+      <point x="166" y="0" type="line"/>
     </contour>
   </outline>
   <lib>

@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="seveninferior" format="2">
-  <advance width="450"/>
+  <advance width="1884"/>
   <unicode hex="2087"/>
   <outline>
+    <component base="seven.smol" yOffset="-295"/>
   </outline>
   <lib>
     <dict>

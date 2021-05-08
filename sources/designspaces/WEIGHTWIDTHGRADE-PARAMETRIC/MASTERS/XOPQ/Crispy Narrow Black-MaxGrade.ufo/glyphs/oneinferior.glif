@@ -1,8 +1,9 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="oneinferior" format="2">
-  <advance width="434"/>
+  <advance width="273"/>
   <unicode hex="2081"/>
   <outline>
+    <component base="one.smol" yOffset="-300"/>
   </outline>
   <lib>
     <dict>

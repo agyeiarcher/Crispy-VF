@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="five" format="2">
-  <advance width="169"/>
+  <advance width="172"/>
   <unicode hex="0035"/>
   <outline>
     <contour>
-      <point x="41" y="0" type="line"/>
-      <point x="132" y="0" type="line"/>
-      <point x="132" y="801" type="line"/>
-      <point x="41" y="801" type="line"/>
-      <point x="41" y="1598" type="line"/>
-      <point x="132" y="1598" type="line"/>
-      <point x="132" y="1600" type="line"/>
-      <point x="39" y="1600" type="line"/>
-      <point x="39" y="799" type="line"/>
-      <point x="130" y="799" type="line"/>
-      <point x="130" y="2" type="line"/>
-      <point x="43" y="2" type="line"/>
-      <point x="43" y="403" type="line"/>
-      <point x="41" y="403" type="line"/>
+      <point x="42" y="0" type="line"/>
+      <point x="135" y="0" type="line"/>
+      <point x="135" y="801" type="line"/>
+      <point x="42" y="801" type="line"/>
+      <point x="42" y="1598" type="line"/>
+      <point x="135" y="1598" type="line"/>
+      <point x="135" y="1600" type="line"/>
+      <point x="40" y="1600" type="line"/>
+      <point x="40" y="799" type="line"/>
+      <point x="132" y="799" type="line"/>
+      <point x="132" y="2" type="line"/>
+      <point x="44" y="2" type="line"/>
+      <point x="44" y="404" type="line"/>
+      <point x="42" y="404" type="line"/>
     </contour>
   </outline>
   <lib>
