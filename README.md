@@ -126,9 +126,9 @@ The masters asociated with these file are only handled on export by fontmake, an
 * Juneish 2019: design initiated
 
 ### Roadmap:
-* Symbols (December 2020)
-* Kerning (January 2021)
-* GlyphConstruction & Language support (January 2021)
+* Math Symbols - complete (June 2021)
+* Kerning (August 2021)
+* GlyphConstruction & Language support (August 2021)
 
 ### Acknowledgements
 
