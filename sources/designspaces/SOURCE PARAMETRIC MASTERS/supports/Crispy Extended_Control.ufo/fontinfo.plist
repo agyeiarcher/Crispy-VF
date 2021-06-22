@@ -9,7 +9,7 @@
     <key>descender</key>
     <integer>-300</integer>
     <key>familyName</key>
-    <string>Crispy-Test</string>
+    <string>Crispy</string>
     <key>guidelines</key>
     <array/>
     <key>openTypeHeadCreated</key>
@@ -78,6 +78,8 @@
     <array/>
     <key>postscriptStemSnapV</key>
     <array/>
+    <key>styleMapFamilyName</key>
+    <string>Medium Extended-Control</string>
     <key>styleName</key>
     <string>Medium Extended-Control</string>
     <key>unitsPerEm</key>

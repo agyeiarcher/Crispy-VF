@@ -61,20 +61,10 @@
     <array/>
     <key>postscriptStemSnapV</key>
     <array/>
+    <key>styleMapFamilyName</key>
+    <string>x1y1000t1</string>
     <key>styleName</key>
-    <string>x1y1000t1
-&lt;glyph name="Eth" format="2"&gt;
-  &lt;advance width="4799"/&gt;
-  &lt;outline&gt;
-    &lt;contour&gt;
-      &lt;point x="24" y="794" type="line"/&gt;
-      &lt;point x="1404" y="794" type="line"/&gt;
-      &lt;point x="1404" y="796" type="line"/&gt;
-      &lt;point x="24" y="796" type="line"/&gt;
-    &lt;/contour&gt;
-  &lt;/outline&gt;
-&lt;/glyph&gt;
-x1y1000t1</string>
+    <string>x1y1000t1</string>
     <key>unitsPerEm</key>
     <integer>2000</integer>
     <key>versionMajor</key>

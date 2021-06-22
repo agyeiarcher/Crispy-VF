@@ -74,61 +74,7 @@
     </source>
   </sources>
   <instances>
-    <instance familyname="Crispy" stylename="Narrow Thin-MaxGrade" filename="../production/Crispy Narrow Thin-MaxGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="4"/>
-        <dimension name="yopq" xvalue="4"/>
-        <dimension name="xtra" xvalue="2"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Thin-MaxGrade" filename="../production/Crispy Extended Thin-MaxGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="6"/>
-        <dimension name="yopq" xvalue="8"/>
-        <dimension name="xtra" xvalue="550"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Narrow Medium-MaxGrade" filename="../production/Crispy Narrow Medium-MaxGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="174.500000"/>
-        <dimension name="yopq" xvalue="320"/>
-        <dimension name="xtra" xvalue="2"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Medium-MaxGrade" filename="../production/Crispy Extended Medium-MaxGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="410"/>
-        <dimension name="yopq" xvalue="475"/>
-        <dimension name="xtra" xvalue="450"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Black-MaxGrade" filename="../production/Crispy Extended Black-MaxGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="663.578476"/>
-        <dimension name="yopq" xvalue="725.516712"/>
-        <dimension name="xtra" xvalue="450"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Narrow Black-MaxGrade" filename="../production/Crispy Narrow Black-MaxGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="344.937231"/>
-        <dimension name="yopq" xvalue="375.240841"/>
-        <dimension name="xtra" xvalue="5"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Narrow Thin-MinGrade" filename="../production/Crispy Narrow Thin-MinGrade.ufo">
+    <instance familyname="Crispy-Core" stylename="Thin 100-MinGrade" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/Core/CrispyThin100-MinGrade.ufo">
       <location>
         <dimension name="xopq" xvalue="2"/>
         <dimension name="yopq" xvalue="2"/>
@@ -137,155 +83,11 @@
       <kerning/>
       <info/>
     </instance>
-    <instance familyname="Crispy" stylename="Extended Thin-MinGrade" filename="../production/Crispy Extended Thin-MinGrade.ufo">
+    <instance familyname="Crispy-Core" stylename="Thin 100-MaxGrade" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/Core/CrispyThin100-MaxGrade.ufo">
       <location>
         <dimension name="xopq" xvalue="2"/>
         <dimension name="yopq" xvalue="2"/>
-        <dimension name="xtra" xvalue="551"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Narrow Medium-MinGrade" filename="../production/Crispy Narrow Medium-MinGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="172"/>
-        <dimension name="yopq" xvalue="315"/>
-        <dimension name="xtra" xvalue="19"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Medium-MinGrade" filename="../production/Crispy Extended Medium-MinGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="376.280000"/>
-        <dimension name="yopq" xvalue="452.760000"/>
-        <dimension name="xtra" xvalue="462"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Black-MinGrade" filename="../production/Crispy Extended Black-MinGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="601.640000"/>
-        <dimension name="yopq" xvalue="709.460000"/>
-        <dimension name="xtra" xvalue="470.700000"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Narrow Black-MinGrade" filename="../production/Crispy Narrow Black-MinGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="313"/>
-        <dimension name="yopq" xvalue="370"/>
-        <dimension name="xtra" xvalue="28"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Narrow Thin-MaxGrade-minXOPQ" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/XOPQ/Crispy Narrow Thin-MaxGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="4"/>
         <dimension name="xtra" xvalue="2"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Thin-MaxGrade-minXOPQ" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/XOPQ/Crispy Extended Thin-MaxGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="8"/>
-        <dimension name="xtra" xvalue="550"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Narrow Medium-MaxGrade-minXOPQ" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/XOPQ/Crispy Narrow Medium-MaxGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="320"/>
-        <dimension name="xtra" xvalue="2"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Medium-MaxGrade-minXOPQ" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/XOPQ/Crispy Extended Medium-MaxGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="475"/>
-        <dimension name="xtra" xvalue="450"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Black-MaxGrade-minXOPQ" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/XOPQ/Crispy Extended Black-MaxGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="725.516712"/>
-        <dimension name="xtra" xvalue="450"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Narrow Black-MaxGrade-minXOPQ" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/XOPQ/Crispy Narrow Black-MaxGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="375.240841"/>
-        <dimension name="xtra" xvalue="5"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Narrow Thin-MinGrade-minXOPQ" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/XOPQ/Crispy Narrow Thin-MinGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="2"/>
-        <dimension name="xtra" xvalue="2"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Thin-MinGrade-minXOPQ" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/XOPQ/Crispy Extended Thin-MinGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="2"/>
-        <dimension name="xtra" xvalue="551"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Narrow Medium-MinGrade-minXOPQ" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/XOPQ/Crispy Narrow Medium-MinGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="315"/>
-        <dimension name="xtra" xvalue="19"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Medium-MinGrade-minXOPQ" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/XOPQ/Crispy Extended Medium-MinGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="452.760000"/>
-        <dimension name="xtra" xvalue="462"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Extended Black-MinGrade-minXOPQ" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/XOPQ/Crispy Extended Black-MinGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="709.460000"/>
-        <dimension name="xtra" xvalue="470.700000"/>
-      </location>
-      <kerning/>
-      <info/>
-    </instance>
-    <instance familyname="Crispy" stylename="Narrow Black-MinGrade-minXOPQ" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/XOPQ/Crispy Narrow Black-MinGrade.ufo">
-      <location>
-        <dimension name="xopq" xvalue="1"/>
-        <dimension name="yopq" xvalue="370"/>
-        <dimension name="xtra" xvalue="28"/>
       </location>
       <kerning/>
       <info/>
@@ -326,11 +128,11 @@
       <key>com.letterror.skateboard.previewLocation</key>
       <dict>
         <key>xopq</key>
-        <real>601.638</real>
+        <real>174.5</real>
         <key>xtra</key>
-        <real>470.7</real>
+        <real>2.0</real>
         <key>yopq</key>
-        <real>709.463</real>
+        <real>320.0</real>
       </dict>
       <key>com.letterror.skateboard.previewText</key>
       <string>the quick brown fox jumps over the lazy dog</string>
