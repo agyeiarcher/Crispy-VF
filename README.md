@@ -25,7 +25,7 @@ Development and design for this typeface project is bankrolled by Google Fonts, 
 |  Slant¹         | slnt       | Stylistic     | -1           | 1         |
 |  Shadow²        | shdw       | Stylistic     | 0            | 1         |
 
-¹Dependent on automation using [UFOStretch](https://ufostretch.typemytype.com/)
+¹Dependent on automation using a modified Slanter fork.
 
 ²Dependent on Python scripting that is still, how you say...."in progress"
 
@@ -48,7 +48,7 @@ ___
 * Agyei Archer
 
 ### License:
-Copyright (c) 2020, Agyei Archer Limited (hello@agyei.design | [agyei.design]() )
+Copyright (c) 2021, Agyei Archer Limited (hello@agyei.design | [agyei.design]() )
 
 Licensed under the [SIL Open Font License, 1.1](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
 
@@ -126,9 +126,9 @@ The masters asociated with these file are only handled on export by fontmake, an
 * Juneish 2019: design initiated
 
 ### Roadmap:
-* Symbols (December 2020)
-* Kerning (January 2021)
-* GlyphConstruction & Language support (January 2021)
+* Math Symbols - complete (June 2021)
+* Kerning (August 2021)
+* GlyphConstruction & Language support (August 2021)
 
 ### Acknowledgements
 
