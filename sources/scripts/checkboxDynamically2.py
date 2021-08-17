@@ -16,11 +16,11 @@ class FontsCheckBox(object):
         for self.i in range(len(AllFonts())):
             self.varDict["string{0}".format(self.i)] = AllFonts()[self.i].info.styleName
         print(self.varDict)
-        for font in self.varDict.values():
+        for varName, font in self.varDict.values():
             checkbox = CheckBox((5, 10+self.i, -10, 20), font, callback=self.checkBoxCallback, value=False)
+            setattr(self.checkWindow, varName, checkbox)
             self.i+=20
-            setattr(self.checkWindow, font, checkbox)
-        self.checkWindow.button = Button((10, (len(AllFonts())*25), -10, 20), "A Button", callback=self.buttonCallback)
+        self.checkWindow.button = Button((10, (len(AllFonts())*25), -10, 20), "Compare Width Metrics", callback=self.buttonCallback)
         self.checkWindow.open()
                 
         self.glyphlist = []
@@ -74,7 +74,6 @@ class FontsCheckBox(object):
         self.f2 = self.fontsToSend[1]
         if len(self.fontsToSend)==2:
             self.checkWindow.close()
-            self.listWindow.myList = None
             self.openList()
             
     def openList(self):
