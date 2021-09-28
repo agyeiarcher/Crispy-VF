@@ -1,9 +1,20 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Y" format="2">
-  <advance width="141"/>
+  <advance width="142"/>
   <unicode hex="0059"/>
   <outline>
-    <component base="Y.alt"/>
+    <contour>
+      <point x="54" y="712" type="line" smooth="yes"/>
+      <point x="94" y="712" type="line"/>
+      <point x="72" y="0" type="line"/>
+      <point x="75" y="0" type="line"/>
+      <point x="128" y="1600" type="line" smooth="yes"/>
+      <point x="125" y="1600" type="line" smooth="yes"/>
+      <point x="95" y="715" type="line"/>
+      <point x="56" y="715" type="line" smooth="yes"/>
+      <point x="18" y="1600" type="line"/>
+      <point x="15" y="1600" type="line" smooth="yes"/>
+    </contour>
   </outline>
   <lib>
     <dict>

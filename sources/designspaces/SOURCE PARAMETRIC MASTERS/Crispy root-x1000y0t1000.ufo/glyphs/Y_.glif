@@ -3,7 +3,18 @@
   <advance width="4338"/>
   <unicode hex="0059"/>
   <outline>
-    <component base="Y.alt"/>
+    <contour>
+      <point x="400" y="724" type="line" smooth="yes"/>
+      <point x="2911" y="724" type="line"/>
+      <point x="2576" y="0" type="line"/>
+      <point x="3590" y="0" type="line"/>
+      <point x="4293" y="1600" type="line" smooth="yes"/>
+      <point x="3279" y="1600" type="line" smooth="yes"/>
+      <point x="2910" y="726" type="line"/>
+      <point x="1394" y="726" type="line"/>
+      <point x="1044" y="1600" type="line"/>
+      <point x="30" y="1600" type="line"/>
+    </contour>
   </outline>
   <lib>
     <dict>
