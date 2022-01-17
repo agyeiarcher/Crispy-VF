@@ -16,7 +16,7 @@
         <key>angle</key>
         <integer>0</integer>
         <key>identifier</key>
-        <string>eSg0HErZyq</string>
+        <string>FGcmO7AfSV</string>
         <key>name</key>
         <string>topserif-narrow</string>
         <key>x</key>
@@ -31,10 +31,16 @@
     <string>http://scripts.sil.org/OFL</string>
     <key>openTypeNamePreferredFamilyName</key>
     <string>Crispy_SAMPLE</string>
+    <key>openTypeNamePreferredSubfamilyName</key>
+    <string>x1y1t1</string>
     <key>openTypeOS2Type</key>
     <array/>
     <key>openTypeOS2VendorID</key>
     <string>!666</string>
+    <key>openTypeOS2WeightClass</key>
+    <integer>400</integer>
+    <key>openTypeOS2WidthClass</key>
+    <integer>5</integer>
     <key>postscriptBlueValues</key>
     <array/>
     <key>postscriptFamilyBlues</key>
@@ -51,6 +57,8 @@
     <array/>
     <key>styleMapFamilyName</key>
     <string>x1y1t1</string>
+    <key>styleMapStyleName</key>
+    <string>regular</string>
     <key>styleName</key>
     <string>x1y1t1</string>
     <key>unitsPerEm</key>

@@ -21,6 +21,7 @@
     <key>com.schriftgestaltung.DisplayStrings</key>
     <array>
       <string>AORTA</string>
+      <string>w½</string>
     </array>
     <key>com.schriftgestaltung.disablesAutomaticAlignment</key>
     <false/>
@@ -508,19 +509,5 @@
     </array>
     <key>public.postscriptNames</key>
     <dict/>
-    <key>public.skipExportGlyphs</key>
-    <array>
-      <string>acutecmb</string>
-      <string>grave</string>
-      <string>hungarumlaut</string>
-      <string>circumflex</string>
-      <string>caron</string>
-      <string>breve</string>
-      <string>tilde</string>
-      <string>macron</string>
-      <string>dieresis</string>
-      <string>dotaccent</string>
-      <string>ring</string>
-    </array>
   </dict>
 </plist>
