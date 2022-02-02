@@ -3,13 +3,13 @@ ___
 
 **Crispy** is a variable font, designed by Agyei Archer for Google Fonts and licensed under the [SIL Open Font License, 1.1](http://scripts.sil.org/OFL).
 
-**Raison D'etre:** Crispy's variations are created based on Font Bureau and David Berlow's [variations proposal](https://variationsguide.typenetwork.com/), which outlined the descriptions of font features using more elemental factors than the more common paradigms like weight, width, x-height, etc.
+Crispy's variations are created based on Font Bureau and David Berlow's [variations proposal](https://variationsguide.typenetwork.com/), which outlined the descriptions of font features using more elemental factors than the more common paradigms like weight, width, x-height, etc.
 
-**Spiel:** Crispy is a typeface designed for applications where headline content needs to take primary importance. Its parametric design makes it applicable to a spectrum of eccentricity that makes it usable for headlines of all flav*ou*rs. Initially this focus was a good excuse to make it uppercase only, but a lowercase has since been added to increase range of future usability.
+Crispy is a typeface designed for applications where headline content needs to take primary importance. Its parametric design makes it applicable to a spectrum of eccentricity that makes it usable for headlines of all flav*ou*rs. Initially this focus was a good excuse to make it uppercase only, but a lowercase has since been added to increase range of future usability.
 
 ![](docs/gomd-01.png)
 
-Development and design for this typeface project is bankrolled by Google Fonts, and in the future it may be available in Google Fonts. Until then, this respository is the best place to download the latest usable files.
+Development and design for this typeface project is sponsored by Google Fonts, and in the future it may be available in Google Fonts. Until then, this respository is the best place to download the latest usable files.
 
 
 ### Planned Axes:
@@ -74,11 +74,13 @@ Crispy is a variable font that supports [Google Latin Pro](https://github.com/go
 |  Crispy Support: Medium Condensed³ | 174.5   | 320    | 20 |
 |  Crispy Support: Medium Extended³ | 410   | 475    | 450 |
 
+These master files were first made in Robofont, btu are now being produced in Glyphs for more speed, using Skateboard to visualise changes for nuanced axe such as grade, and Robofont Scripts, DesignSpace files, and Fontmake-specific tools to generate the exported file.
+
 *³ Support files were added to have more control over certain font features such as diagonals and areas where weight management needed more nuanced control. Because of the nature of the font files used, it's also easier to use these files to preview and design test cases for more complicated glyphs.*
 
 The setup of the file creation is as follows:
 
-Crispy uses two designspace files. The primary designspace file is one where the extreme values for the various axes are defined using value combinations for the parametric axes. The exported instances related to these are defined as:
+Crispy uses two design scenarios. The primary designspace file is one where the extreme values for the various axes are defined using value combinations for the parametric axes. The exported instances related to these are defined as:
 
 * Width: Min/Max
 * Weight: Min/max
@@ -86,11 +88,11 @@ Crispy uses two designspace files. The primary designspace file is one where the
 * XTRA: Min/Max
 * XOPQ: Min/Max
 * YOPQ: Min/Max
+* Slant: Min/Max
 
 *Still to be added:*
 
-* slnt: Min/Max
-* shdw: Min/Max
+* Shadow: Min/Max
 
 This gives a current total of 64 source definitions related to the first designspace file, but requiring only different value configurations of these 8 master files.
 
@@ -120,15 +122,19 @@ The masters asociated with these file are only handled on export by fontmake, an
 
 ⁴ Currently `git push` triggers [FontBakery](https://github.com/googlefonts/fontbakery/) QA checks. Fontbakery MarkDown generation creates a simple readable report on font errors following this, to help move the font files toward completion.
 
+### Glyphs + :
+
 ### Design log:
+* December 2021: math symbols completed, Design sources moved to Glyphs
 * December 2020: lowercase parametric versions completed and merged
 * March 2020: design direction completed and proportions resolved
 * Juneish 2019: design initiated
 
 ### Roadmap:
-* Math Symbols - complete (June 2021)
-* Kerning (August 2021)
-* GlyphConstruction & Language support (August 2021)
+* Combining marks - completed and reviewed (February 2022)
+* Final Design review incl. Combined marks - completed (February 2022)
+* GlyphConstruction & Full Language support (April 2022)
+* Kerning (May 2022) - to be done with Kern-On in Glyphs
 
 ### Acknowledgements
 
@@ -141,4 +147,4 @@ The masters asociated with these file are only handled on export by fontmake, an
 
 **Agyei Archer: Designer** | hello@agyei.design | [http://agyei.design]()
 
-**David Berlow** [http://davidberlow.fontbureau.com/](http://davidberlow.fontbureau.com/)
+**David Berlow: Parametric Design Theorist & Pioneer**** [http://davidberlow.fontbureau.com/](http://davidberlow.fontbureau.com/)
