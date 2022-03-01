@@ -22,8 +22,8 @@ Development and design for this typeface project is sponsored by Google Fonts, a
 |  Weight         | wght       | Stylistic     | 1            | 1000      |
 |  Width          | wdth       | Stylistic     | 1            | 1000      |
 |  Grade          | GRAD       | Stylistic     | -0.5         | 0.5       |
-|  Slant¹         | slnt       | Stylistic     | -1           | 1         |
-|  Shadow²        | shdw       | Stylistic     | 0            | 1         |
+|  Slant          | slnt       | Stylistic     | -1           | 1         |
+|  Shadow         | shdw       | Stylistic     | 0            | 1         |
 
 ¹Dependent on automation using a modified Slanter fork.
 
@@ -44,7 +44,7 @@ Anyway,
 
 ___
 
-### Designers:
+### Designer:
 * Agyei Archer
 
 ### License:
@@ -74,13 +74,16 @@ Crispy is a variable font that supports [Google Latin Pro](https://github.com/go
 |  Crispy Support: Medium Condensed³ | 174.5   | 320    | 20 |
 |  Crispy Support: Medium Extended³ | 410   | 475    | 450 |
 
-These master files were first made in Robofont, btu are now being produced in Glyphs for more speed, using Skateboard to visualise changes for nuanced axe such as grade, and Robofont Scripts, DesignSpace files, and Fontmake-specific tools to generate the exported file.
+These master files were first made in Robofont, but are now being produced in Glyphs for more speed, using Robofont and Skateboard to visualise changes for nuanced axe such as grade, and Robofont Scripts, DesignSpace files, and Fontmake-specific tools to generate the exported file.
 
-*³ Support files were added to have more control over certain font features such as diagonals and areas where weight management needed more nuanced control. Because of the nature of the font files used, it's also easier to use these files to preview and design test cases for more complicated glyphs.*
+The logic is:
+1. Masters are designed and edited in Glyphs (manual)
+2. These masters are exported in .ufo format and VF instances are created and managed by Robofont + Skateboard (manual) 
+3. The necessary instances to be used for masters for Grade, Weight, and Width will be generated in min/max grade pairs per style. (manual)
+4. These instances are handled by Robofont and Skateboard using a designspace file, and masters for Stylistic versions are exported (automated/scripted)
+4. The final instances that include configurations for both Stylistic and Parametric axes are exported, in additions to checks for matching widths on grade masters and tools like ttfautohunt being applied.
 
-The setup of the file creation is as follows:
-
-Crispy uses two design scenarios. The primary designspace file is one where the extreme values for the various axes are defined using value combinations for the parametric axes. The exported instances related to these are defined as:
+The Current output file should support and include masters for:
 
 * Width: Min/Max
 * Weight: Min/max
@@ -88,13 +91,14 @@ Crispy uses two design scenarios. The primary designspace file is one where the 
 * XTRA: Min/Max
 * XOPQ: Min/Max
 * YOPQ: Min/Max
-* Slant: Min/Max
 
 *Still to be added:*
 
 * Shadow: Min/Max
+* Slant: Min/Max
 
-This gives a current total of 64 source definitions related to the first designspace file, but requiring only different value configurations of these 8 master files.
+*³ Support files were added to have more control over certain font features such as diagonals and areas where weight management needed more nuanced control. Because of the nature of the font files used, it's also easier to use these files to preview and design test cases for more complicated glyphs.*
+
 
 The second designspace file manages the stylistic definitions based on the files exported on building the first file. This file is where details such as glyph substitutions, and style definitions as outlined for specifications like [usWeightClass](https://docs.microsoft.com/en-us/typography/opentype/spec/os2#usweightclass) and [usWidthClass](https://docs.microsoft.com/en-us/typography/opentype/spec/os2#uswidthclass). 
 
@@ -131,8 +135,9 @@ The masters asociated with these file are only handled on export by fontmake, an
 * Juneish 2019: design initiated
 
 ### Roadmap:
-* Combining marks - completed and reviewed (February 2022)
-* Final Design review incl. Combined marks - completed (February 2022)
+* Combining marks - completed and reviewed (March 2022)
+* Math Symbol filtering - completed and reviewed (March 2022)
+* Final Design review incl. Combined marks - completed (March 2022)
 * GlyphConstruction & Full Language support (April 2022)
 * Kerning (May 2022) - to be done with Kern-On in Glyphs
 
