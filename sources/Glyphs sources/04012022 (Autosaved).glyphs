@@ -61839,7 +61839,7 @@ unicode = 00D7;
 },
 {
 glyphname = divide;
-lastChange = "2022-04-15 16:37:17 +0000";
+lastChange = "2022-04-15 17:19:43 +0000";
 layers = (
 {
 layerId = "1577B97C-DCC5-4AA4-842F-E9BB22E99E3C";
@@ -61887,42 +61887,37 @@ layerId = "80FDAF56-89B9-483B-B264-E4AEDBEEB158";
 width = 500;
 },
 {
-components = (
-{
-name = plus;
-}
-);
 layerId = "C257B471-6710-476C-A47E-BB7B8565E2C7";
 paths = (
 {
 closed = 1;
 nodes = (
-"39 820 LINE",
-"451 820 LINE",
-"451 822 LINE",
-"39 822 LINE"
+"39 817 LINE",
+"967 817 LINE",
+"967 821 LINE",
+"39 821 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"169 956 LINE",
-"315 956 LINE",
-"315 957 LINE",
-"169 957 LINE"
+"332 1123 LINE",
+"661 1123 LINE",
+"661 1126 LINE",
+"332 1126 LINE"
 );
 },
 {
 closed = 1;
 nodes = (
-"169 688 LINE",
-"315 688 LINE",
-"315 689 LINE",
-"169 689 LINE"
+"332 519 LINE",
+"661 519 LINE",
+"661 522 LINE",
+"332 522 LINE"
 );
 }
 );
-width = 500;
+width = 994;
 },
 {
 layerId = "C93D4BB6-2826-4A20-9C22-0949F109F6A9";
@@ -61996,6 +61991,7 @@ width = 400;
 }
 );
 unicode = 00F7;
+changeCount = 10;
 },
 {
 glyphname = equal;
