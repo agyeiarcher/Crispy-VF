@@ -205,7 +205,7 @@ def makeShadowGlyph(p, g, offsetValue):
 f = CurrentFont()
 for g in f.keys():
     if f[g]:
-        extrusionX = -150
+        extrusionX = 0
         extrusionY = -150
         makeShadowGlyph(f, f[g], 0)
 f.save()
