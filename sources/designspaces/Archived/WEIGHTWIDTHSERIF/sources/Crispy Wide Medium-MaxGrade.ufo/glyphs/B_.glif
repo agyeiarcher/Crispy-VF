@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="B" format="2">
+  <advance width="4860"/>
+  <unicode hex="0042"/>
+  <outline>
+    <contour>
+      <point x="474" y="0" type="line"/>
+      <point x="4172" y="0" type="line"/>
+      <point x="4636" y="483" type="line"/>
+      <point x="4636" y="950" type="line"/>
+      <point x="3766" y="950" type="line"/>
+      <point x="3993" y="1124" type="line"/>
+      <point x="3993" y="1600" type="line"/>
+      <point x="474" y="1600" type="line"/>
+    </contour>
+    <contour>
+      <point x="1029" y="368" type="line"/>
+      <point x="1029" y="647" type="line"/>
+      <point x="4080" y="647" type="line"/>
+      <point x="4080" y="569" type="line"/>
+      <point x="3880" y="368" type="line"/>
+    </contour>
+    <contour>
+      <point x="1029" y="953" type="line"/>
+      <point x="1029" y="1232" type="line"/>
+      <point x="3438" y="1232" type="line"/>
+      <point x="3438" y="1128" type="line"/>
+      <point x="3193" y="953" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

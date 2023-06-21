@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ninesuperior" format="2">
+  <advance width="2080"/>
+  <unicode hex="2079"/>
+  <outline>
+    <component base="nine.smol" yOffset="487"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-10-07 01:14:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.smol" format="2">
+  <advance width="1206"/>
+  <outline>
+    <contour>
+      <point x="569" y="0" type="line"/>
+      <point x="1110" y="0" type="line"/>
+      <point x="1110" y="499" type="line"/>
+      <point x="1216" y="499" type="line"/>
+      <point x="1216" y="501" type="line"/>
+      <point x="1110" y="501" type="line"/>
+      <point x="1110" y="999" type="line"/>
+      <point x="569" y="999" type="line"/>
+      <point x="569" y="501" type="line"/>
+      <point x="547" y="501" type="line"/>
+      <point x="547" y="632" type="line"/>
+      <point x="617" y="1044" type="line"/>
+      <point x="115" y="1100" type="line"/>
+      <point x="6" y="631" type="line"/>
+      <point x="6" y="499" type="line"/>
+      <point x="569" y="499" type="line"/>
+    </contour>
+  </outline>
+</glyph>

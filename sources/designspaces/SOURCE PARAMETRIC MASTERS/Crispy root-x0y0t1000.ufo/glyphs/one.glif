@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one" format="2">
+  <advance width="3959"/>
+  <unicode hex="0031"/>
+  <outline>
+    <contour>
+      <point x="345" y="0" type="line"/>
+      <point x="3849" y="0" type="line"/>
+      <point x="3849" y="2" type="line"/>
+      <point x="2098" y="2" type="line"/>
+      <point x="2098" y="1600" type="line"/>
+      <point x="372" y="1600" type="line"/>
+      <point x="372" y="1598" type="line"/>
+      <point x="2096" y="1598" type="line"/>
+      <point x="2096" y="2" type="line"/>
+      <point x="345" y="2" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-12-13 15:32:54 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>0DUCJo8xIi</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>CURJAw79Zl</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>DMCYuZYvI6</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
+        <key>nFfYzLbLzr</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
+        <key>pm95i83WR5</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
+        <key>vk9kU28tLt</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

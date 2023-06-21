@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.wide" format="2">
+  <advance width="-20"/>
+  <outline>
+    <contour>
+      <point x="126" y="-1" type="line"/>
+      <point x="126" y="17" type="line"/>
+      <point x="50" y="17" type="line"/>
+      <point x="50" y="1602" type="line"/>
+      <point x="31" y="1602" type="line"/>
+      <point x="-120" y="1451" type="line"/>
+      <point x="-120" y="-152" type="line"/>
+      <point x="-25" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="46" y="13" type="line"/>
+      <point x="122" y="13" type="line"/>
+      <point x="122" y="1" type="line"/>
+      <point x="-27" y="-148" type="line"/>
+      <point x="-116" y="-148" type="line"/>
+      <point x="-116" y="1449" type="line"/>
+      <point x="33" y="1598" type="line"/>
+      <point x="46" y="1598" type="line"/>
+    </contour>
+  </outline>
+</glyph>

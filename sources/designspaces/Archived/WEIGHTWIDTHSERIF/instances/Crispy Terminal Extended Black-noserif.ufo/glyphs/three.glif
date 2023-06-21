@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three" format="2">
+  <advance width="4602"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="84" y="0" type="line"/>
+      <point x="4455" y="0" type="line"/>
+      <point x="4454" y="1037" type="line"/>
+      <point x="4093" y="1037" type="line"/>
+      <point x="4119" y="1160" type="line"/>
+      <point x="4119" y="1600" type="line"/>
+      <point x="203" y="1600" type="line"/>
+      <point x="203" y="1100" type="line"/>
+      <point x="3298" y="1100" type="line"/>
+      <point x="3298" y="1145" type="line"/>
+      <point x="3278" y="1037" type="line"/>
+      <point x="1292" y="1037" type="line"/>
+      <point x="1292" y="562" type="line"/>
+      <point x="3633" y="562" type="line"/>
+      <point x="3634" y="500" type="line"/>
+      <point x="84" y="500" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:20:01 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

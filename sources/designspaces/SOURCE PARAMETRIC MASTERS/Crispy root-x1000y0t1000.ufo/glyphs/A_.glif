@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="5609"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="190" y="0" type="line"/>
+      <point x="1205" y="0" type="line"/>
+      <point x="1205" y="1144" type="line"/>
+      <point x="1639" y="1598" type="line"/>
+      <point x="4404" y="1598" type="line"/>
+      <point x="4404" y="0" type="line"/>
+      <point x="5419" y="0" type="line"/>
+      <point x="5419" y="1600" type="line"/>
+      <point x="688" y="1600" type="line"/>
+      <point x="190" y="1105" type="line"/>
+    </contour>
+    <contour>
+      <point x="1075" y="698" type="line"/>
+      <point x="4529" y="698" type="line"/>
+      <point x="4529" y="700" type="line"/>
+      <point x="1075" y="700" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-10-07 02:08:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>FsYtJ2vFnp</key>
+        <array>
+          <string>TOPNOTCH</string>
+        </array>
+        <key>OBZ5Ayed7M</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>QVexAlbAcl</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>VufvPdJ075</key>
+        <array>
+          <string>SIDENOTCH</string>
+        </array>
+        <key>ZgsCdxNJRW</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>dqVr87m3uJ</key>
+        <array>
+          <string>SIDENOTCH</string>
+        </array>
+        <key>eTe9B4y76W</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>iDT0uyhKrn</key>
+        <array>
+          <string>TOPNOTCH</string>
+        </array>
+        <key>kpn4Kw9J0C</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>tUsW8L7b0y</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

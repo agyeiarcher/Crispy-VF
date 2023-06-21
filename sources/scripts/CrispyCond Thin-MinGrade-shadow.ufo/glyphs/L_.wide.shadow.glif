@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L.wide.shadow" format="2">
+  <advance width="-189"/>
+  <outline>
+    <contour>
+      <point x="-174" y="-302" type="line"/>
+      <point x="130" y="2" type="line"/>
+      <point x="34" y="2" type="line"/>
+      <point x="34" y="1605" type="line"/>
+      <point x="-270" y="1301" type="line"/>
+      <point x="-270" y="-302" type="line"/>
+    </contour>
+    <contour>
+      <point x="30" y="-2" type="line"/>
+      <point x="120" y="-2" type="line"/>
+      <point x="-176" y="-298" type="line"/>
+      <point x="-266" y="-298" type="line"/>
+      <point x="-266" y="1299" type="line"/>
+      <point x="30" y="1595" type="line"/>
+    </contour>
+  </outline>
+</glyph>

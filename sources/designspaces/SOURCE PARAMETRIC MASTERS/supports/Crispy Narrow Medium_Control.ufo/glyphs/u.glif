@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="u" format="2">
+  <advance width="378"/>
+  <unicode hex="0075"/>
+  <outline>
+    <contour>
+      <point x="17" y="0" type="line"/>
+      <point x="361" y="0" type="line"/>
+      <point x="361" y="1200" type="line"/>
+      <point x="213" y="1200" type="line"/>
+      <point x="213" y="138" type="line"/>
+      <point x="165" y="138" type="line"/>
+      <point x="165" y="1200" type="line"/>
+      <point x="17" y="1200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-09-22 07:29:05 +0000</string>
+    </dict>
+  </lib>
+</glyph>

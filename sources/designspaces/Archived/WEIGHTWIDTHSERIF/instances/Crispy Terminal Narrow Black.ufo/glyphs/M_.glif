@@ -1,0 +1,130 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M" format="2">
+  <advance width="1202"/>
+  <unicode hex="004D"/>
+  <outline>
+    <contour>
+      <point x="387" y="119" type="line"/>
+      <point x="306" y="1382" type="line"/>
+      <point x="314" y="1382" type="line"/>
+      <point x="314" y="0" type="line"/>
+      <point x="38" y="0" type="line"/>
+      <point x="38" y="1600" type="line"/>
+      <point x="545" y="1600" type="line"/>
+      <point x="601" y="318" type="line"/>
+      <point x="597" y="318" type="line"/>
+      <point x="657" y="1600" type="line"/>
+      <point x="1164" y="1600" type="line"/>
+      <point x="1164" y="0" type="line"/>
+      <point x="887" y="0" type="line"/>
+      <point x="887" y="1382" type="line"/>
+      <point x="894" y="1382" type="line"/>
+      <point x="810" y="119" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>0IVF7y8NCN</key>
+        <array>
+          <string>leftside</string>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
+          <string>shiftdown</string>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+        </array>
+        <key>5TFRebmDRK</key>
+        <array>
+          <string>leftside</string>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+        </array>
+        <key>czpj5jP2o1</key>
+        <array>
+          <string>leftside</string>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+        </array>
+        <key>hvBQuBUzS5</key>
+        <array>
+          <string>leftside</string>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+        </array>
+        <key>l3jugDCgZp</key>
+        <array>
+          <string>leftside</string>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+        </array>
+        <key>q5rffo9NOb</key>
+        <array>
+          <string>leftside</string>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
+          <string>shiftdown</string>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>leftside</string>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+        </array>
+        <key>rc1RBgs7MK</key>
+        <array>
+          <string>leftside</string>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+        </array>
+        <key>rfY4yi4WM7</key>
+        <array>
+          <string>leftside</string>
+          <string>leftside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

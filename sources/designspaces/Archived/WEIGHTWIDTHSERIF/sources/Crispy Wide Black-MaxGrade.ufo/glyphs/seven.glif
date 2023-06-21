@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven" format="2">
+  <advance width="4618"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="1788" y="96" type="line"/>
+      <point x="2305" y="-394" type="line"/>
+      <point x="4399" y="694" type="line"/>
+      <point x="4399" y="1600" type="line"/>
+      <point x="300" y="1600" type="line"/>
+      <point x="300" y="636" type="line"/>
+      <point x="1120" y="636" type="line"/>
+      <point x="1120" y="1108" type="line"/>
+      <point x="3579" y="1108" type="line"/>
+      <point x="3579" y="923" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-12-13 15:32:10 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>36ml4xRICt</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>PiPrv7Kcoy</key>
+        <array>
+          <string>rigtside</string>
+        </array>
+        <key>PkvwNC9Tx1</key>
+        <array>
+          <string>rigtside</string>
+        </array>
+        <key>aaDZsh5Mah</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>tgqM27bPOm</key>
+        <array>
+          <string>rigtside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

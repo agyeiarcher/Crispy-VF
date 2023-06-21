@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="166"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="377" y="67" type="line"/>
+      <point x="377" y="297" type="line"/>
+      <point x="247" y="297" type="line"/>
+      <point x="336" y="386" type="line"/>
+      <point x="375" y="461" type="line"/>
+      <point x="375" y="1602" type="line"/>
+      <point x="71" y="1602" type="line"/>
+      <point x="-80" y="1451" type="line"/>
+      <point x="-119" y="1370" type="line"/>
+      <point x="-119" y="235" type="line"/>
+      <point x="34" y="235" type="line"/>
+      <point x="30" y="229" type="line"/>
+      <point x="30" y="-2" type="line"/>
+      <point x="336" y="-2" type="line"/>
+    </contour>
+    <contour>
+      <point x="71" y="297" type="line"/>
+      <point x="36" y="239" type="line"/>
+      <point x="-115" y="239" type="line"/>
+      <point x="-115" y="1370" type="line"/>
+      <point x="-76" y="1449" type="line"/>
+      <point x="73" y="1598" type="line"/>
+      <point x="371" y="1598" type="line"/>
+      <point x="371" y="461" type="line"/>
+      <point x="332" y="388" type="line"/>
+      <point x="241" y="297" type="line"/>
+    </contour>
+    <contour>
+      <point x="41" y="239" type="line"/>
+      <point x="73" y="293" type="line"/>
+      <point x="237" y="293" type="line"/>
+      <point x="183" y="239" type="line"/>
+    </contour>
+    <contour>
+      <point x="185" y="235" type="line"/>
+      <point x="243" y="293" type="line"/>
+      <point x="373" y="293" type="line"/>
+      <point x="373" y="69" type="line"/>
+      <point x="334" y="2" type="line"/>
+      <point x="34" y="2" type="line"/>
+      <point x="34" y="227" type="line"/>
+      <point x="39" y="235" type="line"/>
+    </contour>
+    <component base="period"/>
+    <component base="period"/>
+    <component base="period"/>
+    <component base="period"/>
+  </outline>
+</glyph>

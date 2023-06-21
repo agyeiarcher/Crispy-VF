@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R.wide" format="2">
+  <advance width="639"/>
+  <outline>
+    <contour>
+      <point x="634" y="-152" type="line"/>
+      <point x="785" y="-1" type="line"/>
+      <point x="699" y="510" type="line"/>
+      <point x="782" y="593" type="line"/>
+      <point x="782" y="1602" type="line"/>
+      <point x="39" y="1602" type="line"/>
+      <point x="-112" y="1451" type="line"/>
+      <point x="-112" y="-152" type="line"/>
+      <point x="194" y="-152" type="line"/>
+      <point x="313" y="-33" type="line"/>
+      <point x="328" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="695" y="512" type="line"/>
+      <point x="781" y="1" type="line"/>
+      <point x="632" y="-148" type="line"/>
+      <point x="332" y="-148" type="line"/>
+      <point x="315" y="-25" type="line"/>
+      <point x="192" y="-148" type="line"/>
+      <point x="-108" y="-148" type="line"/>
+      <point x="-108" y="1449" type="line"/>
+      <point x="41" y="1598" type="line"/>
+      <point x="778" y="1598" type="line"/>
+      <point x="778" y="595" type="line"/>
+    </contour>
+  </outline>
+</glyph>

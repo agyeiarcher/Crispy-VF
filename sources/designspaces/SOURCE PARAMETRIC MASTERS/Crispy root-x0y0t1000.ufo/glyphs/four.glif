@@ -1,0 +1,90 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="4213"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="3478" y="0" type="line"/>
+      <point x="3480" y="0" type="line"/>
+      <point x="3480" y="799" type="line"/>
+      <point x="3878" y="799" type="line"/>
+      <point x="3878" y="801" type="line"/>
+      <point x="3480" y="801" type="line"/>
+      <point x="3480" y="1600" type="line"/>
+      <point x="3478" y="1600" type="line"/>
+      <point x="3478" y="801" type="line"/>
+      <point x="202" y="801" type="line"/>
+      <point x="202" y="1022" type="line"/>
+      <point x="463" y="1600" type="line"/>
+      <point x="461" y="1600" type="line"/>
+      <point x="200" y="1022" type="line"/>
+      <point x="200" y="799" type="line"/>
+      <point x="3478" y="799" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-12-13 15:32:54 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>1otgefJKWP</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>2lH8kLSnBr</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>6L0b4SI9oQ</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>E2hoMSUt18</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>HXMnb7Xc3D</key>
+        <array>
+          <string>TOPNOTCH</string>
+        </array>
+        <key>MWDoApcu8o</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>Mi9srqpCyt</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>RVt2UtvY1a</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>RxPZpzKIWe</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>VOGqyfp7jY</key>
+        <array>
+          <string>OUTNOTCH</string>
+        </array>
+        <key>ZU65NpQKC5</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>h1PQNgm4gW</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>pngk0sP0jF</key>
+        <array>
+          <string>TOPNOTCH</string>
+        </array>
+        <key>ua24msewC4</key>
+        <array>
+          <string>OUTNOTCH</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

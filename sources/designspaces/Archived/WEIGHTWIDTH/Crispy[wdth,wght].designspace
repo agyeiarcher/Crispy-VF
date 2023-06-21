@@ -1,0 +1,155 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="wght" name="weight" minimum="1" maximum="1000" default="500">
+      <labelname xml:lang="en">Weight</labelname>
+    </axis>
+    <axis tag="wdth" name="width" minimum="15" maximum="170" default="100"/>
+  </axes>
+  <rules>
+    <rule name="subwidth">
+      <conditionset>
+        <condition name="weight" minimum="100" maximum="900"/>
+        <condition name="width" minimum="450" maximum="799"/>
+      </conditionset>
+      <conditionset>
+        <condition name="weight" minimum="200" maximum="900"/>
+        <condition name="width" minimum="799" maximum="900"/>
+      </conditionset>
+      <sub name="S" with="S.wide"/>
+      <sub name="three" with="three.wide"/>
+      <sub name="six" with="six.wide"/>
+      <sub name="E" with="E.wide"/>
+      <sub name="nine" with="nine.wide"/>
+      <sub name="F" with="F.wide"/>
+      <sub name="G" with="G.wide"/>
+      <sub name="two" with="two.wide"/>
+      <sub name="Y" with="Y.wide"/>
+      <sub name="L" with="L.wide"/>
+      <sub name="C" with="C.wide"/>
+      <sub name="five" with="five.wide"/>
+    </rule>
+    <rule name="narrowsubs">
+      <conditionset>
+        <condition name="width" minimum="20" maximum="70"/>
+      </conditionset>
+      <sub name="N" with="N.narrow"/>
+      <sub name="one" with="one.narrow"/>
+      <sub name="I" with="I.narrow"/>
+    </rule>
+    <rule name="subBlacks">
+      <conditionset>
+        <condition name="weight" minimum="300" maximum="900"/>
+        <condition name="width" minimum="800" maximum="900"/>
+      </conditionset>
+      <sub name="S" with="S.wideskinny"/>
+      <sub name="B" with="B.skinnymiddle"/>
+      <sub name="E" with="E.wideskinny"/>
+      <sub name="G" with="G.wideskinny"/>
+      <sub name="Y" with="Y.wideskinny"/>
+      <sub name="eight" with="eight.skinnymiddle"/>
+      <sub name="F" with="F.wide"/>
+      <sub name="Z" with="Z.wide"/>
+      <sub name="C" with="C.wide"/>
+      <sub name="L" with="L.wide"/>
+    </rule>
+  </rules>
+  <sources>
+    <source filename="sources/Crispy Narrow Black-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Black-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="15"/>
+      </location>
+    </source>
+    <source filename="sources/Crispy Narrow Medium-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Medium-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="15"/>
+      </location>
+    </source>
+    <source filename="sources/Crispy Narrow Thin-MaxGrade.ufo" familyname="Crispy" stylename="Narrow Thin-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="15"/>
+      </location>
+    </source>
+    <source filename="sources/Crispy Standard Black-MaxGrade.ufo" familyname="Crispy" stylename="Standard Black-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="sources/Crispy Standard Medium-MaxGrade.ufo" familyname="Crispy" stylename="Standard Medium-MaxGrade">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="sources/Crispy Standard Thin-MaxGrade.ufo" familyname="Crispy" stylename="Standard Thin-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+    </source>
+    <source filename="sources/Crispy Wide Black-MaxGrade.ufo" familyname="Crispy" stylename="Wide Black-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1000"/>
+        <dimension name="width" xvalue="170"/>
+      </location>
+    </source>
+    <source filename="sources/Crispy Wide Medium-MaxGrade.ufo" familyname="Crispy" stylename="Wide Medium-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="170"/>
+      </location>
+    </source>
+    <source filename="sources/Crispy Wide Thin-MaxGrade.ufo" familyname="Crispy" stylename="Wide Thin-MaxGrade">
+      <location>
+        <dimension name="weight" xvalue="1"/>
+        <dimension name="width" xvalue="170"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Crispy" stylename="Medium" filename="instances/Crispy Medium.ufo">
+      <location>
+        <dimension name="weight" xvalue="500"/>
+        <dimension name="width" xvalue="100"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>horizontal</key>
+        <array>
+          <string>width</string>
+        </array>
+        <key>ignore</key>
+        <array/>
+        <key>vertical</key>
+        <array>
+          <string>weight</string>
+        </array>
+      </dict>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>weight</key>
+        <real>1.0</real>
+        <key>width</key>
+        <real>1.0</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>SKATEBOARD</string>
+    </dict>
+  </lib>
+</designspace>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nineinferior" format="2">
+  <advance width="1959"/>
+  <unicode hex="2089"/>
+  <outline>
+    <component base="nine.smol" yOffset="-300"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-09-19 16:30:06 +0000</string>
+    </dict>
+  </lib>
+</glyph>

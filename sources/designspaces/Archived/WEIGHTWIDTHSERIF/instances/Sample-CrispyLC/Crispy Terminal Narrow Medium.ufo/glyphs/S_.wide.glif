@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="S.wide" format="2">
+	<advance width="435"/>
+	<outline>
+		<contour>
+			<point x="27" y="0" type="line"/>
+			<point x="318" y="0" type="line"/>
+			<point x="392" y="266" type="line"/>
+			<point x="392" y="879" type="line"/>
+			<point x="177" y="879" type="line"/>
+			<point x="177" y="1311" type="line"/>
+			<point x="219" y="1459" type="line"/>
+			<point x="379" y="1459" type="line"/>
+			<point x="379" y="1600" type="line"/>
+			<point x="101" y="1600" type="line"/>
+			<point x="27" y="1317" type="line"/>
+			<point x="27" y="722" type="line"/>
+			<point x="240" y="722" type="line"/>
+			<point x="240" y="271" type="line"/>
+			<point x="202" y="144" type="line"/>
+			<point x="27" y="144" type="line"/>
+		</contour>
+	</outline>
+</glyph>

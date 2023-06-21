@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C" format="2">
+  <advance width="2634"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="118" y="0" type="line"/>
+      <point x="2453" y="0" type="line"/>
+      <point x="2453" y="423" type="line"/>
+      <point x="816" y="423" type="line"/>
+      <point x="816" y="946" type="line"/>
+      <point x="935" y="1177" type="line"/>
+      <point x="2452" y="1177" type="line"/>
+      <point x="2452" y="1600" type="line"/>
+      <point x="399" y="1600" type="line"/>
+      <point x="118" y="1043" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 11:49:41 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>QjTd5GXXER</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>o9Cec4GtsE</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

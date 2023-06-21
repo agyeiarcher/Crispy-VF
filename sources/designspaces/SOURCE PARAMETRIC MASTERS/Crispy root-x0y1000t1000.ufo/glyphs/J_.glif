@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="4536"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour>
+      <point x="500" y="0" type="line"/>
+      <point x="3836" y="0" type="line"/>
+      <point x="3836" y="1600" type="line"/>
+      <point x="3834" y="1600" type="line"/>
+      <point x="3834" y="568" type="line"/>
+      <point x="503" y="568" type="line"/>
+      <point x="503" y="1028" type="line"/>
+      <point x="500" y="1028" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 12:46:30 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>AdYfGKx8QJ</key>
+        <array>
+          <string>TOPINSIDE</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

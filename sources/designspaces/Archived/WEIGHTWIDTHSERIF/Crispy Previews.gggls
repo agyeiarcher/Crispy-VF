@@ -1,0 +1,66 @@
+{
+  "fonts": [
+    {
+      "path": "sources/Crispy Narrow Thin-MaxGrade.ufo"
+    },
+    {
+      "path": "sources/Crispy Narrow Medium-MaxGrade.ufo"
+    },
+    {
+      "path": "sources/Crispy Narrow Black-MaxGrade.ufo"
+    },
+    {
+      "path": "sources/Crispy Standard Thin-MaxGrade.ufo"
+    },
+    {
+      "path": "sources/Crispy Standard Medium-MaxGrade.ufo"
+    },
+    {
+      "path": "sources/Crispy Standard Black-MaxGrade.ufo"
+    },
+    {
+      "path": "sources/Crispy Wide Thin-MaxGrade.ufo"
+    },
+    {
+      "path": "sources/Crispy Wide Medium-MaxGrade.ufo"
+    },
+    {
+      "path": "sources/Crispy Wide Black-MaxGrade.ufo"
+    }
+  ],
+  "textSettings": {
+    "text": "THE QUICK BROWN FOX JUMPS OVER THE LAZY DOG",
+    "textFilePath": null,
+    "textFileIndex": 0,
+    "features": {},
+    "varLocation": {},
+    "relativeFontSize": 0.7,
+    "relativeHBaseline": 0.25,
+    "relativeVBaseline": 0.5,
+    "relativeMargin": 0.1,
+    "shouldApplyBiDi": true,
+    "direction": null,
+    "script": null,
+    "language": null,
+    "alignment": null,
+    "enableColor": true
+  },
+  "uiSettings": {
+    "windowPosition": [
+      30.0,
+      68.0,
+      1440.0,
+      809.0
+    ],
+    "fontListItemSize": 80,
+    "showBiDi": false,
+    "characterListVisible": true,
+    "characterListSize": 100.0,
+    "glyphListVisible": false,
+    "glyphListSize": 230.0,
+    "compileOutputVisible": true,
+    "compileOutputSize": 80.0,
+    "formattingOptionsVisible": true,
+    "feaVarTabSelection": "features"
+  }
+}

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="3619"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour>
+      <point x="3418" y="-1" type="line"/>
+      <point x="3418" y="1602" type="line"/>
+      <point x="3411" y="1602" type="line"/>
+      <point x="3260" y="1451" type="line"/>
+      <point x="3260" y="6" type="line"/>
+      <point x="176" y="6" type="line"/>
+      <point x="176" y="702" type="line"/>
+      <point x="169" y="702" type="line"/>
+      <point x="18" y="551" type="line"/>
+      <point x="17" y="-152" type="line"/>
+      <point x="3267" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="172" y="2" type="line"/>
+      <point x="3264" y="2" type="line"/>
+      <point x="3264" y="1449" type="line"/>
+      <point x="3413" y="1598" type="line"/>
+      <point x="3414" y="1598" type="line"/>
+      <point x="3414" y="1" type="line"/>
+      <point x="3265" y="-148" type="line"/>
+      <point x="21" y="-148" type="line"/>
+      <point x="22" y="549" type="line"/>
+      <point x="171" y="698" type="line"/>
+      <point x="172" y="698" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 12:46:30 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>AdYfGKx8QJ</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>INSIDETOP</string>
+        </array>
+        <key>TbrXnCyMEi</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

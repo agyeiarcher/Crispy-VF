@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="five.wide" format="2">
+  <advance width="2448"/>
+  <outline>
+    <contour>
+      <point x="279" y="0" type="line"/>
+      <point x="2171" y="0" type="line"/>
+      <point x="2171" y="803" type="line"/>
+      <point x="284" y="803" type="line"/>
+      <point x="284" y="1594" type="line"/>
+      <point x="2170" y="1594" type="line"/>
+      <point x="2170" y="1600" type="line"/>
+      <point x="277" y="1600" type="line"/>
+      <point x="277" y="797" type="line"/>
+      <point x="2164" y="797" type="line"/>
+      <point x="2164" y="6" type="line"/>
+      <point x="279" y="6" type="line"/>
+    </contour>
+  </outline>
+</glyph>

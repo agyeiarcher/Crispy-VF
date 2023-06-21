@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.shadow" format="2">
+  <advance width="-149"/>
+  <outline>
+    <contour>
+      <point x="135" y="2" type="line"/>
+      <point x="135" y="777" type="line"/>
+      <point x="172" y="814" type="line"/>
+      <point x="135" y="814" type="line"/>
+      <point x="135" y="1605" type="line"/>
+      <point x="28" y="1498" type="line"/>
+      <point x="28" y="1606" type="line"/>
+      <point x="-276" y="1302" type="line"/>
+      <point x="-276" y="510" type="line"/>
+      <point x="-169" y="510" type="line"/>
+      <point x="-169" y="-302" type="line"/>
+      <point x="-164" y="-302" type="line"/>
+      <point x="140" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="-165" y="514" type="line"/>
+      <point x="-272" y="514" type="line"/>
+      <point x="-272" y="1300" type="line"/>
+      <point x="24" y="1596" type="line"/>
+      <point x="24" y="1488" type="line"/>
+      <point x="131" y="1595" type="line"/>
+      <point x="131" y="815" type="line"/>
+      <point x="126" y="810" type="line"/>
+      <point x="131" y="810" type="line"/>
+      <point x="131" y="805" type="line"/>
+      <point x="136" y="810" type="line"/>
+      <point x="162" y="810" type="line"/>
+      <point x="131" y="779" type="line"/>
+      <point x="131" y="-1" type="line"/>
+      <point x="-165" y="-297" type="line"/>
+    </contour>
+  </outline>
+</glyph>

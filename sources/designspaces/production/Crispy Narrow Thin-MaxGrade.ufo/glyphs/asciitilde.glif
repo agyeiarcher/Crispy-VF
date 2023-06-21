@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="asciitilde" format="2">
+  <unicode hex="007E"/>
+  <outline>
+    <contour>
+      <point x="-33" y="1789" type="line"/>
+      <point x="24" y="1699" type="line"/>
+      <point x="29" y="1699" type="line"/>
+      <point x="70" y="1777" type="line"/>
+      <point x="68" y="1778" type="line"/>
+      <point x="28" y="1701" type="line"/>
+      <point x="25" y="1701" type="line"/>
+      <point x="-32" y="1791" type="line"/>
+      <point x="-38" y="1791" type="line"/>
+      <point x="-83" y="1714" type="line"/>
+      <point x="-81" y="1713" type="line"/>
+      <point x="-37" y="1789" type="line"/>
+    </contour>
+  </outline>
+</glyph>

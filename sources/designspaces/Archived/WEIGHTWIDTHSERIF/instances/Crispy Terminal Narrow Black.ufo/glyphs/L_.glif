@@ -1,0 +1,79 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="L" format="2">
+  <advance width="773"/>
+  <unicode hex="004C"/>
+  <outline>
+    <contour>
+      <point x="38" y="0" type="line"/>
+      <point x="38" y="1600" type="line"/>
+      <point x="367" y="1600" type="line"/>
+      <point x="367" y="218" type="line"/>
+      <point x="418" y="218" type="line"/>
+      <point x="418" y="773" type="line"/>
+      <point x="748" y="773" type="line"/>
+      <point x="748" y="0" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 11:50:14 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>82EXZEgt46</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>FWtbMMY8Ck</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>MbxRZRd8vz</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>LEFTSIDEINSIDE</string>
+        </array>
+        <key>VYRt9kHZtP</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>XFf4mMUzYo</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+        <key>XkJNfQlnnt</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+        <key>cqpSxwFiM3</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>INSIDEBOTTOM</string>
+        </array>
+        <key>lYiaKSKITt</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>LEFTSIDEINSIDE</string>
+        </array>
+        <key>scG1IXtWvJ</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>t7Q9RRLHt8</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

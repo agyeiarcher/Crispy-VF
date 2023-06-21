@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+  <dict>
+    <key>/arrowNE</key>
+    <string>/arrowN_E_.glif</string>
+    <key>/arrowNW</key>
+    <string>/arrowN_W_.glif</string>
+    <key>/arrowSE</key>
+    <string>/arrowS_E_.glif</string>
+    <key>/arrowSW</key>
+    <string>/arrowS_W_.glif</string>
+    <key>/arrowdown</key>
+    <string>/arrowdown.glif</string>
+    <key>backslash</key>
+    <string>backslash.glif</string>
+    <key>euro</key>
+    <string>euro.glif</string>
+    <key>infinity</key>
+    <string>infinity.glif</string>
+    <key>integral</key>
+    <string>integral.glif</string>
+    <key>section</key>
+    <string>section.glif</string>
+    <key>summation</key>
+    <string>summation.glif</string>
+  </dict>
+</plist>

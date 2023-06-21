@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="eightsuperior" format="2">
+  <advance width="3887"/>
+  <unicode hex="2078"/>
+  <outline>
+    <component base="eight.smol" yOffset="358"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-10-07 01:16:55 +0000</string>
+    </dict>
+  </lib>
+</glyph>

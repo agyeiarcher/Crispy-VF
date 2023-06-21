@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro" format="2">
+  <advance width="1904"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="1267" y="713" type="line"/>
+      <point x="1267" y="715" type="line"/>
+      <point x="-11" y="715" type="line"/>
+      <point x="-11" y="713" type="line"/>
+    </contour>
+    <contour>
+      <point x="1267" y="874" type="line"/>
+      <point x="1267" y="876" type="line"/>
+      <point x="-11" y="876" type="line"/>
+      <point x="-11" y="874" type="line"/>
+    </contour>
+    <contour>
+      <point x="418" y="1600" type="line"/>
+      <point x="235" y="1343" type="line"/>
+      <point x="235" y="240" type="line"/>
+      <point x="432" y="0" type="line"/>
+      <point x="1668" y="0" type="line"/>
+      <point x="1668" y="515" type="line"/>
+      <point x="1666" y="515" type="line"/>
+      <point x="1666" y="2" type="line"/>
+      <point x="434" y="2" type="line"/>
+      <point x="237" y="240" type="line"/>
+      <point x="237" y="1343" type="line"/>
+      <point x="420" y="1598" type="line"/>
+      <point x="1667" y="1598" type="line"/>
+      <point x="1667" y="1192" type="line"/>
+      <point x="1669" y="1192" type="line"/>
+      <point x="1669" y="1600" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-10-07 01:14:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

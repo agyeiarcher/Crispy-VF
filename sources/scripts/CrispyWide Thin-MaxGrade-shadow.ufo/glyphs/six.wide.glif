@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.wide" format="2">
+  <advance width="4089"/>
+  <outline>
+    <contour>
+      <point x="3877" y="-1" type="line"/>
+      <point x="3877" y="808" type="line"/>
+      <point x="358" y="808" type="line"/>
+      <point x="358" y="1113" type="line"/>
+      <point x="681" y="1435" type="line"/>
+      <point x="3725" y="1435" type="line"/>
+      <point x="3876" y="1586" type="line"/>
+      <point x="3876" y="1602" type="line"/>
+      <point x="822" y="1602" type="line"/>
+      <point x="341" y="1121" type="line"/>
+      <point x="190" y="971" type="line"/>
+      <point x="190" y="-152" type="line"/>
+      <point x="3726" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="354" y="1115" type="line"/>
+      <point x="354" y="804" type="line"/>
+      <point x="3873" y="804" type="line"/>
+      <point x="3873" y="1" type="line"/>
+      <point x="3724" y="-148" type="line"/>
+      <point x="194" y="-148" type="line"/>
+      <point x="194" y="969" type="line"/>
+      <point x="343" y="1119" type="line"/>
+      <point x="661" y="1436" type="line"/>
+      <point x="824" y="1598" type="line"/>
+      <point x="3872" y="1598" type="line"/>
+      <point x="3872" y="1588" type="line"/>
+      <point x="3723" y="1439" type="line"/>
+      <point x="679" y="1439" type="line"/>
+    </contour>
+    <contour>
+      <point x="3713" y="11" type="line"/>
+      <point x="3713" y="646" type="line"/>
+      <point x="354" y="646" type="line"/>
+      <point x="354" y="11" type="line"/>
+    </contour>
+    <contour>
+      <point x="358" y="15" type="line"/>
+      <point x="358" y="642" type="line"/>
+      <point x="3709" y="642" type="line"/>
+      <point x="3709" y="15" type="line"/>
+    </contour>
+  </outline>
+</glyph>

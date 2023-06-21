@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesingle" format="2">
+  <advance width="275"/>
+  <unicode hex="0027"/>
+  <outline>
+    <contour>
+      <point x="133" y="846" type="line"/>
+      <point x="141" y="846" type="line"/>
+      <point x="142" y="1600" type="line"/>
+      <point x="133" y="1600" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+    </dict>
+  </lib>
+</glyph>

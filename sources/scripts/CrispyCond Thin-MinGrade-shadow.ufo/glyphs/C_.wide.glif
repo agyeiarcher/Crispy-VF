@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C.wide" format="2">
+  <advance width="8"/>
+  <outline>
+    <contour>
+      <point x="155" y="-1" type="line"/>
+      <point x="155" y="4" type="line"/>
+      <point x="30" y="4" type="line"/>
+      <point x="30" y="1294" type="line"/>
+      <point x="64" y="1507" type="line"/>
+      <point x="154" y="1597" type="line"/>
+      <point x="154" y="1602" type="line"/>
+      <point x="73" y="1602" type="line"/>
+      <point x="-78" y="1451" type="line"/>
+      <point x="-126" y="1145" type="line"/>
+      <point x="-126" y="-152" type="line"/>
+      <point x="4" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="26" y="1294" type="line"/>
+      <point x="26" y="0" type="line"/>
+      <point x="150" y="0" type="line"/>
+      <point x="2" y="-148" type="line"/>
+      <point x="-122" y="-148" type="line"/>
+      <point x="-122" y="1145" type="line"/>
+      <point x="-74" y="1449" type="line"/>
+      <point x="75" y="1598" type="line"/>
+      <point x="149" y="1598" type="line"/>
+      <point x="60" y="1509" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="N.wide.shadow" format="2">
+  <advance width="-118"/>
+  <outline>
+    <contour>
+      <point x="184" y="2" type="line"/>
+      <point x="184" y="1605" type="line"/>
+      <point x="68" y="1489" type="line"/>
+      <point x="60" y="1605" type="line"/>
+      <point x="55" y="1600" type="line"/>
+      <point x="39" y="1600" type="line"/>
+      <point x="39" y="1605" type="line"/>
+      <point x="-265" y="1301" type="line"/>
+      <point x="-265" y="-302" type="line"/>
+      <point x="-260" y="-302" type="line"/>
+      <point x="-149" y="-191" type="line"/>
+      <point x="-142" y="-302" type="line"/>
+      <point x="-115" y="-302" type="line"/>
+      <point x="189" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="175" y="-2" type="line"/>
+      <point x="179" y="-2" type="line"/>
+      <point x="-117" y="-298" type="line"/>
+      <point x="-138" y="-298" type="line"/>
+      <point x="-145" y="-181" type="line"/>
+      <point x="-261" y="-297" type="line"/>
+      <point x="-261" y="1299" type="line"/>
+      <point x="35" y="1595" type="line"/>
+      <point x="35" y="1591" type="line"/>
+      <point x="40" y="1596" type="line"/>
+      <point x="56" y="1596" type="line"/>
+      <point x="64" y="1479" type="line"/>
+      <point x="180" y="1595" type="line"/>
+      <point x="180" y="3" type="line"/>
+    </contour>
+  </outline>
+</glyph>

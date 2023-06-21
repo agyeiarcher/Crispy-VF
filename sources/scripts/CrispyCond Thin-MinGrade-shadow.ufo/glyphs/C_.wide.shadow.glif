@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C.wide.shadow" format="2">
+  <advance width="-161"/>
+  <outline>
+    <contour>
+      <point x="-146" y="-302" type="line"/>
+      <point x="158" y="2" type="line"/>
+      <point x="28" y="2" type="line"/>
+      <point x="28" y="1291" type="line"/>
+      <point x="30" y="1293" type="line"/>
+      <point x="64" y="1507" type="line"/>
+      <point x="157" y="1600" type="line"/>
+      <point x="76" y="1600" type="line"/>
+      <point x="77" y="1606" type="line"/>
+      <point x="-228" y="1301" type="line"/>
+      <point x="-276" y="995" type="line"/>
+      <point x="-276" y="-302" type="line"/>
+    </contour>
+    <contour>
+      <point x="60" y="1509" type="line"/>
+      <point x="26" y="1295" type="line"/>
+      <point x="24" y="1293" type="line"/>
+      <point x="24" y="-2" type="line"/>
+      <point x="148" y="-2" type="line"/>
+      <point x="-148" y="-298" type="line"/>
+      <point x="-272" y="-298" type="line"/>
+      <point x="-272" y="995" type="line"/>
+      <point x="-224" y="1299" type="line"/>
+      <point x="71" y="1594" type="line"/>
+      <point x="70" y="1589" type="line"/>
+      <point x="77" y="1596" type="line"/>
+      <point x="147" y="1596" type="line"/>
+    </contour>
+  </outline>
+</glyph>

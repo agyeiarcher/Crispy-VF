@@ -1,0 +1,126 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y" format="2">
+  <advance width="4172"/>
+  <unicode hex="0059"/>
+  <outline>
+    <contour>
+      <point x="3973" y="-1" type="line"/>
+      <point x="3973" y="1602" type="line"/>
+      <point x="3965" y="1602" type="line"/>
+      <point x="3814" y="1451" type="line"/>
+      <point x="3814" y="804" type="line"/>
+      <point x="378" y="804" type="line"/>
+      <point x="378" y="1602" type="line"/>
+      <point x="371" y="1602" type="line"/>
+      <point x="220" y="1451" type="line"/>
+      <point x="220" y="646" type="line"/>
+      <point x="3814" y="646" type="line"/>
+      <point x="3814" y="6" type="line"/>
+      <point x="381" y="6" type="line"/>
+      <point x="381" y="452" type="line"/>
+      <point x="374" y="452" type="line"/>
+      <point x="223" y="301" type="line"/>
+      <point x="223" y="-152" type="line"/>
+      <point x="3822" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="374" y="800" type="line"/>
+      <point x="3818" y="800" type="line"/>
+      <point x="3818" y="1449" type="line"/>
+      <point x="3967" y="1598" type="line"/>
+      <point x="3969" y="1598" type="line"/>
+      <point x="3969" y="1" type="line"/>
+      <point x="3820" y="-148" type="line"/>
+      <point x="227" y="-148" type="line"/>
+      <point x="227" y="299" type="line"/>
+      <point x="376" y="448" type="line"/>
+      <point x="377" y="448" type="line"/>
+      <point x="377" y="2" type="line"/>
+      <point x="3818" y="2" type="line"/>
+      <point x="3818" y="650" type="line"/>
+      <point x="224" y="650" type="line"/>
+      <point x="224" y="1449" type="line"/>
+      <point x="373" y="1598" type="line"/>
+      <point x="374" y="1598" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 12:46:06 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>3Kveia3O9h</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>9ncbEH2hEb</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>Jw55i2s2Mm</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>YbKEFhFR3q</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>k3vH9oxqcN</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>oy8ifCCtGL</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>rvzWMWl6O1</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>u7HFbTQwMo</key>
+        <array>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>INSIDEBOTTOM</string>
+          <string>CROSSBAR</string>
+        </array>
+        <key>uMA7EQCwXc</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

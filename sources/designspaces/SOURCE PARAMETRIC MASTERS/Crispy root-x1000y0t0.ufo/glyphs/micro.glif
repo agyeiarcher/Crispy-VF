@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="micro" format="2">
+  <advance width="1523"/>
+  <unicode hex="00B5"/>
+  <outline>
+    <contour>
+      <point x="17" y="-125" type="line"/>
+      <point x="749" y="-125" type="line"/>
+      <point x="749" y="0" type="line"/>
+      <point x="795" y="0" type="line"/>
+      <point x="825" y="0" type="line"/>
+      <point x="1506" y="0" type="line"/>
+      <point x="1506" y="1200" type="line"/>
+      <point x="774" y="1200" type="line"/>
+      <point x="774" y="2" type="line"/>
+      <point x="749" y="2" type="line"/>
+      <point x="749" y="1200" type="line"/>
+      <point x="17" y="1200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-10-07 01:30:50 +0000</string>
+    </dict>
+  </lib>
+</glyph>

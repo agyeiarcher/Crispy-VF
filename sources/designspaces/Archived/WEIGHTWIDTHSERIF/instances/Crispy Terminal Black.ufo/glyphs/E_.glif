@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="2836"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="209" y="0" type="line"/>
+      <point x="2691" y="0" type="line"/>
+      <point x="2691" y="679" type="line"/>
+      <point x="2046" y="679" type="line"/>
+      <point x="2046" y="418" type="line"/>
+      <point x="907" y="418" type="line"/>
+      <point x="907" y="612" type="line"/>
+      <point x="1673" y="612" type="line"/>
+      <point x="1673" y="989" type="line"/>
+      <point x="907" y="989" type="line"/>
+      <point x="907" y="1182" type="line"/>
+      <point x="2045" y="1182" type="line"/>
+      <point x="2045" y="942" type="line"/>
+      <point x="2690" y="942" type="line"/>
+      <point x="2690" y="1600" type="line"/>
+      <point x="209" y="1600" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>32aoCNw8Jt</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>NnvFkLKjyD</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>S91n4lNRRk</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>XMbDdjq7aS</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

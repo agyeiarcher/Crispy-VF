@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six.smol" format="2">
+  <advance width="2047"/>
+  <outline>
+    <contour>
+      <point x="96" y="0" type="line"/>
+      <point x="1923" y="0" type="line"/>
+      <point x="1923" y="662" type="line"/>
+      <point x="520" y="662" type="line"/>
+      <point x="520" y="731" type="line"/>
+      <point x="625" y="871" type="line"/>
+      <point x="1437" y="871" type="line"/>
+      <point x="1437" y="729" type="line"/>
+      <point x="1861" y="729" type="line"/>
+      <point x="1861" y="1109" type="line"/>
+      <point x="325" y="1109" type="line"/>
+      <point x="96" y="772" type="line"/>
+    </contour>
+    <contour>
+      <point x="1499" y="423" type="line"/>
+      <point x="1499" y="258" type="line"/>
+      <point x="520" y="258" type="line"/>
+      <point x="520" y="423" type="line"/>
+    </contour>
+  </outline>
+</glyph>

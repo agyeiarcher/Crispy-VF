@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Z" format="2">
+  <advance width="2668"/>
+  <unicode hex="005A"/>
+  <outline>
+    <contour>
+      <point x="166" y="0" type="line"/>
+      <point x="2498" y="0" type="line"/>
+      <point x="2498" y="694" type="line"/>
+      <point x="2015" y="694" type="line"/>
+      <point x="2015" y="361" type="line"/>
+      <point x="659" y="361" type="line"/>
+      <point x="659" y="413" type="line"/>
+      <point x="2492" y="1060" type="line"/>
+      <point x="2492" y="1600" type="line"/>
+      <point x="187" y="1600" type="line"/>
+      <point x="187" y="971" type="line"/>
+      <point x="660" y="971" type="line"/>
+      <point x="660" y="1239" type="line"/>
+      <point x="2004" y="1239" type="line"/>
+      <point x="2004" y="1203" type="line"/>
+      <point x="166" y="570" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>5FogYRSgkk</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>91SxUS0iwG</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>LQ9fBsTy9K</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>cqhYFAJo1M</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>pzdvPTirLJ</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>svlFvrau4c</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>teVKnpBcVb</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>yyb1NCCI5w</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,58 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="J" format="2">
+  <advance width="5083"/>
+  <unicode hex="004A"/>
+  <outline>
+    <contour>
+      <point x="310" y="0" type="line"/>
+      <point x="4703" y="0" type="line"/>
+      <point x="4703" y="1600" type="line"/>
+      <point x="3687" y="1600" type="line"/>
+      <point x="3687" y="2" type="line"/>
+      <point x="1247" y="2" type="line"/>
+      <point x="1247" y="850" type="line"/>
+      <point x="310" y="850" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 12:46:30 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>46RrD1WET2</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>7exNZv1XSc</key>
+        <array>
+          <string>BOTTOMSERIF</string>
+        </array>
+        <key>NQmE31PUns</key>
+        <array>
+          <string>TOPNOTCH</string>
+        </array>
+        <key>d5Di3vNzni</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>jiO9eX9U07</key>
+        <array>
+          <string>TOPNOTCH</string>
+        </array>
+        <key>qiXxY6YhCq</key>
+        <array>
+          <string>BOTTOMSERIF</string>
+        </array>
+        <key>wgpFs1yguc</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>zFXsE8BUYG</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

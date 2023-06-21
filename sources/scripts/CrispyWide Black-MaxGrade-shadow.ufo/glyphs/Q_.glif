@@ -1,0 +1,124 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Q" format="2">
+  <advance width="5340"/>
+  <unicode hex="0051"/>
+  <outline>
+    <contour>
+      <point x="489" y="1451" type="line"/>
+      <point x="489" y="1451" type="line"/>
+      <point x="489" y="1451" type="line"/>
+      <point x="6" y="919" type="line"/>
+      <point x="6" y="-150" type="line"/>
+      <point x="2144" y="-150" type="line"/>
+      <point x="2144" y="-304" type="line"/>
+      <point x="2992" y="-304" type="line"/>
+      <point x="3143" y="-153" type="line"/>
+      <point x="3143" y="-150" type="line"/>
+      <point x="5050" y="-150" type="line"/>
+      <point x="5201" y="1" type="line"/>
+      <point x="5201" y="1602" type="line"/>
+      <point x="639" y="1602" type="line"/>
+    </contour>
+    <contour>
+      <point x="2148" y="-146" type="line"/>
+      <point x="10" y="-146" type="line"/>
+      <point x="10" y="917" type="line"/>
+      <point x="491" y="1449" type="line"/>
+      <point x="641" y="1598" type="line"/>
+      <point x="5197" y="1598" type="line"/>
+      <point x="5197" y="3" type="line"/>
+      <point x="5048" y="-146" type="line"/>
+      <point x="3139" y="-146" type="line"/>
+      <point x="3139" y="-151" type="line"/>
+      <point x="2990" y="-300" type="line"/>
+      <point x="2148" y="-300" type="line"/>
+    </contour>
+    <contour>
+      <point x="4106" y="536" type="line"/>
+      <point x="4106" y="916" type="line"/>
+      <point x="1138" y="916" type="line"/>
+      <point x="1101" y="875" type="line"/>
+      <point x="1101" y="536" type="line"/>
+    </contour>
+    <contour>
+      <point x="1105" y="540" type="line"/>
+      <point x="1105" y="873" type="line"/>
+      <point x="1140" y="912" type="line"/>
+      <point x="4102" y="912" type="line"/>
+      <point x="4102" y="540" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>2q9VlGka1x</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>shiftdown</string>
+        </array>
+        <key>8lRHbc76vf</key>
+        <array>
+          <string>shiftdown</string>
+        </array>
+        <key>QaOuzaR5Nc</key>
+        <array>
+          <string>shiftdown</string>
+        </array>
+        <key>U6WibAQAUl</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>a4Ql951bxG</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>b9GvAVdrlf</key>
+        <array>
+          <string>shiftdown</string>
+        </array>
+        <key>bEeLKF9K0J</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>shiftdown</string>
+        </array>
+        <key>c9brEFyXXA</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>shiftdown</string>
+        </array>
+        <key>dfgNHTgBfR</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>shiftdown</string>
+        </array>
+        <key>gOQWswYvKT</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>ivebcmARlA</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>kbL68Qh2zr</key>
+        <array>
+          <string>leftside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

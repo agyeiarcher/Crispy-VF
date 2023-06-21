@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="P.wide.shadow" format="2">
+  <advance width="-158"/>
+  <outline>
+    <contour>
+      <point x="36" y="2" type="line"/>
+      <point x="36" y="627" type="line"/>
+      <point x="161" y="752" type="line"/>
+      <point x="156" y="752" type="line"/>
+      <point x="156" y="1600" type="line"/>
+      <point x="36" y="1600" type="line"/>
+      <point x="36" y="1605" type="line"/>
+      <point x="-268" y="1301" type="line"/>
+      <point x="-268" y="-302" type="line"/>
+      <point x="-263" y="-302" type="line"/>
+      <point x="41" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="32" y="1591" type="line"/>
+      <point x="37" y="1596" type="line"/>
+      <point x="152" y="1596" type="line"/>
+      <point x="152" y="753" type="line"/>
+      <point x="147" y="748" type="line"/>
+      <point x="151" y="748" type="line"/>
+      <point x="32" y="629" type="line"/>
+      <point x="32" y="-1" type="line"/>
+      <point x="-264" y="-297" type="line"/>
+      <point x="-264" y="1299" type="line"/>
+      <point x="32" y="1595" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,74 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one" format="2">
+  <advance width="3959"/>
+  <unicode hex="0031"/>
+  <outline>
+    <contour>
+      <point x="345" y="0" type="line"/>
+      <point x="3849" y="0" type="line"/>
+      <point x="3849" y="568" type="line"/>
+      <point x="2098" y="568" type="line"/>
+      <point x="2098" y="1600" type="line"/>
+      <point x="372" y="1600" type="line"/>
+      <point x="372" y="1032" type="line"/>
+      <point x="2096" y="1032" type="line"/>
+      <point x="2096" y="568" type="line"/>
+      <point x="345" y="568" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-12-13 15:33:28 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>0DUCJo8xIi</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>LEFTSTEM</string>
+          <string>BOTTOMINSIDE</string>
+        </array>
+        <key>5nmxQXofSG</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>LEFTSTEM</string>
+          <string>BOTTOMINSIDE</string>
+        </array>
+        <key>CURJAw79Zl</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>DMCYuZYvI6</key>
+        <array>
+          <string>LEFTSTEM</string>
+          <string>TOPINSIDE</string>
+        </array>
+        <key>SYEky1jGwh</key>
+        <array>
+          <string>LEFTSTEM</string>
+          <string>TOPINSIDE</string>
+        </array>
+        <key>Wxn8RLce8d</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>LEFTSTEM</string>
+          <string>BOTTOMINSIDE</string>
+        </array>
+        <key>nFfYzLbLzr</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>LEFTSTEM</string>
+          <string>BOTTOMINSIDE</string>
+        </array>
+        <key>pm95i83WR5</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
+        <key>vk9kU28tLt</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

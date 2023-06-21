@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three" format="2">
+  <advance width="4727"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="562" y="0" type="line"/>
+      <point x="4227" y="0" type="line"/>
+      <point x="4227" y="992" type="line"/>
+      <point x="3798" y="992" type="line"/>
+      <point x="3869" y="1066" type="line"/>
+      <point x="3869" y="1600" type="line"/>
+      <point x="724" y="1600" type="line"/>
+      <point x="724" y="952" type="line"/>
+      <point x="726" y="952" type="line"/>
+      <point x="726" y="1076" type="line"/>
+      <point x="3867" y="1076" type="line"/>
+      <point x="3867" y="1067" type="line"/>
+      <point x="3795" y="992" type="line"/>
+      <point x="1604" y="992" type="line"/>
+      <point x="1604" y="608" type="line"/>
+      <point x="4225" y="608" type="line"/>
+      <point x="4225" y="524" type="line"/>
+      <point x="564" y="524" type="line"/>
+      <point x="564" y="648" type="line"/>
+      <point x="562" y="648" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-12-13 15:33:28 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>S91TzLL02W</key>
+        <array>
+          <string>OUTNOTCH</string>
+          <string>OUTNOTCH</string>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>VDVZjMY3hd</key>
+        <array>
+          <string>INSIDENOTCHRIGHT</string>
+        </array>
+        <key>iic1IBkDqp</key>
+        <array>
+          <string>INSIDENOTCHRIGHT</string>
+          <string>LEFTSTEM</string>
+          <string>OUTNOTCH</string>
+          <string>CROSSBARTOP</string>
+          <string>OUTNOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>INSIDENOTCHRIGHT</string>
+        </array>
+        <key>n6PdFkeV3V</key>
+        <array>
+          <string>INSIDENOTCHRIGHT</string>
+          <string>LEFTSTEM</string>
+          <string>OUTNOTCH</string>
+          <string>CROSSBARTOP</string>
+          <string>OUTNOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>INSIDENOTCHRIGHT</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

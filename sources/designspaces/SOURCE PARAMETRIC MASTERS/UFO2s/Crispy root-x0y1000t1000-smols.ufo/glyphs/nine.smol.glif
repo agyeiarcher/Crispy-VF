@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="nine.smol" format="1">
+  <advance width="1932"/>
+  <outline>
+    <contour>
+      <point x="1554" y="1124" type="line"/>
+      <point x="-973" y="1124" type="line"/>
+      <point x="-973" y="399" type="line"/>
+      <point x="1553" y="399" type="line"/>
+      <point x="1553" y="474" type="line"/>
+      <point x="1366" y="298" type="line"/>
+      <point x="-830" y="298" type="line"/>
+      <point x="-830" y="368" type="line"/>
+      <point x="-831" y="368" type="line"/>
+      <point x="-831" y="0" type="line"/>
+      <point x="1202" y="0" type="line"/>
+      <point x="1554" y="376" type="line"/>
+    </contour>
+    <contour>
+      <point x="-971" y="704" type="line"/>
+      <point x="-971" y="756" type="line"/>
+      <point x="1553" y="756" type="line"/>
+      <point x="1553" y="704" type="line"/>
+    </contour>
+  </outline>
+</glyph>

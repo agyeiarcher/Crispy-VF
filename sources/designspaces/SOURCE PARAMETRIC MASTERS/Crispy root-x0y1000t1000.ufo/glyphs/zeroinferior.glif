@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zeroinferior" format="2">
+  <advance width="3449"/>
+  <unicode hex="2080"/>
+  <outline>
+    <component base="zero.smol"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-10-07 02:03:18 +0000</string>
+    </dict>
+  </lib>
+</glyph>

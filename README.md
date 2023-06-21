@@ -1,92 +1,155 @@
-----
+# Crispy
+___
 
-## Setting up your font
+**Crispy** is a variable font, designed by Agyei Archer for Google Fonts and licensed under the [SIL Open Font License, 1.1](http://scripts.sil.org/OFL).
 
-* **New repositories.** Hit the green button above ("Use this template") to create your own repository. We then need to update the workflow permissions. Go to Settings > Actions > General > Workflow permissions and enable "Read and write permissions". Finally, rerun the failed github action by going to Actions > Initial commit > Re-run jobs > Re-run all jobs.
+Crispy's variations are created based on Font Bureau and David Berlow's [variations proposal](https://variationsguide.typenetwork.com/), which outlined the descriptions of font features using more elemental factors than the more common paradigms like weight, width, x-height, etc.
 
-*Please note that a Github Action job will be executed once you've created the repository which will populate the readme and build dependencies. This job will fail because it was executed with incorrect permissions. The steps above will fix the permissions issue and rerun the job. Please wait for the job to complete and pass before pulling the repo to your local system.*
+Crispy is a typeface designed for applications where headline content needs to take primary importance. Its parametric design makes it applicable to a spectrum of eccentricity that makes it usable for headlines of all flav*ou*rs. Initially this focus was a good excuse to make it uppercase only, but a lowercase has since been added to increase range of future usability.
 
-* **Updating a repository.** To update your font repository to bring in the latest best-practices from the Google Fonts Project Template, run `make update-project-template` from the command line.
+![](docs/gomd-01.png)
 
-* Replace the font sources in the `sources` directory with your own font sources. These sources may be either in Glyphs format or UFO/Designspace formats.\
-\
-Unlike many open source distributors, Google Fonts is **curated**. Fonts shipped to the platform have to match the [Google Fonts Specifications](https://github.com/googlefonts/gf-docs/tree/main/Spec). Please read them carefully.\
-\
-*(The sample font provided in this template is [Rubik](https://github.com/googlefonts/rubik/) by Philipp Hubert, Sebastian Fischer, and contributors.)*
-
-* Then reference the sources in the file `sources/config.yaml`, as well as making any other changes you would like to make based on the instructions in the [Google Fonts Builder documentation](https://github.com/googlefonts/gftools/blob/main/Lib/gftools/builder/__init__.py).
+Development and design for this typeface project is sponsored by Google Fonts, and in the future it may be available in Google Fonts. Until then, this respository is the best place to download the latest usable files.
 
 
-* Add yourself to the `AUTHORS.txt` and `CONTRIBUTORS.txt` files.
+### Planned Axes:
 
-* Update the first line of the OFL.txt (year and project name). Update also the Copyright string in the sources, it has to be the same as the OFL.txt. The `.glyphs` file in this repo gives you required base charset and font info.
+| Axis Name       | Axis Label | Axis Type     | Min Value    | Max Value |
+| :-------------  | :--------- | :-----------  | -----------: | --------: |
+|  X-Opacity      | XOPQ       | Parametric    | 1            | 1000      |
+|  Y-Opacity      | YOPQ       | Parametric    | 1            | 1000      |
+|  X-Transparency | YTRA       | Parametric    | 1            | 1000      |
+|  Weight         | wght       | Stylistic     | 1            | 1000      |
+|  Width          | wdth       | Stylistic     | 1            | 1000      |
+|  Grade          | GRAD       | Stylistic     | -0.5         | 0.5       |
+|  Slant          | slnt       | Stylistic     | -1           | 1         |
+|  Shadow         | shdw       | Stylistic     | 0            | 1         |
 
-* Finally, add and commit any files you have modified (i.e. `README.md`, `AUTHORS.txt`, `CONTRIBUTORS.txt`, the font sources, and `sources/config.yaml`) to git, then push to GitHub. Please be aware that Github Actions may take a few minutes to build your font family. It is worthwhile inspecting the progress in the "Actions" tab.
+¹Dependent on automation using a modified Slanter fork.
 
-* Fill out `DESCRIPTION.en_us.html` with a description about your font.
+²Dependent on Python scripting that is still, how you say...."in progress"
 
-* If Github Actions has successfully built the family, you will find the font binaries in the Actions tab. The official Github Actions documentation provides further [information](https://docs.github.com/en/actions/managing-workflow-runs/downloading-workflow-artifacts).
+___
+**For the purposes of this project, I describe *axes* as visual paradigms that we use to describe one or more features in a variable font.**
 
-* Once you are happy with your font, add promotional assets in the documentation directory. Make it different from the pic you use in this README. You can get inspired by existing tweet @googlefonts like: https://twitter.com/googlefonts/status/1415562928657416192.
+I describe *parametric axes* as elemental axes that we can use to describe one structural or aesthetic component of a typeface. 
 
-* Google Fonts uses Github Releases to manage font families. If you feel your font project has hit a milestone, you must create a new release for it. In order to do this, go to the releases page and hit the "Draft a new release button". You must provide a tag number and title which can only be a decimal number e.g 0.100, 1.000 etc. For the body text, mention what has changed since the last release. Once you are done, hit the "Publish release" button. Here is an example which fulfills the requirements, https://github.com/m4rc1e/test-ufr-family/releases/tag/2.019. For more info regarding Github release, please see the official Github Release [documentation](https://docs.github.com/en/repositories/releasing-projects-on-github/managing-releases-in-a-repository). **Please note that Github Actions must be able to build the fonts before you can make a release. Once you have made a release, the fonts and tests assets will be attached to the release automatically. This may take a while since the fonts and tests will be built from scratch so please be patient.**
+I describe *stylistic axes* are axes that we can use to describe the end-result of more than one of these elemental factors, expressed to different individual degrees at the same time. 
 
-* Remove this section from the readme. :-)
-----
+By these descriptions, we can think of ***Weight*** as a stylistic axis that can be expressed as a combination of ***X-Opacity***, ***Y-Opacity***, ***Y-Transparency***, and ***X-Transparency***. We know then that, typically, a Latin typeface with conventional contrast will have a greater ratio of X-Opacity to Y-Opacity, at least visually, if not numerically. 
+
+Immediately, we can flag this idea of "conventional contrast" as potentially limiting, and a demonstrable indication of the long-term conceptual and semantic advantage of thinking of fonts parametrically, especially in global typographic applications where we would want to avoid positioning Latin-centric paradigms as default or industry standards. Right? 🙄
+
+Anyway,
+
+___
+
+### Designer:
+* Agyei Archer
+
+### License:
+Copyright (c) 2021, Agyei Archer Limited (hello@agyei.design | [agyei.design]() )
+
+Licensed under the [SIL Open Font License, 1.1](http://scripts.sil.org/OFL); you may not use this file except in compliance with the License.
+
+___
+
+## Font Log:
 
 
-# My Font
+Crispy is a variable font that supports [Google Latin Pro](https://github.com/googlefonts/gftools/blob/master/Lib/gftools/encodings/GF%20Glyph%20Sets/GF-latin-pro_unique-glyphs.nam) glyph set, with a total of 713 core glyphs in each of its 8 master font files.
 
-[![][Fontbakery]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
-[![][Universal]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
-[![][GF Profile]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
-[![][Outline Correctness]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
-[![][Shaping]](https://googlefonts.github.io/googlefonts-project-template/fontbakery/fontbakery-report.html)
+### File Setup:
 
-[Fontbakery]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2Foverall.json
-[GF Profile]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FGoogleFonts.json
-[Outline Correctness]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FOutlineCorrectnessChecks.json
-[Shaping]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FShapingChecks.json
-[Universal]: https://img.shields.io/endpoint?url=https%3A%2F%2Fraw.githubusercontent.com%2Fgooglefonts%2Fgooglefonts-project-template%2Fgh-pages%2Fbadges%2FUniversal.json
+**The master files are configured below as follows:**
 
-Description of your font goes here. We recommend to start with a very short presentation line (the kind you would use on twitter to present your project for example), and then add as much details as necesary :-) Origin of the project, idea of usage, concept of creation… but also number of masters, axes, character sets, etc.
+| Master Name   | XOPQ | YOPQ     | XTRA |
+| :------------- | :---------- | ----------- | -----------: |
+|  x0y0t0 | 1   | 1    | 1 |
+|  x0y0t1000 | 1   | 1    | 1000 |
+|  x1000y0t0 | 1000   | 1    | 1 |
+|  x0y1000t0 | 1   | 1000    | 1 |
+|  x1000y0t1000 | 1000   | 1000    | 1000 |
+|  x0y1000t1000 | 1   | 1000    | 1000 |
+|  Crispy Support: Medium Condensed³ | 174.5   | 320    | 20 |
+|  Crispy Support: Medium Extended³ | 410   | 475    | 450 |
 
-Don't hesitate to create images!
+These master files were first made in Robofont, but are now being produced in Glyphs for more speed, using Robofont and Skateboard to visualise changes for nuanced axe such as grade, and Robofont Scripts, DesignSpace files, and Fontmake-specific tools to generate the exported file.
 
-![Sample Image](documentation/image1.png)
+The logic is:
+1. Masters are designed and edited in Glyphs (manual)
+2. These masters are exported in .ufo format and VF instances are created and managed by Robofont + Skateboard (manual) 
+3. The necessary instances to be used for masters for Grade, Weight, and Width will be generated in min/max grade pairs per style. (manual)
+4. These instances are handled by Robofont and Skateboard using a designspace file, and masters for Stylistic versions are exported (automated/scripted)
+4. The final instances that include configurations for both Stylistic and Parametric axes are exported, in additions to checks for matching widths on grade masters and tools like ttfautohunt being applied.
 
-## About
+The Current output file should support and include masters for:
 
-Description of you and/or organisation goes here.
+* Width: Min/Max
+* Weight: Min/max
+* Grade: Min/max
+* XTRA: Min/Max
+* XOPQ: Min/Max
+* YOPQ: Min/Max
 
-## Building
+*Still to be added:*
 
-Fonts are built automatically by GitHub Actions - take a look in the "Actions" tab for the latest build.
+* Shadow: Min/Max
+* Slant: Min/Max
 
-If you want to build fonts manually on your own computer:
+*³ Support files were added to have more control over certain font features such as diagonals and areas where weight management needed more nuanced control. Because of the nature of the font files used, it's also easier to use these files to preview and design test cases for more complicated glyphs.*
 
-* `make build` will produce font files.
-* `make test` will run [FontBakery](https://github.com/googlefonts/fontbakery)'s quality assurance tests.
-* `make proof` will generate HTML proof files.
 
-The proof files and QA tests are also available automatically via GitHub Actions - look at `https://yourname.github.io/your-font-repository-name`.
+The second designspace file manages the stylistic definitions based on the files exported on building the first file. This file is where details such as glyph substitutions, and style definitions as outlined for specifications like [usWeightClass](https://docs.microsoft.com/en-us/typography/opentype/spec/os2#usweightclass) and [usWidthClass](https://docs.microsoft.com/en-us/typography/opentype/spec/os2#uswidthclass). 
 
-## Changelog
+### Ideal build:
 
-When you update your font (new version or new release), please report all notable changes here, with a date.
-[Font Versioning](https://github.com/googlefonts/gf-docs/tree/main/Spec#font-versioning) is based on semver. 
-Changelog example:
+The masters asociated with these file are only handled on export by fontmake, and the build process is currently automated to cover:
 
-**26 May 2021. Version 2.13**
-- MAJOR Font turned to a variable font.
-- SIGNIFICANT New Stylistic sets added.
+1. Building parametric instances i.e. stylistic sources
+2. Compensating for possible grade-related advance width issues
+3. Building stylistic sources
+4. ttfautohint and other builtin fontmake checks
+2. Building well-labeled versions of static .ttf and .woff files
+3. Building variable font
 
-## License
+***The ideal build will cover:***
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
-This license is available with a FAQ at
-https://scripts.sil.org/OFL
+1. Building parametric instances i.e. stylistic sources
+2. Compensating for possible grade-related advance width issues
+3. Building stylistic sources
+4. ttfautohint and other builtin fontmake checks
+2. Building well-labeled versions of static .ttf and .woff files
+3. Building variable font
+4. *Automated static and animated proofs with drawbot*
+5. *Automated, well-labelled git push* ⁴
 
-## Repository Layout
+⁴ Currently `git push` triggers [FontBakery](https://github.com/googlefonts/fontbakery/) QA checks. Fontbakery MarkDown generation creates a simple readable report on font errors following this, to help move the font files toward completion.
 
-This font repository structure is inspired by [Unified Font Repository v0.3](https://github.com/unified-font-repository/Unified-Font-Repository), modified for the Google Fonts workflow.
+### Glyphs + :
+
+### Design log:
+* December 2021: math symbols completed, Design sources moved to Glyphs
+* December 2020: lowercase parametric versions completed and merged
+* March 2020: design direction completed and proportions resolved
+* Juneish 2019: design initiated
+
+### Roadmap:
+* Combining marks - completed and reviewed (March 2022)
+* Math Symbol filtering - completed and reviewed (March 2022)
+* Final Design review incl. Combined marks - completed (March 2022)
+* GlyphConstruction & Full Language support (April 2022)
+* Kerning (May 2022) - to be done with Kern-On in Glyphs
+
+### Acknowledgements
+
+**David Jonathan Ross: Design Advisor** | david@djr.com | [http://djr.com/](http://djr.com/)
+
+**Eben Sorkin: Design Advisor** | eben@eyebytes.com | [http://sorkintype.com/](http://sorkintype.com/)
+
+**Tanya George: Design Production** | tanya@tanyatypes.com | [https://tanyatypes.wordpress.com/
+](https://tanyatypes.wordpress.com/)
+
+**Agyei Archer: Designer** | hello@agyei.design | [http://agyei.design]()
+
+**David Berlow: Parametric Design Theorist & Pioneer**** [http://davidberlow.fontbureau.com/](http://davidberlow.fontbureau.com/)

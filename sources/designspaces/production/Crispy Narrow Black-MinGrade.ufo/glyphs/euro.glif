@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="euro" format="2">
+  <advance width="855"/>
+  <unicode hex="20AC"/>
+  <outline>
+    <contour>
+      <point x="654" y="640" type="line"/>
+      <point x="654" y="768" type="line"/>
+      <point x="31" y="768" type="line"/>
+      <point x="31" y="640" type="line"/>
+    </contour>
+    <contour>
+      <point x="654" y="842" type="line"/>
+      <point x="654" y="971" type="line"/>
+      <point x="31" y="971" type="line"/>
+      <point x="31" y="842" type="line"/>
+    </contour>
+    <contour>
+      <point x="269" y="1600" type="line"/>
+      <point x="156" y="1339" type="line"/>
+      <point x="156" y="0" type="line"/>
+      <point x="785" y="0" type="line"/>
+      <point x="785" y="520" type="line"/>
+      <point x="534" y="520" type="line"/>
+      <point x="534" y="173" type="line"/>
+      <point x="429" y="173" type="line"/>
+      <point x="429" y="1272" type="line"/>
+      <point x="480" y="1427" type="line"/>
+      <point x="535" y="1427" type="line"/>
+      <point x="535" y="1091" type="line"/>
+      <point x="786" y="1091" type="line"/>
+      <point x="786" y="1600" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-10-07 01:14:07 +0000</string>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.narrow" format="2">
+  <advance width="-85"/>
+  <outline>
+    <contour>
+      <point x="-110" y="1449" type="line"/>
+      <point x="-110" y="-150" type="line"/>
+      <point x="-105" y="-150" type="line"/>
+      <point x="46" y="1" type="line"/>
+      <point x="46" y="1600" type="line"/>
+      <point x="41" y="1600" type="line"/>
+    </contour>
+    <contour>
+      <point x="-106" y="1447" type="line"/>
+      <point x="42" y="1595" type="line"/>
+      <point x="42" y="3" type="line"/>
+      <point x="-106" y="-145" type="line"/>
+    </contour>
+  </outline>
+</glyph>

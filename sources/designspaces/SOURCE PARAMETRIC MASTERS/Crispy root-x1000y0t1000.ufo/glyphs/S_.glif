@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="S" format="2">
+  <advance width="5184"/>
+  <unicode hex="0053"/>
+  <outline>
+    <contour>
+      <point x="192" y="0" type="line"/>
+      <point x="4502" y="0" type="line"/>
+      <point x="4994" y="489" type="line"/>
+      <point x="4994" y="801" type="line"/>
+      <point x="975" y="801" type="line"/>
+      <point x="975" y="1142" type="line"/>
+      <point x="1410" y="1598" type="line"/>
+      <point x="3909" y="1598" type="line"/>
+      <point x="3909" y="1100" type="line"/>
+      <point x="4924" y="1100" type="line"/>
+      <point x="4924" y="1600" type="line"/>
+      <point x="695" y="1600" type="line"/>
+      <point x="200" y="1104" type="line"/>
+      <point x="200" y="799" type="line"/>
+      <point x="4219" y="799" type="line"/>
+      <point x="4219" y="456" type="line"/>
+      <point x="3781" y="2" type="line"/>
+      <point x="1207" y="2" type="line"/>
+      <point x="1207" y="503" type="line"/>
+      <point x="192" y="503" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

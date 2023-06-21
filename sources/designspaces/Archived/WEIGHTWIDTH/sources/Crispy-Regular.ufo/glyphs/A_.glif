@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="A" format="2">
+  <advance width="1091"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="79" y="0" type="line" smooth="yes" identifier="jFq8ta4UUc"/>
+      <point x="284" y="0" type="line" smooth="yes" identifier="dQz4RxYhG4"/>
+      <point x="284" y="685" type="line" smooth="yes" identifier="viYRWe5UN7"/>
+      <point x="784" y="685" type="line" smooth="yes" identifier="QVexAlbAcl"/>
+      <point x="784" y="0" type="line" smooth="yes" identifier="ZgsCdxNJRW"/>
+      <point x="989" y="0" type="line" smooth="yes" identifier="kpn4Kw9J0C"/>
+      <point x="989" y="1600" type="line" smooth="yes" identifier="OBZ5Ayed7M"/>
+      <point x="229" y="1600" type="line" smooth="yes" identifier="iDT0uyhKrn"/>
+      <point x="79" y="1239" type="line" smooth="yes" identifier="dqVr87m3uJ"/>
+    </contour>
+    <contour>
+      <point x="284" y="871" type="line" smooth="yes" identifier="IIRC9Wy7kQ"/>
+      <point x="284" y="1224" type="line" smooth="yes" identifier="VufvPdJ075"/>
+      <point x="359" y="1416" type="line" smooth="yes" identifier="FsYtJ2vFnp"/>
+      <point x="784" y="1416" type="line" smooth="yes" identifier="tUsW8L7b0y"/>
+      <point x="784" y="871" type="line" smooth="yes" identifier="eTe9B4y76W"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eth" format="2">
+  <advance width="2698"/>
+  <unicode hex="00D0"/>
+  <outline>
+    <contour>
+      <point x="15" y="794" type="line"/>
+      <point x="812" y="794" type="line"/>
+      <point x="812" y="796" type="line"/>
+      <point x="15" y="796" type="line"/>
+    </contour>
+    <component base="D"/>
+  </outline>
+</glyph>

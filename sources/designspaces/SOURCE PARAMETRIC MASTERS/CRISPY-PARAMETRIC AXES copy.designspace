@@ -1,0 +1,141 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<designspace format="4.1">
+  <axes>
+    <axis tag="XOPQ" name="xopq" minimum="1" maximum="1000" default="1">
+      <labelname xml:lang="en">xopq</labelname>
+    </axis>
+    <axis tag="YOPQ" name="yopq" minimum="1" maximum="1000" default="1">
+      <labelname xml:lang="en">yopq</labelname>
+    </axis>
+    <axis tag="XTRA" name="xtra" minimum="1" maximum="1000" default="1">
+      <labelname xml:lang="en">xtra</labelname>
+    </axis>
+  </axes>
+  <sources>
+    <source filename="Crispy root-x0y0t0.ufo" familyname="Crispy" stylename="x1y1t1-StyleMax">
+      <lib copy="1"/>
+      <groups copy="1"/>
+      <features copy="1"/>
+      <info copy="1"/>
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Crispy root-x0y0t1000.ufo" familyname="Crispy" stylename="x1y1t1000-StyleMax">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="Crispy root-x0y1000t0.ufo" familyname="Crispy" stylename="x1y1000t0-StyleMax">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1000"/>
+        <dimension name="xtra" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Crispy root-x0y1000t1000.ufo" familyname="Crispy" stylename="x1y1000t1000-StyleMax">
+      <location>
+        <dimension name="xopq" xvalue="1"/>
+        <dimension name="yopq" xvalue="1000"/>
+        <dimension name="xtra" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="Crispy root-x1000y0t0.ufo" familyname="Crispy" stylename="x1000y1t1-StyleMax">
+      <location>
+        <dimension name="xopq" xvalue="1000"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1"/>
+      </location>
+    </source>
+    <source filename="Crispy root-x1000y0t1000.ufo" familyname="Crispy" stylename="x1000y1t1000-StyleMax">
+      <location>
+        <dimension name="xopq" xvalue="1000"/>
+        <dimension name="yopq" xvalue="1"/>
+        <dimension name="xtra" xvalue="1000"/>
+      </location>
+    </source>
+    <source filename="supports/Crispy Extended_Control.ufo" familyname="Crispy-Test" stylename="support-extended">
+      <location>
+        <dimension name="xopq" xvalue="410"/>
+        <dimension name="yopq" xvalue="475"/>
+        <dimension name="xtra" xvalue="450"/>
+      </location>
+    </source>
+    <source filename="supports/Crispy Narrow Medium_Control.ufo" familyname="Crispy" stylename="support-narrow">
+      <location>
+        <dimension name="xopq" xvalue="174.500000"/>
+        <dimension name="yopq" xvalue="320"/>
+        <dimension name="xtra" xvalue="20"/>
+      </location>
+    </source>
+  </sources>
+  <instances>
+    <instance familyname="Crispy-Core" stylename="Thin 100-MinGrade" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/Core/CrispyThin100-MinGrade.ufo">
+      <location>
+        <dimension name="xopq" xvalue="2"/>
+        <dimension name="yopq" xvalue="2"/>
+        <dimension name="xtra" xvalue="2"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+    <instance familyname="Crispy-Core" stylename="Thin 100-MaxGrade" filename="../WEIGHTWIDTHGRADE-PARAMETRIC/MASTERS/Core/CrispyThin100-MaxGrade.ufo">
+      <location>
+        <dimension name="xopq" xvalue="2"/>
+        <dimension name="yopq" xvalue="2"/>
+        <dimension name="xtra" xvalue="2"/>
+      </location>
+      <kerning/>
+      <info/>
+    </instance>
+  </instances>
+  <lib>
+    <dict>
+      <key>com.letterror.mathModelPref</key>
+      <string>previewVarLib</string>
+      <key>com.letterror.skateboard.interactionSources</key>
+      <dict>
+        <key>horizontal</key>
+        <array>
+          <string>xtra</string>
+        </array>
+        <key>ignore</key>
+        <array>
+          <string>xopq</string>
+          <string>yopq</string>
+        </array>
+        <key>vertical</key>
+        <array/>
+      </dict>
+      <key>com.letterror.skateboard.interestingLocation</key>
+      <array>
+        <array>
+          <dict>
+            <key>xopq</key>
+            <real>380.0</real>
+            <key>xtra</key>
+            <real>500.0</real>
+            <key>yopq</key>
+            <real>500.0</real>
+          </dict>
+          <string>B.medium</string>
+        </array>
+      </array>
+      <key>com.letterror.skateboard.previewLocation</key>
+      <dict>
+        <key>xopq</key>
+        <real>174.5</real>
+        <key>xtra</key>
+        <real>2.0</real>
+        <key>yopq</key>
+        <real>320.0</real>
+      </dict>
+      <key>com.letterror.skateboard.previewText</key>
+      <string>the quick brown fox jumps over the lazy dog</string>
+    </dict>
+  </lib>
+</designspace>

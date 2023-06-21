@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="R.wide" format="2">
+  <advance width="5044"/>
+  <outline>
+    <contour>
+      <point x="1072" y="-154" type="line"/>
+      <point x="1223" y="-3" type="line"/>
+      <point x="1223" y="119" type="line"/>
+      <point x="3384" y="119" type="line"/>
+      <point x="3801" y="-152" type="line"/>
+      <point x="4713" y="-152" type="line"/>
+      <point x="4865" y="0" type="line"/>
+      <point x="4659" y="119" type="line"/>
+      <point x="4878" y="119" type="line"/>
+      <point x="5029" y="270" type="line"/>
+      <point x="5029" y="1600" type="line"/>
+      <point x="311" y="1600" type="line"/>
+      <point x="160" y="1449" type="line"/>
+      <point x="160" y="-154" type="line"/>
+    </contour>
+    <contour>
+      <point x="4645" y="123" type="line"/>
+      <point x="4859" y="0" type="line"/>
+      <point x="4711" y="-148" type="line"/>
+      <point x="3803" y="-148" type="line"/>
+      <point x="3386" y="123" type="line"/>
+      <point x="1219" y="123" type="line"/>
+      <point x="1219" y="-1" type="line"/>
+      <point x="1070" y="-150" type="line"/>
+      <point x="164" y="-150" type="line"/>
+      <point x="164" y="1447" type="line"/>
+      <point x="313" y="1596" type="line"/>
+      <point x="5025" y="1596" type="line"/>
+      <point x="5025" y="272" type="line"/>
+      <point x="4876" y="123" type="line"/>
+    </contour>
+    <contour>
+      <point x="3970" y="799" type="line"/>
+      <point x="3970" y="921" type="line"/>
+      <point x="1219" y="921" type="line"/>
+      <point x="1219" y="799" type="line"/>
+    </contour>
+    <contour>
+      <point x="1223" y="803" type="line"/>
+      <point x="1223" y="917" type="line"/>
+      <point x="3966" y="917" type="line"/>
+      <point x="3966" y="803" type="line"/>
+    </contour>
+  </outline>
+</glyph>

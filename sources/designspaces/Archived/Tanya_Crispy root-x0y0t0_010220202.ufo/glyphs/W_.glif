@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="W" format="2">
+	<advance width="253"/>
+	<unicode hex="0057"/>
+	<guideline x="1093" y="-502" angle="90"/>
+	<outline>
+		<component base="M.narrow" xScale="-1" yScale="-1" xOffset="253" yOffset="1600"/>
+	</outline>
+	<lib>
+		<dict>
+			<key>com.schriftgestaltung.Glyphs.lastChange</key>
+			<string>2020-02-02 05:29:07 +0000</string>
+			<key>com.typemytype.robofont.Image.Brightness</key>
+			<integer>0</integer>
+			<key>com.typemytype.robofont.Image.Contrast</key>
+			<integer>1</integer>
+			<key>com.typemytype.robofont.Image.Saturation</key>
+			<integer>1</integer>
+			<key>com.typemytype.robofont.Image.Sharpness</key>
+			<real>0.4</real>
+			<key>com.typemytype.robofont.pointLabels</key>
+			<dict>
+				<key>JvYTBAOPZP</key>
+				<array>
+					<string>rightside</string>
+				</array>
+				<key>l7kU354nQi</key>
+				<array>
+					<string>leftside</string>
+				</array>
+				<key>lwgAcRFjz3</key>
+				<array>
+					<string>rightside</string>
+				</array>
+				<key>tG1gTEtDdI</key>
+				<array>
+					<string>leftside</string>
+				</array>
+				<key>vmHDiIUK3k</key>
+				<array>
+					<string>leftside</string>
+				</array>
+				<key>vyhN9GCvPW</key>
+				<array>
+					<string>rightside</string>
+				</array>
+			</dict>
+		</dict>
+	</lib>
+</glyph>

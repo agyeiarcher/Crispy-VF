@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.smol" format="2">
+  <advance width="173"/>
+  <outline>
+    <contour>
+      <point x="-7" y="0" type="line"/>
+      <point x="183" y="0" type="line"/>
+      <point x="183" y="104" type="line"/>
+      <point x="141" y="104" type="line"/>
+      <point x="141" y="1127" type="line"/>
+      <point x="-7" y="1127" type="line"/>
+      <point x="-7" y="1023" type="line"/>
+      <point x="35" y="1023" type="line"/>
+      <point x="35" y="104" type="line"/>
+      <point x="-7" y="104" type="line"/>
+    </contour>
+  </outline>
+</glyph>

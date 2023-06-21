@@ -1,0 +1,105 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="C" format="2">
+  <advance width="8242"/>
+  <unicode hex="0043"/>
+  <outline>
+    <contour>
+      <point x="490" y="0" type="line"/>
+      <point x="3916" y="0" type="line"/>
+      <point x="3916" y="732" type="line"/>
+      <point x="3914" y="732" type="line"/>
+      <point x="3914" y="568" type="line"/>
+      <point x="492" y="568" type="line"/>
+      <point x="492" y="826" type="line"/>
+      <point x="714" y="1044" type="line"/>
+      <point x="3912" y="1044" type="line"/>
+      <point x="3912" y="881" type="line"/>
+      <point x="3914" y="881" type="line"/>
+      <point x="3914" y="1600" type="line"/>
+      <point x="986" y="1600" type="line"/>
+      <point x="490" y="1065" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 11:49:41 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>5BjRbcud80</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>TOPINSIDE</string>
+        </array>
+        <key>9eJelv8BOw</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>L2LsGnXiZ2</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>BOTTOMINSIDE</string>
+        </array>
+        <key>QX1V08aTu0</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>BOTTOMSERIF</string>
+        </array>
+        <key>QjTd5GXXER</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>V1EWIdPahq</key>
+        <array>
+          <string>SIDENOTCH</string>
+        </array>
+        <key>Y750RHTvDj</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>BOTTOMINSIDE</string>
+        </array>
+        <key>dbOUe6OhxL</key>
+        <array>
+          <string>TOPNOTCH</string>
+          <string>TOPINSIDE</string>
+        </array>
+        <key>fNVDqwQo2o</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPSERIF</string>
+        </array>
+        <key>lfZev3ICaC</key>
+        <array>
+          <string>TOPNOTCH</string>
+        </array>
+        <key>nDnDHzAMXL</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>BOTTOMSERIF</string>
+        </array>
+        <key>o9Cec4GtsE</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>qJVLZGnkwh</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>sUWsr03vF4</key>
+        <array>
+          <string>SIDENOTCH</string>
+          <string>TOPINSIDE</string>
+        </array>
+        <key>wLqQQx7QVN</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPSERIF</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

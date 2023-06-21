@@ -1,0 +1,344 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="4558"/>
+  <unicode hex="0049"/>
+  <outline>
+    <contour>
+      <point x="4540" y="-1" type="line"/>
+      <point x="4540" y="538" type="line"/>
+      <point x="2834" y="538" type="line"/>
+      <point x="2834" y="912" type="line"/>
+      <point x="4389" y="912" type="line"/>
+      <point x="4540" y="1063" type="line"/>
+      <point x="4540" y="1602" type="line"/>
+      <point x="189" y="1602" type="line"/>
+      <point x="38" y="1451" type="line"/>
+      <point x="38" y="912" type="line"/>
+      <point x="1735" y="912" type="line"/>
+      <point x="1735" y="538" type="line"/>
+      <point x="189" y="538" type="line"/>
+      <point x="38" y="387" type="line"/>
+      <point x="38" y="-152" type="line"/>
+      <point x="4389" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="2830" y="916" type="line"/>
+      <point x="2830" y="534" type="line"/>
+      <point x="4536" y="534" type="line"/>
+      <point x="4536" y="1" type="line"/>
+      <point x="4387" y="-148" type="line"/>
+      <point x="42" y="-148" type="line"/>
+      <point x="42" y="385" type="line"/>
+      <point x="191" y="534" type="line"/>
+      <point x="1739" y="534" type="line"/>
+      <point x="1739" y="916" type="line"/>
+      <point x="42" y="916" type="line"/>
+      <point x="42" y="1449" type="line"/>
+      <point x="191" y="1598" type="line"/>
+      <point x="4536" y="1598" type="line"/>
+      <point x="4536" y="1065" type="line"/>
+      <point x="4387" y="916" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>1Ty0JfMohF</key>
+        <array>
+          <string>INSIDETOP</string>
+          <string>INSIDETOP</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDEBOTTOM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDETOP</string>
+          <string>INSIDETOP</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>1m237t4hyw</key>
+        <array>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDEBOTTOM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+        <key>9RiQmr3G8U</key>
+        <array>
+          <string>INSIDETOP</string>
+          <string>INSIDETOP</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDEBOTTOM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDETOP</string>
+          <string>INSIDETOP</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>G11nOl1a96</key>
+        <array>
+          <string>ri</string>
+        </array>
+        <key>LJaww9hqQY</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>O5ZoWKLuW7</key>
+        <array>
+          <string>INSIDETOP</string>
+          <string>RIGHTSTEM</string>
+          <string>INSIDETOP</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDETOP</string>
+          <string>INSIDETOP</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDEBOTTOM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+        <key>PL3Zqx19x8</key>
+        <array>
+          <string>INSIDETOP</string>
+          <string>RIGHTSTEM</string>
+          <string>INSIDETOP</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDETOP</string>
+          <string>INSIDETOP</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDEBOTTOM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+        <key>S4rO5KuHiL</key>
+        <array>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDEBOTTOM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+        <key>aCoxe3fSmw</key>
+        <array>
+          <string>INSIDETOP</string>
+          <string>RIGHTSTEM</string>
+          <string>INSIDETOP</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDETOP</string>
+          <string>INSIDETOP</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDEBOTTOM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+        <key>jRE4QRN7r7</key>
+        <array>
+          <string>ri</string>
+        </array>
+        <key>jZjJqwR81q</key>
+        <array>
+          <string>INSIDETOP</string>
+          <string>INSIDETOP</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDEBOTTOM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDETOP</string>
+          <string>INSIDETOP</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>quzaPWszgr</key>
+        <array>
+          <string>INSIDETOP</string>
+          <string>INSIDETOP</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDEBOTTOM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDETOP</string>
+          <string>INSIDETOP</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>rhZOX8XKiW</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>u8XZE2STzL</key>
+        <array>
+          <string>INSIDETOP</string>
+          <string>RIGHTSTEM</string>
+          <string>INSIDETOP</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDETOP</string>
+          <string>INSIDETOP</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>INSIDEBOTTOM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+        <key>v7N4yg5XNk</key>
+        <array>
+          <string>INSIDETOP</string>
+          <string>INSIDETOP</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+        </array>
+        <key>zfocDyDTCM</key>
+        <array>
+          <string>INSIDETOP</string>
+          <string>INSIDETOP</string>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

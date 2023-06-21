@@ -1,0 +1,134 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="V" format="2">
+  <advance width="637"/>
+  <unicode hex="0056"/>
+  <outline>
+    <contour>
+      <point x="545" y="-152" type="line"/>
+      <point x="699" y="2" type="line"/>
+      <point x="583" y="2" type="line"/>
+      <point x="634" y="215" type="line"/>
+      <point x="634" y="1452" type="line"/>
+      <point x="444" y="1452" type="line"/>
+      <point x="444" y="1605" type="line"/>
+      <point x="290" y="1451" type="line"/>
+      <point x="290" y="227" type="line"/>
+      <point x="272" y="158" type="line"/>
+      <point x="228" y="114" type="line"/>
+      <point x="228" y="1452" type="line"/>
+      <point x="39" y="1452" type="line"/>
+      <point x="39" y="1605" type="line"/>
+      <point x="-115" y="1451" type="line"/>
+      <point x="-115" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="294" y="227" type="line"/>
+      <point x="294" y="1449" type="line"/>
+      <point x="440" y="1595" type="line"/>
+      <point x="440" y="1448" type="line"/>
+      <point x="630" y="1448" type="line"/>
+      <point x="630" y="215" type="line"/>
+      <point x="577" y="-2" type="line"/>
+      <point x="689" y="-2" type="line"/>
+      <point x="543" y="-148" type="line"/>
+      <point x="-111" y="-148" type="line"/>
+      <point x="-111" y="1449" type="line"/>
+      <point x="35" y="1595" type="line"/>
+      <point x="35" y="1448" type="line"/>
+      <point x="224" y="1448" type="line"/>
+      <point x="224" y="110" type="line"/>
+      <point x="221" y="107" type="line"/>
+      <point x="224" y="107" type="line"/>
+      <point x="224" y="104" type="line"/>
+      <point x="227" y="107" type="line"/>
+      <point x="264" y="107" type="line"/>
+      <point x="276" y="157" type="line"/>
+    </contour>
+    <contour>
+      <point x="231" y="111" type="line"/>
+      <point x="270" y="150" type="line"/>
+      <point x="260" y="111" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>8JVlgiKN0E</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+        </array>
+        <key>8xHrkJVycg</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftdown</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+        </array>
+        <key>AEzhRP9eLc</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftdown</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+        </array>
+        <key>DS3ZS4pH1O</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>KWypNhzDNy</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+        </array>
+        <key>QlTGYhLSOg</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+        </array>
+        <key>d1tzrvftiK</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+        </array>
+        <key>gP37W9ybnh</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>zRVv4zqHV4</key>
+        <array>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftdown</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

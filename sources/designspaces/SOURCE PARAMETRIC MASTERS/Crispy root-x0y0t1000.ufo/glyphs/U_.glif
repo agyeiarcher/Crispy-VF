@@ -1,0 +1,66 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U" format="2">
+  <advance width="4815"/>
+  <unicode hex="0055"/>
+  <outline>
+    <contour>
+      <point x="700" y="0" type="line" smooth="yes"/>
+      <point x="4115" y="0" type="line" smooth="yes"/>
+      <point x="4115" y="1600" type="line" smooth="yes"/>
+      <point x="4113" y="1600" type="line" smooth="yes"/>
+      <point x="4113" y="2" type="line"/>
+      <point x="702" y="2" type="line"/>
+      <point x="702" y="1600" type="line"/>
+      <point x="700" y="1600" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.Image.Brightness</key>
+      <integer>0</integer>
+      <key>com.typemytype.robofont.Image.Contrast</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Saturation</key>
+      <integer>1</integer>
+      <key>com.typemytype.robofont.Image.Sharpness</key>
+      <real>0.4</real>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>JI2e3WjmaS</key>
+        <array>
+          <string>SIDENOTCH</string>
+        </array>
+        <key>TtJBDxLtac</key>
+        <array>
+          <string>TOPNOTCH</string>
+        </array>
+        <key>UzF1yMyYbs</key>
+        <array>
+          <string>TOPNOTCH</string>
+        </array>
+        <key>eQnUhxJAi8</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>ephNOl5vKR</key>
+        <array>
+          <string>SIDENOTCH</string>
+        </array>
+        <key>rl1GTsia1n</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>sHbJc0ABCr</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>v8mYloy7Gu</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

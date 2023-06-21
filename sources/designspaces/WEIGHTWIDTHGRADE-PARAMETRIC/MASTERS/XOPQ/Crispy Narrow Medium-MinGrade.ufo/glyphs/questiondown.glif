@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="questiondown" format="2">
+  <advance width="417"/>
+  <unicode hex="00BF"/>
+  <outline>
+    <component base="question" xScale="-1" xyScale="4.2248252162467215e-18" yxScale="-4.2248252162467215e-18" yScale="-1" xOffset="427" yOffset="1600"/>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-12-13 15:32:10 +0000</string>
+    </dict>
+  </lib>
+</glyph>

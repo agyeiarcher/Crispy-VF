@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="exclam" format="2">
+  <advance width="1345"/>
+  <unicode hex="0021"/>
+  <outline>
+    <contour>
+      <point x="340" y="696" type="line"/>
+      <point x="1006" y="696" type="line"/>
+      <point x="1083" y="1600" type="line"/>
+      <point x="262" y="1600" type="line"/>
+    </contour>
+    <component base="period" xOffset="133" yOffset="-1"/>
+  </outline>
+</glyph>

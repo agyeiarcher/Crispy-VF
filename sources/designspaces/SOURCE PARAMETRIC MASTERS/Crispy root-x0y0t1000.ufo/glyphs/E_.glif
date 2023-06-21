@@ -1,0 +1,94 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="E" format="2">
+  <advance width="4466"/>
+  <unicode hex="0045"/>
+  <outline>
+    <contour>
+      <point x="700" y="0" type="line"/>
+      <point x="4026" y="0" type="line"/>
+      <point x="4026" y="2" type="line"/>
+      <point x="702" y="2" type="line"/>
+      <point x="702" y="799" type="line"/>
+      <point x="3469" y="799" type="line"/>
+      <point x="3469" y="801" type="line"/>
+      <point x="702" y="801" type="line"/>
+      <point x="702" y="1598" type="line"/>
+      <point x="4025" y="1598" type="line"/>
+      <point x="4025" y="1600" type="line"/>
+      <point x="700" y="1600" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:35:59 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>32aoCNw8Jt</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>5cgTYOhATF</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>8WuC5p8Ax5</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>FAQNpgUPxV</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>NnvFkLKjyD</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>PpbsFdHAnS</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>S91n4lNRRk</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>XMbDdjq7aS</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>e79n7CoPy1</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>TOPSERIF</string>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>eqNb2VTwYs</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>gHI0YjrPxR</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>BOTTOMSERIF</string>
+        </array>
+        <key>gxCIuXb4el</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>BOTTOMSERIF</string>
+        </array>
+        <key>mLmcFoJA4m</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>TOPSERIF</string>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>qYRmo14Il5</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

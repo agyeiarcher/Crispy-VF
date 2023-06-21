@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three.smol" format="2">
+  <advance width="115"/>
+  <outline>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="88" y="0" type="line"/>
+      <point x="88" y="514" type="line"/>
+      <point x="64" y="514" type="line"/>
+      <point x="80" y="682" type="line"/>
+      <point x="80" y="995" type="line"/>
+      <point x="31" y="995" type="line"/>
+      <point x="31" y="651" type="line"/>
+      <point x="34" y="651" type="line"/>
+      <point x="34" y="993" type="line"/>
+      <point x="77" y="993" type="line"/>
+      <point x="77" y="682" type="line"/>
+      <point x="62" y="514" type="line"/>
+      <point x="46" y="514" type="line"/>
+      <point x="46" y="512" type="line"/>
+      <point x="85" y="512" type="line"/>
+      <point x="85" y="2" type="line"/>
+      <point x="27" y="2" type="line"/>
+      <point x="27" y="360" type="line"/>
+      <point x="24" y="360" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="six" format="2">
+  <advance width="1777"/>
+  <unicode hex="0036"/>
+  <outline>
+    <contour>
+      <point x="10" y="0" type="line"/>
+      <point x="1767" y="0" type="line"/>
+      <point x="1767" y="801" type="line"/>
+      <point x="876" y="801" type="line"/>
+      <point x="876" y="1367" type="line"/>
+      <point x="988" y="1598" type="line"/>
+      <point x="900" y="1598" type="line"/>
+      <point x="900" y="1080" type="line"/>
+      <point x="1766" y="1080" type="line"/>
+      <point x="1766" y="1600" type="line"/>
+      <point x="282" y="1600" type="line"/>
+      <point x="10" y="1397" type="line"/>
+    </contour>
+    <contour>
+      <point x="901" y="799" type="line"/>
+      <point x="901" y="2" type="line"/>
+      <point x="876" y="2" type="line"/>
+      <point x="876" y="799" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-12-13 15:33:40 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>2G5L37c87I</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>KnMArb0tv8</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>Wuidbv6mUe</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>jtYkxiUX6G</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>oGvEEuxnYv</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>uiw6aBUf4P</key>
+        <array>
+          <string>leftside</string>
+        </array>
+        <key>xR3pEHbMJx</key>
+        <array>
+          <string>leftside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

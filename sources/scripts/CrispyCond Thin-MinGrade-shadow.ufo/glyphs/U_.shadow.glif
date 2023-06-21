@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="U.shadow" format="2">
+  <advance width="-153"/>
+  <outline>
+    <contour>
+      <point x="155" y="2" type="line"/>
+      <point x="155" y="1605" type="line"/>
+      <point x="29" y="1479" type="line"/>
+      <point x="29" y="1605" type="line"/>
+      <point x="-275" y="1301" type="line"/>
+      <point x="-275" y="-302" type="line"/>
+      <point x="-144" y="-302" type="line"/>
+      <point x="160" y="2" type="line"/>
+    </contour>
+    <contour>
+      <point x="25" y="1469" type="line"/>
+      <point x="151" y="1595" type="line"/>
+      <point x="151" y="3" type="line"/>
+      <point x="146" y="-2" type="line"/>
+      <point x="150" y="-2" type="line"/>
+      <point x="-146" y="-298" type="line"/>
+      <point x="-271" y="-298" type="line"/>
+      <point x="-271" y="1299" type="line"/>
+      <point x="25" y="1595" type="line"/>
+    </contour>
+  </outline>
+</glyph>

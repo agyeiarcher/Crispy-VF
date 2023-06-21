@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.narrow" format="2">
+  <advance width="124"/>
+  <outline>
+    <contour>
+      <point x="117" y="-152" type="line"/>
+      <point x="268" y="-1" type="line"/>
+      <point x="268" y="1602" type="line"/>
+      <point x="73" y="1602" type="line"/>
+      <point x="-78" y="1451" type="line"/>
+      <point x="-116" y="1287" type="line"/>
+      <point x="-116" y="-152" type="line"/>
+      <point x="-111" y="-152" type="line"/>
+      <point x="1" y="-40" type="line"/>
+      <point x="1" y="-152" type="line"/>
+      <point x="6" y="-152" type="line"/>
+      <point x="112" y="-46" type="line"/>
+      <point x="112" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="116" y="-36" type="line"/>
+      <point x="5" y="-147" type="line"/>
+      <point x="5" y="-30" type="line"/>
+      <point x="-112" y="-147" type="line"/>
+      <point x="-112" y="1287" type="line"/>
+      <point x="-74" y="1449" type="line"/>
+      <point x="75" y="1598" type="line"/>
+      <point x="264" y="1598" type="line"/>
+      <point x="264" y="1" type="line"/>
+      <point x="116" y="-147" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="seven" format="2">
+  <advance width="5062"/>
+  <unicode hex="0037"/>
+  <outline>
+    <contour>
+      <point x="2689" y="317" type="line"/>
+      <point x="3297" y="-330" type="line"/>
+      <point x="4842" y="900" type="line"/>
+      <point x="4842" y="1600" type="line"/>
+      <point x="290" y="1600" type="line"/>
+      <point x="290" y="898" type="line"/>
+      <point x="1306" y="898" type="line"/>
+      <point x="1306" y="1598" type="line"/>
+      <point x="3827" y="1598" type="line"/>
+      <point x="3827" y="1200" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-12-13 15:34:53 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>1snwzqpV6g</key>
+        <array>
+          <string>TOPSERIF</string>
+          <string>TOPSERIF</string>
+          <string>LEFTSTEM</string>
+        </array>
+        <key>36ml4xRICt</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
+        <key>PkvwNC9Tx1</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>SIDENOTCH</string>
+        </array>
+        <key>UfHuo2f68g</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>aaDZsh5Mah</key>
+        <array>
+          <string>TOPSERIF</string>
+          <string>TOPSERIF</string>
+          <string>LEFTSTEM</string>
+        </array>
+        <key>hYQsZbBm6C</key>
+        <array>
+          <string>LEFTSTEM</string>
+        </array>
+        <key>iDdwCi7JqH</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>SIDENOTCH</string>
+        </array>
+        <key>tgqM27bPOm</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

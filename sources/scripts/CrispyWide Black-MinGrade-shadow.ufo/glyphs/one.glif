@@ -1,0 +1,64 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one" format="2">
+  <advance width="4463"/>
+  <unicode hex="0031"/>
+  <outline>
+    <contour>
+      <point x="4455" y="-1" type="line"/>
+      <point x="4455" y="532" type="line"/>
+      <point x="2818" y="532" type="line"/>
+      <point x="2818" y="1602" type="line"/>
+      <point x="259" y="1602" type="line"/>
+      <point x="108" y="1451" type="line"/>
+      <point x="108" y="918" type="line"/>
+      <point x="1755" y="918" type="line"/>
+      <point x="1755" y="532" type="line"/>
+      <point x="181" y="532" type="line"/>
+      <point x="30" y="381" type="line"/>
+      <point x="30" y="-152" type="line"/>
+      <point x="4304" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="1759" y="528" type="line"/>
+      <point x="1759" y="922" type="line"/>
+      <point x="112" y="922" type="line"/>
+      <point x="112" y="1449" type="line"/>
+      <point x="261" y="1598" type="line"/>
+      <point x="2814" y="1598" type="line"/>
+      <point x="2814" y="528" type="line"/>
+      <point x="4451" y="528" type="line"/>
+      <point x="4451" y="1" type="line"/>
+      <point x="4302" y="-148" type="line"/>
+      <point x="34" y="-148" type="line"/>
+      <point x="34" y="379" type="line"/>
+      <point x="183" y="528" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:24:39 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>0DUCJo8xIi</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>4rjIeWbSbx</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>5nmxQXofSG</key>
+        <array>
+          <string>rightside</string>
+        </array>
+        <key>CURJAw79Zl</key>
+        <array>
+          <string>rightside</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>

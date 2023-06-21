@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="backslash" format="2">
+  <advance width="931"/>
+  <unicode hex="005C"/>
+  <outline>
+    <contour>
+      <point x="193" y="1792" type="line"/>
+      <point x="184" y="1792" type="line"/>
+      <point x="737" y="-192" type="line"/>
+      <point x="747" y="-192" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2018-09-07 02:43:36 +0000</string>
+    </dict>
+  </lib>
+</glyph>

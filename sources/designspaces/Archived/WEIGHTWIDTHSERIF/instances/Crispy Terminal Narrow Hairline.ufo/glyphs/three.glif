@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="three" format="2">
+  <advance width="180"/>
+  <unicode hex="0033"/>
+  <outline>
+    <contour>
+      <point x="37" y="0" type="line"/>
+      <point x="137" y="0" type="line"/>
+      <point x="137" y="802" type="line"/>
+      <point x="89" y="802" type="line"/>
+      <point x="124" y="963" type="line"/>
+      <point x="124" y="1600" type="line"/>
+      <point x="44" y="1600" type="line"/>
+      <point x="44" y="1160" type="line"/>
+      <point x="49" y="1160" type="line"/>
+      <point x="49" y="1597" type="line"/>
+      <point x="119" y="1597" type="line"/>
+      <point x="119" y="963" type="line"/>
+      <point x="85" y="802" type="line"/>
+      <point x="59" y="802" type="line"/>
+      <point x="59" y="798" type="line"/>
+      <point x="132" y="798" type="line"/>
+      <point x="132" y="3" type="line"/>
+      <point x="42" y="3" type="line"/>
+      <point x="42" y="439" type="line"/>
+      <point x="37" y="439" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:20:01 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict/>
+    </dict>
+  </lib>
+</glyph>

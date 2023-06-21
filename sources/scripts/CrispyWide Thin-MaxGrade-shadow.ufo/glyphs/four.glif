@@ -1,0 +1,55 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four" format="2">
+  <advance width="3751"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="3748" y="808" type="line"/>
+      <point x="3365" y="808" type="line"/>
+      <point x="3365" y="1602" type="line"/>
+      <point x="3348" y="1602" type="line"/>
+      <point x="3197" y="1451" type="line"/>
+      <point x="3197" y="808" type="line"/>
+      <point x="191" y="808" type="line"/>
+      <point x="191" y="1677" type="line"/>
+      <point x="174" y="1677" type="line"/>
+      <point x="23" y="1526" type="line"/>
+      <point x="23" y="640" type="line"/>
+      <point x="3197" y="640" type="line"/>
+      <point x="3197" y="-152" type="line"/>
+      <point x="3214" y="-152" type="line"/>
+      <point x="3365" y="-1" type="line"/>
+      <point x="3365" y="640" type="line"/>
+      <point x="3597" y="640" type="line"/>
+      <point x="3748" y="791" type="line"/>
+    </contour>
+    <contour>
+      <point x="3201" y="644" type="line"/>
+      <point x="27" y="644" type="line"/>
+      <point x="27" y="1524" type="line"/>
+      <point x="176" y="1673" type="line"/>
+      <point x="187" y="1673" type="line"/>
+      <point x="187" y="804" type="line"/>
+      <point x="3201" y="804" type="line"/>
+      <point x="3201" y="1449" type="line"/>
+      <point x="3350" y="1598" type="line"/>
+      <point x="3361" y="1598" type="line"/>
+      <point x="3361" y="804" type="line"/>
+      <point x="3744" y="804" type="line"/>
+      <point x="3744" y="793" type="line"/>
+      <point x="3595" y="644" type="line"/>
+      <point x="3361" y="644" type="line"/>
+      <point x="3361" y="1" type="line"/>
+      <point x="3212" y="-148" type="line"/>
+      <point x="3201" y="-148" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.Export</key>
+      <false/>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2019-04-28 05:20:24 +0000</string>
+    </dict>
+  </lib>
+</glyph>

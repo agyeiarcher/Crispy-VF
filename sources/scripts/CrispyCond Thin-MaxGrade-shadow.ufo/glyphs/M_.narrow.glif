@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="M.narrow" format="2">
+  <advance width="124"/>
+  <outline>
+    <contour>
+      <point x="116" y="-152" type="line"/>
+      <point x="267" y="-1" type="line"/>
+      <point x="267" y="1602" type="line"/>
+      <point x="69" y="1602" type="line"/>
+      <point x="-82" y="1451" type="line"/>
+      <point x="-118" y="1279" type="line"/>
+      <point x="-118" y="-152" type="line"/>
+      <point x="-98" y="-152" type="line"/>
+      <point x="-8" y="-62" type="line"/>
+      <point x="-8" y="-152" type="line"/>
+      <point x="12" y="-152" type="line"/>
+      <point x="97" y="-67" type="line"/>
+      <point x="97" y="-152" type="line"/>
+    </contour>
+    <contour>
+      <point x="101" y="-57" type="line"/>
+      <point x="10" y="-148" type="line"/>
+      <point x="-4" y="-148" type="line"/>
+      <point x="-4" y="-52" type="line"/>
+      <point x="-100" y="-148" type="line"/>
+      <point x="-114" y="-148" type="line"/>
+      <point x="-114" y="1279" type="line"/>
+      <point x="-78" y="1449" type="line"/>
+      <point x="71" y="1598" type="line"/>
+      <point x="263" y="1598" type="line"/>
+      <point x="263" y="1" type="line"/>
+      <point x="114" y="-148" type="line"/>
+      <point x="101" y="-148" type="line"/>
+    </contour>
+  </outline>
+</glyph>

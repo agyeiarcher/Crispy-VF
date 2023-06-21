@@ -1,0 +1,96 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Y" format="2">
+  <advance width="3767"/>
+  <unicode hex="0059"/>
+  <outline>
+    <contour>
+      <point x="749" y="476" type="line" smooth="yes"/>
+      <point x="3144" y="476" type="line"/>
+      <point x="2874" y="0" type="line"/>
+      <point x="2876" y="0" type="line"/>
+      <point x="3777" y="1600" type="line" smooth="yes"/>
+      <point x="3775" y="1600" type="line" smooth="yes"/>
+      <point x="3462" y="1044" type="line"/>
+      <point x="434" y="1044" type="line"/>
+      <point x="122" y="1600" type="line"/>
+      <point x="120" y="1600" type="line"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.schriftgestaltung.Glyphs.lastChange</key>
+      <string>2020-12-13 15:33:28 +0000</string>
+      <key>com.typemytype.robofont.pointLabels</key>
+      <dict>
+        <key>3Kveia3O9h</key>
+        <array>
+          <string>CROSSBARBOTTOM</string>
+        </array>
+        <key>9ncbEH2hEb</key>
+        <array>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+        </array>
+        <key>Jw55i2s2Mm</key>
+        <array>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+        </array>
+        <key>YbKEFhFR3q</key>
+        <array>
+          <string>CROSSBARBOTTOM</string>
+        </array>
+        <key>ah5yat5gKV</key>
+        <array>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>LEFTSTEM</string>
+        </array>
+        <key>fJXhpKV79E</key>
+        <array>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>LEFTSTEM</string>
+        </array>
+        <key>k3vH9oxqcN</key>
+        <array>
+          <string>CROSSBARBOTTOM</string>
+        </array>
+        <key>oy8ifCCtGL</key>
+        <array>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+        </array>
+        <key>rvzWMWl6O1</key>
+        <array>
+          <string>CROSSBARBOTTOM</string>
+        </array>
+        <key>spI4xe8t4f</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+        <key>u7HFbTQwMo</key>
+        <array>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+        </array>
+        <key>uMA7EQCwXc</key>
+        <array>
+          <string>crossbar</string>
+        </array>
+        <key>wnC8PudY2b</key>
+        <array>
+          <string>RIGHTSTEM</string>
+        </array>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
