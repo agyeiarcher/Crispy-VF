@@ -190,11 +190,15 @@ def generate_masters(input_glyphs, output_dir):
             source = SourceDescriptor()
             source.filename = master_filename
             source.path = master_path
-            source.location = combined_dict
             source.familyName = base_ufo.info.familyName
             source.styleName = f"Variation {master_count}"
 
+            # ✅ Ensure each master is mapped to the correct axes and convert location values explicitly
+            # ✅ Ensure each master is mapped to the correct axes explicitly
+            source.location = {str(axis): float(combined_dict[axis]) for axis in combined_dict if axis in {**parametric_axes, **derived_axes}}
+
             designspace.sources.append(source)
+
 
             master_count += 1
 
