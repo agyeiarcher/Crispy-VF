@@ -2,10 +2,6 @@
 <glyph name="l" format="2">
   <advance width="820"/>
   <unicode hex="006C"/>
-  <anchor x="410" y="0" name="bottom"/>
-  <anchor x="410" y="850" name="center"/>
-  <anchor x="410" y="1700" name="top"/>
-  <anchor x="800" y="1700" name="topright"/>
   <outline>
     <contour>
       <point x="409" y="0" type="line"/>

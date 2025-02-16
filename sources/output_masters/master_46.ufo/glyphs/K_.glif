@@ -1,39 +1,35 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="K" format="2">
-  <advance width="4877"/>
+  <advance width="181"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
-      <point x="702" y="0" type="line"/>
-      <point x="702" y="799" type="line"/>
-      <point x="4240" y="799" type="line" smooth="yes"/>
-      <point x="4275" y="799"/>
-      <point x="4295" y="779"/>
-      <point x="4295" y="744" type="curve" smooth="yes"/>
-      <point x="4295" y="0" type="line"/>
-      <point x="4297" y="0" type="line"/>
-      <point x="4297" y="746" type="line" smooth="yes"/>
-      <point x="4297" y="781"/>
-      <point x="4277" y="801"/>
-      <point x="4242" y="801" type="curve" smooth="yes"/>
-      <point x="3366" y="801" type="line"/>
-      <point x="3834" y="1599" type="line"/>
-      <point x="3832" y="1600" type="line"/>
-      <point x="3364" y="801" type="line"/>
-      <point x="702" y="801" type="line"/>
-      <point x="702" y="1600" type="line"/>
-      <point x="700" y="1600" type="line"/>
-      <point x="700" y="0" type="line"/>
+      <point x="49" y="0" type="line"/>
+      <point x="49" y="569" type="line"/>
+      <point x="143" y="569" type="line" smooth="yes"/>
+      <point x="147" y="569"/>
+      <point x="150" y="566"/>
+      <point x="150" y="562" type="curve" smooth="yes"/>
+      <point x="150" y="0" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="152" y="1024" type="line" smooth="yes"/>
+      <point x="152" y="1028"/>
+      <point x="149" y="1031"/>
+      <point x="145" y="1031" type="curve" smooth="yes"/>
+      <point x="86" y="1031" type="line"/>
+      <point x="140" y="1599" type="line"/>
+      <point x="138" y="1600" type="line"/>
+      <point x="84" y="1031" type="line"/>
+      <point x="49" y="1031" type="line"/>
+      <point x="49" y="1600" type="line"/>
+      <point x="47" y="1600" type="line"/>
+      <point x="47" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
-        <key>08OWjR2YBJ</key>
-        <array>
-          <string>RIGHTSTEM</string>
-        </array>
         <key>0mqLpz5vAU</key>
         <array>
           <string>leftside</string>
@@ -72,30 +68,6 @@
           <string>crossbar</string>
           <string>leftside</string>
         </array>
-        <key>ChS7KlqGi6</key>
-        <array>
-          <string>RIGHTSTEM</string>
-        </array>
-        <key>DzXo67YEfw</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>OUTNOTCH</string>
-        </array>
-        <key>ELFBWIb1vd</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>INSIDENOTCH</string>
-        </array>
-        <key>F62GU90G6q</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>OUTNOTCH</string>
-          <string>RIGHTSTEM</string>
-        </array>
         <key>I87sAwdtGu</key>
         <array>
           <string>leftside</string>
@@ -111,14 +83,6 @@
           <string>rightside</string>
           <string>crossbar</string>
           <string>leftside</string>
-        </array>
-        <key>Of0iQc0wBG</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>INSIDENOTCH</string>
         </array>
         <key>RNULHVAYqp</key>
         <array>
@@ -140,18 +104,34 @@
           <string>crossbar</string>
           <string>leftside</string>
         </array>
-        <key>aKpYWD78l2</key>
-        <array>
-          <string>RIGHTSTEM</string>
-        </array>
-        <key>dMJ1ywOKQQ</key>
-        <array>
-          <string>RIGHTSTEM</string>
-        </array>
         <key>dWvz0rZ5Hv</key>
         <array>
           <string>RIGHTSTEM</string>
-          <string>OUTNOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
           <string>RIGHTSTEM</string>
         </array>
         <key>e8AHcRxH3I</key>
@@ -168,17 +148,87 @@
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
-          <string>INSIDENOTCH</string>
-        </array>
-        <key>j4jnmtDJYB</key>
-        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
-          <string>INSIDENOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>CROSSBAR</string>
         </array>
         <key>nN62QTbZwT</key>
         <array>
@@ -201,12 +251,6 @@
           <string>rightside</string>
           <string>rightside</string>
           <string>crossbar</string>
-        </array>
-        <key>sWLgkU8Vey</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>OUTNOTCH</string>
         </array>
         <key>tRv54mralF</key>
         <array>

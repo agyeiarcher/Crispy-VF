@@ -2,10 +2,6 @@
 <glyph name="t" format="2">
   <advance width="2932"/>
   <unicode hex="0074"/>
-  <anchor x="1660" y="0" name="bottom"/>
-  <anchor x="1660" y="600" name="center"/>
-  <anchor x="1660" y="1200" name="top"/>
-  <anchor x="2922" y="1700" name="topright"/>
   <outline>
     <contour>
       <point x="479" y="0" type="curve" smooth="yes"/>

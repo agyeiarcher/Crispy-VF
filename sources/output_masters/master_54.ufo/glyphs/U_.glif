@@ -2,10 +2,6 @@
 <glyph name="U" format="2">
   <advance width="4611"/>
   <unicode hex="0055"/>
-  <anchor x="2254" y="1540" name="top"/>
-  <anchor x="2254" y="0" name="bottom"/>
-  <anchor x="4056" y="10" name="ogonek"/>
-  <anchor x="4487" y="1600" name="topright"/>
   <outline>
     <component base="N" xScale="-1.0" yScale="-1.0" xOffset="4611" yOffset="1600"/>
   </outline>
@@ -28,6 +24,9 @@
         <key>JI2e3WjmaS</key>
         <array>
           <string>SIDENOTCH</string>
+          <string>TOPNOTCH</string>
+          <string>BOTTOMINSIDE</string>
+          <string>RIGHTSTEM</string>
         </array>
         <key>TtJBDxLtac</key>
         <array>
@@ -35,7 +34,10 @@
         </array>
         <key>UzF1yMyYbs</key>
         <array>
+          <string>SIDENOTCH</string>
           <string>TOPNOTCH</string>
+          <string>BOTTOMINSIDE</string>
+          <string>RIGHTSTEM</string>
         </array>
         <key>eQnUhxJAi8</key>
         <array>
@@ -47,6 +49,9 @@
         </array>
         <key>rl1GTsia1n</key>
         <array>
+          <string>SIDENOTCH</string>
+          <string>TOPNOTCH</string>
+          <string>BOTTOMINSIDE</string>
           <string>RIGHTSTEM</string>
         </array>
         <key>sHbJc0ABCr</key>

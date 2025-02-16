@@ -5,22 +5,22 @@
   <outline>
     <contour>
       <point x="702" y="0" type="line"/>
-      <point x="702" y="799" type="line"/>
-      <point x="4240" y="799" type="line" smooth="yes"/>
-      <point x="4275" y="799"/>
-      <point x="4295" y="779"/>
-      <point x="4295" y="744" type="curve" smooth="yes"/>
+      <point x="702" y="415" type="line"/>
+      <point x="4240" y="415" type="line" smooth="yes"/>
+      <point x="4275" y="415"/>
+      <point x="4295" y="395"/>
+      <point x="4295" y="360" type="curve" smooth="yes"/>
       <point x="4295" y="0" type="line"/>
       <point x="4297" y="0" type="line"/>
-      <point x="4297" y="746" type="line" smooth="yes"/>
-      <point x="4297" y="781"/>
-      <point x="4277" y="801"/>
-      <point x="4242" y="801" type="curve" smooth="yes"/>
-      <point x="3366" y="801" type="line"/>
-      <point x="3834" y="1599" type="line"/>
-      <point x="3832" y="1600" type="line"/>
-      <point x="3364" y="801" type="line"/>
-      <point x="702" y="801" type="line"/>
+      <point x="4297" y="939" type="line" smooth="yes"/>
+      <point x="4297" y="974"/>
+      <point x="4277" y="994"/>
+      <point x="4242" y="994" type="curve" smooth="yes"/>
+      <point x="3552" y="994" type="line"/>
+      <point x="3874" y="1599" type="line"/>
+      <point x="3872" y="1600" type="line"/>
+      <point x="3549" y="994" type="line"/>
+      <point x="702" y="994" type="line"/>
       <point x="702" y="1600" type="line"/>
       <point x="700" y="1600" type="line"/>
       <point x="700" y="0" type="line"/>
@@ -80,21 +80,38 @@
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>INSIDENOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
           <string>OUTNOTCH</string>
         </array>
         <key>ELFBWIb1vd</key>
         <array>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
           <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
           <string>RIGHTSTEM</string>
           <string>INSIDENOTCH</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
         </array>
         <key>F62GU90G6q</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
           <string>OUTNOTCH</string>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>INSIDENOTCH</string>
         </array>
         <key>I87sAwdtGu</key>
         <array>
@@ -111,6 +128,15 @@
           <string>rightside</string>
           <string>crossbar</string>
           <string>leftside</string>
+        </array>
+        <key>O22liaP9Qk</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>INSIDENOTCH</string>
         </array>
         <key>Of0iQc0wBG</key>
         <array>
@@ -166,6 +192,10 @@
         </array>
         <key>g4YLdZEoM3</key>
         <array>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
           <string>RIGHTSTEM</string>
@@ -223,6 +253,18 @@
           <string>rightside</string>
           <string>crossbar</string>
           <string>leftside</string>
+        </array>
+        <key>uZuki3Isec</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+          <string>CROSSBAR</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>INSIDENOTCH</string>
         </array>
         <key>up9uIbzma1</key>
         <array>

@@ -1,13 +1,13 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="trademark" format="2">
-  <advance width="9611"/>
+  <advance width="13854"/>
   <unicode hex="2122"/>
-  <anchor x="6420" y="0" name="bottom"/>
-  <anchor x="1859" y="800" name="center"/>
-  <anchor x="6508" y="1600" name="top"/>
+  <anchor x="8528" y="0" name="bottom"/>
+  <anchor x="2803" y="800" name="center"/>
+  <anchor x="8580" y="1600" name="top"/>
   <outline>
     <component base="T"/>
-    <component base="M" xOffset="3718"/>
+    <component base="M" xOffset="4877"/>
   </outline>
   <lib>
     <dict>

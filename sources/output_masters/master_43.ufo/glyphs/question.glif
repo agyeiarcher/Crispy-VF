@@ -1,23 +1,23 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="question" format="2">
-  <advance width="4037"/>
+  <advance width="166"/>
   <unicode hex="003F"/>
   <outline>
     <contour>
-      <point x="1482" y="555" type="line"/>
-      <point x="3322" y="555" type="line"/>
-      <point x="3772" y="1035" type="line"/>
-      <point x="3772" y="1600" type="line"/>
-      <point x="425" y="1600" type="line"/>
-      <point x="425" y="980" type="line"/>
-      <point x="427" y="980" type="line"/>
-      <point x="427" y="1598" type="line"/>
-      <point x="3770" y="1598" type="line"/>
-      <point x="3770" y="1036" type="line"/>
-      <point x="3321" y="557" type="line"/>
-      <point x="1482" y="557" type="line"/>
+      <point x="48" y="429" type="line"/>
+      <point x="51" y="429" type="line"/>
+      <point x="119" y="813" type="line"/>
+      <point x="119" y="1600" type="line"/>
+      <point x="32" y="1600" type="line"/>
+      <point x="32" y="1048" type="line"/>
+      <point x="34" y="1048" type="line"/>
+      <point x="34" y="1198" type="line"/>
+      <point x="117" y="1198" type="line"/>
+      <point x="117" y="964" type="line"/>
+      <point x="66" y="831" type="line"/>
+      <point x="48" y="831" type="line"/>
     </contour>
-    <component base="period" xOffset="1812"/>
+    <component base="period" xOffset="58"/>
   </outline>
   <lib>
     <dict>

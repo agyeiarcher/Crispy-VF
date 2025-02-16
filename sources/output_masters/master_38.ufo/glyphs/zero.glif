@@ -1,64 +1,64 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="zero" format="2">
-  <advance width="4427"/>
+  <advance width="1802"/>
   <unicode hex="0030"/>
   <outline>
     <contour>
-      <point x="770" y="0" type="curve" smooth="yes"/>
-      <point x="3657" y="0" type="line" smooth="yes"/>
-      <point x="3702" y="0"/>
-      <point x="3727" y="25"/>
-      <point x="3727" y="70" type="curve" smooth="yes"/>
-      <point x="3727" y="1530" type="line" smooth="yes"/>
-      <point x="3727" y="1575"/>
-      <point x="3702" y="1600"/>
-      <point x="3657" y="1600" type="curve" smooth="yes"/>
-      <point x="770" y="1600" type="line" smooth="yes"/>
-      <point x="725" y="1600"/>
-      <point x="700" y="1575"/>
-      <point x="700" y="1530" type="curve" smooth="yes"/>
-      <point x="700" y="70" type="line" smooth="yes"/>
-      <point x="700" y="25"/>
-      <point x="725" y="0"/>
+      <point x="72" y="0" type="curve" smooth="yes"/>
+      <point x="1730" y="0" type="line" smooth="yes"/>
+      <point x="1762" y="0"/>
+      <point x="1780" y="18"/>
+      <point x="1780" y="50" type="curve" smooth="yes"/>
+      <point x="1780" y="1550" type="line" smooth="yes"/>
+      <point x="1780" y="1582"/>
+      <point x="1762" y="1600"/>
+      <point x="1730" y="1600" type="curve" smooth="yes"/>
+      <point x="72" y="1600" type="line" smooth="yes"/>
+      <point x="40" y="1600"/>
+      <point x="22" y="1582"/>
+      <point x="22" y="1550" type="curve" smooth="yes"/>
+      <point x="22" y="50" type="line" smooth="yes"/>
+      <point x="22" y="18"/>
+      <point x="40" y="0"/>
     </contour>
     <contour>
-      <point x="702" y="72" type="curve" smooth="yes"/>
-      <point x="702" y="1528" type="line" smooth="yes"/>
-      <point x="702" y="1573"/>
-      <point x="727" y="1598"/>
-      <point x="772" y="1598" type="curve" smooth="yes"/>
-      <point x="3655" y="1598" type="line" smooth="yes"/>
-      <point x="3700" y="1598"/>
-      <point x="3725" y="1573"/>
-      <point x="3725" y="1528" type="curve" smooth="yes"/>
-      <point x="3725" y="72" type="line" smooth="yes"/>
-      <point x="3725" y="27"/>
-      <point x="3700" y="2"/>
-      <point x="3655" y="2" type="curve" smooth="yes"/>
-      <point x="772" y="2" type="line" smooth="yes"/>
-      <point x="727" y="2"/>
-      <point x="702" y="27"/>
+      <point x="888" y="9" type="curve" smooth="yes"/>
+      <point x="888" y="1591" type="line" smooth="yes"/>
+      <point x="888" y="1595"/>
+      <point x="891" y="1598"/>
+      <point x="895" y="1598" type="curve" smooth="yes"/>
+      <point x="907" y="1598" type="line" smooth="yes"/>
+      <point x="911" y="1598"/>
+      <point x="914" y="1595"/>
+      <point x="914" y="1591" type="curve" smooth="yes"/>
+      <point x="914" y="9" type="line" smooth="yes"/>
+      <point x="914" y="5"/>
+      <point x="911" y="2"/>
+      <point x="907" y="2" type="curve" smooth="yes"/>
+      <point x="895" y="2" type="line" smooth="yes"/>
+      <point x="891" y="2"/>
+      <point x="888" y="5"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
-        <key>07O3d25tyl</key>
+        <key>4KX3b3mGg4</key>
         <array>
-          <string>RIGHTSTEM</string>
-        </array>
-        <key>Ay6dDHiRJ9</key>
-        <array>
-          <string>RIGHTSTEM</string>
+          <string>leftside</string>
         </array>
         <key>NaxGoenf3y</key>
         <array>
-          <string>RIGHTSTEM</string>
+          <string>rightside</string>
         </array>
         <key>V2j8wYP0nr</key>
         <array>
-          <string>RIGHTSTEM</string>
+          <string>rightside</string>
+        </array>
+        <key>rx6fJSLiri</key>
+        <array>
+          <string>leftside</string>
         </array>
       </dict>
       <key>public.markColor</key>

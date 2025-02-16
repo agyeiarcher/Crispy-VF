@@ -2,9 +2,6 @@
 <glyph name="a" format="2">
   <advance width="3257"/>
   <unicode hex="0061"/>
-  <anchor x="1731" y="0" name="bottom"/>
-  <anchor x="3060" y="10" name="ogonek"/>
-  <anchor x="1731" y="1200" name="top"/>
   <outline>
     <contour>
       <point x="385" y="0" type="curve" smooth="yes"/>

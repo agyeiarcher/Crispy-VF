@@ -1,13 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="quotedblleft" format="2">
-  <advance width="1232"/>
+  <advance width="2539"/>
   <unicode hex="201C"/>
   <outline>
     <component base="quoteleft"/>
-    <component base="quoteleft" xOffset="870"/>
+    <component base="quoteleft" xOffset="1426"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>quoteleft</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>quoteleft</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.Export</key>
       <false/>
     </dict>

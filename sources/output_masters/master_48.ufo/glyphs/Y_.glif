@@ -2,20 +2,17 @@
 <glyph name="Y" format="2">
   <advance width="3364"/>
   <unicode hex="0059"/>
-  <anchor x="2059" y="0" name="bottom"/>
-  <anchor x="2059" y="1600" name="top"/>
-  <anchor x="130" y="1600" name="topleft"/>
   <outline>
     <contour>
       <point x="2505" y="0" type="line"/>
       <point x="2507" y="0" type="line"/>
       <point x="3408" y="1600" type="line" smooth="yes"/>
       <point x="3406" y="1600" type="line" smooth="yes"/>
-      <point x="2886" y="678" type="line"/>
-      <point x="167" y="678" type="line" smooth="yes"/>
-      <point x="132" y="678"/>
-      <point x="112" y="698"/>
-      <point x="112" y="733" type="curve" smooth="yes"/>
+      <point x="3122" y="1098" type="line"/>
+      <point x="167" y="1098" type="line" smooth="yes"/>
+      <point x="132" y="1098"/>
+      <point x="112" y="1118"/>
+      <point x="112" y="1153" type="curve" smooth="yes"/>
       <point x="112" y="1600" type="line"/>
       <point x="110" y="1600" type="line"/>
       <point x="110" y="731" type="line" smooth="yes"/>
@@ -31,47 +28,25 @@
       <dict>
         <key>3Kveia3O9h</key>
         <array>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>CROSSBAR</string>
+          <string>CROSSBARBOTTOM</string>
         </array>
         <key>9ncbEH2hEb</key>
         <array>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>CROSSBAR</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
         </array>
         <key>Jw55i2s2Mm</key>
         <array>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>CROSSBAR</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
         </array>
         <key>YbKEFhFR3q</key>
         <array>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>CROSSBAR</string>
+          <string>CROSSBARBOTTOM</string>
         </array>
         <key>ah5yat5gKV</key>
         <array>
@@ -87,45 +62,29 @@
         </array>
         <key>k3vH9oxqcN</key>
         <array>
-          <string>CROSSBAR</string>
-          <string>CROSSBAR</string>
-          <string>LEFTSTEM</string>
+          <string>CROSSBARBOTTOM</string>
         </array>
         <key>oy8ifCCtGL</key>
         <array>
-          <string>CROSSBAR</string>
-          <string>CROSSBAR</string>
-          <string>LEFTSTEM</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
         </array>
         <key>rvzWMWl6O1</key>
         <array>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>CROSSBAR</string>
+          <string>CROSSBARBOTTOM</string>
         </array>
         <key>spI4xe8t4f</key>
         <array>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
           <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>CROSSBAR</string>
         </array>
         <key>u7HFbTQwMo</key>
         <array>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>CROSSBAR</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
+          <string>CROSSBARTOP</string>
         </array>
         <key>uMA7EQCwXc</key>
         <array>
@@ -133,17 +92,7 @@
         </array>
         <key>wnC8PudY2b</key>
         <array>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
           <string>RIGHTSTEM</string>
-          <string>CROSSBAR</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>INSIDEBOTTOM</string>
-          <string>CROSSBAR</string>
         </array>
       </dict>
       <key>public.markColor</key>

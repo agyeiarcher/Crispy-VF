@@ -2,25 +2,28 @@
 <glyph name="T" format="2">
   <advance width="3718"/>
   <unicode hex="0054"/>
-  <anchor x="1873" y="0" name="bottom"/>
-  <anchor x="1859" y="800" name="center"/>
-  <anchor x="1859" y="1600" name="top"/>
   <outline>
     <contour>
       <point x="1858" y="0" type="line"/>
       <point x="1860" y="0" type="line"/>
-      <point x="1860" y="1598" type="line"/>
-      <point x="3658" y="1598" type="line"/>
+      <point x="1860" y="1099" type="line"/>
+      <point x="3658" y="1099" type="line"/>
       <point x="3658" y="1600" type="line"/>
       <point x="60" y="1600" type="line"/>
-      <point x="60" y="1598" type="line"/>
-      <point x="1858" y="1598" type="line"/>
+      <point x="60" y="1099" type="line"/>
+      <point x="1858" y="1099" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.pointLabels</key>
       <dict>
+        <key>1xm0mHc9eh</key>
+        <array>
+          <string>LEFTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPINSIDE</string>
+        </array>
         <key>8oS81nStJX</key>
         <array>
           <string>LEFTSTEM</string>
@@ -198,6 +201,8 @@
         <key>gd7rT4Kugz</key>
         <array>
           <string>LEFTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPINSIDE</string>
         </array>
         <key>jHGwg0m2Tu</key>
         <array>
@@ -253,7 +258,9 @@
         </array>
         <key>wF3jyyfbbw</key>
         <array>
+          <string>LEFTSTEM</string>
           <string>RIGHTSTEM</string>
+          <string>TOPINSIDE</string>
         </array>
         <key>ysnLVYacKr</key>
         <array>
@@ -292,6 +299,12 @@
           <string>rightside</string>
           <string>shiftdown</string>
           <string>leftside</string>
+        </array>
+        <key>zTICSjBOe7</key>
+        <array>
+          <string>LEFTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPINSIDE</string>
         </array>
       </dict>
       <key>public.markColor</key>

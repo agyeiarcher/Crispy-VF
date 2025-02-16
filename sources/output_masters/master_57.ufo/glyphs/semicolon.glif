@@ -1,15 +1,32 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="semicolon" format="2">
-  <advance width="428"/>
+  <advance width="1108"/>
   <unicode hex="003B"/>
-  <guideline x="4145" y="535" angle="0"/>
-  <guideline x="236" y="1129" angle="90"/>
   <outline>
-    <component base="period" xOffset="134" yOffset="1094"/>
-    <component base="comma"/>
+    <component base="period" xOffset="33" yOffset="812"/>
+    <component base="comma" xScale="0.6056" xOffset="39" yOffset="1"/>
   </outline>
   <lib>
     <dict>
+      <key>com.schriftgestaltung.Glyphs.ComponentInfo</key>
+      <array>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>0</integer>
+          <key>name</key>
+          <string>period</string>
+        </dict>
+        <dict>
+          <key>alignment</key>
+          <integer>-1</integer>
+          <key>index</key>
+          <integer>1</integer>
+          <key>name</key>
+          <string>comma</string>
+        </dict>
+      </array>
       <key>com.schriftgestaltung.Glyphs.glyph.leftMetricsKey</key>
       <string>=comma</string>
       <key>com.schriftgestaltung.Glyphs.glyph.rightMetricsKey</key>

@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="Q" format="2">
-  <advance width="4457"/>
+  <advance width="160"/>
   <unicode hex="0051"/>
-  <anchor x="2229" y="0" name="bottom"/>
-  <anchor x="2229" y="800" name="center"/>
-  <anchor x="4011" y="10" name="ogonek"/>
-  <anchor x="2229" y="1600" name="top"/>
-  <anchor x="20" y="1600" name="topleft"/>
-  <anchor x="4437" y="1600" name="topright"/>
+  <anchor x="80" y="0" name="bottom"/>
+  <anchor x="80" y="800" name="center"/>
+  <anchor x="147" y="10" name="ogonek"/>
+  <anchor x="80" y="1600" name="top"/>
+  <anchor x="16" y="1600" name="topleft"/>
+  <anchor x="144" y="1600" name="topright"/>
   <outline>
     <contour>
-      <point x="2381" y="-400" type="line"/>
-      <point x="2383" y="-400" type="line"/>
-      <point x="2383" y="1" type="line"/>
-      <point x="2381" y="1" type="line"/>
+      <point x="68" y="-198" type="line"/>
+      <point x="70" y="-198" type="line"/>
+      <point x="70" y="1" type="line"/>
+      <point x="68" y="1" type="line"/>
     </contour>
     <component base="O"/>
   </outline>
@@ -35,52 +35,17 @@
         <array>
           <string>shiftdown</string>
         </array>
-        <key>EKgKfv9LR5</key>
-        <array>
-          <string>RIGHTSTEM</string>
-        </array>
-        <key>I5tqWMJTWj</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>TOPNOTCH</string>
-        </array>
-        <key>QHgc43aDAf</key>
-        <array>
-          <string>TOPSERIF</string>
-        </array>
         <key>QaOuzaR5Nc</key>
         <array>
           <string>shiftdown</string>
         </array>
-        <key>SnrsQD5TLy</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>SIDENOTCH</string>
-        </array>
         <key>U6WibAQAUl</key>
         <array>
-          <string>LEFTSTEM</string>
-        </array>
-        <key>W7OFY63DRG</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>TOPNOTCH</string>
-        </array>
-        <key>YbQKHpAtYn</key>
-        <array>
-          <string>LEFTSTEM</string>
+          <string>leftside</string>
         </array>
         <key>a4Ql951bxG</key>
         <array>
-          <string>TOPNOTCH</string>
-          <string>LEFTSTEM</string>
+          <string>leftside</string>
         </array>
         <key>b9GvAVdrlf</key>
         <array>
@@ -96,96 +61,31 @@
         </array>
         <key>c9brEFyXXA</key>
         <array>
-          <string>RIGHTSTEM</string>
-        </array>
-        <key>cENg5NaJZo</key>
-        <array>
-          <string>TOPSERIF</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>shiftdown</string>
         </array>
         <key>dfgNHTgBfR</key>
         <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>TOPNOTCH</string>
-        </array>
-        <key>dyBsIOR5yI</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>TOPNOTCH</string>
-        </array>
-        <key>g70r2r6DwY</key>
-        <array>
-          <string>RIGHTSTEM</string>
+          <string>rightside</string>
+          <string>rightside</string>
+          <string>shiftstem</string>
+          <string>shiftdown</string>
+          <string>shiftdown</string>
         </array>
         <key>gOQWswYvKT</key>
         <array>
           <string>leftside</string>
         </array>
-        <key>h3Xc1eR7oy</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>TOPNOTCH</string>
-        </array>
         <key>ivebcmARlA</key>
         <array>
           <string>leftside</string>
         </array>
-        <key>jjd5iRDXWT</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>TOPNOTCH</string>
-        </array>
-        <key>k9I1E9r8Og</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>TOPNOTCH</string>
-        </array>
         <key>kbL68Qh2zr</key>
         <array>
-          <string>LEFTSTEM</string>
-          <string>SIDENOTCH</string>
-        </array>
-        <key>ob8US3C311</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>SIDENOTCH</string>
-        </array>
-        <key>qXlVxK5ShE</key>
-        <array>
-          <string>TOPNOTCH</string>
-          <string>LEFTSTEM</string>
-        </array>
-        <key>r8rBAnCtuu</key>
-        <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>TOPNOTCH</string>
-        </array>
-        <key>uUB8aBvfdu</key>
-        <array>
-          <string>RIGHTSTEM</string>
-        </array>
-        <key>vdfGLkskOQ</key>
-        <array>
-          <string>LEFTSTEM</string>
-          <string>SIDENOTCH</string>
+          <string>leftside</string>
         </array>
       </dict>
       <key>public.markColor</key>

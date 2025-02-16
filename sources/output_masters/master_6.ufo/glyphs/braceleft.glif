@@ -1,25 +1,25 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="braceleft" format="2">
-  <advance width="1930"/>
+  <advance width="2397"/>
   <unicode hex="007B"/>
   <outline>
     <contour>
-      <point x="451" y="-200" type="line"/>
-      <point x="1665" y="-200" type="line"/>
-      <point x="1665" y="-198" type="line"/>
-      <point x="453" y="-198" type="line"/>
-      <point x="453" y="357" type="line"/>
-      <point x="102" y="799" type="line"/>
-      <point x="102" y="801" type="line"/>
-      <point x="453" y="1243" type="line"/>
-      <point x="453" y="1798" type="line"/>
-      <point x="1670" y="1798" type="line"/>
-      <point x="1670" y="1800" type="line"/>
-      <point x="451" y="1800" type="line"/>
-      <point x="451" y="1244" type="line"/>
-      <point x="100" y="801" type="line"/>
-      <point x="100" y="799" type="line"/>
-      <point x="451" y="356" type="line"/>
+      <point x="376" y="-200" type="line"/>
+      <point x="2270" y="-200" type="line"/>
+      <point x="2270" y="410" type="line"/>
+      <point x="1306" y="410" type="line"/>
+      <point x="1306" y="507" type="line"/>
+      <point x="975" y="787" type="line"/>
+      <point x="975" y="813" type="line"/>
+      <point x="1306" y="1093" type="line"/>
+      <point x="1306" y="1190" type="line"/>
+      <point x="2275" y="1190" type="line"/>
+      <point x="2275" y="1800" type="line"/>
+      <point x="376" y="1800" type="line"/>
+      <point x="376" y="1094" type="line"/>
+      <point x="45" y="813" type="line"/>
+      <point x="45" y="787" type="line"/>
+      <point x="376" y="506" type="line"/>
     </contour>
   </outline>
   <lib>

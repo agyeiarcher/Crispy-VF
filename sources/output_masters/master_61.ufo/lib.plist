@@ -2,8 +2,6 @@
 <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
 <plist version="1.0">
   <dict>
-    <key>GSCornerRadius</key>
-    <integer>70</integer>
     <key>com.github.googlei18n.ufo2ft.featureWriters</key>
     <array>
       <dict>
@@ -511,7 +509,7 @@
       <integer>3</integer>
     </dict>
     <key>com.schriftgestaltung.appVersion</key>
-    <string>3332</string>
+    <string>3342</string>
     <key>com.schriftgestaltung.customParameter.GSFont.DisplayStrings</key>
     <array>
       <string>i</string>
@@ -524,7 +522,7 @@
     <key>com.schriftgestaltung.customParameter.GSFontMaster.Master Icon Glyph Name</key>
     <string>O</string>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue</key>
-    <integer>2</integer>
+    <integer>462</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue1</key>
     <integer>0</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.customValue2</key>
@@ -536,11 +534,11 @@
     <key>com.schriftgestaltung.customParameter.GSFontMaster.weightValue</key>
     <integer>3330</integer>
     <key>com.schriftgestaltung.customParameter.GSFontMaster.widthValue</key>
-    <integer>2</integer>
+    <integer>1016</integer>
     <key>com.schriftgestaltung.customValue</key>
-    <integer>2</integer>
+    <integer>462</integer>
     <key>com.schriftgestaltung.fontMasterOrder</key>
-    <integer>0</integer>
+    <integer>6</integer>
     <key>com.schriftgestaltung.keyboardIncrement</key>
     <integer>1</integer>
     <key>com.schriftgestaltung.weight</key>
@@ -550,7 +548,7 @@
     <key>com.schriftgestaltung.width</key>
     <string>Regular</string>
     <key>com.schriftgestaltung.widthValue</key>
-    <integer>2</integer>
+    <integer>1016</integer>
     <key>public.glyphOrder</key>
     <array>
       <string>A</string>

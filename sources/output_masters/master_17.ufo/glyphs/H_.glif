@@ -1,25 +1,21 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="H" format="2">
-  <advance width="4514"/>
+  <advance width="6857"/>
   <unicode hex="0048"/>
-  <anchor x="2332" y="0" name="bottom"/>
-  <anchor x="2332" y="800" name="center"/>
-  <anchor x="2332" y="1600" name="top"/>
-  <anchor x="20" y="1600" name="topleft"/>
   <outline>
     <contour>
-      <point x="540" y="0" type="line"/>
-      <point x="542" y="0" type="line"/>
-      <point x="542" y="799" type="line"/>
-      <point x="3972" y="799" type="line"/>
-      <point x="3972" y="0" type="line"/>
-      <point x="3974" y="0" type="line"/>
-      <point x="3974" y="1600" type="line"/>
-      <point x="3972" y="1600" type="line"/>
-      <point x="3972" y="801" type="line"/>
-      <point x="542" y="801" type="line"/>
-      <point x="542" y="1600" type="line"/>
-      <point x="540" y="1600" type="line"/>
+      <point x="700" y="0" type="line"/>
+      <point x="1712" y="0" type="line"/>
+      <point x="1712" y="799" type="line"/>
+      <point x="5142" y="799" type="line"/>
+      <point x="5142" y="0" type="line"/>
+      <point x="6157" y="0" type="line"/>
+      <point x="6157" y="1600" type="line"/>
+      <point x="5142" y="1600" type="line"/>
+      <point x="5142" y="801" type="line"/>
+      <point x="1712" y="801" type="line"/>
+      <point x="1712" y="1600" type="line"/>
+      <point x="700" y="1600" type="line"/>
     </contour>
   </outline>
   <lib>

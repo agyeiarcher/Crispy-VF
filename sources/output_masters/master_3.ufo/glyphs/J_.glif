@@ -1,47 +1,47 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="J" format="2">
-  <advance width="4216"/>
+  <advance width="1866"/>
   <unicode hex="004A"/>
-  <anchor x="2133" y="0" name="bottom"/>
-  <anchor x="2133" y="1600" name="top"/>
+  <anchor x="946" y="0" name="bottom"/>
+  <anchor x="946" y="1600" name="top"/>
   <outline>
     <contour>
-      <point x="545" y="0" type="curve" smooth="yes"/>
-      <point x="3190" y="0" type="line" smooth="yes"/>
-      <point x="3218" y="0"/>
-      <point x="3238" y="9"/>
-      <point x="3258" y="28" type="curve" smooth="yes"/>
-      <point x="3698" y="459" type="line" smooth="yes"/>
-      <point x="3718" y="479"/>
-      <point x="3726" y="499"/>
-      <point x="3726" y="527" type="curve" smooth="yes"/>
-      <point x="3726" y="1545" type="line" smooth="yes"/>
-      <point x="3726" y="1580"/>
-      <point x="3706" y="1600"/>
-      <point x="3671" y="1600" type="curve" smooth="yes"/>
-      <point x="1837" y="1600" type="line"/>
-      <point x="1842" y="1598" type="line"/>
-      <point x="3669" y="1598" type="line" smooth="yes"/>
-      <point x="3704" y="1598"/>
-      <point x="3724" y="1578"/>
-      <point x="3724" y="1543" type="curve" smooth="yes"/>
-      <point x="3724" y="528" type="line" smooth="yes"/>
-      <point x="3724" y="500"/>
-      <point x="3716" y="480"/>
-      <point x="3696" y="460" type="curve" smooth="yes"/>
-      <point x="3257" y="30" type="line" smooth="yes"/>
-      <point x="3237" y="11"/>
-      <point x="3217" y="2"/>
-      <point x="3189" y="2" type="curve" smooth="yes"/>
-      <point x="548" y="2" type="line" smooth="yes"/>
-      <point x="513" y="2"/>
-      <point x="493" y="22"/>
-      <point x="493" y="57" type="curve" smooth="yes"/>
-      <point x="493" y="702" type="line"/>
-      <point x="490" y="702" type="line"/>
-      <point x="490" y="55" type="line" smooth="yes"/>
-      <point x="490" y="20"/>
-      <point x="510" y="0"/>
+      <point x="79" y="0" type="curve" smooth="yes"/>
+      <point x="1450" y="0" type="line" smooth="yes"/>
+      <point x="1508" y="0"/>
+      <point x="1531" y="8"/>
+      <point x="1560" y="50" type="curve" smooth="yes"/>
+      <point x="1790" y="378" type="line" smooth="yes"/>
+      <point x="1818" y="418"/>
+      <point x="1823" y="434"/>
+      <point x="1823" y="466" type="curve" smooth="yes"/>
+      <point x="1823" y="1545" type="line" smooth="yes"/>
+      <point x="1823" y="1580"/>
+      <point x="1803" y="1600"/>
+      <point x="1768" y="1600" type="curve" smooth="yes"/>
+      <point x="297" y="1600" type="line"/>
+      <point x="297" y="1599" type="line"/>
+      <point x="945" y="1599" type="line" smooth="yes"/>
+      <point x="952" y="1599"/>
+      <point x="957" y="1594"/>
+      <point x="957" y="1587" type="curve" smooth="yes"/>
+      <point x="957" y="83" type="line" smooth="yes"/>
+      <point x="957" y="78"/>
+      <point x="957" y="75"/>
+      <point x="954" y="68" type="curve" smooth="yes"/>
+      <point x="929" y="11" type="line" smooth="yes"/>
+      <point x="926" y="4"/>
+      <point x="921" y="2"/>
+      <point x="915" y="2" type="curve" smooth="yes"/>
+      <point x="899" y="2" type="line" smooth="yes"/>
+      <point x="892" y="2"/>
+      <point x="890" y="4"/>
+      <point x="890" y="11" type="curve" smooth="yes"/>
+      <point x="890" y="801" type="line"/>
+      <point x="24" y="801" type="line"/>
+      <point x="24" y="55" type="line" smooth="yes"/>
+      <point x="24" y="20"/>
+      <point x="44" y="0"/>
     </contour>
   </outline>
   <lib>
@@ -52,35 +52,79 @@
       <dict>
         <key>46RrD1WET2</key>
         <array>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>INSIDETOP</string>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>INSIDEBOTTOM</string>
         </array>
         <key>7exNZv1XSc</key>
         <array>
-          <string>BOTTOMSERIF</string>
+          <string>LEFTSIDEOUTSIDE</string>
+        </array>
+        <key>AdYfGKx8QJ</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>INSIDETOP</string>
         </array>
         <key>NQmE31PUns</key>
         <array>
-          <string>TOPNOTCH</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>INSIDEBOTTOM</string>
+        </array>
+        <key>TbrXnCyMEi</key>
+        <array>
+          <string>LEFTSIDEOUTSIDE</string>
         </array>
         <key>d5Di3vNzni</key>
         <array>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>INSIDETOP</string>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>INSIDEBOTTOM</string>
         </array>
         <key>jiO9eX9U07</key>
         <array>
-          <string>TOPNOTCH</string>
+          <string>LEFTSIDEOUTSIDE</string>
         </array>
         <key>qiXxY6YhCq</key>
         <array>
-          <string>BOTTOMSERIF</string>
+          <string>LEFTSIDEINSIDE</string>
         </array>
         <key>wgpFs1yguc</key>
         <array>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>INSIDETOP</string>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>INSIDEBOTTOM</string>
         </array>
         <key>zFXsE8BUYG</key>
         <array>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEOUTSIDE</string>
+          <string>LEFTSIDEOUTSIDE</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>INSIDETOP</string>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSIDEINSIDE</string>
+          <string>LEFTSIDEINSIDE</string>
+          <string>INSIDEBOTTOM</string>
         </array>
       </dict>
       <key>public.markColor</key>

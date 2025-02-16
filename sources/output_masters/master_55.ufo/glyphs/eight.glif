@@ -42,42 +42,42 @@
       <point x="465" y="0"/>
     </contour>
     <contour>
-      <point x="442" y="72" type="curve" smooth="yes"/>
-      <point x="442" y="728" type="line" smooth="yes"/>
-      <point x="442" y="773"/>
-      <point x="467" y="798"/>
-      <point x="512" y="798" type="curve" smooth="yes"/>
-      <point x="3113" y="799" type="line"/>
-      <point x="3546" y="551" type="line" smooth="yes"/>
-      <point x="3579" y="532"/>
-      <point x="3594" y="505"/>
-      <point x="3594" y="467" type="curve" smooth="yes"/>
-      <point x="3594" y="72" type="line" smooth="yes"/>
-      <point x="3594" y="27"/>
-      <point x="3569" y="2"/>
-      <point x="3524" y="2" type="curve" smooth="yes"/>
-      <point x="512" y="2" type="line" smooth="yes"/>
-      <point x="467" y="2"/>
-      <point x="442" y="27"/>
+      <point x="442" y="472" type="curve" smooth="yes"/>
+      <point x="442" y="568" type="line" smooth="yes"/>
+      <point x="442" y="613"/>
+      <point x="467" y="638"/>
+      <point x="512" y="638" type="curve" smooth="yes"/>
+      <point x="3113" y="639" type="line"/>
+      <point x="3510" y="411" type="line" smooth="yes"/>
+      <point x="3558" y="383"/>
+      <point x="3594" y="372"/>
+      <point x="3594" y="383" type="curve" smooth="yes"/>
+      <point x="3594" y="383" type="line" smooth="yes"/>
+      <point x="3594" y="395"/>
+      <point x="3569" y="402"/>
+      <point x="3524" y="402" type="curve" smooth="yes"/>
+      <point x="512" y="402" type="line" smooth="yes"/>
+      <point x="467" y="402"/>
+      <point x="442" y="427"/>
     </contour>
     <contour>
-      <point x="914" y="801" type="line"/>
-      <point x="579" y="1041" type="line" smooth="yes"/>
-      <point x="549" y="1063"/>
-      <point x="535" y="1089"/>
-      <point x="535" y="1126" type="curve" smooth="yes"/>
-      <point x="535" y="1528" type="line" smooth="yes"/>
-      <point x="535" y="1573"/>
-      <point x="560" y="1598"/>
-      <point x="605" y="1598" type="curve" smooth="yes"/>
-      <point x="3411" y="1598" type="line" smooth="yes"/>
-      <point x="3456" y="1598"/>
-      <point x="3481" y="1573"/>
-      <point x="3481" y="1528" type="curve" smooth="yes"/>
-      <point x="3481" y="871" type="line" smooth="yes"/>
-      <point x="3481" y="826"/>
-      <point x="3456" y="801"/>
-      <point x="3411" y="801" type="curve" smooth="yes"/>
+      <point x="914" y="971" type="line"/>
+      <point x="620" y="1181" type="line" smooth="yes"/>
+      <point x="573" y="1215"/>
+      <point x="535" y="1232"/>
+      <point x="535" y="1220" type="curve" smooth="yes"/>
+      <point x="535" y="1220" type="line" smooth="yes"/>
+      <point x="535" y="1206"/>
+      <point x="560" y="1198"/>
+      <point x="605" y="1198" type="curve" smooth="yes"/>
+      <point x="3411" y="1198" type="line" smooth="yes"/>
+      <point x="3456" y="1198"/>
+      <point x="3481" y="1173"/>
+      <point x="3481" y="1128" type="curve" smooth="yes"/>
+      <point x="3481" y="1041" type="line" smooth="yes"/>
+      <point x="3481" y="996"/>
+      <point x="3456" y="971"/>
+      <point x="3411" y="971" type="curve" smooth="yes"/>
     </contour>
   </outline>
   <lib>
@@ -86,9 +86,7 @@
       <dict>
         <key>1hp0EgIICZ</key>
         <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
+          <string>CROSSBARTOP</string>
           <string>INSIDENOTCH</string>
           <string>RIGHTSTEM</string>
         </array>
@@ -102,7 +100,9 @@
         </array>
         <key>34uilnipZ2</key>
         <array>
+          <string>LEFTSTEM</string>
           <string>RIGHTSTEM</string>
+          <string>TOPINSIDE</string>
         </array>
         <key>3RUxnrTvXW</key>
         <array>
@@ -114,8 +114,7 @@
         </array>
         <key>DNrsPq4yR1</key>
         <array>
-          <string>LEFTSTEM</string>
-          <string>INSIDENOTCH</string>
+          <string>CROSSBARTOP</string>
         </array>
         <key>DmhYpjojFU</key>
         <array>
@@ -132,6 +131,7 @@
         <key>HIAiUTdMH7</key>
         <array>
           <string>LEFTSTEM</string>
+          <string>BOTTOMINSIDE</string>
         </array>
         <key>HtiNjuVoMT</key>
         <array>
@@ -197,16 +197,11 @@
         </array>
         <key>PqKItWcoNG</key>
         <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>INSIDENOTCH</string>
-          <string>RIGHTSTEM</string>
+          <string>CROSSBARBOTTOM</string>
         </array>
         <key>Q1gkeBhm8Y</key>
         <array>
-          <string>LEFTSTEM</string>
-          <string>INSIDENOTCH</string>
+          <string>CROSSBARBOTTOM</string>
         </array>
         <key>SOkkUNzV8O</key>
         <array>
@@ -248,6 +243,7 @@
         <key>Zo0lF0j4Kj</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>BOTTOMINSIDE</string>
         </array>
         <key>aujrsODbNh</key>
         <array>
@@ -293,6 +289,8 @@
         <key>lA49AZAAQk</key>
         <array>
           <string>LEFTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>TOPINSIDE</string>
         </array>
         <key>lHF6JfoQPy</key>
         <array>
@@ -305,9 +303,7 @@
         </array>
         <key>mZbau7ShFg</key>
         <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>OUTNOTCH</string>
+          <string>CROSSBARBOTTOM</string>
         </array>
         <key>mdbzbOpU9s</key>
         <array>
@@ -353,8 +349,7 @@
         </array>
         <key>rRKu7JB9Qc</key>
         <array>
-          <string>OUTNOTCH</string>
-          <string>LEFTSTEM</string>
+          <string>CROSSBARBOTTOM</string>
         </array>
         <key>sLI75Ua05e</key>
         <array>
@@ -366,8 +361,7 @@
         </array>
         <key>uIBlTLCMi5</key>
         <array>
-          <string>OUTNOTCH</string>
-          <string>LEFTSTEM</string>
+          <string>CROSSBARTOP</string>
         </array>
         <key>vajhJXw5HW</key>
         <array>
@@ -380,9 +374,7 @@
         </array>
         <key>yP43YHYI7e</key>
         <array>
-          <string>RIGHTSTEM</string>
-          <string>RIGHTSTEM</string>
-          <string>OUTNOTCH</string>
+          <string>CROSSBARTOP</string>
         </array>
         <key>yfThTK6gCq</key>
         <array>

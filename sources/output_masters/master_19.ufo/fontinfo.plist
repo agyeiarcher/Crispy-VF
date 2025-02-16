@@ -16,6 +16,74 @@
         <key>angle</key>
         <integer>0</integer>
         <key>x</key>
+        <integer>3878</integer>
+        <key>y</key>
+        <integer>503</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>4342</integer>
+        <key>y</key>
+        <integer>1200</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string>Capheight</string>
+        <key>x</key>
+        <integer>-441</integer>
+        <key>y</key>
+        <integer>1600</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>4265</integer>
+        <key>y</key>
+        <integer>607</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>3878</integer>
+        <key>y</key>
+        <integer>503</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>3850</integer>
+        <key>y</key>
+        <integer>-135</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
+        <integer>4342</integer>
+        <key>y</key>
+        <integer>1099</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string>Capheight</string>
+        <key>x</key>
+        <integer>499</integer>
+        <key>y</key>
+        <integer>1600</integer>
+      </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>x</key>
         <integer>4141</integer>
         <key>y</key>
         <integer>535</integer>
@@ -44,6 +112,16 @@
         <key>y</key>
         <integer>1099</integer>
       </dict>
+      <dict>
+        <key>angle</key>
+        <integer>0</integer>
+        <key>name</key>
+        <string>Capheight</string>
+        <key>x</key>
+        <integer>499</integer>
+        <key>y</key>
+        <integer>1600</integer>
+      </dict>
     </array>
     <key>italicAngle</key>
     <integer>0</integer>
@@ -60,11 +138,11 @@
     <key>postscriptUnderlineThickness</key>
     <integer>50</integer>
     <key>styleMapFamilyName</key>
-    <string>Crispy x1y1t1000-min</string>
+    <string>Crispy x1000y1t1000-min</string>
     <key>styleMapStyleName</key>
     <string>regular</string>
     <key>styleName</key>
-    <string>x1y1t1000-min</string>
+    <string>x1000y1t1000-min</string>
     <key>unitsPerEm</key>
     <integer>2000</integer>
     <key>versionMajor</key>

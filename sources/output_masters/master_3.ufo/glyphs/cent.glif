@@ -1,15 +1,15 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="cent" format="2">
-  <advance width="3042"/>
+  <advance width="885"/>
   <unicode hex="00A2"/>
-  <anchor x="611" y="0" name="bottom"/>
-  <anchor x="611" y="1200" name="top"/>
+  <anchor x="1301" y="0" name="bottom"/>
+  <anchor x="1301" y="1200" name="top"/>
   <outline>
     <contour>
-      <point x="1673" y="-134" type="line"/>
-      <point x="1675" y="-134" type="line"/>
-      <point x="1675" y="1321" type="line"/>
-      <point x="1673" y="1321" type="line"/>
+      <point x="789" y="-135" type="line"/>
+      <point x="803" y="-135" type="line"/>
+      <point x="803" y="1408" type="line"/>
+      <point x="789" y="1408" type="line"/>
     </contour>
     <component base="c"/>
   </outline>

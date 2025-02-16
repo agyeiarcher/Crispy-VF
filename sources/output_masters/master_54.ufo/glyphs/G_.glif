@@ -1,9 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <glyph name="G" format="2">
-  <advance width="4555"/>
+  <advance width="4554"/>
   <unicode hex="0047"/>
-  <anchor x="2278" y="0" name="bottom"/>
-  <anchor x="2278" y="1600" name="top"/>
   <outline>
     <contour>
       <point x="545" y="0" type="curve" smooth="yes"/>
@@ -11,38 +9,38 @@
       <point x="3905" y="0"/>
       <point x="3925" y="20"/>
       <point x="3925" y="55" type="curve" smooth="yes"/>
-      <point x="3925" y="746" type="line" smooth="yes"/>
-      <point x="3925" y="781"/>
-      <point x="3905" y="801"/>
-      <point x="3870" y="801" type="curve" smooth="yes"/>
-      <point x="2472" y="801" type="line"/>
-      <point x="2472" y="799" type="line"/>
-      <point x="3868" y="799" type="line" smooth="yes"/>
-      <point x="3903" y="799"/>
-      <point x="3923" y="779"/>
-      <point x="3923" y="744" type="curve" smooth="yes"/>
-      <point x="3923" y="57" type="line" smooth="yes"/>
-      <point x="3923" y="22"/>
-      <point x="3903" y="2"/>
-      <point x="3868" y="2" type="curve" smooth="yes"/>
-      <point x="547" y="2" type="line" smooth="yes"/>
-      <point x="512" y="2"/>
-      <point x="492" y="22"/>
-      <point x="492" y="57" type="curve" smooth="yes"/>
-      <point x="492" y="1064" type="line" smooth="yes"/>
-      <point x="492" y="1092"/>
-      <point x="501" y="1112"/>
-      <point x="521" y="1132" type="curve" smooth="yes"/>
-      <point x="972" y="1570" type="line" smooth="yes"/>
-      <point x="992" y="1589"/>
-      <point x="1012" y="1598"/>
-      <point x="1040" y="1598" type="curve" smooth="yes"/>
-      <point x="3847" y="1598" type="line" smooth="yes"/>
-      <point x="3882" y="1598"/>
-      <point x="3902" y="1578"/>
-      <point x="3902" y="1543" type="curve" smooth="yes"/>
-      <point x="3902" y="1067" type="line"/>
-      <point x="3904" y="1067" type="line"/>
+      <point x="3925" y="966" type="line" smooth="yes"/>
+      <point x="3925" y="1001"/>
+      <point x="3905" y="1021"/>
+      <point x="3870" y="1021" type="curve" smooth="yes"/>
+      <point x="2472" y="1021" type="line"/>
+      <point x="2472" y="541" type="line"/>
+      <point x="3908" y="541" type="line" smooth="yes"/>
+      <point x="3919" y="541"/>
+      <point x="3923" y="539"/>
+      <point x="3923" y="520" type="curve" smooth="yes"/>
+      <point x="3923" y="494" type="line" smooth="yes"/>
+      <point x="3923" y="483"/>
+      <point x="3919" y="480"/>
+      <point x="3910" y="480" type="curve" smooth="yes"/>
+      <point x="547" y="480" type="line" smooth="yes"/>
+      <point x="512" y="480"/>
+      <point x="492" y="500"/>
+      <point x="492" y="535" type="curve" smooth="yes"/>
+      <point x="492" y="586" type="line" smooth="yes"/>
+      <point x="492" y="614"/>
+      <point x="501" y="634"/>
+      <point x="521" y="654" type="curve" smooth="yes"/>
+      <point x="972" y="1092" type="line" smooth="yes"/>
+      <point x="992" y="1111"/>
+      <point x="1012" y="1120"/>
+      <point x="1040" y="1120" type="curve" smooth="yes"/>
+      <point x="3847" y="1120" type="line" smooth="yes"/>
+      <point x="3882" y="1120"/>
+      <point x="3902" y="1100"/>
+      <point x="3902" y="1065" type="curve" smooth="yes"/>
+      <point x="3902" y="1049" type="line"/>
+      <point x="3904" y="1049" type="line"/>
       <point x="3904" y="1545" type="line" smooth="yes"/>
       <point x="3904" y="1580"/>
       <point x="3884" y="1600"/>
@@ -264,10 +262,13 @@
         <key>4m6dHLVhZq</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
         </array>
         <key>5BjRbcud80</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>TOPINSIDE</string>
         </array>
         <key>8B2JVN8ZLJ</key>
         <array>
@@ -514,6 +515,12 @@
           <string>rightside</string>
           <string>rightside</string>
         </array>
+        <key>EARaY3Su65</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+        </array>
         <key>HNKsGz9B03</key>
         <array>
           <string>rightside</string>
@@ -559,6 +566,11 @@
           <string>rightside</string>
           <string>rightside</string>
           <string>rightside</string>
+        </array>
+        <key>L2LsGnXiZ2</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>BOTTOMINSIDE</string>
         </array>
         <key>Mtb7ldvxRR</key>
         <array>
@@ -624,10 +636,12 @@
         <key>Y750RHTvDj</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>BOTTOMINSIDE</string>
         </array>
         <key>dbOUe6OhxL</key>
         <array>
           <string>TOPNOTCH</string>
+          <string>TOPINSIDE</string>
         </array>
         <key>fNVDqwQo2o</key>
         <array>
@@ -1073,9 +1087,16 @@
         <array>
           <string>RIGHTSTEM</string>
         </array>
+        <key>qcvimxjndX</key>
+        <array>
+          <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
+        </array>
         <key>sUWsr03vF4</key>
         <array>
           <string>SIDENOTCH</string>
+          <string>TOPINSIDE</string>
         </array>
         <key>sayqGOMtzs</key>
         <array>
@@ -1216,6 +1237,8 @@
         <key>uek1NNj7De</key>
         <array>
           <string>RIGHTSTEM</string>
+          <string>RIGHTSTEM</string>
+          <string>CROSSBAR</string>
         </array>
         <key>wLqQQx7QVN</key>
         <array>
