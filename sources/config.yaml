@@ -1,7 +1,17 @@
 sources:
-  - Rubik.glyphs
-  - Rubik-Italic.glyphs
-axisOrder:
-  - wght
-  - ital
-familyName: Rubik
+  - Crispy-VF-test.glyphs
+familyName: Crispy
+avar2:
+  Crispy-VF-test[XOPQ,XTRA,YOPQ].ttf:
+  - in:
+      wght: 100
+    out:
+      XTRA: 1200
+      XOPQ: 2
+      YOPQ: 2
+  - in:
+      wght: 900
+    out:
+      XTRA: 254
+      XOPQ: 911
+      YOPQ: 462
