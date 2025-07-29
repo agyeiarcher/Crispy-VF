@@ -1,6 +1,6 @@
 # Crispy
 
-![sample image](docs/gomd-01.png)
+![sample image](documentation/gomd-01.png)
 
 **Crispy** is a variable font, designed by Agyei Archer for Google Fonts and licensed under the [SIL Open Font License, 1.1](http://scripts.sil.org/OFL).
 
